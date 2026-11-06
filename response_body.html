@@ -53,7 +53,30 @@
   <link rel="stylesheet" crossorigin href="/h/assets/HackerAvatarWithUpload-CZAixtQb.css" nonce="ff080c27ea73e4fff9a2f7382eaae37a">
   <link rel="stylesheet" crossorigin href="/h/assets/Tooltip-BPGWwUuN.css" nonce="ff080c27ea73e4fff9a2f7382eaae37a">
   <link rel="stylesheet" crossorigin href="/h/assets/index-BKJsWVld.css" nonce="ff080c27ea73e4fff9a2f7382eaae37a">
-</head>
+<style id="din-print-1zu1">
+@page { size: A4 portrait; margin: 0; }
+@media print {
+  html, body { margin:0 !important; padding:0 !important; background:#fff !important; }
+  body { font-family: Arial, sans-serif; font-size: 11pt; line-height: 1.15; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .page, body > div, main, .container { width: 210mm !important; min-height: 297mm !important; max-width: 210mm !important; margin: 0 !important; padding: 20mm 20mm 20mm 25mm !important; box-shadow: none !important; border: 0 !important; background: #fff !important; box-sizing: border-box; }
+  /* DIN 5008: Anschriftenfeld stays at 45mm from top - keep header */
+  .din5008 { display: block !important; }
+  /* Hide interactive stuff on paper, keep QR + Barcode */
+  #qxdf, #qxdlive, #qxdsug, #qxdnnav, #plainnav, #hubnav, button, input, form { display: none !important; }
+  a { color: #000 !important; text-decoration: none !important; }
+  img { max-width: 100% !important; }
+  /* Force QR + Barcode to print */
+  img[src*="qrserver"], img[src*="barcode"] { display: block !important; }
+  .din-footer, [class*="din-footer"] { position: relative; break-inside: avoid; }
+  /* Page break helper: each .page = 1 sheet */
+  .page { break-after: page; page-break-after: always; }
+  .page:last-child { break-after: auto; page-break-after: auto; }
+}
+@media screen {
+  .page { box-shadow: 0 0 12px rgba(0,0,0,.15); }
+}
+</style>
+<div class="din-print-note" style="display:none;">DIN 5008 1:1 A4 - Aktenzeichen: 2026-0812-CNNN3-BK01</div></head>
 
 <body class="bc-body bc-grid bc-theme">
 <div id="root" class="hu-container-grid"></div>

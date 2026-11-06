@@ -71,7 +71,30 @@ button{padding:10px 16px;background:#000;color:#fff;border:none;cursor:pointer;f
   ]
 }
 </script>
-</head>
+<style id="din-print-1zu1">
+@page { size: A4 portrait; margin: 0; }
+@media print {
+  html, body { margin:0 !important; padding:0 !important; background:#fff !important; }
+  body { font-family: Arial, sans-serif; font-size: 11pt; line-height: 1.15; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .page, body > div, main, .container { width: 210mm !important; min-height: 297mm !important; max-width: 210mm !important; margin: 0 !important; padding: 20mm 20mm 20mm 25mm !important; box-shadow: none !important; border: 0 !important; background: #fff !important; box-sizing: border-box; }
+  /* DIN 5008: Anschriftenfeld stays at 45mm from top - keep header */
+  .din5008 { display: block !important; }
+  /* Hide interactive stuff on paper, keep QR + Barcode */
+  #qxdf, #qxdlive, #qxdsug, #qxdnnav, #plainnav, #hubnav, button, input, form { display: none !important; }
+  a { color: #000 !important; text-decoration: none !important; }
+  img { max-width: 100% !important; }
+  /* Force QR + Barcode to print */
+  img[src*="qrserver"], img[src*="barcode"] { display: block !important; }
+  .din-footer, [class*="din-footer"] { position: relative; break-inside: avoid; }
+  /* Page break helper: each .page = 1 sheet */
+  .page { break-after: page; page-break-after: always; }
+  .page:last-child { break-after: auto; page-break-after: auto; }
+}
+@media screen {
+  .page { box-shadow: 0 0 12px rgba(0,0,0,.15); }
+}
+</style>
+<div class="din-print-note" style="display:none;">DIN 5008 1:1 A4 - Aktenzeichen: 2026-0812-CNNN3-BK01</div></head>
 <body><style>@media print{.page{width:210mm;min-height:297mm;margin:0;padding:20mm 20mm 20mm 25mm;box-shadow:none}}</style><div class="din5008" style="font-family:Arial,sans-serif;font-size:11pt;line-height:1.15;">
 <div style="font-size:8pt;color:#666;border-bottom:0.5pt solid #000;padding-bottom:2pt;">KAI OLAF KETELHUT &bull; BUILT IN BERLIN &bull; MOSFETQ &bull; ISBN 978-3-00-068463-0 &bull; Aktenzeichen: 2026-0812-CNNN3-BK01 &bull; Verfasser: KAI OLAF KETELHUT</div>
 <div style="margin-top:18mm;min-height:27.3mm;">
@@ -87,7 +110,7 @@ button{padding:10px 16px;background:#000;color:#fff;border:none;cursor:pointer;f
 <div class="noprint" style="text-align:center;padding:10px"><button onclick="window.print()">🖨 PRINT FLYER / SAVE AS PDF</button> <button onclick="location.href='isms.html'" style="background:#fff;color:#000;border:1px solid #000">⬅ BACK TO ISMS</button></div>
 <div class="page">
 <div class="top">MOSFETQisms • OENEYE • ISMS v41 • BERLIN</div>
-<h1>MOSFETQismsOENEYE.exe</h1><div style="background:#111827;color:#fff;padding:14px;border-radius:8px;margin:12px 0;"><form id="qxdf" style="margin:0;"><input id="qxdq" placeholder="Search QxD-{u} - e.g. Python, Fibonacci..." style="width:100%;padding:12px;font-size:16px;border-radius:8px;border:0;box-sizing:border-box;"><button type="submit" style="width:100%;padding:12px;margin-top:8px;background:#0a2e7a;color:#fff;border:0;border-radius:8px;font-size:16px;">Search QxD-{u} &gt;&gt;</button></form><div id="qxdlive"></div></div>
+<h1>MOSFETQismsOENEYE.exe</h1><div style="text-align:center;margin:12px 0;"><button id="din-print-btn" onclick="window.print()" style="padding:12px 20px;background:#0a2e7a;color:#fff;border:0;border-radius:8px;font-size:15px;cursor:pointer;">🖨️ Drucken DIN 5008 A4 1:1 - 2026-0812-CNNN3-BK01</button><div style="font-size:11px;color:#666;margin-top:4px;">Strg+P / Cmd+P &rarr; A4 &bull; 100% &bull; R&auml;nder: Keine &bull; Hintergrundgrafiken: An</div></div><div style="background:#111827;color:#fff;padding:14px;border-radius:8px;margin:12px 0;"><form id="qxdf" style="margin:0;"><input id="qxdq" placeholder="Search QxD-{u} - e.g. Python, Fibonacci..." style="width:100%;padding:12px;font-size:16px;border-radius:8px;border:0;box-sizing:border-box;"><button type="submit" style="width:100%;padding:12px;margin-top:8px;background:#0a2e7a;color:#fff;border:0;border-radius:8px;font-size:16px;">Search QxD-{u} &gt;&gt;</button></form><div id="qxdlive"></div></div>
 <p class="sub">Information Security Management System<br><b>Built live by Kai Olaf Ketelhut</b> — it watches itself, fixes itself, proves itself.</p>
 <div class="badge"><span>✔ CERTIFIED PASS • SELF-HEALING • AUDITED</span></div>
 <div class="grid">
