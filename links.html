@@ -58,13 +58,24 @@
 }
 </script>
 </head>
-<body><div class="wrap">
+<body><style>@media print{.page{width:210mm;min-height:297mm;margin:0;padding:20mm 20mm 20mm 25mm;box-shadow:none}}</style><div class="din5008" style="font-family:Arial,sans-serif;font-size:11pt;line-height:1.15;">
+<div style="font-size:8pt;color:#666;border-bottom:0.5pt solid #000;padding-bottom:2pt;">KAI OLAF KETELHUT &bull; BUILT IN BERLIN &bull; MOSFETQ &bull; ISBN 978-3-00-068463-0</div>
+<div style="margin-top:18mm;min-height:27.3mm;">
+<div>MOSFETQ GmbH &ndash; Kai Olaf Ketelhut</div>
+<div>Berlin, Deutschland</div>
+<div>An: Alle, die QxD-links suchen</div>
+</div>
+<div style="text-align:right;margin:6mm 0;">Berlin, <span class="din-date">06. November 2026</span></div>
+<div style="font-weight:bold;">Betreff: QxD-links.html &ndash; u = links &ndash; nach DIN 5008</div>
+<div style="margin-top:6mm;">Sehr geehrte Damen und Herren,</div>
+<div style="margin-top:3mm;">hiermit &uuml;bersenden wir Ihnen h&ouml;flichst die Datei <b>QxD-links.html</b> gem&auml;&szlig; DIN 5008.</div>
+</div><div class="wrap">
 <div style="display:flex;gap:8px;justify-content:center;margin-bottom:8px">
 <button onclick="toggleTheme()" id="themeBtn" style="background:#222;color:#fff;border:1px solid #444;padding:8px 12px;border-radius:20px;cursor:pointer;font-size:12px">☀️ LIGHT</button>
 <button onclick="toggleLang()" id="langBtn" style="background:#222;color:#fff;border:1px solid #444;padding:8px 12px;border-radius:20px;cursor:pointer;font-size:12px">🇬🇧 ENGLISH</button>
 </div>
 <div class="ava">M</div>
-<h1 id="name">KAI OLAF KETELHUT</h1>
+<h1 id="name">KAI OLAF KETELHUT</h1><div style="background:#111827;color:#fff;padding:14px;border-radius:8px;margin:12px 0;"><form id="qxdf" style="margin:0;"><input id="qxdq" placeholder="Search QxD-{u} - e.g. Python, Fibonacci..." style="width:100%;padding:12px;font-size:16px;border-radius:8px;border:0;box-sizing:border-box;"><button type="submit" style="width:100%;padding:12px;margin-top:8px;background:#0a2e7a;color:#fff;border:0;border-radius:8px;font-size:16px;">Search QxD-{u} &gt;&gt;</button></form><div id="qxdlive"></div></div>
 <div style="display:flex;gap:8px;justify-content:center;margin:0 0 12px">
 <div style="background:#111;border:1px solid #333;border-radius:10px;padding:8px 12px;font-size:12px">👁️ <b id="visits">—</b> Besuche</div>
 <div style="background:#111;border:1px solid #333;border-radius:10px;padding:8px 12px;font-size:12px">🟢 <b>LIVE</b> • <span id="updated"></span></div>
@@ -132,4 +143,4 @@ if(localStorage.getItem('mosfetq_theme')==='light'){ toggleTheme(); }
 </script>
 <div style="text-align:center;margin:20px 0 10px;padding:12px;border-top:1px solid #888;font-size:11px;color:#888">MOSFETQismsOENEYE.exe • <b style="color:#0f0">ISMS v41</b> • ✔ CERTIFIED PASS • SELF-HEALING • AUDITED<br>🇩🇪 BUILT IN BERLIN by KAI OLAF KETELHUT • Updated 06.11.2026 • <a href="flyers.html" style="display:block;background:#111;border:1px solid #333;border-radius:12px;padding:14px;margin:8px 0;color:#fff;text-decoration:none">🖨 ALLE FLYER<small style="display:block;color:#aaa;font-size:13px">GitHub Poster + Flyer DE + EN + Zertifikat + ZIP</small></a>
 <a href="links.html" style="color:#888">All Links</a> • <a href="isms.html" style="color:#888">ISMS</a> • <a href="index.html" style="color:#888">LIVE</a></div>
-</body></html>
+<script>var KNOWN=["Single-Loop","Nested-Loops","Triangular","Multiply","Divide","Half-Loop","Sequential","While-Halving","Recursion-n","Recursion-nlogn","Fibonacci","Ada","Assembly","AWK","Bash","C","CPP","CSharp","Clojure","COBOL","Crystal","D","Dart","Elixir","Erlang","FSharp","Fortran","Go","Groovy","Haskell","HTML","Java","JavaScript","Julia","Kotlin","Lisp","Lua","MATLAB","Nim","OCaml","Pascal","Perl","PHP","PowerShell","Python","R","Ruby","Rust","Scala","Shell","SQL","Swift","TypeScript","VBA","VisualBasic","Zig","CSS","Solidity","Racket","Prolog"];var f=document.getElementById('qxdf');if(f){f.addEventListener('submit',function(e){e.preventDefault();var u=(document.getElementById('qxdq').value||'').trim();if(!u)return;var ex=KNOWN.find(function(k){return k.toLowerCase()===u.toLowerCase()});location.href=ex?'QxD-'+ex+'.html':'bluh.html?u='+encodeURIComponent(u);});document.getElementById('qxdq').addEventListener('input',function(){var v=this.value.trim();var live=document.getElementById('qxdlive');if(!v){live.innerHTML='';return}var ms=KNOWN.filter(function(k){return k.toLowerCase().indexOf(v.toLowerCase())!==-1}).slice(0,5);live.innerHTML=ms.map(function(k){return '<div onclick="location.href=\'QxD-'+k+'.html\'" style="background:#fff;color:#111;padding:8px;border-radius:6px;margin:4px 0;cursor:pointer;">QxD-'+k+'.html</div>'}).join('');});}</script><div class="din-footer" style="font-family:Arial,sans-serif;font-size:11pt;margin-top:8mm;"><div>Mit freundlichen Gr&uuml;&szlig;en</div><div style="margin-top:10mm;font-family:cursive;font-size:16pt;">Kai Olaf Ketelhut</div><div><b>KAI OLAF KETELHUT</b><br>MOSFETQ &bull; BUILT IN BERLIN<br>oeneye ISMS v48 &bull; DIN 5008-konform &bull; bluh.html bei unbekanntem {name}</div><div style="font-size:8pt;color:#666;margin-top:4mm;border-top:0.5pt solid #000;padding-top:2pt;">Anlage: 1 &ndash; QxD-links.html &bull; Verteiler: main.html, QxD.html, bluh.html</div></div><script>try{document.querySelectorAll('.din-date').forEach(function(e){e.textContent=new Date().toLocaleDateString('de-DE',{day:'2-digit',month:'long',year:'numeric'});});}catch(e){}</script></body></html>
