@@ -14,3 +14,4 @@ Operators: + - * / % / == != === / > < >= <= / && || !
 Control: if/else, switch, for, while
 Functions: function name() { // code }
 Verify: git log -- main.js
+Cover: cover.js.png
