@@ -1,72 +1,47 @@
-<!DOCTYPE html><html lang="de"><head>
-<meta property="og:image" content="https://kaiolafketelhut.github.io/cover-small.png">
-<meta property="og:title" content="MOSFETQ Gesamtwerk V2.2 - KAI OLAF KETELHUT">
-<meta property="og:description" content="MOSFETQ Gesamtwerk V2.2 - OENEYE - KAI OLAF KETELHUT">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://kaiolafketelhut.github.io/cover-small.png">
-<meta name="author" content="KAI OLAF KETELHUT - 2026-0812-CNNN3-BK01">
-<meta name="aktenzeichen" content="2026-0812-CNNN3-BK01"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>main.html DIN 5008</title>
-<style>body{margin:0;background:#e9e9e9;font-family:Arial}.page{width:210mm;min-height:297mm;margin:20px auto;background:#fff;padding:20mm 25mm}.sender{font-size:8pt;border-bottom:1px solid #000;padding-bottom:2mm}.info{text-align:right;font-size:9pt}.address{margin-top:10mm}.date{text-align:right;margin-top:10mm}.subject{font-weight:bold;margin-top:8mm}p{line-height:1.55;text-align:justify}.grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px}.col{border:1px solid #ddd;border-radius:8px;overflow:hidden}.col h3{margin:0;padding:8px;color:#fff;text-align:center}.b h3{background:#1a8cff}.i h3{background:#8b4ce0}.a h3{background:#0a2e7a}.col ol{list-style:none;padding:8px;margin:0;font-size:10pt;line-height:1.9}h2{text-align:center}h2 span{color:#1a6cff}.sub{text-align:center;color:#555}@media(max-width:700px){.page{width:auto;margin:0;padding:15mm}.grid{grid-template-columns:1fr}}</style><style id="din-print-1zu1">
-@page { size: A4 portrait; margin: 0; }
-@media print {
-  html, body { margin:0 !important; padding:0 !important; background:#fff !important; }
-  body { font-family: Arial, sans-serif; font-size: 11pt; line-height: 1.15; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-  .page, body > div, main, .container { width: 210mm !important; min-height: 297mm !important; max-width: 210mm !important; margin: 0 !important; padding: 20mm 20mm 20mm 25mm !important; box-shadow: none !important; border: 0 !important; background: #fff !important; box-sizing: border-box; }
-  /* DIN 5008: Anschriftenfeld stays at 45mm from top - keep header */
-  .din5008 { display: block !important; }
-  /* Hide interactive stuff on paper, keep QR + Barcode */
-  #qxdf, #qxdlive, #qxdsug, #qxdnnav, #plainnav, #hubnav, button, input, form { display: none !important; }
-  a { color: #000 !important; text-decoration: none !important; }
-  img { max-width: 100% !important; }
-  /* Force QR + Barcode to print */
-  img[src*="qrserver"], img[src*="barcode"] { display: block !important; }
-  .din-footer, [class*="din-footer"] { position: relative; break-inside: avoid; }
-  /* Page break helper: each .page = 1 sheet */
-  .page { break-after: page; page-break-after: always; }
-  .page:last-child { break-after: auto; page-break-after: auto; }
-}
-@media screen {
-  .page { box-shadow: 0 0 12px rgba(0,0,0,.15); }
-}
-</style>
-<div class="din-print-note" style="display:none;">DIN 5008 1:1 A4 - Aktenzeichen: 2026-0812-CNNN3-BK01</div>
+<!DOCTYPE html>
+<!-- MAIN.FNT - HTML5 - Cluster h0land - Canonical Main File -->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MAIN.FNT - Web Development</title>
+<link rel="stylesheet" href="main.css">
+</head>
+<body>
+<header>
+<h1>WEB DEVELOPMENT</h1>
+<p>How the three core technologies build, style, and animate the web!</p>
+</header>
 
+<main>
+<section id="html5">
+<h2>HTML5</h2>
+<p>Purpose: Structure of a web page. Defines content and elements.</p>
+<ul>
+<li>&lt;header&gt; &lt;nav&gt; &lt;section&gt; &lt;article&gt;</li>
+<li>&lt;h1&gt;-&lt;h6&gt; &lt;p&gt; &lt;a&gt; &lt;img&gt;</li>
+<li>&lt;ul&gt; &lt;li&gt; &lt;div&gt; &lt;span&gt; &lt;table&gt;</li>
+<li>&lt;form&gt; &lt;input&gt; &lt;button&gt; &lt;video&gt; &lt;audio&gt; &lt;canvas&gt;</li>
+</ul>
+</section>
 
+<section id="css">
+<h2>CSS</h2>
+<p>Purpose: Style and design of a web page.</p>
+<button id="cssBtn">Test CSS + JS</button>
+</section>
 
+<section id="js">
+<h2>JavaScript</h2>
+<p>Purpose: Adds interactivity to a web page.</p>
+<p id="jsOutput">Click the button to test JavaScript.</p>
+</section>
+</main>
 
-</head><body><div style="text-align:center;margin:16px 0;"><a href="MOSFETQ-Gesamt-2026-0812-CNNN3-BK01.pdf" style="display:inline-block;padding:16px 24px;background:#0a2e7a;color:#fff;border-radius:10px;font-size:18px;text-decoration:none;">📄 Download Gesamt-PDF - 125 Seiten DIN 5008 - 2026-0812-CNNN3-BK01</a></div><div style="text-align:center;margin:12px 0;"><button id="din-print-btn" onclick="window.print()" style="padding:12px 20px;background:#0a2e7a;color:#fff;border:0;border-radius:8px;font-size:15px;cursor:pointer;">🖨️ Drucken DIN 5008 A4 1:1 - 2026-0812-CNNN3-BK01</button><div style="font-size:11px;color:#666;margin-top:4px;">Strg+P / Cmd+P &rarr; A4 &bull; 100% &bull; R&auml;nder: Keine &bull; Hintergrundgrafiken: An</div></div><div id="hubnav" style="background:#0a2e7a;color:#fff;padding:12px;border-radius:8px;margin:12px 0;text-align:center;display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;"><a href="bluh.html" style="color:#fff;">&lt;&lt; Prev Hub: bluh.html</a><a href="main.html" style="color:#fff;"><b>main</b></a><a href="QxD.html" style="color:#fff;">QxD Hub</a><a href="bluh.html" style="color:#fff;">bluh</a><a href="QxD.html" style="color:#fff;">Next Hub: QxD.html &gt;&gt;</a></div><p style="text-align:center;color:#666;font-size:13px;">HUB 1 / 6 &ndash; main.html &ndash; 1:1 DIN 5008</p><style>@media print{.page{width:210mm;min-height:297mm;margin:0;padding:20mm 20mm 20mm 25mm;box-shadow:none}}</style><div class="din5008" style="font-family:Arial,sans-serif;font-size:11pt;line-height:1.15;">
-<div style="font-size:8pt;color:#666;border-bottom:0.5pt solid #000;padding-bottom:2pt;">KAI OLAF KETELHUT &bull; BUILT IN BERLIN &bull; MOSFETQ &bull; ISBN 978-3-00-068463-0 &bull; Aktenzeichen: 2026-0812-CNNN3-BK01 &bull; Verfasser: KAI OLAF KETELHUT</div>
-<div style="margin-top:18mm;min-height:27.3mm;">
-<div>MOSFETQ GmbH &ndash; Kai Olaf Ketelhut</div>
-<div>Berlin, Deutschland</div>
-<div>An: Alle, die QxD-main suchen</div>
-</div>
-<div style="text-align:right;margin:6mm 0;">Berlin, <span class="din-date">06. November 2026</span></div>
-<div style="font-weight:bold;">Betreff: QxD-main.html &ndash; u = main &ndash; nach DIN 5008</div>
-<div style="margin-top:6mm;">Sehr geehrte Damen und Herren,</div>
-<div style="margin-top:3mm;">hiermit &uuml;bersenden wir Ihnen h&ouml;flichst die Datei <b>QxD-main.html</b> gem&auml;&szlig; DIN 5008.</div>
-</div><div style="background:#111827;color:#fff;padding:14px;border-radius:8px;margin:12px 0;"><form id="qxdf" style="margin:0;"><input id="qxdq" placeholder="Search QxD-{u} - e.g. Python, Fibonacci..." style="width:100%;padding:12px;font-size:16px;border-radius:8px;border:0;box-sizing:border-box;"><button type="submit" style="width:100%;padding:12px;margin-top:8px;background:#0a2e7a;color:#fff;border:0;border-radius:8px;font-size:16px;">Search QxD-{u} &gt;&gt;</button></form><div id="qxdlive"></div><div id="qxdsug"></div></div><div class="page">
-<div class="sender">KAI OLAF KETELHUT • MOSFETQ • Fieldberry Group Berlin • Berlin</div>
-<div class="info">KAI OLAF KETELHUT<br>MOSFETQ<br>Berlin</div>
-<div class="address">An<br>Interessierte Leserinnen und Leser<br>MOSFETQ-Projekt<br>Berlin</div>
-<div class="date">Berlin, 06. November 2026</div>
-<div class="subject">MOSFETQ – Technologie als Gesellschaftstreiber<br>ISBN 978-3-00-068463-0 &bull; Aktenzeichen: 2026-0812-CNNN3-BK01 &bull; Verfasser: KAI OLAF KETELHUT</div>
-<p>Sehr geehrte Damen und Herren,</p>
-<p>mit diesem Schreiben übersende ich Ihnen mein Werk MOSFETQ – Technologie als Gesellschaftstreiber. Alle Nachweise: <b>kaiolafketelhut.github.io/links.html</b></p>
-<h2>CHOOSE YOUR<br><span>CODING LEVEL</span></h2><p class="sub">Which tools and skills match where you are right now?</p>
-<div class="grid"><div class="col b"><h3>BEGINNER</h3><ol><li>01 HTML</li><li>02 CSS</li><li>03 JavaScript</li><li>04 VS Code</li><li>05 Git & GitHub</li><li>06 Chrome DevTools</li><li>07 Responsive Design</li><li>08 Bootstrap</li><li>09 Basic APIs</li><li>10 npm</li></ol></div>
-<div class="col i"><h3>INTERMEDIATE</h3><ol><li>01 React</li><li>02 TypeScript</li><li>03 Next.js</li><li>04 Node.js</li><li>05 Express.js</li><li>06 PostgreSQL</li><li>07 REST APIs</li><li>08 Tailwind CSS</li><li>09 Docker</li><li>10 Testing</li></ol></div>
-<div class="col a"><h3>ADVANCED</h3><ol><li>01 System Design</li><li>02 Redis</li><li>03 Kubernetes</li><li>04 CI/CD</li><li>05 AWS</li><li>06 NGINX</li><li>07 GraphQL</li><li>08 Microservices</li><li>09 Observability</li><li>10 Security</li></ol></div></div>
-<p>Mit freundlichen Grüßen<br><br><b>KAI OLAF KETELHUT</b><br>Autor – MOSFETQ – BUILT IN BERLIN</p>
-<p style="background:#0a2e7a;color:#fff;padding:14px;text-align:center;border-radius:8px;"><a href="languages.html" style="color:#fff;"><b>Programming Languages A-Z - All Mains &gt;&gt;</b></a><br><a href="pandas.html" style="color:#fff;">Pandas</a> | <a href="mosfetqnginx.html" style="color:#fff;">NGINX</a></p><p style="background:#5b21b6;color:#fff;padding:14px;text-align:center;border-radius:8px;"><a href="mosfetq-patterns.html" style="color:#fff;"><b>Time Complexity Patterns - MOSFETQ &gt;&gt;</b></a><br><a href="mosfetq-on.html" style="color:#fff;">O(n)</a> | <a href="mosfetq-on2.html" style="color:#fff;">O(n²)</a> | <a href="mosfetq-log-mul.html" style="color:#fff;">O(log n)</a> | <a href="mosfetq-rec-nlogn.html" style="color:#fff;">O(n log n)</a></p><p style="background:#111827;color:#fff;padding:14px;text-align:center;border-radius:8px;"><a href="QxD.html" style="color:#fff;"><b>QxD - Time Complexity Patterns &gt;&gt;</b></a><br><a href="QxD-1.html" style="color:#fff;">QxD-1</a> | <a href="QxD-4.html" style="color:#fff;">QxD-4</a> | <a href="QxD-10.html" style="color:#fff;">QxD-10</a> | <a href="QxD-11.html" style="color:#fff;">QxD-11</a></p><p><a href="links.html"><p style="background:#111827;color:#fff;padding:14px;text-align:center;border-radius:8px;"><a href="QxD-Languages.html" style="color:#fff;"><b>QxD Languages - 48 &gt;&gt;</b></a><br><a href="QxD-Python.html" style="color:#fff;">QxD-Python</a> | <a href="QxD-Java.html" style="color:#fff;">QxD-Java</a> | <a href="QxD-Rust.html" style="color:#fff;">QxD-Rust</a> | <a href="QxD-Go.html" style="color:#fff;">QxD-Go</a></p><p style="background:#111827;color:#fff;padding:14px;text-align:center;border-radius:8px;"><a href="bluh.html" style="color:#fff;"><b>Unknown? - bluh.html &gt;&gt;</b></a><br>Unknown {name} / unknown pattern / unknown file -> bluh.html</p>Alle Links</a> • <a href="main.txt">main.txt</a></p>
-</div><script>var KNOWN=["Ada","Assembly","AWK","Bash","C","Clojure","COBOL","CPP","Crystal","CSharp","CSS","D","Dart","Divide","Elixir","Erlang","Fibonacci","Fortran","FSharp","Go","Groovy","Half-Loop","Haskell","HTML","Java","JavaScript","Julia","Kotlin","Lisp","Lua","MATLAB","Multiply","Nested-Loops","Nim","OCaml","Pascal","Perl","PHP","PowerShell","Prolog","Python","R","Racket","Recursion-n","Recursion-nlogn","Ruby","Rust","Scala","Sequential","Shell","Single-Loop","Solidity","SQL","Swift","Triangular","TypeScript","VBA","VisualBasic","While-Halving","Zig"];function lev(a,b){a=a.toLowerCase();b=b.toLowerCase();var m=[];for(var i=0;i<=a.length;i++){m[i]=[i]}for(var j=0;j<=b.length;j++){m[0][j]=j}for(var i=1;i<=a.length;i++){for(var j=1;j<=b.length;j++){m[i][j]=Math.min(m[i-1][j]+1,m[i][j-1]+1,m[i-1][j-1]+(a[i-1]===b[j-1]?0:1))}}return m[a.length][b.length]}function goQxD(u){u=(u||'').trim();if(!u)return;var ex=KNOWN.find(function(k){return k.toLowerCase()===u.toLowerCase()});if(ex){location.href='QxD-'+ex+'.html';}else{location.href='bluh.html?u='+encodeURIComponent(u);}}var f=document.getElementById('qxdf');if(f){f.addEventListener('submit',function(e){e.preventDefault();goQxD(document.getElementById('qxdq').value);});var inp=document.getElementById('qxdq');inp.addEventListener('input',function(){var v=this.value.trim();var live=document.getElementById('qxdlive');if(!v){live.innerHTML='';return}var ms=KNOWN.filter(function(k){return k.toLowerCase().indexOf(v.toLowerCase())!==-1}).slice(0,5);live.innerHTML=ms.map(function(k){return '<div onclick="location.href=\'QxD-'+k+'.html\'" style="background:#fff;color:#111;padding:8px;border-radius:6px;margin:4px 0;cursor:pointer;">QxD-'+k+'.html</div>'}).join('');});}</script><div class="din-footer" style="font-family:Arial,sans-serif;font-size:11pt;margin-top:8mm;"><div>Mit freundlichen Gr&uuml;&szlig;en</div><div style="margin-top:10mm;font-family:cursive;font-size:16pt;">Kai Olaf Ketelhut</div><div><b>KAI OLAF KETELHUT</b><br>MOSFETQ &bull; BUILT IN BERLIN<br>oeneye ISMS v48 &bull; DIN 5008-konform &bull; bluh.html bei unbekanntem {name}</div><div style="font-size:8pt;color:#666;margin-top:4mm;border-top:0.5pt solid #000;padding-top:2pt;">Anlage: 1 &ndash; QxD-main.html &bull; Verteiler: main.html, QxD.html, bluh.html</div></div><script>try{document.querySelectorAll('.din-date').forEach(function(e){e.textContent=new Date().toLocaleDateString('de-DE',{day:'2-digit',month:'long',year:'numeric'});});}catch(e){}</script><div style="display:flex;gap:16px;align-items:flex-start;margin-top:6mm;border-top:0.5pt solid #000;padding-top:4mm;flex-wrap:wrap;">
-<div style="text-align:center;"><img src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=https://kaiolafketelhut.github.io/main.html%3FAZ=2026-0812-CNNN3-BK01" alt="QR main.html" style="width:110px;height:110px;"><div style="font-size:7pt;color:#666;">QR &bull; main.html<br>Aktenzeichen: 2026-0812-CNNN3-BK01</div></div>
-<div style="text-align:center;"><img src="https://barcode.tec-it.com/barcode.ashx?data=2026-0812-CNNN3-BK01&code=Code128&translate-eb=1" alt="Barcode 2026-0812-CNNN3-BK01" style="height:55px;max-width:260px;"><div style="font-size:8pt;letter-spacing:2px;">2026-0812-CNNN3-BK01</div><div style="font-size:7pt;color:#666;">Barcode Code128 &bull; Verfasser: KAI OLAF KETELHUT</div></div>
-<div style="font-size:8pt;color:#666;max-width:220px;">DIN 5008 &bull; A4 1:1<br>Pr&uuml;fen: QR scannen &rarr;<br>kaiola...github.io/main.html<br>oeneye ISMS v48</div></div><p style="text-align:center;margin:20px 0"><div style="text-align:center;margin:20px 0">
-<img src="cover-small.png" alt="MOSFETQ Gesamtwerk V2.2 - Cover - KAI OLAF KETELHUT" style="max-width:320px;width:100%;border:1px solid #000;box-shadow:0 4px 20px rgba(0,0,0,0.3)">
-<br><small>MOSFETQ Gesamtwerk V2.2 - OENEYE - KAI OLAF KETELHUT</small>
-</div>
-<a href="MOSFETQ-Gesamt-V2.2-2026-0812-CNNN3-BK01.pdf" style="display:inline-block;padding:14px 22px;background:#000;color:#fff;text-decoration:none;font-weight:bold;border-radius:8px">📄 MOSFETQ Gesamtwerk V2.2 — 131 Seiten (PDF)</a><br><small>Whitepaper 5 Seiten + Nachweis 127 Seiten | 2026-0812-CNNN3-BK01 | ISBN 978-3-00-068463-0</small></p>
-<a href="MOSFETQ-Gesamt-V2.2-OENEYE-2026-0812-CNNN3-BK01.pdf">MOSFETQ Gesamtwerk V2.2 OENEYE – 132 Seiten (PDF)</a>
-<p>FAX-Cover by oeneyepdf.c + 131 Seiten Nachweis</p>
-</body></html>
+<footer>
+<p>Cluster h0land - MAIN.FNT - One Main File = One Truth</p>
+</footer>
+
+<script src="main.js"></script>
+</body>
+</html>
