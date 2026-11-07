@@ -11,3 +11,5 @@ bluh
 *.pid
 *.bak
 *backup*
+*.BAK
+cover.jpg
