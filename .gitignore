@@ -9,3 +9,5 @@ html_cob
 bluh
 *.log
 *.pid
+*.bak
+*backup*
