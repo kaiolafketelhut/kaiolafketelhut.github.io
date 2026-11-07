@@ -1,0 +1,38 @@
+<!DOCTYPE html><html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>NeXT LIVE - Animate ALL MAINS - OMQ</title><style>body{background:#000;color:#fff;font-family:system-ui;padding:16px;max-width:800px;margin:auto}h1{text-align:center}h1 span{color:#ff9f00}.card{background:#111;border:1px solid #222;border-radius:12px;padding:14px;margin:14px 0}code{background:#000;border:1px solid #333;padding:8px;display:block;border-radius:8px;color:#00ff88;font-size:12px}button{width:100%;padding:14px;border-radius:10px;border:0;font-weight:900;font-size:16px;cursor:pointer;margin:6px 0}.b1{background:#ff9f00}.b2{background:#00e5ff}.b3{background:#ff6bff}.b4{background:#00ff88;color:#000}.btn{display:block;text-align:center;background:#fff;color:#000;font-weight:900;padding:14px;border-radius:10px;margin:12px 0;text-decoration:none}canvas{width:100%;background:#000;border:1px solid #222;border-radius:10px}.box{display:flex;gap:6px;flex-wrap:wrap}.cell{flex:1;min-width:60px;text-align:center;padding:14px 4px;border-radius:10px;background:#222;font-weight:900;font-size:18px}.cell.on{background:#00e5ff;color:#000}.bar{height:22px;background:#222;border-radius:6px;margin:6px 0;overflow:hidden}.fill{height:100%;background:#00e5ff}img{width:100%;border-radius:12px}</style></head><body><p style='text-align:center;font-size:12px'>OMQ - Order of Midnight Questions</p><img src='MAIN.SVG'><h1><span>NeXT LIVE</span><br>ANIMATE ALL MAINS</h1><p style='text-align:center'>Tap any button. Everything moves. No Python needed.</p>
+
+<div class='card'><h2>1. ARRAY - Tap to Light Up</h2><p style='color:#aaa;font-size:13px'>Array = [10,20,30,40] - Tap NEXT to walk index 0 -> 3</p><div class='box' id='arr'></div><p id='arrInfo'>A[0] = 10</p><button class='b2' onclick='nextArr()'>NEXT Index -></button><button onclick='resetArr()' style='background:#222;color:#fff'>Reset</button></div>
+
+<div class='card'><h2>2. ACTIVATION - ReLU vs Sigmoid vs Tanh</h2><canvas id='act' width='700' height='220'></canvas><button class='b3' onclick='drawAct()'>DRAW - ReLU (green) / Sigmoid (pink) / Tanh (blue)</button></div>
+
+<div class='card'><h2>3. RAM - Speed Race</h2><p style='color:#aaa;font-size:13px'>Tap RACE - SRAM wins, DRAM slow</p><div id='ramBars'></div><button class='b4' onclick='raceRam()'>▶ RACE RAM</button></div>
+
+<div class='card'><h2>4. PCA - Project 2D -> 1D</h2><canvas id='pca' width='700' height='220'></canvas><button class='b2' onclick='drawPca()'>PROJECT - Squash to PC1</button><p style='color:#aaa;font-size:13px'>Dots = data. Line = PC1. Tap to project dots onto line.</p></div>
+
+<div class='card'><h2>5. Q-SPACE - Pipeline Pulse</h2><p style='color:#aaa;font-size:13px'>Q1 -> Q3 -> Q4 -> Q5 -> Q6 -> Q7 -> Q10 -> GND</p><div class='box' id='qpipe'></div><button class='b1' onclick='pulseQ()'>▶ PULSE SIGNAL</button><p id='qInfo'>Signal at Q1</p></div>
+
+<div class='card'><h2>6. GREEK + QEMU + XML</h2><p style='color:#aaa;font-size:13px'>Greek: <span id='greek'>Α</span> - Tap to cycle Alpha -> Omega</p><button class='b3' onclick='nextGreek()'>NEXT Greek Letter -></button><p style='color:#aaa;font-size:13px;margin-top:12px'>QEMU: <span id='qemu'>CPU</span> - Tap to cycle CPU -> KVM -> TCG -> VirtIO</p><button class='b2' onclick='nextQemu()'>NEXT QEMU Part -></button><p style='color:#aaa;font-size:13px;margin-top:12px'>XML: <span id='xml'>&lt;root&gt;</span></p><button class='b4' onclick='nextXml()'>NEXT XML Tag -></button></div>
+
+<div class='card'><h2>7. ASCII - Already Live</h2><p style='color:#aaa;font-size:13px'>ASCII has its own full LIVE page with Spin + Animate.</p><a class='btn' href='ascii-live.html' style='background:#ff9f00'>▶ OPEN ASCII LIVE RUN</a></div>
+
+<a class='btn' href='next.html'>Back to NeXT main</a><a class='btn' href='main.html'>Back to OMQ Home</a><script>
+let ai=0; let arrVals=[10,20,30,40];
+function renderArr(){ document.getElementById('arr').innerHTML=arrVals.map((v,i)=>`<div class='cell ${i===ai?'on':''}'>${v}<br><span style='font-size:11px'>A[${i}]</span></div>`).join(''); document.getElementById('arrInfo').textContent=`A[${ai}] = ${arrVals[ai]} - Index ${ai}`; }
+function nextArr(){ ai=(ai+1)%4; renderArr(); } function resetArr(){ ai=0; renderArr(); } renderArr();
+function drawAct(){ let c=document.getElementById('act'); let x=c.getContext('2d'); x.clearRect(0,0,700,220); x.strokeStyle='#333'; x.beginPath(); x.moveTo(0,110); x.lineTo(700,110); x.moveTo(350,0); x.lineTo(350,220); x.stroke(); function plot(fn,col){ x.strokeStyle=col; x.lineWidth=3; x.beginPath(); for(let px=0;px<=700;px++){ let v=(px-350)/70; let y=fn(v); let py=110-y*40; if(px===0) x.moveTo(px,py); else x.lineTo(px,py);} x.stroke(); } plot(v=>Math.max(0,v),'#00ff88'); plot(v=>1/(1+Math.exp(-v)),'#ff6bff'); plot(v=>Math.tanh(v),'#00e5ff'); }
+drawAct();
+let ramData=[['SRAM',95],['DDR5',88],['DDR4',75],['DDR3',60],['DDR2',45],['SDRAM',30],['DRAM',20]];
+function raceRam(){ let h=document.getElementById('ramBars'); h.innerHTML=''; ramData.forEach(([n,v],idx)=>{ setTimeout(()=>{ h.innerHTML+=`<div>${n} - ${v}%</div><div class='bar'><div class='fill' style='width:${v}%'></div></div>`; }, idx*300); }); }
+raceRam();
+let pcaDone=false;
+function drawPca(){ let c=document.getElementById('pca'); let x=c.getContext('2d'); x.clearRect(0,0,700,220); x.strokeStyle='#00e5ff'; x.lineWidth=2; x.beginPath(); x.moveTo(50,180); x.lineTo(650,40); x.stroke(); x.fillStyle='#fff'; for(let i=0;i<30;i++){ let px=100+Math.random()*500; let py=150-Math.random()*100+Math.random()*20; x.beginPath(); x.arc(px,py,5,0,7); x.fill(); if(pcaDone){ x.strokeStyle='#ffd700'; x.beginPath(); x.moveTo(px,py); x.lineTo(px+ (150-py)*0.5, 150); x.stroke(); } } pcaDone=!pcaDone; }
+drawPca();
+let qs=['Q1','Q3','Q4','Q5','Q6','Q7','Q10','GND']; let qi=0;
+function renderQ(){ document.getElementById('qpipe').innerHTML=qs.map((q,i)=>`<div class='cell ${i===qi?'on':''}' style='${i===qi?'background:#ff9f00':''}'>${q}</div>`).join(''); document.getElementById('qInfo').textContent='Signal at '+qs[qi]+(qs[qi]==='GND'?' - q(0)=GND - Complete!':''); }
+function pulseQ(){ qi=0; renderQ(); let id=setInterval(()=>{ qi++; renderQ(); if(qi>=qs.length-1) clearInterval(id); },400); } renderQ();
+let greeks=['Α Alpha','Β Beta','Γ Gamma','Δ Delta','Ε Epsilon','Θ Theta','Λ Lambda','Π Pi','Σ Sigma','Ω Omega']; let gi=0;
+function nextGreek(){ gi=(gi+1)%greeks.length; document.getElementById('greek').textContent=greeks[gi]; }
+let qemus=['CPU','KVM','TCG','Memory','VirtIO','Snapshot','Network','Storage']; let qmi=0;
+function nextQemu(){ qmi=(qmi+1)%qemus.length; document.getElementById('qemu').textContent=qemus[qmi]; }
+let xmls=['<root>','<person>','<name>','<age>','</age>','</name>','</person>','</root>']; let xi=0;
+function nextXml(){ xi=(xi+1)%xmls.length; document.getElementById('xml').textContent=xmls[xi]; }
+</script></body></html>
