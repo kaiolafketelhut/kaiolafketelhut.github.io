@@ -1,0 +1,14 @@
+text/plain - GYM2 - build.TXT - OMQ BLAK FAT12 sol pattern omq
+SPDX MIT GYM2.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract GYM2 name OMQ GYM2
+// Start Gym2 - start - 3x - 45 min - plan - start 3x plan
+// Push2 - push - bench - 3x8 - chest - push bench 3x8
+// Pull2 - pull - row - 3x8 - back - pull row 3x8
+// Legs2 - legs - squat - 3x8 - glutes - legs squat 3x8
+// Core2 - core - plank - 3x30 - abs - core plank abs
+// Cardio2 - cardio - 20 min - zone 2 - bike - cardio zone2 bike
+// Form2 - form - slow - mirror - video - form slow mirror
+// Protein2 - protein - 1.6g - kg - shake - protein 1.6g shake
+// Rest2 - rest - 48h - sleep - muscle - rest 48h sleep
+// Track2 - track - app - weight - reps - track app weight
+// Etiquette2 - etiquette - wipe - rerack - quiet - etiquette wipe rerack
+// Rules2 - form - rest - track - Gym2 Rules

@@ -1,0 +1,15 @@
+# HEALTH2 BUILD.PY OMQ BLAK FAT12 sol pattern omq - HEALTH2 - build.py
+# main MAIN name NAME x MIME - HEALTH2.sol + health2.ino + HEALTH2.BIN
+print('HEALTH2 OMQ BUILD.PY - sol pattern omq')
+# Sleep Health2 - sleep - 8h - dark - 22:00 - sleep 8h dark
+# Water Health2 - water - 2L - bottle - daily - water 2L bottle
+# Food Health2 - food - veg - protein - 80% - food veg protein
+# Check2 - check - Hausarzt - yearly - blood - check Hausarzt yearly
+# Teeth2 - teeth - 2x - floss - dentist - teeth 2x floss
+# Mental2 - mental - talk - walk - rest - mental talk walk
+# Vitamin2 - vitamin - D - winter - test - vitamin D winter
+# Screen2 - screen - 20-20-20 - break - eyes - screen 20-20-20 break
+# Posture2 - posture - straight - 90 - stand - posture straight stand
+# Immune2 - immune - sleep - C - wash - immune sleep C
+# Habit Health2 - habit - 1 - small - daily - habit 1 small
+# Rules2 - sleep - water - walk - Health2 Rules
