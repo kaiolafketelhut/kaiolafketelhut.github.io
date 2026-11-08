@@ -1,0 +1,14 @@
+HOTEL2.BIN OMQ application/octet-stream BUILD.BIN
+SPDX MIT HOTEL2.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract HOTEL2 name OMQ HOTEL2
+// Book Hotel2 - book - Booking - free cancel - 30 days - book Booking cancel
+// Compare2 - compare - price - location - review - compare price location
+// Checkin2 - checkin - 15:00 - ID - key - checkin 15 ID
+// Room2 - room - clean - quiet - bed - room clean quiet
+// Breakfast2 - breakfast - included - 7-10 - coffee - breakfast included coffee
+// Cancel2 - cancel - 24h - free - app - cancel 24h free
+// Hostel2 - hostel - dorm - 20 - locker - hostel dorm locker
+// Airbnb2 - airbnb - host - reviews - cleaning - airbnb host reviews
+// Luxury2 - luxury - upgrade - late - spa - luxury upgrade spa
+// Complaint2 - complaint - photo - polite - fix - complaint photo polite
+// Checkout2 - checkout - 11:00 - check - key - checkout 11 check
+// Rules2 - cancel - review - photo - Hotel2 Rules

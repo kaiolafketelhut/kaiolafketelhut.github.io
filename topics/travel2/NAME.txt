@@ -1,0 +1,14 @@
+text/plain - TRAVEL2 - NAME.txt - OMQ BLAK FAT12 sol pattern omq
+SPDX MIT TRAVEL2.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract TRAVEL2 name OMQ TRAVEL2
+// Plan2 - plan - budget - 3 days - list - plan budget list
+// Pack2 - pack - carry - 7kg - roll - pack carry roll
+// Book2 - book - compare - flexible - cancel - book compare flexible
+// Budget2 - budget - 50 day - food - stay - budget 50 day
+// Solo2 - solo - safe - share - hostel - solo safe hostel
+// Group2 - group - friends - split - plan - group friends split
+// Photo2 - photo - morning - light - backup - photo morning backup
+// Food Travel2 - food - market - local - 5 euro - food market local
+// Safety2 - safety - copy - insurance - SOS - safety copy insurance
+// Return2 - return - laundry - photos - rest - return laundry photos
+// Germany2 - germany - Bahn - 49 euro - city - germany Bahn 49
+// Rules2 - light - plan - backup - Travel2 Rules
