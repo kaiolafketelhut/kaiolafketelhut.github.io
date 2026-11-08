@@ -1,0 +1,13 @@
+SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ TWITCH
+// Setup - setup - OBS - mic - cam - setup OBS mic
+// Channel - channel - banner - panels - channel banner panels
+// Stream - stream - 720p - bitrate - stream bitrate
+// Overlay - overlay - alert - chat - overlay alert chat
+// Chat - chat - mod - commands - chat mod commands
+// Schedule - schedule - consistent - 3x - schedule consistent
+// Grow - grow - raid - collab - clip - grow raid collab
+// Clips - clip - highlight - TikTok - clip highlight
+// Monetize - monetize - sub - bits - ads - monetize sub bits
+// Community - community - Discord - loyal - community Discord
+// Rules Law - rules - DMCA - TOS - rules DMCA TOS
+// Rules - stream - clip - engage - Twitch Rules
