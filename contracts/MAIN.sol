@@ -1,26 +1,6 @@
 // SPDX-License-Identifier: MIT
-// MAIN.sol - OMQ - BLAK FAT12 - D183 - SKY
-// sol<pattern>omq
+// MAIN.sol - OMQ - BLAK FAT12 - sol<pattern>omq
 pragma solidity ^0.8.20;
-contract MAIN {
-  string public name = "OMQ - SKY - BLAK FAT12";
-  string public pattern = "sol<pattern>omq";
-  uint public total = 12;
-  struct Point { string slug; string title; string desc; string code; }
-  Point[12] public points;
-  constructor() {
-    points[0]=Point("what","What is Sky?","Sky = Blue! Cloud! Free!","Sky = Blue Cloud Free");
-    points[1]=Point("blue","Blue - Color!","Blue = Color! Calm! Sky!","Blue = Color Calm Sky");
-    points[2]=Point("cloud","Cloud - White!","Cloud = White! Soft! Float!","Cloud = White Soft Float");
-    points[3]=Point("sun","Sun - Shine!","Sun = Shine! Warm! Power!","Sun = Shine Warm Power");
-    points[4]=Point("moon","Moon - Glow!","Moon = Glow! Night! Dream!","Moon = Glow Night Dream");
-    points[5]=Point("star","Star - Light!","Star = Light! Sky! Dream!","Star = Light Sky Dream");
-    points[6]=Point("bird","Bird - Fly!","Bird = Fly! Free! Sky!","Bird = Fly Free Sky");
-    points[7]=Point("photo","Photo - Sky!","Photo = Sky! Light! Memory!","Photo = Sky Light Memory");
-    points[8]=Point("berlin","Berlin Sky","Berlin = Sky! Blue! Free!","Berlin = Sky Blue Free");
-    points[9]=Point("dream","Dream - Fly!","Dream = Fly! Sky! Imagine!","Dream = Fly Sky Imagine");
-    points[10]=Point("future","Future Sky","Future = Sky! Drone! AI!","Future = Sky Drone AI");
-    points[11]=Point("live","Live - Build Sky App!","Build sky app HTML! Blue!","Build Sky App!");
-  }
-  function getPoint(uint i) public view returns (Point memory) { return points[i]; }
-}
+contract MAIN { string public name="OMQ - C - BLAK FAT12"; string public pattern="sol<pattern>omq"; uint public total=12;
+struct Point{string slug;string title;string desc;string code;} Point[] public points;
+constructor(){points.push(Point("basic","Basic Structure","#include <stdio.h> - int main() - printf Hello","int main(){printf(\"Hello\");}"));points.push(Point("types","Data Types","int float double char void long short","int age=20; float pi=3.14;"));points.push(Point("vars","Variables & Constants","int age=20 - const MAX=100 - #define SIZE 50","const int MAX=100;"));points.push(Point("io","Input & Output","scanf %d - printf %d - & address","scanf(\"%d\",&a); printf(\"%d\",d);"));points.push(Point("operators","Operators","Arithmetic * - % - Assignment == - Logical && ||","a+b a==b a&&b"));points.push(Point("if","Conditional Statements","if age>=18 Adult - else if - else","if(age>=18){Adult}"));points.push(Point("loops","Loops","for i<5 - while - do while","for(int i=0;i<5;i++){}"));points.push(Point("functions","Functions","int add(a,b) return a+b","int add(int a,int b){return a+b;}"));points.push(Point("arrays","Arrays","int arr[3]=[1,2,3] - index 0 1 2","int arr[3]={1,2,3};"));points.push(Point("strings","Strings","char str[20]=Hello - %s - char array \0","char str[20]=\"Hello\";"));points.push(Point("pointers","Pointers","int *ptr=&x - *ptr value - ptr address","int *ptr=&x;"));points.push(Point("structs","Structures + Files + Libs","struct student - FILE *f - #include <stdio.h>","struct student{char name[20];};"));} function getPoint(uint i) public view returns(Point memory){return points[i];} }
