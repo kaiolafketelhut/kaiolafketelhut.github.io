@@ -1,0 +1,14 @@
+text/plain - CSS3 - build.TXT - OMQ BLAK FAT12 sol pattern omq
+SPDX MIT CSS3.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract CSS3 name OMQ CSS3
+// Start CSS3 - start - link - style - class - start link class
+// Color3 - color - hex - rgb - palette - color hex palette
+// Flex3 - flex - row - center - gap - flex row center
+// Grid3 - grid - 2 col - gap - responsive - grid 2 col gap
+// Responsive3 - responsive - media - 768 - mobile - responsive media 768
+// Font3 - font - Google - size - weight - font Google size
+// Hover3 - hover - transition - 0.3s - scale - hover transition scale
+// Animation3 - animation - keyframes - 1s - ease - animation keyframes ease
+// Box3 - box - margin - padding - border - box margin padding
+// Position3 - position - relative - absolute - sticky - position relative absolute
+// Project CSS3 - project - clone - 1 site - pixel - project clone site
+// Rules3 - flex - gap - mobile - CSS3 Rules
