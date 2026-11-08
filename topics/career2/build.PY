@@ -1,0 +1,15 @@
+# CAREER2 BUILD.PY OMQ BLAK FAT12 sol pattern omq - CAREER2 - build.py
+# main MAIN name NAME x MIME - CAREER2.sol + career2.ino + CAREER2.BIN
+print('CAREER2 OMQ BUILD.PY - sol pattern omq')
+# Goal Career2 - goal - 1 year - skill - role - goal 1 year skill
+# Skill2 - skill - 1 - deep - portfolio - skill deep portfolio
+# Mentor2 - mentor - ask - 1 - monthly - mentor ask monthly
+# Promo2 - promo - result - ask - document - promo result ask
+# Switch2 - switch - 2 years - salary - learn - switch 2 years salary
+# Learn Career2 - learn - course - 30 min - daily - learn course daily
+# Brand2 - brand - post - help - niche - brand post help
+# Negotiate2 - negotiate - offer - pause - ask - negotiate pause ask
+# Burnout2 - burnout - rest - boundaries - help - burnout rest boundaries
+# Lead2 - lead - listen - delegate - feedback - lead listen delegate
+# Freelance Career2 - freelance - client - rate - invoice - freelance client rate
+# Rules2 - learn - show - ask - Career2 Rules
