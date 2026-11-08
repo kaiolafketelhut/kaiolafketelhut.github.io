@@ -1,0 +1,15 @@
+# HOME2 BUILD.PY OMQ BLAK FAT12 sol pattern omq - HOME2 - build.py
+# main MAIN name NAME x MIME - HOME2.sol + home2.ino + HOME2.BIN
+print('HOME2 OMQ BUILD.PY - sol pattern omq')
+# Clean2 - clean - 15 min - daily - tidy - clean 15 tidy
+# Cook Home2 - cook - 20 min - plan - list - cook plan list
+# Decorate2 - decorate - 1 - plant - light - decorate plant light
+# Rent2 - rent - WG - 800 - contract - rent WG contract
+# Move2 - move - boxes - 10 - label - move boxes label
+# Garden2 - garden - balcony - 3 pots - herbs - garden balcony herbs
+# Fix2 - fix - YouTube - 1 - tool - fix YouTube tool
+# Smart Home2 - smart - Hue - Alexa - 1 room - smart Hue Alexa
+# Budget Home2 - budget - 100 - food - cleaning - budget 100 food
+# Neighbours2 - neighbours - hello - quiet - help - neighbours hello quiet
+# Safety Home2 - safety - lock - smoke - key - safety lock smoke
+# Rules2 - 15 min - tidy - daily - Home2 Rules
