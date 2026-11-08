@@ -1,0 +1,15 @@
+# JS3 BUILD.PY OMQ BLAK FAT12 sol pattern omq - JS3 - build.py
+# main MAIN name NAME x MIME - JS3.sol + js3.ino + JS3.BIN
+print('JS3 OMQ BUILD.PY - sol pattern omq')
+# Start JS3 - start - console.log - let - const - start console let
+# Variables JS3 - variables - let - const - var - variables let const
+# Functions JS3 - functions - arrow - return - param - functions arrow return
+# Arrays JS3 - arrays - map - filter - push - arrays map filter
+# DOM JS3 - dom - querySelector - addEventListener - dom querySelector event
+# Fetch JS3 - fetch - async - await - json - fetch async await
+# Events JS3 - events - click - input - submit - events click input
+# Objects JS3 - objects - key - value - spread - objects key value
+# Loops JS3 - loops - for - while - forEach - loops for while
+# Debug JS3 - debug - console - breakpoint - error - debug console breakpoint
+# Project JS3 - project - todo - fetch - deploy - project todo fetch
+# Rules3 - const - arrow - async - JS3 Rules
