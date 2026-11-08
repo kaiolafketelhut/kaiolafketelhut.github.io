@@ -1,13 +1,13 @@
-SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ DATA
-// What is Data - data - info - rows columns - data rows columns
-// CSV Excel - csv - excel - pandas read - csv excel pandas
-// Cleaning - drop null - fill - dedupe - clean null dedupe
-// SQL Data - SELECT WHERE GROUP - query - SELECT WHERE GROUP
-// Visualization - chart bar line pie - matplotlib - chart bar line
-// Statistics - mean median mode - std - mean median mode
-// Pandas - DataFrame - filter group - DataFrame filter
-// Dashboard - dashboard - KPI - chart - dashboard KPI
-// ETL - extract transform load - ETL extract load
-// Big Data - big data - spark - cloud - big data spark
-// Privacy - GDPR - anonymize - consent - GDPR privacy
-// Rules - clean - document - backup - Data Rules
+SPDX MIT DATA.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract DATA name OMQ DATA
+// What Data - data - rows - columns - clean - data rows clean
+// Excel - excel - pivot - VLOOKUP - chart - excel pivot chart
+// SQL - sql - SELECT - WHERE - JOIN - sql SELECT JOIN
+// Python Data - python - pandas - plot - csv - python pandas csv
+// Viz - viz - bar - line - simple - viz bar line
+// Dashboard - dash - KPI - 3 charts - filter - dash KPI charts
+// Clean - clean - null - duplicate - format - clean null duplicate
+// AI Data - ai - prompt - model - verify - ai prompt verify
+// Privacy Data - privacy - GDPR - anonymize - privacy GDPR anonymize
+// Job Data - job - analyst - SQL - story - job analyst SQL
+// Project - project - Kaggle - 1 dataset - story - project Kaggle story
+// Rules - clean - viz - story - Data Rules

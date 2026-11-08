@@ -1,0 +1,13 @@
+SPDX MIT TECH.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract TECH name OMQ TECH
+// Start Tech - start - laptop - curiosity - build - start laptop build
+// Gadgets - gadgets - phone - watch - earbuds - gadgets phone watch
+// Setup - setup - update - backup - password - setup update backup
+// Troubleshoot - troubleshoot - restart - update - search - troubleshoot restart
+// Buy Tech - buy - compare - review - warranty - buy compare review
+// Sell Tech - sell - wipe - backup - listing - sell wipe backup
+// Future Tech - future - AI - robot - quantum - future AI robot
+// Ethics - ethics - privacy - bias - open - ethics privacy bias
+// Career Tech - career - junior - portfolio - apply - career portfolio apply
+// Tools - tools - VS Code - Git - Terminal - tools VS Code Git
+// News - news - Hacker News - blog - X - news Hacker News
+// Rules - backup - update - learn - Tech Rules

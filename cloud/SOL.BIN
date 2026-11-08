@@ -1,14 +1,14 @@
-SOL.BIN OMQ BLAK FAT12 sol pattern omq MAIN CLOUD
-SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ CLOUD
-// What is Cloud - cloud - on demand - pay - cloud on demand
-// AWS - AWS - EC2 S3 Lambda - AWS EC2 S3
-// Azure - Azure - VM Blob Functions - Azure VM Blob
-// GCP - GCP - Compute Storage - GCP Compute
-// VM Server - VM - instance - scale - VM instance scale
-// Storage - S3 - bucket - object - S3 bucket object
-// Serverless - Lambda - function - event - Lambda function
-// Cloud DB - RDS - Firestore - Cosmos - RDS Firestore
-// CDN - CDN - edge - cache - CDN edge cache
-// IAM Security - IAM - role - policy - IAM role policy
-// Cost - cost - budget - alert - cost budget alert
-// Rules - least privilege - backup - tag - Cloud Rules
+CLOUD.BIN OMQ BLAK FAT12 sol pattern omq CLOUD - own file
+SPDX MIT CLOUD.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract CLOUD name OMQ CLOUD
+// What Cloud - cloud - rent - server - pay go - cloud rent server
+// AWS - AWS - EC2 - S3 - Lambda - AWS EC2 S3
+// Google Cloud - google - GCP - GCE - BigQuery - google GCP GCE
+// Azure - azure - Microsoft - VM - Blob - azure Microsoft VM
+// Docker - docker - container - image - compose - docker container image
+// Kubernetes - k8s - pod - deploy - scale - k8s pod deploy
+// Serverless - serverless - Lambda - pay per use - serverless Lambda
+// Storage - storage - S3 - backup - version - storage S3 backup
+// Cost - cost - tag - alert - delete - cost tag alert
+// Security Cloud - security - IAM - least - MFA - security IAM MFA
+// Deploy - deploy - CI - GitHub Actions - deploy CI Actions
+// Rules - tag - backup - least - Cloud Rules
