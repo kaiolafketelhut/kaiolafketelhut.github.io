@@ -1,0 +1,13 @@
+SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ CHESS
+// Board - board - 64 - files ranks - board 64 files
+// Pieces - king queen rook bishop knight pawn - king queen rook
+// Moves - move - capture - castle - move capture castle
+// Check Mate - check - checkmate - stalemate - check checkmate
+// Openings - opening - e4 d4 - control center - opening e4 d4
+// Tactics - fork - pin - skewer - discovered - fork pin skewer
+// Endgame - endgame - king pawn - promote - endgame promote
+// Strategy - strategy - plan - weak square - strategy plan
+// Puzzles - puzzle - daily - mate in 2 - puzzle mate in 2
+// Clock - clock - blitz - rapid - bullet - clock blitz rapid
+// Rating - rating - ELO - improve - rating ELO
+// Rules - touch move - resign - draw - Chess Rules
