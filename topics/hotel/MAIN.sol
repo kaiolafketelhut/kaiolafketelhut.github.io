@@ -1,0 +1,13 @@
+SPDX MIT HOTEL.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract HOTEL name OMQ HOTEL
+// Book - book - compare - direct - book compare direct
+// Types - types - hotel hostel - resort - types hotel hostel
+// Check In - check in - ID - deposit - check in ID deposit
+// Room - room - bed - view - quiet - room bed view
+// Breakfast - breakfast - included - time - breakfast included
+// Clean - clean - towel - housekeeping - clean towel
+// Service - service - concierge - taxi - service concierge
+// Review - review - honest - photos - review honest photos
+// Loyalty - loyalty - points - upgrade - loyalty points upgrade
+// Cancel - cancel - policy - free - cancel policy free
+// Complaint - complaint - polite - fix - complaint polite fix
+// Rules - read policy - keep key - Hotel Rules

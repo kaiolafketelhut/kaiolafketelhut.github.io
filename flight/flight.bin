@@ -1,0 +1,14 @@
+FLIGHT.BIN OMQ BLAK FAT12 sol pattern omq FLIGHT - own file
+SPDX MIT FLIGHT.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract FLIGHT name OMQ FLIGHT
+// Book Flight - book - compare - flexible - book compare flexible
+// Check In - check in - 24h - boarding - check in boarding
+// Luggage - luggage - 23kg - carry - liquid - luggage 23kg liquid
+// Airport - airport - 2h - gate - security - airport gate security
+// Seat - seat - window - aisle - legroom - seat window aisle
+// Food Flight - food - water - snack - food water snack
+// Jet Lag - jetlag - sleep - water - light - jetlag sleep water
+// Delay - delay - rights - rebook - delay rights rebook
+// Miles - miles - points - status - miles points status
+// Cheap - cheap - Tuesday - incognito - cheap Tuesday
+// Kids Flight - kids - snack - tablet - ear - kids snack tablet
+// Rules - 2h early - liquids - passport - Flight Rules

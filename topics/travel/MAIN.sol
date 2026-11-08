@@ -1,13 +1,13 @@
-SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ TRAVEL
-// Planning - plan - budget - route - plan budget route
-// Packing - pack - carry - list - pack carry list
-// Flights - flight - cheap - layover - flight cheap
-// Stay - hotel - hostel - Airbnb - hotel hostel Airbnb
-// Money Travel - card - cash - exchange - card cash exchange
-// Safety - safety - copy - insurance - safety insurance
-// Food Travel - street food - local - market - street food local
-// Photo Travel - photo - golden - backup - photo golden backup
-// Language - hello - thank - please - hello thank please
-// Solo Travel - solo - meet - hostel - solo hostel
-// Visa Passport - visa - passport - entry - visa passport
-// Rules - light pack - backup - local - Travel Rules
+SPDX MIT TRAVEL.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract TRAVEL name OMQ TRAVEL
+// Plan - plan - destination - budget - plan destination budget
+// Pack - pack - light - list - carry - pack light list
+// Money - money - card - cash - budget - money card cash
+// Safety - safety - copy - insurance - safety copy insurance
+// Stay - stay - hotel - hostel - Airbnb - stay hotel hostel
+// Food - food - local - market - street - food local market
+// Transport - transport - bus - train - walk - transport bus train
+// Photo - photo - backup - memory - photo backup
+// Language - language - hello - please - thanks - language hello thanks
+// Solo - solo - meet - hostel - tour - solo meet tour
+// Work Travel - work - remote - wifi - visa - work remote wifi
+// Rules - copy docs - insurance - light - Travel Rules
