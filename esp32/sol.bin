@@ -1,0 +1,14 @@
+SOL.BIN OMQ BLAK FAT12 sol pattern omq MAIN ESP32
+SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ ESP32
+// What is ESP32 - ESP32 - WiFi BLE - dual core - ESP32 WiFi BLE
+// Setup - Arduino IDE - board - port - Arduino IDE board
+// WiFi - WiFi begin - SSID - IP - WiFi SSID IP
+// Bluetooth BLE - BLE - server - characteristic - BLE server
+// Web Server - web server - HTML - route - web server HTML
+// MQTT - MQTT - broker - publish - MQTT broker
+// Sensors - sensor - I2C - SPI - sensor I2C SPI
+// Deep Sleep - deep sleep - wake - save - deep sleep wake
+// OTA Update - OTA - update - WiFi - OTA update
+// Camera - ESP32-CAM - stream - photo - ESP32-CAM stream
+// Power Battery - battery - 3.3V - sleep - battery 3.3V
+// Rules - 3.3V - not 5V - GND - ESP32 Rules
