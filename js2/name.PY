@@ -1,0 +1,15 @@
+# JS2 BUILD.PY OMQ BLAK FAT12 sol pattern omq - JS2 - build.py
+# main MAIN name NAME x MIME - JS2.sol + js2.ino + JS2.BIN
+print('JS2 OMQ BUILD.PY - sol pattern omq')
+# Start JS2 - start - console - let - const - start console let
+# DOM2 - dom - query - click - change - dom query click
+# Function JS2 - function - arrow - return - call - function arrow return
+# Array JS2 - array - map - filter - find - array map filter
+# Fetch2 - fetch - async - await - json - fetch async await
+# React2 - react - component - useState - props - react component useState
+# Node2 - node - npm - express - server - node npm express
+# Event2 - event - click - listener - prevent - event click listener
+# Storage2 - storage - localStorage - set - get - storage localStorage set
+# Project JS2 - project - todo - 1 - ship - project todo ship
+# Debug JS2 - debug - console - devtools - breakpoint - debug console devtools
+# Rules2 - const - map - fetch - JS2 Rules
