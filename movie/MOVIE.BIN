@@ -1,0 +1,14 @@
+MOVIE.BIN OMQ BLAK FAT12 sol pattern omq MOVIE - own file
+SPDX MIT MOVIE.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MOVIE name OMQ MOVIE
+// Watch - watch - 1 film - no phone - notes - watch film notes
+// Genre - genre - drama - comedy - thriller - genre drama comedy
+// German Film - german - Good Bye Lenin - Dark - german Dark Lenin
+// Series - series - Dark - Babylon Berlin - series Dark Berlin
+// Cinema - cinema - Stuttgart - UFA - IMAX - cinema Stuttgart UFA
+// Direct - direct - script - shot - edit - direct script shot
+// Camera - camera - 24fps - lens - light - camera 24fps lens
+// Edit - edit - CapCut - cut - color - edit CapCut color
+// Sound - sound - mic - music - mix - sound mic music
+// Review - review - 3 stars - why - spoiler - review why spoiler
+// Festival - festival - Berlinale - Cannes - festival Berlinale
+// Rules - watch - note - discuss - Movie Rules

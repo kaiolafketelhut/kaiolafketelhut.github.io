@@ -1,0 +1,13 @@
+SPDX MIT MUSIC.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MUSIC name OMQ MUSIC
+// Listen - listen - Spotify - playlist - daily - listen Spotify playlist
+// Guitar - guitar - chords - G C D - 15 min - guitar G C D
+// Piano - piano - C major - scale - 15 min - piano C major
+// Sing - sing - warmup - breath - scale - sing warmup breath
+// Produce - produce - BandLab - beat - 120 BPM - produce BandLab beat
+// DJ - DJ - mix - beatmatch - playlist - DJ mix beatmatch
+// Concert - concert - Stuttgart - Liederhalle - concert Stuttgart
+// Theory - theory - major - minor - chord - theory major minor
+// Band - band - jam - friends - rehearsal - band jam friends
+// Vinyl - vinyl - record - turntable - care - vinyl turntable care
+// Practice - practice - 20 min - slow - metronome - practice metronome
+// Rules - daily - listen - play - Music Rules
