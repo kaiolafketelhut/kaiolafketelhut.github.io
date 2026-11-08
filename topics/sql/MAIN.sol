@@ -1,0 +1,13 @@
+SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ SQL
+// SELECT - SELECT star FROM users - SELECT FROM users
+// WHERE - WHERE age gt 18 - WHERE age
+// INSERT - INSERT INTO users VALUES - INSERT INTO
+// UPDATE - UPDATE users SET age 21 - UPDATE SET
+// DELETE - DELETE FROM users WHERE - DELETE FROM
+// CREATE TABLE - CREATE TABLE users id name - CREATE TABLE
+// JOIN - INNER JOIN LEFT JOIN - JOIN ON
+// GROUP BY - GROUP BY city HAVING - GROUP BY
+// ORDER BY - ORDER BY age DESC ASC - ORDER BY
+// LIMIT - LIMIT 10 OFFSET 5 - LIMIT 10
+// Keys - PRIMARY KEY FOREIGN KEY UNIQUE - PRIMARY KEY
+// Rules - semicolon - uppercase keywords - SQL Rules
