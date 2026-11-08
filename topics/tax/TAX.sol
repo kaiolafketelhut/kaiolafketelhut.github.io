@@ -1,0 +1,13 @@
+SPDX MIT TAX.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract TAX name OMQ TAX
+// What is Tax - tax - Einkommensteuer - Lohn - tax Einkommensteuer
+// Classes - classes - I-VI - single - married - classes I-VI married
+// Payslip - payslip - brutto - netto - Abzug - payslip brutto netto
+// Return - return - Steuererklaerung - ELSTER - return ELSTER
+// Deductions - deductions - Werbungskosten - home - deductions Werbungskosten
+// Home Office - home - 6 Euro - 210 days - home 6 Euro 210
+// Commute - commute - 0.30 - km - Pendler - commute 0.30 km
+// Freelance - freelance - invoice - USt - EÜR - freelance invoice USt
+// Freistellung - freistellung - 1000 - Kapital - freistellung 1000 Kapital
+// Deadline - deadline - 31.07 - 31.12 - Steuerberater - deadline 31.07
+// Kids Tax - kids - Kindergeld - Freibetrag - kids Kindergeld
+// Rules - file - keep receipts - ELSTER - Tax Rules

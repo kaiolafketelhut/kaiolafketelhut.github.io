@@ -1,0 +1,13 @@
+SPDX MIT INVEST.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract INVEST name OMQ INVEST
+// What is Invest - invest - grow - risk - time - invest grow risk
+// ETF - ETF - MSCI World - low fee - ETF MSCI World
+// Stocks - stocks - company - share - stocks company share
+// Bonds - bonds - safe - interest - bonds safe interest
+// Compound - compound - 8% - 30 years - compound 8% 30y
+// Risk - risk - diversify - long - risk diversify long
+// Broker - broker - Trade Republic - Scalable - broker Trade Republic
+// Sparplan - sparplan - monthly - auto - 25 - sparplan monthly 25
+// Crypto - crypto - BTC - volatile - 1-5% - crypto BTC volatile
+// Retirement - retirement - Riester - ETF - pension - retirement Riester ETF
+// Tax Invest - tax - Freistellungsauftrag - 1000 - tax Freistellung 1000
+// Rules - long - diversify - low fee - Invest Rules
