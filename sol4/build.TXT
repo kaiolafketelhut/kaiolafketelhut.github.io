@@ -1,0 +1,14 @@
+text/plain - SOL4 - build.TXT - OMQ BLAK FAT12 sol pattern omq
+SPDX MIT SOL4.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract SOL4 name OMQ SOL4
+// SOL4 - sol - solidity - 0.8.20 - contract - sol solidity contract
+// Pattern SOL4 - pattern - sol<pattern>omq - OMQ - BLAK - pattern sol omq
+// Contract SOL4 - contract - name - OMQ - 1 - contract name OMQ
+// Pragma SOL4 - pragma - solidity - 0.8.20 - SPDX - pragma solidity 0.8.20
+// Function SOL4 - function - public - view - return - function public view
+// Variable SOL4 - variable - uint - string - address - variable uint string
+// Event SOL4 - event - emit - log - index - event emit log
+// Deploy SOL4 - deploy - remix - testnet - gas - deploy remix testnet
+// Test SOL4 - test - foundry - 1 - run - test foundry run
+// Security SOL4 - security - audit - reentrancy - check - security audit reentrancy
+// OMQ SOL4 - omq - sol - pattern - BLAK FAT12 - omq sol pattern
+// Rules4 - sol - pattern - omq - SOL4 Rules
