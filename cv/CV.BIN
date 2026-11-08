@@ -1,0 +1,14 @@
+CV.BIN OMQ BLAK FAT12 sol pattern omq CV - own file
+SPDX MIT CV.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract CV name OMQ CV
+// Structure - structure - contact - summary - experience - structure summary
+// Summary - summary - 2 lines - role - value - summary 2 lines
+// Experience - experience - bullet - result - number - experience bullet result
+// Skills - skills - 8 - relevant - keywords - skills relevant keywords
+// Education - education - degree - year - school - education degree year
+// Photo - photo - professional - smile - photo professional smile
+// ATS - ATS - simple - no table - keywords - ATS simple keywords
+// PDF - PDF - name - 1-2 pages - PDF 1-2 pages
+// LinkedIn - LinkedIn - headline - banner - LinkedIn headline
+// Portfolio - portfolio - GitHub - link - 3 projects - portfolio GitHub link
+// Mistakes - mistakes - typo - lie - long - mistakes typo lie
+// Rules - 1-2 pages - numbers - proof - CV Rules
