@@ -1,15 +1,15 @@
 // food.ino OMQ BLAK FAT12 FOOD sol pattern omq String name OMQ FOOD
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
-// Buy Food - buy - list - market - fresh
-// Store - store - fridge - 4C - date
-// Wash - wash - hands - veg - board
-// Protein - protein - meat - beans - eggs
-// Carbs - carbs - rice - pasta - bread
-// Veg Fruit - veg - 5 a day - color
-// Spices - spices - salt - pepper - herbs
+// Eat - eat - veg - protein - water
+// Cook - cook - 20 min - pan - salt
+// Breakfast - breakfast - oats - egg - fruit
+// Lunch - lunch - salad - chicken - rice
+// Dinner - dinner - light - soup - veg
 // Snack - snack - nuts - fruit - yogurt
-// Budget - budget - batch - leftovers
-// Allergy - allergy - label - nuts - gluten
-// Eat Out - eat out - menu - review
-// Rules - wash - date - fridge
+// Vegan - vegan - beans - tofu - B12
+// Street Food - street - Döner - Currywurst - market
+// Spice - spice - salt - pepper - paprika
+// Shop Food - shop - list - market - seasonal
+// Store - store - fridge - 4C - date
+// Rules - veg - water - cook

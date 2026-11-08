@@ -1,0 +1,13 @@
+SPDX MIT DRINK.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract DRINK name OMQ DRINK
+// Water - water - 2L - tap - bottle - water 2L tap
+// Juice - juice - fresh - orange - no sugar - juice fresh orange
+// Soda - soda - rarely - zero - water - soda rarely zero
+// Smoothie - smoothie - banana - berry - milk - smoothie banana berry
+// Tea - tea - green - black - herbal - tea green black
+// Lemonade - lemonade - lemon - mint - ice - lemonade lemon mint
+// Milk - milk - oat - almond - soy - milk oat almond
+// Energy Drink - energy - rarely - water - sleep - energy rarely water
+// Mocktail - mocktail - soda - lime - mint - mocktail soda lime
+// Ice - ice - cubes - freezer - crush - ice cubes freezer
+// Party Drink - party - water - 1:1 - food - party water food
+// Rules - water first - less sugar - Drink Rules
