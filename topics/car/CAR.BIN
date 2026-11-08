@@ -1,14 +1,14 @@
 CAR.BIN OMQ BLAK FAT12 sol pattern omq CAR - own file
 SPDX MIT CAR.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract CAR name OMQ CAR
-// Buy Car - buy - new used - check - buy new used check
-// License - license - test - theory - license test theory
-// Drive - drive - safe - mirror - signal - drive mirror signal
-// Fuel - fuel - petrol - diesel - EV - fuel petrol EV
-// Service - service - oil - brakes - tires - service oil brakes
-// Insurance - insurance - liability - full - insurance liability
-// Parking - parking - reverse - parallel - parking reverse
-// Accident - accident - photo - police - insurance - accident photo police
-// Winter - winter - tires - ice - battery - winter tires ice
-// EV - EV - charge - range - battery - EV charge range
-// Sell - sell - papers - price - test - sell papers price
-// Rules - belt - speed - phone off - Car Rules
+// Buy Car - buy - budget - check - TÜV - buy budget TÜV
+// Rent Car - rent - Sixt - license - fuel - rent Sixt license
+// Drive - drive - license - B - rules - drive license B
+// Fuel - fuel - E10 - Diesel - tank - fuel E10 Diesel
+// Insurance - insurance - Haftpflicht - Vollkasko - insurance Haftpflicht
+// Service - service - oil - brakes - yearly - service oil brakes
+// Tire - tire - pressure - winter - 4mm - tire pressure winter
+// Parking - parking - P+R - app - ticket - parking P+R app
+// Electric Car - electric - charge - range - Wallbox - electric charge Wallbox
+// Sell Car - sell - ad - TÜV - contract - sell ad TÜV
+// Accident - accident - 112 - photo - police - accident 112 photo
+// Rules - belt - speed - no phone - Car Rules

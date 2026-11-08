@@ -1,0 +1,13 @@
+SPDX MIT TRAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract TRAIN name OMQ TRAIN
+// Ticket - ticket - DB - 49 Euro - app - ticket DB 49 Euro
+// DB Bahn - DB - ICE - IC - RE - DB ICE IC RE
+// Book - book - early - Sparpreis - seat - book Sparpreis seat
+// Delay - delay - Fahrgastrechte - refund - delay Fahrgastrechte
+// Seat - seat - reserve - 4.90 - quiet - seat reserve quiet
+// Night Train - night - Nightjet - sleeper - night Nightjet sleeper
+// Bike Train - bike - ticket - wagon - reserve - bike ticket wagon
+// Station - station - Gleis - Anzeige - DB app - station Gleis Anzeige
+// Kids Train - kids - free - under 6 - family - kids free family
+// Commute - commute - Jobticket - monthly - commute Jobticket
+// Europe Train - europe - Interrail - Eurail - europe Interrail
+// Rules - book early - validate - seat - Train Rules
