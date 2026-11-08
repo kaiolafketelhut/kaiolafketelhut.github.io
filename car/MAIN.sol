@@ -1,0 +1,13 @@
+SPDX MIT CAR.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract CAR name OMQ CAR
+// Buy Car - buy - new used - check - buy new used check
+// License - license - test - theory - license test theory
+// Drive - drive - safe - mirror - signal - drive mirror signal
+// Fuel - fuel - petrol - diesel - EV - fuel petrol EV
+// Service - service - oil - brakes - tires - service oil brakes
+// Insurance - insurance - liability - full - insurance liability
+// Parking - parking - reverse - parallel - parking reverse
+// Accident - accident - photo - police - insurance - accident photo police
+// Winter - winter - tires - ice - battery - winter tires ice
+// EV - EV - charge - range - battery - EV charge range
+// Sell - sell - papers - price - test - sell papers price
+// Rules - belt - speed - phone off - Car Rules

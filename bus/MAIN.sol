@@ -1,0 +1,13 @@
+SPDX MIT BUS.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract BUS name OMQ BUS
+// Book Bus - book - FlixBus - early - book FlixBus early
+// Ticket - ticket - QR - show driver - ticket QR driver
+// Stop - stop - 15 min - early - stop 15 min early
+// Seat - seat - window - front - seat window front
+// Luggage - luggage - 20kg - tag - luggage 20kg tag
+// WiFi - wifi - USB - toilet - wifi USB toilet
+// Delay - delay - app - rebook - delay app rebook
+// City Bus - city - ticket - validate - city ticket validate
+// Night Bus - night - blanket - sleep - night blanket sleep
+// Kids Bus - kids - seat - snack - kids seat snack
+// Refund - refund - voucher - cancel - refund voucher cancel
+// Rules - ticket - stop early - tag - Bus Rules

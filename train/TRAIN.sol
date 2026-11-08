@@ -1,0 +1,13 @@
+SPDX MIT TRAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract TRAIN name OMQ TRAIN
+// Book Train - book - early - Bahn - seat - book early Bahn
+// Ticket - ticket - QR - validate - ticket QR validate
+// Platform - platform - board - display - platform board display
+// Seat - seat - reserve - quiet - seat reserve quiet
+// Delay - delay - rights - refund - delay rights refund
+// BahnCard - BahnCard - 25 50 100 - save - BahnCard 25 50
+// Deutschland Ticket - Deutschland - 49 - local - Deutschland 49 local
+// Night Train - night - sleeper - couchette - night sleeper
+// Bike Train - bike - ticket - carriage - bike ticket carriage
+// Kids Train - kids - free - family - kids free family
+// Luggage - luggage - rack - lock - luggage rack lock
+// Rules - ticket - validate - platform - Train Rules
