@@ -1,0 +1,13 @@
+SPDX MIT BABY.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract BABY name OMQ BABY
+// Prepare - prepare - room - crib - bag - prepare room crib
+// Name - name - list - meaning - short - name list meaning
+// Feed - feed - breast - bottle - 2-3h - feed breast bottle
+// Sleep - sleep - back - swaddle - routine - sleep back swaddle
+// Diaper - diaper - change - cream - 8x - diaper change cream
+// Health - health - vaccine - check - fever - health vaccine check
+// Cry - cry - hungry - tired - hug - cry hungry hug
+// Play - play - tummy - talk - sing - play tummy talk
+// Gear - gear - stroller - car seat - gear stroller seat
+// Parents - parents - sleep - help - rest - parents sleep help
+// First Year - first - teeth - crawl - walk - first teeth crawl
+// Rules - back sleep - feed - love - Baby Rules
