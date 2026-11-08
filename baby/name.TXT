@@ -1,0 +1,14 @@
+text/plain - BABY - name.TXT - OMQ BLAK FAT12 sol pattern omq
+SPDX MIT BABY.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract BABY name OMQ BABY
+// Sleep Baby - sleep - safe - back - routine - sleep safe back
+// Feed - feed - breast - bottle - burp - feed breast bottle
+// Diaper - diaper - change - cream - check - diaper change cream
+// Cry - cry - check - hold - shush - cry check hold
+// Doctor Baby - doctor - Kinderarzt - U1 - vaccine - doctor Kinderarzt U1
+// Play - play - tummy - rattle - talk - play tummy rattle
+// First Food - food - 6 months - puree - spoon - food 6 months puree
+// Safety - safety - outlet - gate - car seat - safety gate seat
+// Gear - gear - stroller - carrier - crib - gear stroller carrier
+// Parents Baby - parents - sleep - help - ask - parents sleep help
+// Milestone - milestone - smile - roll - first - milestone smile roll
+// Rules - safe - sleep - love - Baby Rules

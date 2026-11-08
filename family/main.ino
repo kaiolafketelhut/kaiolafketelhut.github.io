@@ -1,15 +1,15 @@
 // family.ino OMQ BLAK FAT12 FAMILY sol pattern omq String name OMQ FAMILY
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
-// Family Time - time - dinner - walk - game
-// Kids - kids - play - read - routine
-// Parents - parents - call - visit - help
-// Money - money - budget - kids - save
-// Home - home - clean - routine - chores
-// Talk - talk - dinner - no phone - listen
-// Tradition - tradition - Sunday - holiday
-// Conflict - conflict - calm - apologize
-// Support - support - help - listen - be there
-// Grandparents - grandparents - story - visit
-// Celebrate - celebrate - birthday - cake
-// Rules - time - talk - love
+// Parents - parents - call - visit - thank
+// Kids - kids - play - read - listen
+// Dinner - dinner - together - no phone - talk
+// Holiday - holiday - trip - together - photo
+// Help - help - chores - share - team
+// Tradition - tradition - Sunday - ritual - food
+// Fight - fight - calm - apologize - fix
+// Grandparents - grandparents - call - stories - visit
+// Money Family - money - budget - kids - talk
+// Home - home - clean - cozy - safe
+// Celebrate - celebrate - birthday - cake - photo
+// Rules - call - help - listen
