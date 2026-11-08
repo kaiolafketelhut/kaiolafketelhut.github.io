@@ -1,0 +1,14 @@
+DOCTOR.BIN OMQ BLAK FAT12 sol pattern omq DOCTOR - own file
+SPDX MIT DOCTOR.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract DOCTOR name OMQ DOCTOR
+// Hausarzt - Hausarzt - register - eGK - Termin - Hausarzt eGK Termin
+// Termin - termin - Doctolib - 116117 - call - termin Doctolib 116117
+// Symptom - symptom - when - where - how long - symptom when where
+// Blood Test - blood - fasting - morning - results - blood fasting morning
+// Referral - referral - Überweisung - Facharzt - referral Überweisung
+// Emergency - emergency - 112 - ER - Notfall - emergency 112 ER
+// Prescription - prescription - Rezept - Apotheke - prescription Rezept
+// Second Opinion - second - ask - another doctor - second ask doctor
+// Kids Doctor - kids - Kinderarzt - U1-U9 - kids Kinderarzt U1
+// Online Doctor - online - video - eRezept - app - online video eRezept
+// Records - records - Befund - bring - list - records Befund list
+// Rules - write symptoms - ask - bring list - Doctor Rules

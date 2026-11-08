@@ -1,0 +1,13 @@
+SPDX MIT PHARMA.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract PHARMA name OMQ PHARMA
+// Apotheke - Apotheke - eRezept - Beratung - Apotheke eRezept
+// Dose - dose - as prescribed - never share - dose prescribed
+// Side Effects - side - leaflet - tell doctor - side leaflet doctor
+// Storage - storage - cool - dry - kids safe - storage cool dry
+// OTC - OTC - Ibu - Paracetamol - dose - OTC Ibu Paracetamol
+// Antibiotic - antibiotic - finish - no share - antibiotic finish
+// Allergy - allergy - list - bracelet - EpiPen - allergy list EpiPen
+// Vaccine - vaccine - STIKO - Impfpass - flu - vaccine STIKO Impfpass
+// Interaction - interaction - check - pharmacist - interaction pharmacist
+// Expired - expired - return - Apotheke - don't use - expired return Apotheke
+// Online Pharma - online - licensed - no fake - online licensed
+// Rules - as prescribed - check - ask - Pharma Rules

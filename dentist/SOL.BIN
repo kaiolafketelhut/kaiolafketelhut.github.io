@@ -1,0 +1,14 @@
+DENTIST.BIN OMQ BLAK FAT12 sol pattern omq DENTIST - own file
+SPDX MIT DENTIST.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract DENTIST name OMQ DENTIST
+// Brush - brush - 2x - 2 min - fluoride - brush 2x 2min
+// Floss - floss - daily - between - gentle - floss daily gentle
+// Check - check - 2x year - cleaning - check 2x cleaning
+// Pain - pain - cold - call - don't wait - pain cold call
+// Wisdom - wisdom - X-ray - extract - ice - wisdom X-ray ice
+// Braces - braces - Kieferorthopäde - aligner - braces aligner
+// Whitening - whitening - dentist - not DIY - whitening dentist
+// Kids Teeth - kids - first - 6 months - fluoride - kids first fluoride
+// Cost - cost - Bonusheft - Kasse - plan - cost Bonusheft Kasse
+// Fear - fear - tell - sedation - music - fear tell sedation
+// Emergency - emergency - tooth out - milk - call - emergency milk call
+// Rules - brush - floss - check 2x - Dentist Rules

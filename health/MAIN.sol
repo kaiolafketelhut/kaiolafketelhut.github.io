@@ -1,13 +1,13 @@
-SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ HEALTH
-// Sleep - sleep 7-9 - routine - dark - sleep 7-9 routine
-// Water - water - hydrate - 2L - water hydrate
-// Movement - move - 10k steps - stretch - move 10k steps
-// Food Health - whole - veg - protein - whole veg protein
-// Mental Health - mind - breath - journal - mind breath journal
-// Stress - stress - walk - talk - rest - stress walk rest
-// Habits - habit - small - daily - track - habit daily track
-// Checkup - checkup - blood - dentist - checkup blood
-// Skin - skin - SPF - clean - sleep - skin SPF
-// Gut - gut - fiber - ferment - gut fiber
-// Heart - heart - cardio - BP - heart cardio
-// Rules - sleep - move - eat - rest - Health Rules
+SPDX MIT HEALTH.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract HEALTH name OMQ HEALTH
+// Checkup - checkup - yearly - blood - BP - checkup yearly blood
+// Water - water - 2L - bottle - daily - water 2L bottle
+// Sleep - sleep - 8h - dark - no phone - sleep 8h dark
+// Food - food - veg - protein - less sugar - food veg protein
+// Move - move - 8000 steps - daily - move 8000 steps
+// Vitamin - vitamin - D - blood test - doctor - vitamin D test
+// Heart - heart - pulse - 60-100 - walk - heart pulse walk
+// Skin - skin - SPF - moisturizer - check - skin SPF moisturizer
+// Eyes - eyes - 20-20-20 - check - glasses - eyes 20-20-20 check
+// Ears - ears - volume - 60% - break - ears volume 60%
+// Pain - pain - rest - ice - doctor - pain rest ice
+// Rules - sleep - water - move - Health Rules
