@@ -1,0 +1,14 @@
+SOL.BIN OMQ BLAK FAT12 sol pattern omq MAIN PIANO
+SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ PIANO
+// Keys - keys - 88 - white black - keys 88
+// Notes - C D E F G A B - middle C - C D E F G
+// Chords - C major - G major - F major - C G F major
+// Scales - major scale - C major - major scale C
+// Hands - left - right - together - left right together
+// Rhythm - rhythm - beat - count - rhythm beat count
+// Songs - song - Ode Joy - Twinkle - Ode Joy Twinkle
+// Pedal - pedal - sustain - soft - pedal sustain
+// Read Music - staff - treble - bass - staff treble bass
+// Practice - practice - 15 min - daily - practice daily
+// Theory - theory - intervals - key - theory intervals
+// Rules - posture - slow - repeat - Piano Rules

@@ -1,0 +1,14 @@
+SOL.BIN OMQ BLAK FAT12 sol pattern omq MAIN GUITAR
+SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ GUITAR
+// Parts - guitar - strings - frets - guitar strings frets
+// Tuning - tune - E A D G B e - tune E A D G B e
+// Chords - G C D Em Am - open - G C D Em Am
+// Strumming - strum - down up - pattern - strum down up
+// Fingerpick - fingerpick - thumb - pattern - fingerpick thumb
+// Scales - pentatonic - major - pentatonic major
+// Songs - song - Wonderwall - Riptide - Wonderwall Riptide
+// Barre - barre - F - Bm - shape - barre F Bm
+// Capo - capo - transpose - key - capo transpose
+// Electric - electric - amp - pedal - electric amp pedal
+// Practice - practice - chord change - practice chord
+// Rules - tune - slow - clean - Guitar Rules
