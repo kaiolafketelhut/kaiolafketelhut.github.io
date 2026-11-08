@@ -1,0 +1,14 @@
+SOL.BIN OMQ BLAK FAT12 sol pattern omq MAIN COFFEE
+SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ COFFEE
+// Beans - beans - arabica - roast - beans arabica roast
+// Grind - grind - size - fresh - grind fresh
+// Espresso - espresso - 9 bar - 30s - espresso 9 bar
+// Filter - filter - V60 - pour - filter V60 pour
+// French Press - french press - 4 min - french press 4 min
+// Milk - milk - steam - latte art - milk steam latte
+// Latte Cappuccino - latte - cappuccino - flat white - latte cappuccino
+// Cold Brew - cold brew - 12h - ice - cold brew 12h
+// Water - water - 92C - filter - water 92C
+// Taste - taste - acidity - body - taste acidity body
+// Cafe - cafe - menu - barista - cafe barista
+// Rules - fresh - weigh - clean - Coffee Rules

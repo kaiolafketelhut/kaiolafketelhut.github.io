@@ -1,0 +1,13 @@
+SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ GARDEN
+// Soil - soil - compost - pH - soil compost pH
+// Seeds - seeds - sow - depth - seeds sow depth
+// Water - water - morning - mulch - water morning mulch
+// Sun - sun - 6h - shade - sun 6h shade
+// Vegetables - veg - tomato - cucumber - veg tomato
+// Herbs - herbs - basil - mint - herbs basil mint
+// Flowers - flowers - bee - pollinate - flowers bee
+// Compost - compost - green - brown - compost green brown
+// Pests - pests - neem - hand - pests neem
+// Tools - tools - spade - gloves - tools spade
+// Seasons - seasons - calendar - frost - seasons frost
+// Rules - soil - water - sun - Garden Rules

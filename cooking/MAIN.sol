@@ -1,0 +1,13 @@
+SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ COOKING
+// Knife - knife - chop - safe - sharp - knife chop safe
+// Pan Heat - pan - heat - oil - sear - pan heat sear
+// Salt - salt - taste - acid - balance - salt taste acid
+// Eggs - egg - fry - boil - scramble - egg fry boil
+// Pasta - pasta - salt water - sauce - pasta sauce
+// Rice - rice - ratio - steam - rice steam
+// Meat - meat - rest - temp - sear - meat rest temp
+// Vegetables - veg - roast - season - veg roast
+// Sauce - sauce - roux - reduce - sauce roux
+// Soup - soup - stock - simmer - soup stock simmer
+// Prep - prep - mise en place - clean - prep mise en place
+// Rules - taste - clean - mise - Cooking Rules
