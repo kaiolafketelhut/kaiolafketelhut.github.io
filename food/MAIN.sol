@@ -1,13 +1,13 @@
-SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ FOOD
-// Knife Skills - knife - chop - dice - safe - knife chop dice
-// Salt Season - salt - pepper - acid - taste - salt acid taste
-// Eggs - egg - fry - scramble - boil - egg fry boil
-// Pasta - pasta - sauce - al dente - pasta al dente
-// Rice - rice - wash - steam - ratio - rice steam
-// Meat - meat - sear - rest - temp - meat sear rest
-// Vegetables - veg - roast - blanch - season - veg roast
-// Bread - bread - dough - yeast - bake - bread yeast bake
-// Sauces - sauce - roux - gravy - sauce roux
-// Dessert - dessert - sugar - bake - dessert bake
-// Meal Prep - prep - batch - store - meal prep batch
-// Rules - taste - clean - mise en place - Food Rules
+SPDX MIT FOOD.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract FOOD name OMQ FOOD
+// Buy Food - buy - list - market - fresh - buy list market
+// Store - store - fridge - 4C - date - store fridge 4C
+// Wash - wash - hands - veg - board - wash hands veg
+// Protein - protein - meat - beans - eggs - protein meat beans
+// Carbs - carbs - rice - pasta - bread - carbs rice pasta
+// Veg Fruit - veg - 5 a day - color - veg 5 a day
+// Spices - spices - salt - pepper - herbs - spices salt pepper
+// Snack - snack - nuts - fruit - yogurt - snack nuts fruit
+// Budget - budget - batch - leftovers - budget batch leftovers
+// Allergy - allergy - label - nuts - gluten - allergy label nuts
+// Eat Out - eat out - menu - review - eat out menu
+// Rules - wash - date - fridge - Food Rules

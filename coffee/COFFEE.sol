@@ -1,0 +1,13 @@
+SPDX MIT COFFEE.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract COFFEE name OMQ COFFEE
+// Beans - beans - arabica - robusta - beans arabica robusta
+// Grind - grind - fresh - coarse fine - grind fresh coarse
+// Espresso - espresso - 9 bar - 30s - espresso 9 bar
+// Filter - filter - V60 - pour - 92C - filter V60 92C
+// French Press - french - 4 min - plunge - french 4 min
+// Milk - milk - steam - foam - latte - milk steam foam
+// Latte Art - latte - heart - rosetta - latte heart rosetta
+// Cold Brew - cold - 12h - coarse - ice - cold 12h ice
+// Storage - storage - airtight - dark - storage airtight dark
+// Cafe - cafe - order - flat white - cafe flat white
+// Decaf - decaf - Swiss - evening - decaf Swiss
+// Rules - fresh grind - 92C - clean - Coffee Rules

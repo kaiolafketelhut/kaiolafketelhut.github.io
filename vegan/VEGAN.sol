@@ -1,0 +1,13 @@
+SPDX MIT VEGAN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract VEGAN name OMQ VEGAN
+// What is Vegan - vegan - no animal - plant - vegan plant
+// Protein - protein - tofu - lentils - beans - protein tofu lentils
+// B12 - B12 - supplement - check - B12 supplement
+// Milk Alt - milk - oat - soy - almond - milk oat soy
+// Cheese Alt - cheese - cashew - nutritional - cheese cashew
+// Egg Alt - egg - flax - chia - aquafaba - egg flax chia
+// Meals - meals - bowl - curry - pasta - meals bowl curry
+// Snack - snack - hummus - nuts - fruit - snack hummus nuts
+// Eating Out - eating - menu - ask - app - eating menu app
+// Shop - shop - label - E-numbers - shop label
+// Transition - transition - slow - 1 meal - transition slow
+// Rules - B12 - protein - label - Vegan Rules
