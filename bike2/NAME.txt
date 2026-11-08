@@ -1,0 +1,14 @@
+text/plain - BIKE2 - NAME.txt - OMQ BLAK FAT12 sol pattern omq
+SPDX MIT BIKE2.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract BIKE2 name OMQ BIKE2
+// Buy Bike2 - buy - 500 - size - test - buy size test
+// Ride2 - ride - helmet - 30 min - lock - ride helmet lock
+// Fix Bike2 - fix - pump - tube - 10 min - fix pump tube
+// Lock2 - lock - U-lock - 50 - frame - lock U-lock frame
+// Ebike2 - ebike - 25km/h - battery - 80km - ebike 25 battery
+// Route Bike2 - route - Neckar - 20km - flat - route Neckar flat
+// Race Bike2 - race - 40km - pace - water - race pace water
+// Gear Bike2 - gear - light - bell - pump - gear light bell
+// Winter Bike2 - winter - gloves - light - rain - winter gloves light
+// Tour Bike2 - tour - 100km - friends - picnic - tour friends picnic
+// Share Bike2 - share - RegioRad - app - 1 euro - share RegioRad app
+// Rules2 - helmet - lock - light - Bike2 Rules

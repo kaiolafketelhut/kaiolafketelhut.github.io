@@ -1,0 +1,14 @@
+text/plain - COUNTRY2 - MAIN.TXT - OMQ BLAK FAT12 sol pattern omq
+SPDX MIT COUNTRY2.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract COUNTRY2 name OMQ COUNTRY2
+// Germany Country2 - germany - 84M - Berlin - 16 states - germany 84M Berlin
+// France2 - france - Paris - 68M - baguette - france Paris baguette
+// Italy2 - italy - Rome - pasta - 59M - italy Rome pasta
+// Spain2 - spain - Madrid - tapas - 48M - spain Madrid tapas
+// UK2 - uk - London - 67M - tea - uk London tea
+// USA2 - usa - NYC - 331M - road trip - usa NYC road trip
+// Japan2 - japan - Tokyo - sushi - 125M - japan Tokyo sushi
+// Travel Country2 - travel - 1 - visa - insurance - travel visa insurance
+// Culture2 - culture - hello - thank - respect - culture hello respect
+// Language Country2 - language - 10 - words - hello - language 10 hello
+// Food Country2 - food - try - 1 - local - food try local
+// Rules2 - respect - try - learn - Country2 Rules

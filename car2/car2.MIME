@@ -1,0 +1,14 @@
+MIME: text/plain - CAR2 - car2.MIME
+SPDX MIT CAR2.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract CAR2 name OMQ CAR2
+// Buy Car2 - buy - 5000 - TÜV - check - buy TÜV check
+// Drive2 - drive - 130 - Autobahn - safe - drive Autobahn safe
+// Fuel2 - fuel - E10 - 1.70 - app - fuel E10 app
+// Insurance Car2 - insurance - Haftpflicht - 50 - compare - insurance Haftpflicht compare
+// TÜV2 - TÜV - 2 years - 150 - check - TÜV 2 years check
+// Wash2 - wash - 10 - monthly - vacuum - wash monthly vacuum
+// Sell Car2 - sell - mobile.de - photos - price - sell mobile.de photos
+// Electric Car2 - electric - 300km - charge - wallbox - electric 300km charge
+// Parking2 - parking - P+R - app - 2 euro - parking P+R app
+// Winter Car2 - winter - tires - Oct-Apr - check - winter tires Oct
+// Accident2 - accident - photo - police - insurance - accident photo police
+// Rules2 - TÜV - insurance - check - Car2 Rules
