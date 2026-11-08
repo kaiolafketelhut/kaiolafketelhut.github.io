@@ -1,0 +1,15 @@
+# LEGEND2 BUILD.PY OMQ BLAK FAT12 sol pattern omq - LEGEND2 - build.py
+# main MAIN name NAME x MIME - LEGEND2.sol + legend2.ino + LEGEND2.BIN
+print('LEGEND2 OMQ BUILD.PY - sol pattern omq')
+# Legend2 - legend - OMQ - 449 - topics - legend OMQ topics
+# OMQ Legend2 - omq - sol<pattern>omq - BLAK - FAT12 - omq sol pattern
+# Build Legend2 - build - 449 - pages - ship - build pages ship
+# Impact2 - impact - help - 1000 - people - impact help people
+# Story Legend2 - story - 1 - tell - inspire - story tell inspire
+# Brand Legend2 - brand - OMQ - black - white - brand OMQ black
+# Future Legend2 - future - 500 - topics - 2027 - future 500 topics
+# Thank2 - thank - 1 - you - reader - thank you reader
+# Continue2 - continue - 1 - daily - never stop - continue daily stop
+# Dream2 - dream - big - 1 - believe - dream big believe
+# Eternal2 - eternal - OMQ - forever - sol - eternal OMQ forever
+# Rules2 - OMQ - forever - ship - Legend2 Rules
