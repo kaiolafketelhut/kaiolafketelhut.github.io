@@ -1,0 +1,14 @@
+application/json - SOL3 - NAME.json - OMQ BLAK FAT12 sol pattern omq
+SPDX MIT SOL3.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract SOL3 name OMQ SOL3
+// Pragma3 - pragma - 0.8.20 - solidity - SPDX - pragma 0.8.20 SPDX
+// Contract3 - contract - name - storage - function - contract name storage
+// Variable3 - variable - uint - string - address - variable uint string
+// Function Sol3 - function - public - view - return - function public view
+// Event3 - event - emit - log - index - event emit log
+// Deploy3 - deploy - Remix - Sepolia - test - deploy Remix Sepolia
+// Gas3 - gas - 21k - gwei - optimize - gas 21k gwei
+// Security Sol3 - security - reentrancy - check - audit - security reentrancy audit
+// Token3 - token - ERC20 - 18 - supply - token ERC20 supply
+// NFT Sol3 - nft - ERC721 - mint - metadata - nft ERC721 mint
+// Test Sol3 - test - Foundry - 1 - assert - test Foundry assert
+// Rules3 - pragma - test - audit - Sol3 Rules
