@@ -1,0 +1,13 @@
+SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ SEO
+// What is SEO - SEO - rank Google - traffic - SEO rank traffic
+// Keywords - keyword - search - intent - keyword intent
+// On Page - title - meta - H1 - content - title meta H1
+// Content SEO - content - E-E-A-T - helpful - content helpful
+// Technical SEO - speed - mobile - sitemap - speed mobile sitemap
+// Links - backlink - internal - anchor - backlink internal
+// Local SEO - Google Business - maps - reviews - Google Business maps
+// Analytics - Search Console - Analytics - Search Console
+// Audit - audit - fix - crawl - audit crawl
+// Image SEO - alt - compress - webp - alt compress
+// AI SEO - AI - GEO - answer engine - AI GEO
+// Rules - helpful - fast - E-E-A-T - SEO Rules
