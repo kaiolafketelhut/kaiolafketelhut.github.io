@@ -1,0 +1,15 @@
+# LEGEND5 BUILD.PY OMQ BLAK FAT12 sol pattern omq - LEGEND5 - build.py
+# main MAIN name NAME x MIME - LEGEND5.sol + legend5.ino + LEGEND5.BIN
+print('LEGEND5 OMQ BUILD.PY - sol pattern omq')
+# LEGEND5 - legend - OMQ - forever - win - legend OMQ forever
+# Win LEGEND5 - win - 1 - goal - celebrate - win goal celebrate
+# Ship LEGEND5 - ship - git - push - live - ship git push
+# Done LEGEND5 - done - 1 - shipped - checked - done shipped checked
+# Final LEGEND5 - final - last - 1 - done - final last done
+# Hero LEGEND5 - hero - 1 - brave - lead - hero brave lead
+# Myth LEGEND5 - myth - story - 1 - epic - myth story epic
+# Epic LEGEND5 - epic - 1 - huge - quest - epic huge quest
+# Quest LEGEND5 - quest - 1 - goal - journey - quest goal journey
+# Crown LEGEND5 - crown - 1 - king - gold - crown king gold
+# OMQ LEGEND5 - omq - LEGEND - BLAK - FAT12 - omq LEGEND BLAK
+# Rules4 - legend - win - ship - LEGEND5 Rules
