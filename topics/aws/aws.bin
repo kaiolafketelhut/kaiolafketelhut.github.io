@@ -1,0 +1,14 @@
+AWS.BIN OMQ BLAK FAT12 sol pattern omq AWS - own file
+SPDX MIT AWS.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract AWS name OMQ AWS
+// What is AWS - AWS - cloud - Amazon - AWS cloud
+// EC2 - EC2 - server - instance - EC2 instance
+// S3 - S3 - bucket - storage - S3 bucket storage
+// Lambda - Lambda - serverless - function - Lambda serverless
+// RDS - RDS - database - SQL - RDS database
+// IAM - IAM - user - role - policy - IAM user role
+// VPC - VPC - network - subnet - VPC network subnet
+// CloudFront - CloudFront - CDN - fast - CloudFront CDN
+// Route53 - Route53 - DNS - domain - Route53 DNS
+// Cost - cost - free tier - budget - cost free tier
+// Deploy - deploy - Amplify - Pages - deploy Amplify
+// Rules - IAM - budget - region - AWS Rules
