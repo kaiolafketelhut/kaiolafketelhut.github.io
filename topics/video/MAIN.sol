@@ -1,13 +1,13 @@
-SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ VIDEO
-// Shots - wide - close - medium - angle - wide close medium
-// Camera - camera - lens - aperture ISO - camera lens ISO
-// Lighting - light - 3 point - key fill - 3 point light
-// Audio - mic - lav - boom - levels - mic lav boom
-// Editing - cut - timeline - B-roll - cut timeline B-roll
-// Color Grade - grade - LUT - white balance - grade LUT
-// Story - story - script - storyboard - story script
-// Motion - motion - keyframe - ease - motion keyframe
-// Export - export - 1080p - codec - export 1080p codec
-// YouTube - title - thumb - SEO - title thumb SEO
-// Shorts Reels - shorts - vertical - hook - shorts vertical hook
-// Rules - hook - cut - caption - Video Rules
+SPDX MIT VIDEO.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract VIDEO name OMQ VIDEO
+// Idea - idea - hook - 3s - story - idea hook 3s
+// Script - script - 1 page - hook - CTA - script hook CTA
+// Shoot - shoot - 4K - 24fps - stable - shoot 4K 24fps
+// Light - light - window - ring - soft - light window ring
+// Audio - audio - mic - quiet - lav - audio mic quiet
+// Edit - edit - CapCut - Premiere - cut - edit CapCut Premiere
+// Thumbnail - thumbnail - face - text - contrast - thumbnail face text
+// Title - title - keyword - curiosity - title keyword curiosity
+// Shorts - shorts - vertical - 60s - loop - shorts vertical 60s
+// YouTube - YouTube - niche - weekly - SEO - YouTube niche weekly
+// TikTok - TikTok - trend - hook - 3s - TikTok trend hook
+// Rules - hook - audio - edit tight - Video Rules

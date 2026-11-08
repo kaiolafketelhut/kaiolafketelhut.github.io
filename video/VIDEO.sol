@@ -1,0 +1,13 @@
+SPDX MIT VIDEO.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract VIDEO name OMQ VIDEO
+// Idea - idea - hook - 3s - story - idea hook 3s
+// Script - script - 1 page - hook - CTA - script hook CTA
+// Shoot - shoot - 4K - 24fps - stable - shoot 4K 24fps
+// Light - light - window - ring - soft - light window ring
+// Audio - audio - mic - quiet - lav - audio mic quiet
+// Edit - edit - CapCut - Premiere - cut - edit CapCut Premiere
+// Thumbnail - thumbnail - face - text - contrast - thumbnail face text
+// Title - title - keyword - curiosity - title keyword curiosity
+// Shorts - shorts - vertical - 60s - loop - shorts vertical 60s
+// YouTube - YouTube - niche - weekly - SEO - YouTube niche weekly
+// TikTok - TikTok - trend - hook - 3s - TikTok trend hook
+// Rules - hook - audio - edit tight - Video Rules

@@ -1,13 +1,13 @@
-SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ PHOTO
-// Exposure - exposure - triangle - light - exposure triangle
-// Aperture - aperture f - depth - bokeh - aperture f bokeh
-// Shutter - shutter - freeze - motion - shutter freeze
-// ISO - ISO - noise - low light - ISO noise
-// Composition - rule thirds - leading - frame - rule thirds frame
-// Light - golden - blue - flash - golden blue flash
-// Portrait - portrait - pose - eye - portrait pose eye
-// Landscape - landscape - tripod - filter - landscape tripod
-// Editing - edit - Lightroom - preset - edit Lightroom preset
-// RAW JPG - RAW - JPG - edit - keep - RAW JPG
-// Gear - lens - body - prime zoom - lens prime zoom
-// Rules - shoot - cull - edit - backup - Photo Rules
+SPDX MIT PHOTO.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract PHOTO name OMQ PHOTO
+// Camera - camera - phone - DSLR - mirrorless - camera phone DSLR
+// Light - light - golden - window - soft - light golden window
+// Composition - composition - rule thirds - leading - composition thirds leading
+// Portrait - portrait - eye - 85mm - bokeh - portrait eye 85mm
+// Landscape - landscape - tripod - sunrise - landscape tripod sunrise
+// Edit - edit - Lightroom - preset - crop - edit Lightroom preset
+// Phone Photo - phone - clean lens - grid - phone clean grid
+// Street - street - candid - moment - street candid moment
+// Night - night - tripod - long - ISO - night tripod long
+// Backup - backup - cloud - 2 copies - backup cloud 2
+// Print - print - paper - color - frame - print paper color
+// Rules - light - moment - backup - Photo Rules

@@ -1,13 +1,13 @@
-SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ MUSIC
-// Notes - A B C D E F G - notes - notes A B C
-// Scales - major minor - scale - key - major minor scale
-// Chords - major minor - triad - 7th - chord triad
-// Rhythm - beat - tempo BPM - 4 4 - beat BPM
-// Melody - melody - phrase - motif - melody motif
-// Harmony - harmony - progression - I IV V - harmony I IV V
-// Instruments - piano guitar drums - synth - piano guitar drums
-// DAW - DAW - Ableton FL - track - DAW track
-// Mixing - mix - EQ - compress - reverb - mix EQ reverb
-// Mastering - master - loudness - limiter - master limiter
-// Theory - theory - intervals - modes - theory intervals
-// Rules - practice - ear - record - Music Rules
+SPDX MIT MUSIC.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MUSIC name OMQ MUSIC
+// Listen - listen - playlist - discover - listen playlist discover
+// Theory - theory - notes - chords - scale - theory notes chords
+// Guitar - guitar - chords - strum - practice - guitar chords strum
+// Piano - piano - keys - scales - hands - piano keys scales
+// Sing - sing - breath - warmup - pitch - sing breath warmup
+// Produce - produce - DAW - beat - mix - produce DAW beat
+// Stream - stream - Spotify - playlist - pitch - stream Spotify playlist
+// Live - live - gig - setlist - soundcheck - live gig setlist
+// Practice - practice - 20 min - daily - slow - practice 20 min daily
+// Band - band - jam - rehearse - gig - band jam rehearse
+// Copyright - copyright - GEMA - license - copyright GEMA license
+// Rules - practice daily - listen - feel - Music Rules
