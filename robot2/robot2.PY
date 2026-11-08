@@ -1,0 +1,15 @@
+# ROBOT2 BUILD.PY OMQ BLAK FAT12 sol pattern omq - ROBOT2 - build.py
+# main MAIN name NAME x MIME - ROBOT2.sol + robot2.ino + ROBOT2.BIN
+print('ROBOT2 OMQ BUILD.PY - sol pattern omq')
+# Start Robot2 - start - Arduino - LED - blink - start Arduino LED
+# Servo2 - servo - 180 - angle - pin 9 - servo 180 pin9
+# Sensor2 - sensor - ultrasonic - distance - cm - sensor ultrasonic cm
+# Motor2 - motor - DC - L298N - PWM - motor DC L298N
+# Line Follower2 - line - IR - black - follow - line IR follow
+# Arm2 - arm - 3 DOF - grip - pick - arm 3DOF grip
+# Remote2 - remote - Bluetooth - app - control - remote Bluetooth app
+# AI Robot2 - ai - camera - detect - follow - ai camera detect
+# Build Robot2 - build - kit - 50 - instructions - build kit 50
+# Safety Robot2 - safety - off - battery - wires - safety off battery
+# Show Robot2 - show - video - demo - friends - show video demo
+# Rules2 - test - off - battery - Robot2 Rules
