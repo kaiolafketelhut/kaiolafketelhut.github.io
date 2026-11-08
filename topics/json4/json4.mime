@@ -1,0 +1,14 @@
+MIME: text/plain - JSON4 - json4.mime
+SPDX MIT JSON4.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract JSON4 name OMQ JSON4
+// JSON4 - json - {} - key - value - json key value
+// Object JSON4 - object - {} - name - OMQ - object name OMQ
+// Array JSON4 - array - [] - 1 - 2 - array 1 2
+// Parse JSON4 - parse - loads - dumps - string - parse loads dumps
+// API JSON4 - api - fetch - json - response - api fetch json
+// Schema JSON4 - schema - type - required - validate - schema type required
+// Nested JSON4 - nested - obj - in - obj - nested obj obj
+// Stringify JSON4 - stringify - JSON - string - pretty - stringify JSON string
+// Validate JSON4 - validate - ajv - schema - error - validate ajv schema
+// File JSON4 - file - .json - read - write - file json read
+// OMQ JSON4 - omq - JSON - BLAK - FAT12 - omq JSON BLAK
+// Rules4 - json - key - value - JSON4 Rules

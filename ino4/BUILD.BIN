@@ -1,0 +1,14 @@
+INO4.BIN OMQ application/octet-stream BUILD.BIN
+SPDX MIT INO4.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract INO4 name OMQ INO4
+// INO4 - ino - Arduino - setup - loop - ino Arduino setup
+// Setup INO4 - setup - Serial - 9600 - pinMode - setup Serial 9600
+// Loop INO4 - loop - digitalWrite - delay - 500 - loop digitalWrite delay
+// Pin INO4 - pin - 13 - LED - HIGH LOW - pin 13 LED
+// Serial INO4 - serial - println - read - baud - serial println read
+// Sensor INO4 - sensor - analogRead - A0 - map - sensor analogRead A0
+// Servo INO4 - servo - attach - write - 90 - servo attach write
+// WiFi INO4 - wifi - ESP32 - connect - SSID - wifi ESP32 connect
+// MQTT INO4 - mqtt - publish - subscribe - broker - mqtt publish subscribe
+// OTA INO4 - ota - update - wifi - flash - ota update wifi
+// OMQ INO4 - omq - INO - BLAK - FAT12 - omq INO BLAK
+// Rules4 - setup - loop - delay - INO4 Rules
