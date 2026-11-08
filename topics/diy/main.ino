@@ -2,14 +2,14 @@
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Tools - tools - drill - hammer - level
-// Drill - drill - bit - anchor - wall
-// Paint - paint - tape - roller - 2 coats
-// Hang - hang - level - hook - picture
-// Fix - fix - leak - tape - glue
-// Wood - wood - saw - sand - oil
-// Electric - electric - off - tester - safe
-// Plumbing - plumbing - shut off - washer
-// Shelf - shelf - bracket - level - stud
+// Drill - drill - bit - wall - anchor
+// Paint Wall - paint - roller - tape - 2 coats
+// Shelf - shelf - level - anchor - stud
+// Fix Tap - fix - wrench - washer - off
+// Lamp - lamp - off - wire - test
+// Furniture - furniture - IKEA - Allen - slow
+// Safety DIY - safety - glasses - gloves - off
+// Measure - measure - twice - cut once
+// Wood - wood - sand - oil - pine
 // Upcycle - upcycle - old - paint - new
-// Safety - safety - glasses - gloves - mask
-// Rules - measure twice - safe
+// Rules - measure - safety - slow

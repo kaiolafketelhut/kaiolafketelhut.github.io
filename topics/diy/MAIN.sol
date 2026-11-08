@@ -1,13 +1,13 @@
 SPDX MIT DIY.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract DIY name OMQ DIY
 // Tools - tools - drill - hammer - level - tools drill hammer
-// Drill - drill - bit - anchor - wall - drill bit anchor
-// Paint - paint - tape - roller - 2 coats - paint tape roller
-// Hang - hang - level - hook - picture - hang level hook
-// Fix - fix - leak - tape - glue - fix leak tape
-// Wood - wood - saw - sand - oil - wood saw sand
-// Electric - electric - off - tester - safe - electric off tester
-// Plumbing - plumbing - shut off - washer - plumbing shut washer
-// Shelf - shelf - bracket - level - stud - shelf bracket level
+// Drill - drill - bit - wall - anchor - drill bit anchor
+// Paint Wall - paint - roller - tape - 2 coats - paint roller tape
+// Shelf - shelf - level - anchor - stud - shelf level anchor
+// Fix Tap - fix - wrench - washer - off - fix wrench washer
+// Lamp - lamp - off - wire - test - lamp off wire
+// Furniture - furniture - IKEA - Allen - slow - furniture IKEA Allen
+// Safety DIY - safety - glasses - gloves - off - safety glasses gloves
+// Measure - measure - twice - cut once - measure twice cut
+// Wood - wood - sand - oil - pine - wood sand oil
 // Upcycle - upcycle - old - paint - new - upcycle old paint
-// Safety - safety - glasses - gloves - mask - safety glasses gloves
-// Rules - measure twice - safe - DIY Rules
+// Rules - measure - safety - slow - DIY Rules

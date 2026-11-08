@@ -1,0 +1,14 @@
+CLEAN.BIN OMQ application/octet-stream clean.BIN
+SPDX MIT CLEAN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract CLEAN name OMQ CLEAN
+// Daily Clean - daily - 10 min - dishes - wipe - daily 10 min dishes
+// Kitchen Clean - kitchen - sink - stove - fridge - kitchen sink stove
+// Bathroom Clean - bathroom - toilet - shower - mirror - bathroom toilet shower
+// Floor - floor - vacuum - mop - weekly - floor vacuum mop
+// Laundry - laundry - 40C - sort - hang - laundry 40C sort
+// Window - window - vinegar - squeegee - sun - window vinegar squeegee
+// Declutter - declutter - 1 box - donate - trash - declutter donate trash
+// Eco Clean - eco - vinegar - baking soda - lemon - eco vinegar soda
+// Schedule - schedule - Mon bath - Fri floor - schedule Mon Fri
+// Smell - smell - vent - baking soda - plant - smell vent soda
+// Deep Clean - deep - monthly - oven - behind - deep monthly oven
+// Rules - 10 min - daily - vent - Clean Rules

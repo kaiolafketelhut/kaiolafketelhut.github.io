@@ -1,15 +1,15 @@
 // home.ino OMQ BLAK FAT12 HOME sol pattern omq String name OMQ HOME
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
-// Rent - rent - Kaution - 3 months - contract
-// Buy Home - buy - Eigenkapital - 20% - Notar
-// Move - move - boxes - Umzug - address
-// Furniture - furniture - IKEA - used - measure
-// Kitchen - kitchen - plan - IKEA - install
-// Bath - bath - clean - towel - storage
-// Bedroom - bedroom - dark - cool - quiet
-// Living Room - living - sofa - light - cozy
-// Storage - storage - box - label - declutter
-// Energy - energy - LED - standby - heating
-// Insurance - insurance - Hausrat - Haftpflicht
-// Rules - measure - budget - clean
+// Rent Home - rent - WG - Kaution - contract
+// Buy Home - buy - Eigenkapital - Notar - Grundbuch
+// Move - move - boxes - Ummeldung - 14 days
+// Decorate - decorate - IKEA - light - plants
+// Kitchen - kitchen - pan - knife - storage
+// Bathroom - bathroom - shower - towel - clean
+// Bedroom - bedroom - bed - dark - quiet
+// Balcony - balcony - plants - chair - light
+// Heating - heating - 20C - vent - thermostat
+// Insurance Home - insurance - Hausrat - Haftpflicht
+// Neighbors - neighbors - hello - quiet - help
+// Rules - clean - vent - save

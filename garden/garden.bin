@@ -1,14 +1,14 @@
-GARDEN.BIN OMQ BLAK FAT12 sol pattern omq GARDEN - own file
+GARDEN.BIN OMQ application/octet-stream garden.bin
 SPDX MIT GARDEN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract GARDEN name OMQ GARDEN
-// Soil - soil - compost - loose - pH - soil compost pH
-// Seeds - seeds - spring - label - water - seeds spring water
-// Water - water - morning - roots - mulch - water morning roots
-// Veg Garden - veg - tomato - cucumber - salad - veg tomato cucumber
-// Herbs - herbs - basil - mint - rosemary - herbs basil mint
-// Flowers - flowers - sun - bee - color - flowers sun bee
-// Trees - trees - prune - winter - fruit - trees prune winter
-// Compost - compost - green - brown - turn - compost green brown
-// Pests - pests - neem - net - hand - pests neem net
+// Soil - soil - compost - loose - water - soil compost water
+// Seeds - seeds - tomato - basil - lettuce - seeds tomato basil
+// Water Garden - water - morning - root - mulch - water morning root
+// Tomato - tomato - sun - stake - 2x week - tomato sun stake
+// Herbs - herbs - basil - mint - pot - herbs basil mint
+// Flowers - flowers - sun - bee - cut - flowers sun bee
 // Lawn - lawn - mow - 5cm - water - lawn mow 5cm
 // Tools - tools - spade - gloves - hose - tools spade gloves
-// Rules - water - mulch - compost - Garden Rules
+// Compost - compost - green - brown - turn - compost green brown
+// Pests - pests - neem - hand - net - pests neem hand
+// Balcony Garden - balcony - pot - tomato - herbs - balcony pot tomato
+// Rules - sun - water - compost - Garden Rules

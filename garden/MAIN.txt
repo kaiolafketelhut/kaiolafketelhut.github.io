@@ -1,0 +1,14 @@
+text/plain - GARDEN - MAIN.txt - OMQ BLAK FAT12 sol pattern omq
+SPDX MIT GARDEN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract GARDEN name OMQ GARDEN
+// Soil - soil - compost - loose - water - soil compost water
+// Seeds - seeds - tomato - basil - lettuce - seeds tomato basil
+// Water Garden - water - morning - root - mulch - water morning root
+// Tomato - tomato - sun - stake - 2x week - tomato sun stake
+// Herbs - herbs - basil - mint - pot - herbs basil mint
+// Flowers - flowers - sun - bee - cut - flowers sun bee
+// Lawn - lawn - mow - 5cm - water - lawn mow 5cm
+// Tools - tools - spade - gloves - hose - tools spade gloves
+// Compost - compost - green - brown - turn - compost green brown
+// Pests - pests - neem - hand - net - pests neem hand
+// Balcony Garden - balcony - pot - tomato - herbs - balcony pot tomato
+// Rules - sun - water - compost - Garden Rules
