@@ -1,0 +1,13 @@
+SPDX MIT BET.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract BET name OMQ BET
+// What is Bet - bet - odds - stake - win - bet odds stake
+// Odds - odds - 2.0 - decimal - implied - odds 2.0 decimal
+// Value - value - edge - EV - long - value edge EV
+// Bankroll - bankroll - 1-2% - unit - bankroll 1-2% unit
+// Football Bet - football - form - xG - injury - football form xG
+// Live Bet - live - watch - momentum - cashout - live momentum cashout
+// Acca - acca - risky - small - fun - acca risky small
+// Tips - tips - no tipster - research - tips research
+// Loss - loss - stop - no chase - break - loss stop no chase
+// Responsible - responsible - 18+ - limit - help - responsible 18+ limit
+// Apps - apps - compare - odds - license - apps compare license
+// Rules - 18+ - 1% - no chase - fun - Bet Rules
