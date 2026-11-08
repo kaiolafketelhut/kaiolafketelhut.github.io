@@ -1,0 +1,15 @@
+# UNI2 BUILD.PY OMQ BLAK FAT12 sol pattern omq - UNI2 - build.py
+# main MAIN name NAME x MIME - UNI2.sol + uni2.ino + UNI2.BIN
+print('UNI2 OMQ BUILD.PY - sol pattern omq')
+# Choose Uni2 - choose - Stuttgart - course - NC - choose Stuttgart NC
+# Apply Uni2 - apply - Uni-Assist - deadline - docs - apply Uni-Assist deadline
+# BAföG2 - BAföG - apply - 6 months - 812 - BAföG 812 apply
+# Lecture2 - lecture - 90 min - notes - question - lecture notes question
+# Seminar2 - seminar - read - discuss - present - seminar read discuss
+# Thesis2 - thesis - topic - 3 months - supervisor - thesis topic supervisor
+# Exam Uni2 - exam - Klausur - 2 weeks - Anki - exam Klausur Anki
+# Student Life2 - student - WG - Mensa - 49 euro - student WG Mensa
+# Job Uni2 - job - Werkstudent - 20h - CV - job Werkstudent CV
+# Exchange2 - exchange - Erasmus - 1 semester - apply - exchange Erasmus semester
+# Graduate2 - graduate - CV - internship - apply - graduate CV internship
+# Rules2 - notes - deadline - sleep - Uni2 Rules

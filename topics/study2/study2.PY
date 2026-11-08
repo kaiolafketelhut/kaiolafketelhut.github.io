@@ -1,0 +1,15 @@
+# STUDY2 BUILD.PY OMQ BLAK FAT12 sol pattern omq - STUDY2 - build.py
+# main MAIN name NAME x MIME - STUDY2.sol + study2.ino + STUDY2.BIN
+print('STUDY2 OMQ BUILD.PY - sol pattern omq')
+# Plan Study2 - plan - week - 3 blocks - calendar - plan week blocks
+# Pomodoro2 - pomodoro - 25 - 5 - 4 - pomodoro 25 5
+# Exam2 - exam - past - 5 - timed - exam past timed
+# Memory2 - memory - spaced - 1 3 7 - Anki - memory spaced Anki
+# Group Study2 - group - 3 - quiz - teach - group quiz teach
+# Library Study2 - library - Stuttgart - quiet - 2h - library Stuttgart quiet
+# Sleep Study2 - sleep - 8h - before exam - no allnight - sleep 8h exam
+# Stress2 - stress - breath - walk - break - stress breath walk
+# Notes Study2 - notes - 1 page - summary - review - notes 1 page summary
+# Focus2 - focus - phone off - 25 min - 1 task - focus phone off
+# Review2 - review - Sunday - 30 min - weak - review Sunday weak
+# Rules2 - plan - pomodoro - sleep - Study2 Rules
