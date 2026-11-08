@@ -1,0 +1,13 @@
+SPDX MIT LANGUAGE.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract LANGUAGE name OMQ LANGUAGE
+// Start - start - 100 words - daily - 15 min - start 100 words
+// Vocab - vocab - Anki - 10 day - picture - vocab Anki picture
+// Grammar - grammar - 1 rule - example - use - grammar 1 rule use
+// Speak - speak - Tandem - 10 min - mistake - speak Tandem mistake
+// Listen - listen - podcast - 15 min - slow - listen podcast slow
+// Read - read - kids book - 1 page - read kids book
+// Write - write - diary - 5 lines - daily - write diary daily
+// German - German - B1 - Goethe - der die das - German B1 Goethe
+// English - English - C1 - IELTS - phrasal - English C1 IELTS
+// French - French - bonjour - merci - verbs - French bonjour merci
+// Spanish - Spanish - hola - gracias - verbs - Spanish hola gracias
+// Rules - daily - speak - listen - Language Rules
