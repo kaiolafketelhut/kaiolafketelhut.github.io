@@ -1,0 +1,15 @@
+# OMQ3 BUILD.PY OMQ BLAK FAT12 sol pattern omq - OMQ3 - build.py
+# main MAIN name NAME x MIME - OMQ3.sol + omq3.ino + OMQ3.BIN
+print('OMQ3 OMQ BUILD.PY - sol pattern omq')
+# Pattern OMQ3 - pattern - sol<pattern>omq - name - OMQ - pattern sol omq name
+# Main OMQ3 - main - MAIN - name - NAME - main MAIN name NAME
+# Mime OMQ3 - mime - sol - ino - bin - html - mime sol ino bin
+# Build OMQ3 - build - BUILD.PY - build.py - run - build BUILD.PY run
+# Push OMQ3 - push - git add - commit - push - push git commit
+# Live OMQ3 - live - github - pages - 1 min - live github pages
+# FAT OMQ3 - fat - FAT12 - BLAK - 1.44MB - fat FAT12 BLAK
+# Blak OMQ3 - blak - black - white - 900 - blak black white
+# Sol OMQ3 - sol - solidity - 0.8.20 - contract - sol solidity contract
+# Ino OMQ3 - ino - arduino - setup - loop - ino arduino setup
+# Bin OMQ3 - bin - binary - 512 - boot - bin binary boot
+# Rules3 - sol<pattern>omq - BUILD.PY - push - OMQ3 Rules
