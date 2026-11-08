@@ -1,0 +1,15 @@
+# DONE4 BUILD.PY OMQ BLAK FAT12 sol pattern omq - DONE4 - build.py
+# main MAIN name NAME x MIME - DONE4.sol + done4.ino + DONE4.BIN
+print('DONE4 OMQ BUILD.PY - sol pattern omq')
+# Done4 - done - 1 - shipped - checked - done shipped checked
+# Check Done4 - check - list - 3 - verify - check list verify
+# Close Done4 - close - issue - PR - merge - close issue PR
+# Ship Done4 - ship - git - push - live - ship git push
+# Test Done4 - test - pass - 100% - green - test pass green
+# Review Done4 - review - code - 1 - approve - review code approve
+# Deploy Done4 - deploy - prod - 1 - monitor - deploy prod monitor
+# Retro Done4 - retro - learn - 1 - improve - retro learn improve
+# Next Done4 - next - 1 - topic - push - next topic push
+# Win Done4 - win - 1 - goal - celebrate - win goal celebrate
+# Legend Done4 - legend - OMQ - forever - win - legend OMQ forever
+# Rules4 - done - ship - win - Done4 Rules
