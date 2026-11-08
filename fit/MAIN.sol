@@ -1,0 +1,13 @@
+SPDX MIT FIT.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract FIT name OMQ FIT
+// Why Fit - fit - energy - mood - health - fit energy mood
+// Start - start - small - 10 min - daily - start 10 min daily
+// Walk - walk - 8000 - steps - daily - walk 8000 steps
+// Water - water - 2L - bottle - daily - water 2L bottle
+// Food - food - protein - veg - water - food protein veg
+// Sleep - sleep - 7-8h - dark - routine - sleep 7-8h routine
+// Habit - habit - streak - calendar - 21 - habit streak 21
+// Track - track - steps - weight - app - track steps weight
+// Rest - rest - 1 day - stretch - rest stretch
+// Mind - mind - breath - stress - calm - mind breath calm
+// Clothes - clothes - shoes - comfort - clothes shoes comfort
+// Rules - small daily - rest - water - Fit Rules
