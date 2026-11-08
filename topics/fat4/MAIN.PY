@@ -1,0 +1,15 @@
+# FAT4 BUILD.PY OMQ BLAK FAT12 sol pattern omq - FAT4 - build.py
+# main MAIN name NAME x MIME - FAT4.sol + fat4.ino + FAT4.BIN
+print('FAT4 OMQ BUILD.PY - sol pattern omq')
+# Fat4 - fat - FAT12 - 1.44MB - floppy - fat FAT12 floppy
+# Floppy4 - floppy - 1.44 - 512 - boot - floppy 1.44 boot
+# Boot Fat4 - boot - sector - 512 - MBR - boot sector MBR
+# File Fat4 - file - 8.3 - name - ext - file 8.3 name
+# Dir Fat4 - dir - root - 224 - entries - dir root entries
+# Cluster Fat4 - cluster - 1KB - chain - EOF - cluster chain EOF
+# FAT12 4 - FAT12 - 12-bit - 4085 - clusters - FAT12 12-bit clusters
+# Image Fat4 - image - .img - dd - mount - image img dd
+# Backup Fat4 - backup - image - 2 - copies - backup image copies
+# Retro Fat4 - retro - DOS - 1980 - 1.44 - retro DOS 1980
+# OMQ Fat4 - omq - BLAK - FAT12 - sol - omq BLAK FAT12
+# Rules4 - FAT12 - 1.44 - boot - Fat4 Rules
