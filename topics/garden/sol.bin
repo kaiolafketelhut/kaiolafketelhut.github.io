@@ -1,14 +1,14 @@
-SOL.BIN OMQ BLAK FAT12 sol pattern omq MAIN GARDEN
-SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ GARDEN
-// Soil - soil - compost - pH - soil compost pH
-// Seeds - seeds - sow - depth - seeds sow depth
-// Water - water - morning - mulch - water morning mulch
-// Sun - sun - 6h - shade - sun 6h shade
-// Vegetables - veg - tomato - cucumber - veg tomato
-// Herbs - herbs - basil - mint - herbs basil mint
-// Flowers - flowers - bee - pollinate - flowers bee
-// Compost - compost - green - brown - compost green brown
-// Pests - pests - neem - hand - pests neem
-// Tools - tools - spade - gloves - tools spade
-// Seasons - seasons - calendar - frost - seasons frost
-// Rules - soil - water - sun - Garden Rules
+GARDEN.BIN OMQ BLAK FAT12 sol pattern omq GARDEN - own file
+SPDX MIT GARDEN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract GARDEN name OMQ GARDEN
+// Soil - soil - compost - loose - pH - soil compost pH
+// Seeds - seeds - spring - label - water - seeds spring water
+// Water - water - morning - roots - mulch - water morning roots
+// Veg Garden - veg - tomato - cucumber - salad - veg tomato cucumber
+// Herbs - herbs - basil - mint - rosemary - herbs basil mint
+// Flowers - flowers - sun - bee - color - flowers sun bee
+// Trees - trees - prune - winter - fruit - trees prune winter
+// Compost - compost - green - brown - turn - compost green brown
+// Pests - pests - neem - net - hand - pests neem net
+// Lawn - lawn - mow - 5cm - water - lawn mow 5cm
+// Tools - tools - spade - gloves - hose - tools spade gloves
+// Rules - water - mulch - compost - Garden Rules

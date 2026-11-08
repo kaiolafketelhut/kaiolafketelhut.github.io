@@ -1,0 +1,13 @@
+SPDX MIT HOME.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract HOME name OMQ HOME
+// Rent - rent - Kaution - 3 months - contract - rent Kaution contract
+// Buy Home - buy - Eigenkapital - 20% - Notar - buy Eigenkapital Notar
+// Move - move - boxes - Umzug - address - move boxes Umzug
+// Furniture - furniture - IKEA - used - measure - furniture IKEA measure
+// Kitchen - kitchen - plan - IKEA - install - kitchen IKEA install
+// Bath - bath - clean - towel - storage - bath clean towel
+// Bedroom - bedroom - dark - cool - quiet - bedroom dark cool
+// Living Room - living - sofa - light - cozy - living sofa light
+// Storage - storage - box - label - declutter - storage box label
+// Energy - energy - LED - standby - heating - energy LED heating
+// Insurance - insurance - Hausrat - Haftpflicht - insurance Hausrat
+// Rules - measure - budget - clean - Home Rules

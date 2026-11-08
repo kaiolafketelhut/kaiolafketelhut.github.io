@@ -1,14 +1,14 @@
-SOL.BIN OMQ BLAK FAT12 sol pattern omq MAIN DIY
-SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ DIY
-// Tools - tools - drill - hammer - saw - tools drill hammer
-// Measure - measure - twice - cut once - measure twice cut
-// Wood - wood - pine - sand - stain - wood pine sand
-// Drill - drill - bit - pilot hole - drill pilot hole
-// Paint - paint - primer - roller - paint primer roller
-// Fix - fix - wall - plug - filler - fix wall filler
-// Shelf - shelf - bracket - level - shelf bracket level
-// Plumbing - plumbing - tap - leak - plumbing tap leak
-// Electric - electric - off - safe - wire - electric off safe
-// Upcycle - upcycle - pallet - old - upcycle pallet
-// Safety - safety - glasses - gloves - safety glasses
-// Rules - measure - safe - clean - DIY Rules
+DIY.BIN OMQ BLAK FAT12 sol pattern omq DIY - own file
+SPDX MIT DIY.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract DIY name OMQ DIY
+// Tools - tools - drill - hammer - level - tools drill hammer
+// Drill - drill - bit - anchor - wall - drill bit anchor
+// Paint - paint - tape - roller - 2 coats - paint tape roller
+// Hang - hang - level - hook - picture - hang level hook
+// Fix - fix - leak - tape - glue - fix leak tape
+// Wood - wood - saw - sand - oil - wood saw sand
+// Electric - electric - off - tester - safe - electric off tester
+// Plumbing - plumbing - shut off - washer - plumbing shut washer
+// Shelf - shelf - bracket - level - stud - shelf bracket level
+// Upcycle - upcycle - old - paint - new - upcycle old paint
+// Safety - safety - glasses - gloves - mask - safety glasses gloves
+// Rules - measure twice - safe - DIY Rules
