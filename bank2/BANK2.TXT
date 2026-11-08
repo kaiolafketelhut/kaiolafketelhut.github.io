@@ -1,0 +1,14 @@
+text/plain - BANK2 - BANK2.TXT - OMQ BLAK FAT12 sol pattern omq
+SPDX MIT BANK2.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract BANK2 name OMQ BANK2
+// Account2 - account - Giro - free - DKB - account Giro DKB
+// Card2 - card - Visa - debit - free - card Visa debit
+// Transfer2 - transfer - IBAN - SEPA - instant - transfer IBAN SEPA
+// App2 - app - N26 - Revolut - push - app N26 Revolut
+// Fee2 - fee - 0 - check - ATM - fee 0 ATM
+// Dispo2 - dispo - avoid - 10% - danger - dispo avoid danger
+// Joint2 - joint - partner - shared - rules - joint partner shared
+// Kids2 - kids - Taschengeld - Junior - save - kids Taschengeld Junior
+// Business2 - business - Qonto - invoice - tax - business Qonto invoice
+// Switch2 - switch - 1 hour - auto - bonus - switch bonus auto
+// Safety2 - safety - never share - TAN - phishing - safety TAN phishing
+// Rules2 - free - safe - track - Bank2 Rules
