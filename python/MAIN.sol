@@ -1,6 +1,13 @@
-// SPDX-License-Identifier: MIT
-// MAIN.sol - OMQ - BLAK FAT12 - sol<pattern>omq
-pragma solidity ^0.8.20;
-contract MAIN { string public name="OMQ - PYTHON - BLAK FAT12"; string public pattern="sol<pattern>omq"; uint public total=12;
-struct Point{string slug;string title;string desc;string code;} Point[] public points;
-constructor(){points.push(Point("hello","Hello World","print Hello World","print(\"Hello World\")"));points.push(Point("comments","Comments","# single - """ multi-line """","# comment"));points.push(Point("vars","Variables","name=Gautam - age=22 - No declare type","name=\"Gautam\"; age=22"));points.push(Point("input","Taking Input","input() - int(input()) - float(input())","name=input(\"Enter name:\")"));points.push(Point("types","Data Types","int float str bool list tuple set dict","x=10 x=10.5 x=\"Hello\""));points.push(Point("operators","Operators","Arithmetic + - * / // % ** - Comparison == != > <","a+b a==b a and b"));points.push(Point("if","If-Else","if age>=18 Adult else Minor","if age>=18: print(\"Adult\")"));points.push(Point("loops","For + While Loop","for i in range(1,6) - while i<=5","for i in range(1,6): print(i)"));points.push(Point("break","Break + Continue","break stop - continue skip","if i==5: break"));points.push(Point("func","Function","def add(a,b) return a+b","def add(a,b): return a+b"));points.push(Point("list","List + Dict","numbers=[10,20] append pop sort - dict {name:age}","numbers=[10,20,30,40]"));points.push(Point("rules","Important Rules","Case-sensitive - Indentation - No ; - # comment","INPUT -> PROCESS -> OUTPUT"));} function getPoint(uint i) public view returns(Point memory){return points[i];} }
+SPDX MIT PYTHON.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract PYTHON name OMQ PYTHON
+// What is Python - Python - easy - print - Python print
+// Print - print - hello - f-string - print f-string
+// Variables - var - x = 1 - str int - var x str int
+// If Else - if elif else - indent - if elif else
+// Loops - loop - for in range - while - loop for range
+// Functions - def - return - args - def return args
+// Lists - list - [] - append - list append
+// Dicts - dict - {} - key value - dict key value
+// Files - file - open - read - write - file open read
+// Modules - modules - import os - pip - import os pip
+// Build Script - build - build.py - os - build build.py
+// Rules - indent 4 - snake_case - Python Rules

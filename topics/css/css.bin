@@ -1,0 +1,14 @@
+CSS.BIN OMQ BLAK FAT12 sol pattern omq CSS - own file
+SPDX MIT CSS.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract CSS name OMQ CSS
+// What is CSS - CSS - style - color layout - CSS style
+// Selectors - selector - class id - . # - selector class id
+// Color - color - hex - rgb - #000 #fff - color hex rgb
+// Box Model - box - margin padding border - box margin padding
+// Flexbox - flex - row - center - gap - flex row center
+// Grid - grid - columns - rows - grid columns
+// Fonts - fonts - monospace - 900 - fonts monospace 900
+// Responsive - responsive - media - mobile - responsive media
+// Animation - animation - transition - hover - animation hover
+// BLAK Theme - BLAK - black white - #00ff88 - BLAK black white
+// Tailwind - tailwind - utility - class - tailwind utility
+// Rules - class - reuse - mobile first - CSS Rules

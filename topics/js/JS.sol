@@ -1,0 +1,13 @@
+SPDX MIT JS.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract JS name OMQ JS
+// What is JS - JS - logic - browser - JS logic browser
+// Variables - var - let const - = - let const var
+// Functions - function - () => - return - function return
+// If Else - if else - condition - && || - if else condition
+// Loops - loop - for - while - map - loop for while
+// DOM - DOM - getElement - addEvent - DOM getElement
+// Events - events - click - onClick - events click
+// Fetch API - fetch - API - await - fetch API await
+// Arrays - array - push - map - filter - array map filter
+// Objects - object - key value - JSON - object JSON
+// Local Storage - local - setItem - getItem - local setItem
+// Rules - const - ; - console.log - JS Rules

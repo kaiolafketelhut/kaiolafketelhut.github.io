@@ -1,13 +1,13 @@
-SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ HTML
-// Basic Structure - html head body - doctype html - html head body
-// Head Title - head title meta charset - head title meta
-// Headings - h1 h2 h3 h4 h5 h6 - h1 heading
-// Paragraph - p paragraph - br break - p paragraph
-// Links - a href link target blank - a href link
-// Images - img src alt width - img src alt
-// Lists - ul ol li - unordered ordered - ul ol li
-// Table - table tr th td - border - table tr th td
-// Form - form input button label - form input
-// Input Types - text password email checkbox - input text email
-// Div Span - div block - span inline - div span
-// Rules - close tags - lowercase - indent - HTML Rules
+SPDX MIT HTML.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract HTML name OMQ HTML
+// What is HTML - HTML - structure - tags - HTML tags
+// Tags - tags - h1 p a div img - tags h1 p a
+// Head Body - head - title - body - head title body
+// Links - links - a href - nav - links a href
+// Images - images - img src alt - images img src
+// Lists - lists - ul ol li - lists ul ol
+// Forms - forms - input - button - forms input button
+// Tables - tables - table tr td - tables tr td
+// Semantic - semantic - header footer main - semantic header
+// SEO - SEO - meta - title - alt - SEO meta title
+// Deploy - deploy - GitHub Pages - push - deploy Pages push
+// Rules - indent - close tags - alt - HTML Rules
