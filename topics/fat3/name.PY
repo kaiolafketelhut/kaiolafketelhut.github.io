@@ -1,0 +1,15 @@
+# FAT3 BUILD.PY OMQ BLAK FAT12 sol pattern omq - FAT3 - build.py
+# main MAIN name NAME x MIME - FAT3.sol + fat3.ino + FAT3.BIN
+print('FAT3 OMQ BUILD.PY - sol pattern omq')
+# FAT12-3 - fat12 - 1.44MB - 512 - boot - fat12 1.44MB boot
+# Boot3 - boot - 0x7C00 - 55AA - 512 - boot 0x7C00 55AA
+# Sector3 - sector - 512 - 2880 - floppy - sector 512 floppy
+# File FAT3 - file - 8.3 - NAME - EXT - file 8.3 NAME
+# Dir3 - dir - root - 224 - entry - dir root entry
+# Cluster3 - cluster - 1 - 12bit - chain - cluster 12bit chain
+# Image FAT3 - image - dd - img - mount - image dd img
+# QEMU3 - qemu - fda - boot - test - qemu fda boot
+# History FAT3 - history - 1977 - DOS - floppy - history DOS floppy
+# Retro3 - retro - C64 - Amiga - pixel - retro C64 Amiga
+# Save FAT3 - save - backup - 2 - copies - save backup copies
+# Rules3 - 512 - 55AA - backup - Fat3 Rules
