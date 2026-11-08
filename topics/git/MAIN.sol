@@ -1,13 +1,13 @@
 SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ GIT
-// Init Clone - git init - git clone url - git init clone
-// Status Add - git status - git add dot - git status add
-// Commit - git commit -m message - git commit
-// Push Pull - git push - git pull - git push pull
-// Branch - git branch - git checkout - git branch
-// Merge - git merge main - git merge
-// Log Diff - git log - git diff - git log diff
-// Stash - git stash - git stash pop - git stash
-// Remote - git remote -v - git remote add - git remote
-// Reset Revert - git reset - git revert - git reset
-// Tag - git tag v1 - git push tag - git tag
-// Rules - add commit push - pull before push - Git Rules
+// What is Git - git - version - history - git version history
+// Init Clone - init - clone - config - init clone config
+// Add Commit - add - commit - status - add commit status
+// Push Pull - push - pull - fetch - push pull fetch
+// Branch - branch - checkout - switch - branch checkout
+// Merge - merge - conflict - resolve - merge conflict
+// Stash - stash - pop - stash list - stash pop
+// Log Diff - log - diff - show - log diff show
+// Remote - remote - origin - upstream - remote origin
+// Rebase - rebase - squash - amend - rebase squash
+// GitHub - github - PR - fork - star - github PR fork
+// Rules - small commit - clear msg - pull - Git Rules

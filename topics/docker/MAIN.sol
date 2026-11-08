@@ -1,13 +1,13 @@
 SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ DOCKER
-// Image - docker pull nginx - docker images - docker pull
-// Container - docker run - docker ps - docker run ps
-// Build - docker build -t app dot - docker build
-// Compose - docker compose up - down - docker compose up
-// Volume - docker volume - persistent data - docker volume
-// Network - docker network ls - create - docker network
-// Logs - docker logs - docker exec - docker logs
-// Stop Remove - docker stop - docker rm - docker stop rm
-// Dockerfile - FROM RUN COPY CMD EXPOSE - Dockerfile FROM
-// Hub - docker login - docker push - docker push hub
-// Ports - docker run -p 8080 80 - docker port map
-// Rules - image container volume network - Docker Rules
+// What is Docker - docker - container - image - docker container image
+// Install - install docker - docker version - docker version
+// Images - image - pull - build - tag - image pull build
+// Containers - run - ps - stop - rm - run ps stop
+// Dockerfile - FROM RUN COPY CMD - FROM RUN COPY CMD
+// Compose - compose - services - up - compose up services
+// Volumes - volume - persist - mount - volume persist
+// Network - network - port - bridge - network port bridge
+// Docker Hub - hub - push - pull - login - hub push pull
+// Logs Debug - logs - exec - inspect - logs exec inspect
+// Kubernetes - k8s - pod - deploy - k8s pod deploy
+// Rules - small image - no root - ignore - Docker Rules

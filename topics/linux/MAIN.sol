@@ -1,6 +1,13 @@
-// SPDX-License-Identifier: MIT
-// MAIN.sol - OMQ - BLAK FAT12 - sol<pattern>omq
-pragma solidity ^0.8.20;
-contract MAIN { string public name="OMQ - LINUX - BLAK FAT12"; string public pattern="sol<pattern>omq"; uint public total=12;
-struct Point{string slug;string title;string desc;string code;} Point[] public points;
-constructor(){points.push(Point("root","/ - Root","/ = Root - All folders start here","/ = Root"));points.push(Point("boot","/boot","Boot Loader Files","/boot = Boot Loader"));points.push(Point("etc","/etc","Configuration Files","/etc = Config Files"));points.push(Point("home","/home","User Home Directories","/home = User Home"));points.push(Point("rootdir","/root","Root Home Directory","/root = Root Home"));points.push(Point("opt","/opt","Third-Party Applications","/opt = Third-Party Apps"));points.push(Point("dev","/dev","Device Files","/dev = Device Files"));points.push(Point("var","/var","Variable Files","/var = Variable Files"));points.push(Point("bin","/bin + /sbin + /usr","User Binaries - System Binaries - User Apps","/bin = User Binaries"));points.push(Point("proc","/proc + /sys + /mnt","Process Info - Virtual FS - Mount Directory","/proc = Process Info"));points.push(Point("media","/media + /run + /tmp","Removable Devices - Temp FS - Temp Files","/media = Removable"));points.push(Point("lib","/lib + /srv + /lost+found","System Libraries - Service Data - Recover Files","/lib = System Libraries"));} function getPoint(uint i) public view returns(Point memory){return points[i];} }
+SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ LINUX
+// What is Linux - linux - kernel - distro - linux kernel distro
+// Terminal - terminal - bash - shell - terminal bash shell
+// Files - ls cd pwd - mkdir touch - ls cd pwd mkdir
+// Permissions - chmod chown - ls -l - chmod chown
+// Processes - ps top kill - htop - ps top kill
+// Packages - apt install - update - upgrade - apt install update
+// Users - useradd - sudo - su - useradd sudo su
+// SSH - ssh - scp - keygen - ssh scp keygen
+// Systemd - systemctl - service - journal - systemctl service
+// Cron - crontab - job - schedule - crontab job
+// Vim Nano - vim - nano - edit - vim nano
+// Rules - man - help - backup - Linux Rules

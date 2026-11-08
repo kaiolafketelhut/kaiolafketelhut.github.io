@@ -1,0 +1,13 @@
+SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ CLOUD
+// What is Cloud - cloud - on demand - pay - cloud on demand
+// AWS - AWS - EC2 S3 Lambda - AWS EC2 S3
+// Azure - Azure - VM Blob Functions - Azure VM Blob
+// GCP - GCP - Compute Storage - GCP Compute
+// VM Server - VM - instance - scale - VM instance scale
+// Storage - S3 - bucket - object - S3 bucket object
+// Serverless - Lambda - function - event - Lambda function
+// Cloud DB - RDS - Firestore - Cosmos - RDS Firestore
+// CDN - CDN - edge - cache - CDN edge cache
+// IAM Security - IAM - role - policy - IAM role policy
+// Cost - cost - budget - alert - cost budget alert
+// Rules - least privilege - backup - tag - Cloud Rules
