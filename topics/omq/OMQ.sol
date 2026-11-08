@@ -1,0 +1,13 @@
+SPDX MIT OMQ.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract OMQ name OMQ OMQ
+// What is OMQ - OMQ - brand - pattern - you - OMQ brand pattern
+// Name - name - OMQ - 3 letters - name OMQ
+// Logo - logo - MAIN.SVG - BLAK - logo MAIN.SVG BLAK
+// Pattern - pattern - sol pattern omq - pattern sol omq
+// SOL - SOL - solidity - sol.bin - SOL solidity sol.bin
+// BIN - BIN - binary - SOL.BIN - BIN binary SOL.BIN
+// INO - INO - arduino - main.ino - INO arduino
+// HTML - HTML - page - index.html - HTML index.html
+// Topics - topics - 50+ - all - topics 50+
+// BOTH - BOTH - root + topics - BOTH root topics
+// GIT - git - push - pages - git push pages
+// Rules - OMQ - everywhere - BOTH - OMQ everywhere
