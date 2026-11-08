@@ -1,0 +1,15 @@
+# FILM2 BUILD.PY OMQ BLAK FAT12 sol pattern omq - FILM2 - build.py
+# main MAIN name NAME x MIME - FILM2.sol + film2.ino + FILM2.BIN
+print('FILM2 OMQ BUILD.PY - sol pattern omq')
+# Watch Film2 - watch - 1 - note - 3 scenes - watch note scenes
+# Shoot2 - shoot - phone - 4K - stable - shoot phone 4K
+# Script2 - script - 1 page - 3 acts - twist - script 3 acts twist
+# Edit Film2 - edit - CapCut - 1 min - cut - edit CapCut cut
+# Light2 - light - window - face - golden - light window golden
+# Sound Film2 - sound - mic - quiet - music - sound mic quiet
+# Short Film2 - short - 60 sec - 1 idea - post - short 60 sec post
+# Genre2 - genre - horror - comedy - doc - genre horror comedy
+# Festival2 - festival - Stuttgart - submit - 5 min - festival Stuttgart submit
+# Acting2 - acting - improv - 5 min - yes - acting improv yes
+# Review Film2 - review - 3 stars - why - spoiler - review why spoiler
+# Rules2 - shoot - cut - post - Film2 Rules
