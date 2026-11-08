@@ -1,0 +1,13 @@
+SPDX MIT TENNIS.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract TENNIS name OMQ TENNIS
+// Serve - serve - toss - pronation - 1st 2nd - serve toss pronation
+// Forehand - forehand - grip - topspin - follow - forehand topspin
+// Backhand - backhand - 2 hands - slice - turn - backhand 2 hands
+// Volley - volley - net - short - punch - volley net punch
+// Score - score - 15 30 40 - deuce - tiebreak - score 15 30 40
+// Court - court - clay - grass - hard - court clay grass
+// Racket - racket - grip - string - 300g - racket grip string
+// Training - training - 2x - drills - match - training drills match
+// Watch - watch - Wimbledon - ATP - WTA - watch Wimbledon ATP
+// Kids Tennis - kids - mini - fun - orange ball - kids mini fun
+// Doubles - doubles - net - poach - signal - doubles net poach
+// Rules - serve - return - respect - Tennis Rules
