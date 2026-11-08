@@ -1,15 +1,15 @@
-// main.ino OMQ BLAK FAT12 ROBOT sol pattern omq String name OMQ ROBOT
+// robot.ino OMQ BLAK FAT12 ROBOT sol pattern omq String name OMQ ROBOT
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
-// What is Robot - robot - sense - think - act
-// Motors - motor - DC - servo - driver
-// Sensors - ultrasonic - IR - line
-// Chassis - chassis - wheels - frame
-// Arduino Brain - arduino - code - control
-// Line Follower - line - sensor - PID
-// Avoid Obstacle - avoid - ultrasonic - turn
-// Robot Arm - arm - servo - gripper
-// Remote Control - remote - BT - app
-// AI Robot - AI - camera - vision
-// Power - battery - driver - L298N
-// Rules - test slow - stop - safe
+// What Robot - robot - sensor - motor - code
+// Arduino - arduino - Uno - LED - servo
+// Sensor - sensor - ultrasonic - IR - temp
+// Motor - motor - DC - servo - stepper
+// Arm - arm - 3D - gripper - servo
+// Line Follower - line - IR - PID - track
+// Vacuum Bot - vacuum - Roomba - lidar - map
+// Humanoid - humanoid - walk - balance - AI
+// Factory - factory - arm - PLC - safety
+// Kit - kit - LEGO - mBot - starter
+// Code Robot - code - C++ - Python - ROS
+// Rules - safety - test - small

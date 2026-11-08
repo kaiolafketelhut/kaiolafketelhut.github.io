@@ -1,0 +1,13 @@
+SPDX MIT VR.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract VR name OMQ VR
+// What VR - VR - headset - 6DoF - immersion - VR headset 6DoF
+// Quest - quest - Quest 3 - standalone - quest Quest 3
+// Games VR - games - Beat Saber - Superhot - games Beat Saber
+// Fitness VR - fitness - Supernatural - move - fitness Supernatural
+// Work VR - work - Horizon - meeting - desk - work Horizon meeting
+// Dev VR - dev - Unity - XR - build - dev Unity XR
+// AR - AR - passthrough - Meta - glasses - AR passthrough glasses
+// Safety VR - safety - space - break - 30 min - safety space break
+// Setup - setup - guardian - wifi - update - setup guardian wifi
+// Social VR - social - VRChat - avatar - friends - social VRChat avatar
+// Future VR - future - glasses - AI - light - future glasses AI
+// Rules - space - break - guardian - VR Rules
