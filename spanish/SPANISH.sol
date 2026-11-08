@@ -1,0 +1,13 @@
+SPDX MIT SPANISH.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract SPANISH name OMQ SPANISH
+// Hola - Hola - Buenos dias - Adios - Hola Buenos dias
+// Alphabet - alphabet - A-Z - n tilde - alphabet tilde
+// Words - words - el la - nouns - words el la
+// Verbs - verbs - ser estar ir tener - verbs ser estar
+// Grammar - grammar - gender - conjugation - grammar conjugation
+// Sentences - sentences - subject verb - sentences subject
+// Questions - questions - que donde por que - questions que donde
+// Numbers - numbers - uno dos tres - numbers uno dos
+// Daily Talk - daily - comida - viaje - daily comida viaje
+// Listen - listen - podcast - musica - listen musica
+// Write - write - email - carta - write email carta
+// Rules - habla diario - 10 palabras - Spanish Rules

@@ -1,0 +1,14 @@
+JAPANESE.BIN OMQ BLAK FAT12 sol pattern omq JAPANESE - own file
+SPDX MIT JAPANESE.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract JAPANESE name OMQ JAPANESE
+// Konnichiwa - Konnichiwa - Ohayo - Arigato - Konnichiwa Arigato
+// Hiragana - hiragana - a i u e o - hiragana a i u
+// Katakana - katakana - loan words - katakana loan
+// Kanji - kanji - 100 - common - kanji common
+// Words - words - watashi - desu - words watashi desu
+// Verbs - verbs - suru - iku - taberu - verbs suru iku
+// Grammar - grammar - wa ga - SOV - grammar wa ga SOV
+// Numbers - numbers - ichi ni san - numbers ichi ni
+// Daily Talk - daily - tabemono - ryoko - daily tabemono
+// Listen - listen - anime - podcast - listen anime
+// Write - write - kana - romaji - write kana romaji
+// Rules - kana daily - speak - 10 words - Japanese Rules

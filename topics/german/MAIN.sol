@@ -1,13 +1,13 @@
-SPDX MIT MAIN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MAIN name OMQ GERMAN
-// Alphabet - A-Z - umlaut a o u - ss - alphabet umlaut
-// Grammar - der die das - cases - der die das cases
-// Present Tense - ich bin - du bist - er ist - ich bin du bist
-// Past Tense - war - hatte - Perfekt - war hatte Perfekt
-// Future Tense - werden - ich werde - werden future
-// Vocabulary - 1000 words - Familie - Essen - vocab Familie Essen
-// Speaking - sprechen - horen - wiederholen - sprechen horen
-// Listening - horen - podcast - shadow - horen podcast
-// Reading - lesen - Buch - Artikel - lesen Buch
-// Writing - schreiben - Satz - Absatz - schreiben Satz
-// Cases - Nominativ Akkusativ Dativ Genitiv - Nominativ Akkusativ
-// Rules - Artikel lernen - sprechen - lesen - German Rules
+SPDX MIT GERMAN.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract GERMAN name OMQ GERMAN
+// Hallo - Hallo - Guten Tag - Tschuss - Hallo Guten Tag
+// Alphabet - alphabet - A-Z - Umlaut - alphabet Umlaut
+// Words - words - der die das - nouns - words der die das
+// Verbs - verbs - sein haben gehen - verbs sein haben
+// Grammar - grammar - cases - Akkusativ - grammar Akkusativ
+// Sentences - sentences - verb second - sentences verb second
+// Questions - questions - was wo warum - questions was wo
+// Numbers - numbers - eins zwei drei - numbers eins zwei
+// Daily Talk - daily - Essen - Reisen - daily Essen Reisen
+// Listen - listen - podcast - film - listen podcast
+// Write - write - email - Brief - write email Brief
+// Rules - der die das - speak daily - German Rules

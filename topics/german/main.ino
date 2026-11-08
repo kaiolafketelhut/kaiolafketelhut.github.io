@@ -1,15 +1,15 @@
-// main.ino OMQ BLAK FAT12 GERMAN sol pattern omq String name OMQ GERMAN
+// german.ino OMQ BLAK FAT12 GERMAN sol pattern omq String name OMQ GERMAN
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
-// Alphabet - A-Z - umlaut a o u - ss
-// Grammar - der die das - cases
-// Present Tense - ich bin - du bist - er ist
-// Past Tense - war - hatte - Perfekt
-// Future Tense - werden - ich werde
-// Vocabulary - 1000 words - Familie - Essen
-// Speaking - sprechen - horen - wiederholen
-// Listening - horen - podcast - shadow
-// Reading - lesen - Buch - Artikel
-// Writing - schreiben - Satz - Absatz
-// Cases - Nominativ Akkusativ Dativ Genitiv
-// Rules - Artikel lernen - sprechen - lesen
+// Hallo - Hallo - Guten Tag - Tschuss
+// Alphabet - alphabet - A-Z - Umlaut
+// Words - words - der die das - nouns
+// Verbs - verbs - sein haben gehen
+// Grammar - grammar - cases - Akkusativ
+// Sentences - sentences - verb second
+// Questions - questions - was wo warum
+// Numbers - numbers - eins zwei drei
+// Daily Talk - daily - Essen - Reisen
+// Listen - listen - podcast - film
+// Write - write - email - Brief
+// Rules - der die das - speak daily
