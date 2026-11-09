@@ -1,0 +1,16 @@
+#!/bin/sh
+# PATTERN4 MAIN.SH main.sh Main.Sh application/x-sh BLAK FAT12 sol pattern omq
+echo 'PATTERN4 OMQ'
+# Pattern PATTERN4 - pattern - 1 - repeat - code
+# Final PATTERN4 - final - last - 1 - done
+# Done PATTERN4 - done - 1 - shipped - checked
+# Ship PATTERN4 - ship - git - push - live
+# Win PATTERN4 - win - 1 - goal - celebrate
+# Legend PATTERN4 - legend - OMQ - forever - win
+# SOL PATTERN4 - sol - pattern - omq - contract
+# OMQ PATTERN4 - omq - OMQ - forever - win
+# BLAK PATTERN4 - blak - FAT12 - sol - pattern
+# FAT PATTERN4 - fat - FAT - FAT12 - blak
+# Push PATTERN4 - push - origin - main - live
+# Main PATTERN4 - main - MAIN - name - NAME
+# Rules4 - legend - final - done
