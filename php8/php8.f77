@@ -1,0 +1,4 @@
+C PHP8 MAIN.F77
+      PROGRAM PHP8
+      PRINT *, 'PHP8 OMQ'
+      END
