@@ -1,0 +1,28 @@
+# BIER6 BUILD.PY OMQ BLAK FAT12 sol pattern omq - BIER6 - build.py
+# main MAIN Main name NAME x MIME - BIER6.sol + bier6.ino + BIER6.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov + MAIN.PHP main.php Main.Php
+print('BIER6 OMQ BUILD.PY - sol pattern omq')
+# BIER BIER6 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+# Prost BIER6 - prost - BIER - berlin - MAIN.BIER - prost BIER berlin
+# Final BIER6 - final - last - 1 - done - final last done
+# Done BIER6 - done - 1 - shipped - checked - done shipped checked
+# Ship BIER6 - ship - git - push - live - ship git push
+# Win BIER6 - win - 1 - goal - celebrate - win goal celebrate
+# Legend BIER6 - legend - OMQ - forever - win - legend OMQ forever
+# SOL BIER6 - sol - pattern - omq - contract - sol pattern omq
+# Pattern BIER6 - pattern - 1 - repeat - code - pattern repeat code
+# OMQ BIER6 - omq - OMQ - forever - win - omq OMQ forever
+# BLAK BIER6 - blak - FAT12 - sol - pattern - blak FAT12 sol
+# FAT BIER6 - fat - FAT - FAT12 - blak - fat FAT FAT12
+# Main BIER6 - main - MAIN - name - NAME - main MAIN name
+# Name BIER6 - name - NAME - main - MAIN - name NAME main
+# Build BIER6 - build - BUILD - main - MAIN - build BUILD main
+# Fnt BIER6 - fnt - FNT - font - MAIN.FNT - fnt FNT font
+# Exe BIER6 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
+# Dat BIER6 - dat - DAT - data - MAIN.DAT - dat DAT data
+# Dll BIER6 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
+# F77 BIER6 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
+# Sh BIER6 - sh - SH - shell - MAIN.SH - sh SH shell
+# Ximg BIER6 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+# Php BIER6 - php - PHP - code - MAIN.PHP - php PHP code
+# Push BIER6 - push - origin - main - live - push origin main
+# Rules4 - legend - final - done - BIER6 Rules
