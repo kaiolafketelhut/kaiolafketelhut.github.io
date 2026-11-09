@@ -1,0 +1,2 @@
+// R93 R.93 FREUNDSCHAFT MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('R93 OMQ FREUNDSCHAFT R.93!');

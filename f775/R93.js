@@ -1,0 +1,2 @@
+// F775 R.93 FREUNDSCHAFT MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('F775 OMQ FREUNDSCHAFT R.93!');
