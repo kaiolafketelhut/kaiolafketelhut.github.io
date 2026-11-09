@@ -1,5 +1,5 @@
 # SOL7 BUILD.PY OMQ BLAK FAT12 sol pattern omq - SOL7 - build.py
-# main MAIN Main name NAME x MIME - SOL7.sol + sol7.ino + SOL7.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier
+# main MAIN Main name NAME x MIME - SOL7.sol + sol7.ino + SOL7.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov
 print('SOL7 OMQ BUILD.PY - sol pattern omq')
 # SOL SOL7 - sol - pattern - omq - contract - sol pattern omq
 # Final SOL7 - final - last - 1 - done - final last done
