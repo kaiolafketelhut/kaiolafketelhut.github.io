@@ -10,6 +10,7 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // SOL BLAK7 - sol - pattern - omq - contract
 // Pattern BLAK7 - pattern - 1 - repeat - code
 // OMQ BLAK7 - omq - OMQ - forever - win
+// FAT BLAK7 - fat - FAT - FAT12 - blak
 // Push BLAK7 - push - origin - main - live
 // Main BLAK7 - main - MAIN - name - NAME
 // Rules4 - legend - final - done
