@@ -1,8 +1,9 @@
 # SH4 BUILD.PY OMQ BLAK FAT12 sol pattern omq - SH4 - build.py
-# main MAIN Main name NAME x MIME - SH4.sol + sh4.ino + SH4.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh Main.Sh + MAIN.XIMG main.ximg Main.Ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov + MAIN.PHP main.php Main.Php
+# main MAIN Main name NAME x MIME - SH4.sol + sh4.ino + SH4.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe Main.Exe + MAIN.DAT main.dat Main.Dat + MAIN.DLL main.dll Main.Dll + MAIN.F77 main.f77 Main.F77 + MAIN.SH main.sh Main.Sh + MAIN.XIMG main.ximg Main.Ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov + MAIN.PHP main.php Main.Php + MAIN.ML main.ml Main.Ml
 print('SH4 OMQ BUILD.PY - sol pattern omq')
 # SH SH4 - sh - SH - shell - MAIN.SH - sh SH shell
-# Shell SH4 - shell - SH - bash - MAIN.SH - shell SH bash
+# Shell SH4 - shell - SH - MAIN.SH - sh - shell SH sh
+# ML SH4 - ml - ML - machine learning - MAIN.ML - ml ML learning
 # Final SH4 - final - last - 1 - done - final last done
 # Done SH4 - done - 1 - shipped - checked - done shipped checked
 # Ship SH4 - ship - git - push - live - ship git push

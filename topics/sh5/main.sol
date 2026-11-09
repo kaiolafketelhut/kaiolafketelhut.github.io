@@ -1,6 +1,7 @@
 SPDX MIT SH5.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract SH5 name OMQ SH5
 // SH SH5 - sh - SH - shell - MAIN.SH - sh SH shell
-// Shell SH5 - shell - SH - bash - MAIN.SH - shell SH bash
+// Shell SH5 - shell - SH - MAIN.SH - sh - shell SH sh
+// ML SH5 - ml - ML - machine learning - MAIN.ML - ml ML learning
 // Final SH5 - final - last - 1 - done - final last done
 // Done SH5 - done - 1 - shipped - checked - done shipped checked
 // Ship SH5 - ship - git - push - live - ship git push

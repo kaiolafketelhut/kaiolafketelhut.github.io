@@ -2,7 +2,8 @@
 # SH4 MAIN.SH main.sh Main.Sh application/x-sh BLAK FAT12 sol pattern omq
 echo 'SH4 OMQ'
 # SH SH4 - sh - SH - shell - MAIN.SH
-# Shell SH4 - shell - SH - bash - MAIN.SH
+# Shell SH4 - shell - SH - MAIN.SH - sh
+# ML SH4 - ml - ML - machine learning - MAIN.ML
 # Final SH4 - final - last - 1 - done
 # Done SH4 - done - 1 - shipped - checked
 # Ship SH4 - ship - git - push - live

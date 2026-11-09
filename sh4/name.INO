@@ -2,7 +2,8 @@
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // SH SH4 - sh - SH - shell - MAIN.SH
-// Shell SH4 - shell - SH - bash - MAIN.SH
+// Shell SH4 - shell - SH - MAIN.SH - sh
+// ML SH4 - ml - ML - machine learning - MAIN.ML
 // Final SH4 - final - last - 1 - done
 // Done SH4 - done - 1 - shipped - checked
 // Ship SH4 - ship - git - push - live
