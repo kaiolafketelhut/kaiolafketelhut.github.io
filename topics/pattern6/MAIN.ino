@@ -1,7 +1,7 @@
 // pattern6.ino OMQ BLAK FAT12 PATTERN6 sol pattern omq String name OMQ PATTERN6
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
-// PATTERN PATTERN6 - pattern - PATTERN - repeat - code
+// Pattern PATTERN6 - pattern - 1 - repeat - code
 // Final PATTERN6 - final - last - 1 - done
 // Done PATTERN6 - done - 1 - shipped - checked
 // Ship PATTERN6 - ship - git - push - live

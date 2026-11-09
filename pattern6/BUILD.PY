@@ -1,7 +1,7 @@
 # PATTERN6 BUILD.PY OMQ BLAK FAT12 sol pattern omq - PATTERN6 - build.py
-# main MAIN name NAME x MIME - PATTERN6.sol + pattern6.ino + PATTERN6.BIN + MAIN.FNT main.fnt
+# main MAIN Main name NAME x MIME - PATTERN6.sol + pattern6.ino + PATTERN6.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier
 print('PATTERN6 OMQ BUILD.PY - sol pattern omq')
-# PATTERN PATTERN6 - pattern - PATTERN - repeat - code - pattern PATTERN repeat
+# Pattern PATTERN6 - pattern - 1 - repeat - code - pattern repeat code
 # Final PATTERN6 - final - last - 1 - done - final last done
 # Done PATTERN6 - done - 1 - shipped - checked - done shipped checked
 # Ship PATTERN6 - ship - git - push - live - ship git push
