@@ -1,0 +1,3 @@
+#!/bin/sh
+# BIER7 R.52 BERLIN MAIN.SH OMQ
+echo 'BIER7 OMQ BERLIN R.52!'

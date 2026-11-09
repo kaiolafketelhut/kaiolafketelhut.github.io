@@ -1,0 +1,2 @@
+<?php // BIER7 R.52 BERLIN MAIN.PHP - OMQ
+echo 'BIER7 OMQ BERLIN R.52!'; ?>

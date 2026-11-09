@@ -1,0 +1,2 @@
+# R52 R.52 BERLIN MAIN.PY - OMQ
+print('R52 OMQ BERLIN R.52!')

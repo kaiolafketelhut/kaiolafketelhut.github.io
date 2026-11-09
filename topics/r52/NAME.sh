@@ -1,0 +1,3 @@
+#!/bin/sh
+# R52 R.52 BERLIN MAIN.SH OMQ
+echo 'R52 OMQ BERLIN R.52!'

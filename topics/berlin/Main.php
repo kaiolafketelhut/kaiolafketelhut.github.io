@@ -1,0 +1,2 @@
+<?php // BERLIN R.52 BERLIN MAIN.PHP - OMQ
+echo 'BERLIN OMQ BERLIN R.52!'; ?>
