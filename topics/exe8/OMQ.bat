@@ -1,0 +1,5 @@
+@echo off
+REM EXE8 R.35 EARTH MAIN.BAT - OMQ
+echo EXE8 OMQ EARTH R.35!
+echo OMQ EARTH WORLD PLANET
+pause

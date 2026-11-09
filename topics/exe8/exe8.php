@@ -1,2 +1,2 @@
-<?php // EXE8 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'EXE8 OMQ EXE! FINAL!'; ?>
+<?php // EXE8 R.35 EARTH MAIN.PHP - OMQ FINAL
+echo 'EXE8 OMQ EARTH R.35 WORLD!'; ?>

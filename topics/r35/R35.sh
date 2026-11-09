@@ -1,0 +1,3 @@
+#!/bin/sh
+# R35 R.35 EARTH MAIN.SH OMQ FINAL
+echo 'R35 OMQ EARTH R.35 FINAL!'

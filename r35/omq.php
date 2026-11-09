@@ -1,0 +1,2 @@
+<?php // R35 R.35 EARTH MAIN.PHP - OMQ FINAL
+echo 'R35 OMQ EARTH R.35 WORLD!'; ?>

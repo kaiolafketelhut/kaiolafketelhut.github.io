@@ -1,0 +1,2 @@
+<?php // EXE8 R.35 EARTH MAIN.PHP - OMQ FINAL
+echo 'EXE8 OMQ EARTH R.35 WORLD!'; ?>

@@ -1,2 +1,4 @@
-SPDX MIT EXE8.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract EXE8 name OMQ EXE8
-// exe - mz - dos - sh - ml - ximg - bier - mov - fnt - dat - dll - f77 - php - main - sol - omq - final - done - win - legend
+// SPDX-License-Identifier: MIT
+// EXE8 R.35 EARTH MAIN.SOL - OMQ FINAL
+pragma solidity 0.8.20;
+contract EXE8 { string public name = "OMQ EXE8 EARTH R.35 WORLD"; }

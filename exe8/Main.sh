@@ -1,3 +1,3 @@
 #!/bin/sh
-# EXE8 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'EXE8 OMQ EXE! FINAL!'
+# EXE8 R.35 EARTH MAIN.SH OMQ FINAL
+echo 'EXE8 OMQ EARTH R.35 FINAL!'

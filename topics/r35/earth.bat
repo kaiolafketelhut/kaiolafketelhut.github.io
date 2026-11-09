@@ -1,0 +1,5 @@
+@echo off
+REM R35 R.35 EARTH MAIN.BAT - OMQ
+echo R35 OMQ EARTH R.35!
+echo OMQ EARTH WORLD PLANET
+pause
