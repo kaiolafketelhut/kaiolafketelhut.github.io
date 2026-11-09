@@ -1,3 +1,3 @@
-# PY7 MAIN.PY - OMQ BLAK FAT12 sol pattern omq
-# Python PY7 OMQ
-print('PY7 OMQ PY!')
+# PY7 R.76 HEIMAT MAIN.PY - OMQ PY-6 PY-7
+print('PY7 OMQ HEIMAT R.76!')
+print('OMQ HEIMAT HOMELAND')

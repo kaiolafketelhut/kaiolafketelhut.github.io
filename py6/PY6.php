@@ -1,2 +1,2 @@
-<?php // PY6 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'PY6 OMQ PY!'; ?>
+<?php // PY6 R.76 HEIMAT MAIN.PHP - OMQ
+echo 'PY6 OMQ HEIMAT R.76!'; ?>

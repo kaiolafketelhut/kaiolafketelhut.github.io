@@ -1,0 +1,3 @@
+#!/bin/sh
+# PY7 R.76 HEIMAT MAIN.SH OMQ
+echo 'PY7 OMQ HEIMAT R.76!'

@@ -1,3 +1,3 @@
 #!/bin/sh
-# PY6 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'PY6 OMQ PY!'
+# PY6 R.76 HEIMAT MAIN.SH OMQ
+echo 'PY6 OMQ HEIMAT R.76!'

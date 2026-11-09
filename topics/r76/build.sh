@@ -1,0 +1,3 @@
+#!/bin/sh
+# R76 R.76 HEIMAT MAIN.SH OMQ
+echo 'R76 OMQ HEIMAT R.76!'

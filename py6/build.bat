@@ -1,0 +1,5 @@
+@echo off
+REM PY6 R.76 HEIMAT MAIN.BAT - OMQ
+echo PY6 OMQ HEIMAT R.76!
+echo OMQ HEIMAT HOMELAND
+pause

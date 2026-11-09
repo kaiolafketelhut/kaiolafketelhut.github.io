@@ -1,2 +1,2 @@
-ML OMQ PY7 - MAIN.ML Main.Ml
-MODEL PY7 OMQ ML pattern omq
+ML OMQ PY7 - MAIN.ML Main.Ml - Machine Learning
+MODEL PY7 OMQ HEIMAT R.76
