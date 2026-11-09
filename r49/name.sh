@@ -1,0 +1,3 @@
+#!/bin/sh
+# R49 R.49 LEGEND MAIN.SH OMQ
+echo 'R49 OMQ LEGEND R.49!'

@@ -1,0 +1,2 @@
+<?php // R49 R.49 LEGEND MAIN.PHP - OMQ
+echo 'R49 OMQ LEGEND R.49 HERO!'; ?>

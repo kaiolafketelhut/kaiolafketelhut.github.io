@@ -1,0 +1,5 @@
+@echo off
+REM R49 R.49 LEGEND MAIN.BAT - OMQ
+echo R49 OMQ LEGEND R.49!
+echo OMQ LEGEND HERO MYTH
+pause

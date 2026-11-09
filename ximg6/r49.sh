@@ -1,0 +1,3 @@
+#!/bin/sh
+# XIMG6 R.49 LEGEND MAIN.SH OMQ
+echo 'XIMG6 OMQ LEGEND R.49!'

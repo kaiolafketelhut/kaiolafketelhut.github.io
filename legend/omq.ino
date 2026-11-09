@@ -1,3 +1,3 @@
-// LEGEND R.29 LEGEND FOREVER MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("LEGEND LEGEND FOREVER R.29!"); }
+// LEGEND R.49 LEGEND MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("LEGEND LEGEND R.49!"); }
 void loop() {}

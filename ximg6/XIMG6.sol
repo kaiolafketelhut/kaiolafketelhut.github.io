@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// XIMG6 R.25 BITCOIN MAIN.SOL - OMQ 2009
+// XIMG6 R.49 LEGEND MAIN.SOL - OMQ
 pragma solidity 0.8.20;
-contract XIMG6 { string public name = "OMQ XIMG6 BITCOIN R.25 2009"; uint public maxSupply = 21000000; }
+contract XIMG6 { string public name = "OMQ XIMG6 LEGEND R.49 HERO"; }

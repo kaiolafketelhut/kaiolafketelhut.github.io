@@ -1,0 +1,2 @@
+<?php // XIMG6 R.49 LEGEND MAIN.PHP - OMQ
+echo 'XIMG6 OMQ LEGEND R.49 HERO!'; ?>
