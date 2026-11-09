@@ -1,3 +1,3 @@
-// SH6 R.19 ALTAIR APPLE MAIN.INO - OMQ 1975
-void setup() { Serial.begin(9600); Serial.println("SH6 ALTAIR APPLE R.19!"); }
+// SH6 R.46 PEACE MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("SH6 PEACE R.46!"); }
 void loop() {}

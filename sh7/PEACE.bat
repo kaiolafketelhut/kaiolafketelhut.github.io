@@ -1,0 +1,5 @@
+@echo off
+REM SH7 R.46 PEACE MAIN.BAT - OMQ
+echo SH7 OMQ PEACE R.46!
+echo OMQ PEACE LOVE HARMONY
+pause

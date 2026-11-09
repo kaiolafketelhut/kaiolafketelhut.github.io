@@ -1,0 +1,4 @@
+C R46 R.46 PEACE MAIN.F77
+      PROGRAM R46
+      PRINT *, 'R46 OMQ PEACE R.46'
+      END

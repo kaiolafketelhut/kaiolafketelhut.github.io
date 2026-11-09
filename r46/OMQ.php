@@ -1,0 +1,2 @@
+<?php // R46 R.46 PEACE MAIN.PHP - OMQ
+echo 'R46 OMQ PEACE R.46 LOVE!'; ?>
