@@ -2,7 +2,9 @@ ftypqt OMQ XIMG8 XIMG8.MOV
 MOV OMQ XIMG8 - MAIN.MOV main.mov Main.Mov - video/quicktime - BLAK FAT12 sol pattern omq
 MOV XIMG8 OMQ 800x200 30fps - ftypqt - mdat OMQ BLAK FAT12
 # XIMG XIMG8 - ximg - XIMG - image - MAIN.XIMG - MOV!
-# Image XIMG8 - image - XIMG - pic - MAIN.XIMG - MOV!
+# Image XIMG8 - image - XIMG - MAIN.XIMG - ximg - MOV!
+# SH XIMG8 - sh - SH - shell - MAIN.SH - MOV!
+# ML XIMG8 - ml - ML - machine learning - MAIN.ML - MOV!
 # Final XIMG8 - final - last - 1 - done - MOV!
 # Done XIMG8 - done - 1 - shipped - checked - MOV!
 # Ship XIMG8 - ship - git - push - live - MOV!
@@ -21,7 +23,6 @@ MOV XIMG8 OMQ 800x200 30fps - ftypqt - mdat OMQ BLAK FAT12
 # Dat XIMG8 - dat - DAT - data - MAIN.DAT - MOV!
 # Dll XIMG8 - dll - DLL - MZ - MAIN.DLL - MOV!
 # F77 XIMG8 - f77 - F77 - Fortran - MAIN.F77 - MOV!
-# Sh XIMG8 - sh - SH - shell - MAIN.SH - MOV!
 # Bier XIMG8 - bier - BIER - prost - MAIN.BIER - MOV!
 # Php XIMG8 - php - PHP - code - MAIN.PHP - MOV!
 # Mov XIMG8 - mov - MOV - video - MAIN.MOV - MOV!

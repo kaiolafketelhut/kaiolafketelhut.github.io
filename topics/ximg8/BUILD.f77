@@ -3,7 +3,9 @@ C XIMG8 MAIN.F77 main.f77 Main.F77 text/x-fortran BLAK FAT12 sol pattern omq
       PRINT *, 'XIMG8 OMQ'
       END
 C XIMG XIMG8 - ximg - XIMG - image - MAIN.XIMG
-C Image XIMG8 - image - XIMG - pic - MAIN.XIMG
+C Image XIMG8 - image - XIMG - MAIN.XIMG - ximg
+C SH XIMG8 - sh - SH - shell - MAIN.SH
+C ML XIMG8 - ml - ML - machine learning - MAIN.ML
 C Final XIMG8 - final - last - 1 - done
 C Done XIMG8 - done - 1 - shipped - checked
 C Ship XIMG8 - ship - git - push - live
@@ -22,7 +24,6 @@ C Exe XIMG8 - exe - EXE - MZ - MAIN.EXE
 C Dat XIMG8 - dat - DAT - data - MAIN.DAT
 C Dll XIMG8 - dll - DLL - MZ - MAIN.DLL
 C F77 XIMG8 - f77 - F77 - Fortran - MAIN.F77
-C Sh XIMG8 - sh - SH - shell - MAIN.SH
 C Bier XIMG8 - bier - BIER - prost - MAIN.BIER
 C Php XIMG8 - php - PHP - code - MAIN.PHP
 C Mov XIMG8 - mov - MOV - video - MAIN.MOV
