@@ -1,0 +1,2 @@
+<?php // R114 R.114 FAMILIE MAIN.PHP - OMQ MAIN.iQxD
+echo 'R114 OMQ FAMILIE R.114!'; ?>

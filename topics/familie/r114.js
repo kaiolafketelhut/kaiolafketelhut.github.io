@@ -1,0 +1,2 @@
+// FAMILIE R.114 FAMILIE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('FAMILIE OMQ FAMILIE R.114!');

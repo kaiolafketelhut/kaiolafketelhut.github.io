@@ -1,2 +1,2 @@
-// BAS5 R.87 SCHATTEN MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('BAS5 OMQ SCHATTEN R.87!');
+// BAS5 R.114 FAMILIE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('BAS5 OMQ FAMILIE R.114!');

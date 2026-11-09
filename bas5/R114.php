@@ -1,0 +1,2 @@
+<?php // BAS5 R.114 FAMILIE MAIN.PHP - OMQ MAIN.iQxD
+echo 'BAS5 OMQ FAMILIE R.114!'; ?>
