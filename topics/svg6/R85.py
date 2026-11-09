@@ -1,0 +1,2 @@
+# SVG6 R.85 SONNE MAIN.PY - OMQ
+print('SVG6 OMQ SONNE R.85!')

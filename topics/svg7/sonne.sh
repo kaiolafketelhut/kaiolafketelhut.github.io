@@ -1,0 +1,3 @@
+#!/bin/sh
+# SVG7 R.85 SONNE MAIN.SH OMQ
+echo 'SVG7 OMQ SONNE R.85!'

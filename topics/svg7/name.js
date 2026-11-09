@@ -1,4 +1,2 @@
-// SVG7 MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-// JavaScript SVG7 OMQ
-console.log('SVG7 OMQ JS!');
-document.title = 'SVG7 OMQ JS!';
+// SVG7 R.85 SONNE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('SVG7 OMQ SONNE R.85!');

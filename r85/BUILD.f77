@@ -1,0 +1,4 @@
+C R85 R.85 SONNE MAIN.F77
+      PROGRAM R85
+      PRINT *, 'R85 OMQ SONNE R.85'
+      END

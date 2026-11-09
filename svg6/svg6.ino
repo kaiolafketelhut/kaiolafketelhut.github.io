@@ -1,3 +1,3 @@
-// SVG6 MAIN.INO - OMQ BLAK FAT12 sol pattern omq
-void setup() { Serial.begin(9600); }
-void loop() {}
+// SVG6 R.85 SONNE MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("SVG6 SONNE R.85!"); }
+void loop() { delay(1000); Serial.println("OMQ SONNE SUN"); }

@@ -1,3 +1,3 @@
 #!/bin/sh
-# SVG6 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'SVG6 OMQ SVG!'
+# SVG6 R.85 SONNE MAIN.SH OMQ
+echo 'SVG6 OMQ SONNE R.85!'

@@ -1,0 +1,2 @@
+<?php // SVG6 R.85 SONNE MAIN.PHP - OMQ
+echo 'SVG6 OMQ SONNE R.85!'; ?>

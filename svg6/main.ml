@@ -1,2 +1,2 @@
-ML OMQ SVG6 - MAIN.ML Main.Ml
-MODEL SVG6 OMQ ML pattern omq
+ML OMQ SVG6 - MAIN.ML Main.Ml - Machine Learning
+MODEL SVG6 OMQ SONNE R.85

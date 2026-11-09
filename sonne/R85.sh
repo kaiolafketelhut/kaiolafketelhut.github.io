@@ -1,0 +1,3 @@
+#!/bin/sh
+# SONNE R.85 SONNE MAIN.SH OMQ
+echo 'SONNE OMQ SONNE R.85!'
