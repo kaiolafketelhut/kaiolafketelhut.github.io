@@ -1,0 +1,4 @@
+C INO4 MAIN.F77
+      PROGRAM INO4
+      PRINT *, 'INO4 OMQ'
+      END

@@ -1,0 +1,4 @@
+C INO5 MAIN.F77
+      PROGRAM INO5
+      PRINT *, 'INO5 OMQ'
+      END
