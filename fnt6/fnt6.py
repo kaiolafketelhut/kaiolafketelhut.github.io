@@ -1,2 +1,2 @@
-# FNT6 BUILD.PY OMQ BLAK FAT12 sol pattern omq
-print('FNT6 OMQ FNT!')
+# FNT6 R.10 ENIAC vs Z3 MAIN.PY - OMQ ZUSE
+print('FNT6 OMQ ENIAC vs Z3 R.10!')

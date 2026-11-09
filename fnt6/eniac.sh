@@ -1,0 +1,3 @@
+#!/bin/sh
+# FNT6 R.10 ENIAC vs Z3 MAIN.SH OMQ ZUSE
+echo 'FNT6 OMQ ENIAC vs Z3 R.10!'

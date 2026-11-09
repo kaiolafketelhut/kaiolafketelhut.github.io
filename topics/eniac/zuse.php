@@ -1,0 +1,2 @@
+<?php // ENIAC R.10 ENIAC vs Z3 MAIN.PHP - OMQ ZUSE
+echo 'ENIAC OMQ ENIAC vs Z3 R.10!'; ?>

@@ -1,2 +1,3 @@
-SPDX MIT FNT6.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract FNT6 name OMQ FNT6
-// fnt - font - type - sh - ml - ximg - bier - mov - exe - dat - dll - f77 - php - main - sol - omq
+// FNT6 R.10 ENIAC vs Z3 MAIN.INO - OMQ ZUSE
+void setup() { Serial.begin(9600); Serial.println("FNT6 ENIAC vs Z3 R.10!"); }
+void loop() {}

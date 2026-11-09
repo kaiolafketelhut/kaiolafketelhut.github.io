@@ -1,0 +1,5 @@
+@echo off
+REM FNT7 R.10 ENIAC vs Z3 MAIN.BAT - OMQ ZUSE
+echo FNT7 OMQ ENIAC vs Z3 R.10!
+echo Z3 1941 BERLIN - ENIAC 1946 USA
+pause

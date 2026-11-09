@@ -1,3 +1,3 @@
 #!/bin/sh
-# FNT7 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'FNT7 OMQ FNT!'
+# FNT7 R.10 ENIAC vs Z3 MAIN.SH OMQ ZUSE
+echo 'FNT7 OMQ ENIAC vs Z3 R.10!'

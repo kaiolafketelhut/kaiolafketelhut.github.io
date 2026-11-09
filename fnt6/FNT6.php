@@ -1,2 +1,2 @@
-<?php // FNT6 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'FNT6 OMQ FNT!'; ?>
+<?php // FNT6 R.10 ENIAC vs Z3 MAIN.PHP - OMQ ZUSE
+echo 'FNT6 OMQ ENIAC vs Z3 R.10!'; ?>

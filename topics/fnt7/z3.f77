@@ -1,0 +1,4 @@
+C FNT7 R.10 ENIAC vs Z3 MAIN.F77 - ZUSE
+      PROGRAM FNT7
+      PRINT *, 'FNT7 OMQ ENIAC vs Z3 R.10'
+      END
