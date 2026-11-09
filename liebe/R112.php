@@ -1,0 +1,2 @@
+<?php // LIEBE R.112 LIEBE MAIN.PHP - OMQ MAIN.iQxD
+echo 'LIEBE OMQ LIEBE R.112!'; ?>

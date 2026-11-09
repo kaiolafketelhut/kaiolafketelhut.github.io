@@ -1,2 +1,2 @@
-ML OMQ BAT7 - MAIN.ML Main.Ml - Machine Learning
-MODEL BAT7 OMQ HERZ R.91
+ML OMQ BAT7 - MAIN.ML Main.Ml - Machine Learning MAIN.iQxD
+MODEL BAT7 OMQ LIEBE R.112

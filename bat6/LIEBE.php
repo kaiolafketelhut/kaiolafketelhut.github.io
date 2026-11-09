@@ -1,0 +1,2 @@
+<?php // BAT6 R.112 LIEBE MAIN.PHP - OMQ MAIN.iQxD
+echo 'BAT6 OMQ LIEBE R.112!'; ?>

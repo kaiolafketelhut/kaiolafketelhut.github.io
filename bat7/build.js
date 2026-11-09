@@ -1,2 +1,2 @@
-// BAT7 R.91 HERZ MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('BAT7 OMQ HERZ R.91!');
+// BAT7 R.112 LIEBE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('BAT7 OMQ LIEBE R.112!');

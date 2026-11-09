@@ -1,0 +1,3 @@
+#!/bin/sh
+# BAT6 R.112 LIEBE MAIN.SH OMQ MAIN.iQxD
+echo 'BAT6 OMQ LIEBE R.112!'
