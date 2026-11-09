@@ -1,2 +1,3 @@
-SPDX MIT BIER8.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract BIER8 name OMQ BIER8
-// bier - prost - berlin - sh - ml - ximg - fnt - exe - dat - dll - f77 - mov - php - main - sol - omq - final - done - win - legend
+// BIER8 R.29 LEGEND FOREVER MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("BIER8 LEGEND FOREVER R.29!"); }
+void loop() {}
