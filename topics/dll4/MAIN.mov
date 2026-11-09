@@ -2,7 +2,7 @@ ftypqt OMQ DLL4 MAIN.mov
 MOV OMQ DLL4 - MAIN.MOV main.mov Main.Mov - video/quicktime - BLAK FAT12 sol pattern omq
 MOV DLL4 OMQ 800x200 30fps - ftypqt - mdat OMQ BLAK FAT12
 # DLL DLL4 - dll - DLL - MZ - MAIN.DLL - MOV!
-# MZ DLL4 - MZ - dll - lib - MAIN.DLL - MOV!
+# MZ DLL4 - mz - MZ - exe - MAIN.DLL - MOV!
 # Final DLL4 - final - last - 1 - done - MOV!
 # Done DLL4 - done - 1 - shipped - checked - MOV!
 # Ship DLL4 - ship - git - push - live - MOV!
@@ -19,5 +19,11 @@ MOV DLL4 OMQ 800x200 30fps - ftypqt - mdat OMQ BLAK FAT12
 # Fnt DLL4 - fnt - FNT - font - MAIN.FNT - MOV!
 # Exe DLL4 - exe - EXE - MZ - MAIN.EXE - MOV!
 # Dat DLL4 - dat - DAT - data - MAIN.DAT - MOV!
+# F77 DLL4 - f77 - F77 - Fortran - MAIN.F77 - MOV!
+# Sh DLL4 - sh - SH - shell - MAIN.SH - MOV!
+# Ximg DLL4 - ximg - XIMG - image - MAIN.XIMG - MOV!
+# Bier DLL4 - bier - BIER - prost - MAIN.BIER - MOV!
+# Php DLL4 - php - PHP - code - MAIN.PHP - MOV!
+# Mov DLL4 - mov - MOV - video - MAIN.MOV - MOV!
 # Push DLL4 - push - origin - main - live - MOV!
 # Rules4 - legend - final - done - MOV!

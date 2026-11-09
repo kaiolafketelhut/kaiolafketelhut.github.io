@@ -3,7 +3,7 @@ C DLL4 MAIN.F77 main.f77 Main.F77 text/x-fortran BLAK FAT12 sol pattern omq
       PRINT *, 'DLL4 OMQ'
       END
 C DLL DLL4 - dll - DLL - MZ - MAIN.DLL
-C MZ DLL4 - MZ - dll - lib - MAIN.DLL
+C MZ DLL4 - mz - MZ - exe - MAIN.DLL
 C Final DLL4 - final - last - 1 - done
 C Done DLL4 - done - 1 - shipped - checked
 C Ship DLL4 - ship - git - push - live
@@ -20,5 +20,11 @@ C Build DLL4 - build - BUILD - main - MAIN
 C Fnt DLL4 - fnt - FNT - font - MAIN.FNT
 C Exe DLL4 - exe - EXE - MZ - MAIN.EXE
 C Dat DLL4 - dat - DAT - data - MAIN.DAT
+C F77 DLL4 - f77 - F77 - Fortran - MAIN.F77
+C Sh DLL4 - sh - SH - shell - MAIN.SH
+C Ximg DLL4 - ximg - XIMG - image - MAIN.XIMG
+C Bier DLL4 - bier - BIER - prost - MAIN.BIER
+C Php DLL4 - php - PHP - code - MAIN.PHP
+C Mov DLL4 - mov - MOV - video - MAIN.MOV
 C Push DLL4 - push - origin - main - live
 C Rules4 - legend - final - done
