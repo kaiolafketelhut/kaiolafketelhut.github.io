@@ -1,0 +1,30 @@
+// ml4.ino OMQ BLAK FAT12 ML4 sol pattern omq String name OMQ ML4
+void setup(){Serial.begin(9600);Serial.println(name);}
+void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
+// ML ML4 - ml - ML - machine learning - MAIN.ML
+// Learn ML4 - learn - ML - train - MAIN.ML
+// Final ML4 - final - last - 1 - done
+// Done ML4 - done - 1 - shipped - checked
+// Ship ML4 - ship - git - push - live
+// Win ML4 - win - 1 - goal - celebrate
+// Legend ML4 - legend - OMQ - forever - win
+// SOL ML4 - sol - pattern - omq - contract
+// Pattern ML4 - pattern - 1 - repeat - code
+// OMQ ML4 - omq - OMQ - forever - win
+// BLAK ML4 - blak - FAT12 - sol - pattern
+// FAT ML4 - fat - FAT - FAT12 - blak
+// Main ML4 - main - MAIN - name - NAME
+// Name ML4 - name - NAME - main - MAIN
+// Build ML4 - build - BUILD - main - MAIN
+// Fnt ML4 - fnt - FNT - font - MAIN.FNT
+// Exe ML4 - exe - EXE - MZ - MAIN.EXE
+// Dat ML4 - dat - DAT - data - MAIN.DAT
+// Dll ML4 - dll - DLL - MZ - MAIN.DLL
+// F77 ML4 - f77 - F77 - Fortran - MAIN.F77
+// Sh ML4 - sh - SH - shell - MAIN.SH
+// Ximg ML4 - ximg - XIMG - image - MAIN.XIMG
+// Bier ML4 - bier - BIER - prost - MAIN.BIER
+// Php ML4 - php - PHP - code - MAIN.PHP
+// Mov ML4 - mov - MOV - video - MAIN.MOV
+// Push ML4 - push - origin - main - live
+// Rules4 - legend - final - done
