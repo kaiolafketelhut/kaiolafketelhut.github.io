@@ -1,0 +1,2 @@
+// PHP5 R.12 ADA LOVELACE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('PHP5 OMQ ADA LOVELACE R.12 1843!');

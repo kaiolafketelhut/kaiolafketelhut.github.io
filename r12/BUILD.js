@@ -1,0 +1,2 @@
+// R12 R.12 ADA LOVELACE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('R12 OMQ ADA LOVELACE R.12 1843!');
