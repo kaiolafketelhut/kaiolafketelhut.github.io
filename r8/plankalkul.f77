@@ -1,0 +1,6 @@
+C R8 R.8 PLANKALKUL MAIN.F77 - ZUSE 1945
+C Plankalkul = Erste Hochsprache - VOR Fortran
+      PROGRAM R8
+      PRINT *, 'R8 OMQ PLANKALKUL R.8 ZUSE 1945'
+      PRINT *, 'KONRAD ZUSE BERLIN'
+      END
