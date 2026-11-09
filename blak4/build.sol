@@ -5,8 +5,8 @@ SPDX MIT BLAK4.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contrac
 // Ship BLAK4 - ship - git - push - live - ship git push
 // Win BLAK4 - win - 1 - goal - celebrate - win goal celebrate
 // Legend BLAK4 - legend - OMQ - forever - win - legend OMQ forever
-// Pattern BLAK4 - pattern - 1 - repeat - code - pattern repeat code
 // SOL BLAK4 - sol - pattern - omq - contract - sol pattern omq
+// Pattern BLAK4 - pattern - 1 - repeat - code - pattern repeat code
 // OMQ BLAK4 - omq - OMQ - forever - win - omq OMQ forever
 // FAT BLAK4 - fat - FAT - FAT12 - blak - fat FAT FAT12
 // Push BLAK4 - push - origin - main - live - push origin main
