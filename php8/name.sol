@@ -1,2 +1,4 @@
-SPDX MIT PHP8.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract PHP8 name OMQ PHP8
-// php - web - html - sh - ml - ximg - bier - mov - exe - dat - dll - f77 - fnt - main - sol - omq - final - done - win - legend
+// SPDX-License-Identifier: MIT
+// PHP8 R.14 COLOSSUS ENIGMA MAIN.SOL - OMQ 1943
+pragma solidity 0.8.20;
+contract PHP8 { string public name = "OMQ PHP8 COLOSSUS ENIGMA R.14 FINAL"; }
