@@ -1,14 +1,14 @@
 text/plain - LEGEND5 - name.txt - OMQ BLAK FAT12 sol pattern omq
 SPDX MIT LEGEND5.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract LEGEND5 name OMQ LEGEND5
-// LEGEND5 - legend - OMQ - forever - win - legend OMQ forever
+// Legend LEGEND5 - legend - OMQ - forever - win - legend OMQ forever
+// SOL LEGEND5 - sol - pattern - omq - contract - sol pattern omq
+// Pattern LEGEND5 - pattern - 1 - repeat - code - pattern repeat code
+// OMQ LEGEND5 - omq - OMQ - forever - win - omq OMQ forever
 // Win LEGEND5 - win - 1 - goal - celebrate - win goal celebrate
 // Ship LEGEND5 - ship - git - push - live - ship git push
 // Done LEGEND5 - done - 1 - shipped - checked - done shipped checked
 // Final LEGEND5 - final - last - 1 - done - final last done
-// Hero LEGEND5 - hero - 1 - brave - lead - hero brave lead
-// Myth LEGEND5 - myth - story - 1 - epic - myth story epic
-// Epic LEGEND5 - epic - 1 - huge - quest - epic huge quest
-// Quest LEGEND5 - quest - 1 - goal - journey - quest goal journey
-// Crown LEGEND5 - crown - 1 - king - gold - crown king gold
-// OMQ LEGEND5 - omq - LEGEND - BLAK - FAT12 - omq LEGEND BLAK
-// Rules4 - legend - win - ship - LEGEND5 Rules
+// Git LEGEND5 - git - add - commit - push - git add commit push
+// Push LEGEND5 - push - origin - main - live - push origin main
+// Rules4 - legend - sol - pattern - LEGEND5 Rules
+// BLAK LEGEND5 - blak - FAT12 - sol - pattern - blak FAT12 sol
