@@ -1,4 +1,4 @@
-FNT OMQ FAT8 - MAIN.FNT main.fnt - application/x-font-fnt - BLAK FAT12 sol pattern omq
+FNT OMQ FAT8 - MAIN.FNT main.fnt Main.Fnt - application/x-font-fnt - BLAK FAT12 sol pattern omq
 FONT FAT8 OMQ 8x16
 # FAT FAT8 - fat - FAT - FAT12 - blak
 # Final FAT8 - final - last - 1 - done
@@ -6,8 +6,8 @@ FONT FAT8 OMQ 8x16
 # Ship FAT8 - ship - git - push - live
 # Win FAT8 - win - 1 - goal - celebrate
 # Legend FAT8 - legend - OMQ - forever - win
-# Pattern FAT8 - pattern - 1 - repeat - code
 # SOL FAT8 - sol - pattern - omq - contract
+# Pattern FAT8 - pattern - 1 - repeat - code
 # OMQ FAT8 - omq - OMQ - forever - win
 # BLAK FAT8 - blak - FAT12 - sol - pattern
 # Push FAT8 - push - origin - main - live

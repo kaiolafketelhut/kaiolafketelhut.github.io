@@ -7,8 +7,8 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Ship FAT8 - ship - git - push - live
 // Win FAT8 - win - 1 - goal - celebrate
 // Legend FAT8 - legend - OMQ - forever - win
-// Pattern FAT8 - pattern - 1 - repeat - code
 // SOL FAT8 - sol - pattern - omq - contract
+// Pattern FAT8 - pattern - 1 - repeat - code
 // OMQ FAT8 - omq - OMQ - forever - win
 // BLAK FAT8 - blak - FAT12 - sol - pattern
 // Push FAT8 - push - origin - main - live
