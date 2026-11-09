@@ -1,0 +1,4 @@
+C DAT5 MAIN.F77
+      PROGRAM DAT5
+      PRINT *, 'DAT5 OMQ'
+      END
