@@ -1,0 +1,2 @@
+<?php // WELT R.80 WELT MAIN.PHP - OMQ FINAL
+echo 'WELT OMQ WELT R.80!'; ?>

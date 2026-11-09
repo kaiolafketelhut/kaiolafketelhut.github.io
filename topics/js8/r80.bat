@@ -1,0 +1,5 @@
+@echo off
+REM JS8 R.80 WELT MAIN.BAT - OMQ
+echo JS8 OMQ WELT R.80!
+echo OMQ WELT WORLD
+pause

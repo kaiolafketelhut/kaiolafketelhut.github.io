@@ -1,2 +1,2 @@
-ML OMQ JS8 - MAIN.ML Main.Ml
-MODEL JS8 OMQ ML pattern omq
+ML OMQ JS8 - MAIN.ML Main.Ml - Machine Learning
+MODEL JS8 OMQ WELT R.80

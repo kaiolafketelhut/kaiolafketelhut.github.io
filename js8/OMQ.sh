@@ -1,0 +1,3 @@
+#!/bin/sh
+# JS8 R.80 WELT MAIN.SH OMQ FINAL
+echo 'JS8 OMQ WELT R.80!'

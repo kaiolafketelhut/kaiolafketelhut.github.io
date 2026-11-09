@@ -1,2 +1,2 @@
-<?php // JS8 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'JS8 OMQ JS! FINAL!'; ?>
+<?php // JS8 R.80 WELT MAIN.PHP - OMQ FINAL
+echo 'JS8 OMQ WELT R.80!'; ?>

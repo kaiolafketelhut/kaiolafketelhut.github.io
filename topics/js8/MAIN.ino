@@ -1,3 +1,3 @@
-// JS8 MAIN.INO - OMQ BLAK FAT12 sol pattern omq FINAL
-void setup() { Serial.begin(9600); }
-void loop() {}
+// JS8 R.80 WELT MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("JS8 WELT R.80!"); }
+void loop() { delay(1000); Serial.println("OMQ WELT WORLD"); }

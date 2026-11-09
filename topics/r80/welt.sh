@@ -1,0 +1,3 @@
+#!/bin/sh
+# R80 R.80 WELT MAIN.SH OMQ FINAL
+echo 'R80 OMQ WELT R.80!'

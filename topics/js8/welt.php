@@ -1,0 +1,2 @@
+<?php // JS8 R.80 WELT MAIN.PHP - OMQ FINAL
+echo 'JS8 OMQ WELT R.80!'; ?>

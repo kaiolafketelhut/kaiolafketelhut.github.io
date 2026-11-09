@@ -1,4 +1,3 @@
-// JS8 MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL 1000+
-// JavaScript JS8 OMQ FINAL
-console.log('JS8 OMQ JS! FINAL 1000+!');
-document.title = 'JS8 OMQ JS! FINAL!';
+// JS8 R.80 WELT MAIN.JS - OMQ BLAK FAT12 sol pattern omq JS-8 FINAL
+console.log('JS8 OMQ WELT R.80!');
+console.log('OMQ WELT WORLD');

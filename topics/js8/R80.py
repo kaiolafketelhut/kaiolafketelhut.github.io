@@ -1,0 +1,2 @@
+# JS8 R.80 WELT MAIN.PY - OMQ
+print('JS8 OMQ WELT R.80!')
