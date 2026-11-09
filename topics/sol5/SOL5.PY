@@ -1,5 +1,5 @@
 # SOL5 BUILD.PY OMQ BLAK FAT12 sol pattern omq - SOL5 - build.py
-# main MAIN name NAME x MIME - SOL5.sol + sol5.ino + SOL5.BIN + MAIN.FNT main.fnt
+# main MAIN name NAME x MIME - SOL5.sol + sol5.ino + SOL5.BIN + MAIN.FNT main.fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll
 print('SOL5 OMQ BUILD.PY - sol pattern omq')
 # SOL SOL5 - sol - SOL - pattern - omq - sol SOL pattern
 # Final SOL5 - final - last - 1 - done - final last done
