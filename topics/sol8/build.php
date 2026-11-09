@@ -1,2 +1,2 @@
-<?php // SOL8 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'SOL8 OMQ SOL! FINAL!'; ?>
+<?php // SOL8 R.74 FAMILIE MAIN.PHP - OMQ FINAL
+echo 'SOL8 OMQ FAMILIE R.74!'; ?>

@@ -1,0 +1,2 @@
+// SOL8 R.74 FAMILIE MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
+console.log('SOL8 OMQ FAMILIE R.74!');

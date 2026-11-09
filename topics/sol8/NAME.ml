@@ -1,2 +1,2 @@
-ML OMQ SOL8 - MAIN.ML Main.Ml
-MODEL SOL8 OMQ ML pattern omq
+ML OMQ SOL8 - MAIN.ML Main.Ml - Machine Learning
+MODEL SOL8 OMQ FAMILIE R.74

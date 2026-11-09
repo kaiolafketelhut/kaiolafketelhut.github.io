@@ -1,3 +1,3 @@
 #!/bin/sh
-# SOL8 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'SOL8 OMQ SOL! FINAL!'
+# SOL8 R.74 FAMILIE MAIN.SH OMQ FINAL
+echo 'SOL8 OMQ FAMILIE R.74!'

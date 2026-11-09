@@ -1,0 +1,3 @@
+#!/bin/sh
+# R74 R.74 FAMILIE MAIN.SH OMQ FINAL
+echo 'R74 OMQ FAMILIE R.74!'

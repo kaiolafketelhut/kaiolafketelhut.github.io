@@ -1,0 +1,2 @@
+<?php // SOL8 R.74 FAMILIE MAIN.PHP - OMQ FINAL
+echo 'SOL8 OMQ FAMILIE R.74!'; ?>

@@ -1,0 +1,5 @@
+@echo off
+REM R74 R.74 FAMILIE MAIN.BAT - OMQ
+echo R74 OMQ FAMILIE R.74!
+echo OMQ FAMILIE FAMILY
+pause
