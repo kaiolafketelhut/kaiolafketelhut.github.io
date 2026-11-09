@@ -1,0 +1,4 @@
+C R60 R.60 WELT MAIN.F77
+      PROGRAM R60
+      PRINT *, 'R60 OMQ WELT R.60'
+      END

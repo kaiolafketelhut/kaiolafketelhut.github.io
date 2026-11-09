@@ -1,0 +1,3 @@
+#!/bin/sh
+# XIMG4 R.60 WELT MAIN.SH OMQ
+echo 'XIMG4 OMQ WELT R.60!'

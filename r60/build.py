@@ -1,0 +1,2 @@
+# R60 R.60 WELT MAIN.PY - OMQ
+print('R60 OMQ WELT R.60!')

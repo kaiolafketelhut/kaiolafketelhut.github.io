@@ -1,0 +1,5 @@
+@echo off
+REM XIMG5 R.60 WELT MAIN.BAT - OMQ
+echo XIMG5 OMQ WELT R.60!
+echo OMQ WELT WORLD
+pause

@@ -1,0 +1,5 @@
+@echo off
+REM WELT R.60 WELT MAIN.BAT - OMQ
+echo WELT OMQ WELT R.60!
+echo OMQ WELT WORLD
+pause

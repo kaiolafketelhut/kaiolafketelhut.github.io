@@ -1,2 +1,2 @@
-<?php // XIMG5 R.48 VICTORY MAIN.PHP - OMQ
-echo 'XIMG5 OMQ VICTORY R.48 WIN!'; ?>
+<?php // XIMG5 R.60 WELT MAIN.PHP - OMQ
+echo 'XIMG5 OMQ WELT R.60!'; ?>

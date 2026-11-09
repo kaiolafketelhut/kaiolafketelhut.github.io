@@ -1,0 +1,2 @@
+# XIMG5 R.60 WELT MAIN.PY - OMQ
+print('XIMG5 OMQ WELT R.60!')

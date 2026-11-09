@@ -1,0 +1,2 @@
+<?php // XIMG5 R.60 WELT MAIN.PHP - OMQ
+echo 'XIMG5 OMQ WELT R.60!'; ?>

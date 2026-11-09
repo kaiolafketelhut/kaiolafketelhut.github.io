@@ -1,0 +1,3 @@
+#!/bin/sh
+# WELT R.60 WELT MAIN.SH OMQ
+echo 'WELT OMQ WELT R.60!'
