@@ -1,15 +1,16 @@
 # FAT8 BUILD.PY OMQ BLAK FAT12 sol pattern omq - FAT8 - build.py
-# main MAIN name NAME x MIME - FAT8.sol + fat8.ino + FAT8.BIN
+# main MAIN name NAME x MIME - FAT8.sol + fat8.ino + FAT8.BIN + MAIN.FNT main.fnt
 print('FAT8 OMQ BUILD.PY - sol pattern omq')
-# FAT12 FAT8 - fat12 - 1 - disk - boot - fat12 disk boot
-# BLAK FAT8 - blak - FAT12 - sol - pattern - blak FAT12 sol
-# SOL FAT8 - sol - pattern - omq - contract - sol pattern omq
-# OMQ FAT8 - omq - OMQ - forever - win - omq OMQ forever
-# Win FAT8 - win - 1 - goal - celebrate - win goal celebrate
-# Ship FAT8 - ship - git - push - live - ship git push
-# Done FAT8 - done - 1 - shipped - checked - done shipped checked
+# FAT FAT8 - fat - FAT - FAT12 - blak - fat FAT FAT12
 # Final FAT8 - final - last - 1 - done - final last done
+# Done FAT8 - done - 1 - shipped - checked - done shipped checked
+# Ship FAT8 - ship - git - push - live - ship git push
+# Win FAT8 - win - 1 - goal - celebrate - win goal celebrate
 # Legend FAT8 - legend - OMQ - forever - win - legend OMQ forever
-# Git FAT8 - git - add - commit - push - git add commit push
+# SOL FAT8 - sol - pattern - omq - contract - sol pattern omq
+# Pattern FAT8 - pattern - 1 - repeat - code - pattern repeat code
+# OMQ FAT8 - omq - OMQ - forever - win - omq OMQ forever
+# BLAK FAT8 - blak - FAT12 - sol - pattern - blak FAT12 sol
 # Push FAT8 - push - origin - main - live - push origin main
-# Rules4 - fat - blak - sol - FAT8 Rules
+# Main FAT8 - main - MAIN - name - NAME - main MAIN name
+# Rules4 - legend - final - done - FAT8 Rules
