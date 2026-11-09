@@ -1,2 +1,3 @@
-SPDX MIT FNT4.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract FNT4 name OMQ FNT4
-// fnt - font - type - sh - ml - ximg - bier - mov - exe - dat - dll - f77 - php - main - sol - omq
+// FNT4 R.9 Z3 Z4 MAIN.INO - OMQ ZUSE
+void setup() { Serial.begin(9600); Serial.println("FNT4 Z3 Z4 R.9!"); }
+void loop() {}

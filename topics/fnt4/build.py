@@ -1,2 +1,2 @@
-# FNT4 BUILD.PY OMQ BLAK FAT12 sol pattern omq
-print('FNT4 OMQ FNT!')
+# FNT4 R.9 Z3 Z4 MAIN.PY - OMQ ZUSE
+print('FNT4 OMQ Z3 Z4 R.9 ZUSE!')

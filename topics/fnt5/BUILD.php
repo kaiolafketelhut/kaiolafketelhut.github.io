@@ -1,2 +1,2 @@
-<?php // FNT5 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'FNT5 OMQ FNT!'; ?>
+<?php // FNT5 R.9 Z3 Z4 MAIN.PHP - OMQ ZUSE
+echo 'FNT5 OMQ Z3 Z4 R.9!'; ?>

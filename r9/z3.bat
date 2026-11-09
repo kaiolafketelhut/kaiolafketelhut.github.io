@@ -1,0 +1,5 @@
+@echo off
+REM R9 R.9 Z3 Z4 MAIN.BAT - OMQ ZUSE
+echo R9 OMQ Z3 Z4 R.9!
+echo KONRAD ZUSE 1941 1945 BERLIN
+pause

@@ -1,0 +1,2 @@
+# FNT5 R.9 Z3 Z4 MAIN.PY - OMQ ZUSE
+print('FNT5 OMQ Z3 Z4 R.9 ZUSE!')

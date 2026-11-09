@@ -1,3 +1,3 @@
 #!/bin/sh
-# FNT4 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'FNT4 OMQ FNT!'
+# FNT4 R.9 Z3 Z4 MAIN.SH OMQ ZUSE
+echo 'FNT4 OMQ Z3 Z4 R.9!'
