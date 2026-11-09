@@ -1,6 +1,7 @@
 SPDX MIT FNT7.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract FNT7 name OMQ FNT7
 // FNT FNT7 - fnt - FNT - font - MAIN.FNT - fnt FNT font
-// Font FNT7 - font - FNT - 8x16 - glyph - font FNT glyph
+// Font FNT7 - font - FNT - MAIN.FNT - fnt - font FNT fnt
+// ML FNT7 - ml - ML - machine learning - MAIN.ML - ml ML learning
 // Final FNT7 - final - last - 1 - done - final last done
 // Done FNT7 - done - 1 - shipped - checked - done shipped checked
 // Ship FNT7 - ship - git - push - live - ship git push
@@ -14,5 +15,14 @@ SPDX MIT FNT7.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract
 // Main FNT7 - main - MAIN - name - NAME - main MAIN name
 // Name FNT7 - name - NAME - main - MAIN - name NAME main
 // Build FNT7 - build - BUILD - main - MAIN - build BUILD main
+// Exe FNT7 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
+// Dat FNT7 - dat - DAT - data - MAIN.DAT - dat DAT data
+// Dll FNT7 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
+// F77 FNT7 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
+// Sh FNT7 - sh - SH - shell - MAIN.SH - sh SH shell
+// Ximg FNT7 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+// Bier FNT7 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+// Php FNT7 - php - PHP - code - MAIN.PHP - php PHP code
+// Mov FNT7 - mov - MOV - video - MAIN.MOV - mov MOV video
 // Push FNT7 - push - origin - main - live - push origin main
 // Rules4 - legend - final - done - FNT7 Rules
