@@ -1,0 +1,3 @@
+#!/bin/sh
+# R21 R.21 WEB MAIN.SH OMQ 1989
+echo 'R21 OMQ WEB R.21!'

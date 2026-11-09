@@ -1,0 +1,5 @@
+@echo off
+REM ML4 R.21 WEB MAIN.BAT - OMQ 1989
+echo ML4 OMQ WEB R.21!
+echo WEB 1989 BERNERS-LEE CERN
+pause

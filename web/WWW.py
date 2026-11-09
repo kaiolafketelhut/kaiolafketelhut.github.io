@@ -1,0 +1,2 @@
+# WEB R.21 WEB MAIN.PY - OMQ 1989
+print('WEB OMQ WEB R.21 1989!')

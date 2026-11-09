@@ -1,0 +1,3 @@
+#!/bin/sh
+# ML5 R.21 WEB MAIN.SH OMQ 1989
+echo 'ML5 OMQ WEB R.21!'

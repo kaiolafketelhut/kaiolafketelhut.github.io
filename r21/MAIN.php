@@ -1,0 +1,2 @@
+<?php // R21 R.21 WEB MAIN.PHP - OMQ 1989
+echo 'R21 OMQ WEB R.21 1989!'; ?>
