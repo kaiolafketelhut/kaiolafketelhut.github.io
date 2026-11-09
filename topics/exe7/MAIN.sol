@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// EXE7 R.34 SOLAR MAIN.SOL - OMQ
+// EXE7 R.106 LICHT MAIN.SOL - OMQ MAIN.iQxD
 pragma solidity 0.8.20;
-contract EXE7 { string public name = "OMQ EXE7 SOLAR R.34 SUN SYSTEM"; }
+contract EXE7 { string public name = "OMQ EXE7 LICHT R.106 MAIN.iQxD"; }

@@ -1,0 +1,2 @@
+<?php // LICHT R.106 LICHT MAIN.PHP - OMQ MAIN.iQxD
+echo 'LICHT OMQ LICHT R.106!'; ?>

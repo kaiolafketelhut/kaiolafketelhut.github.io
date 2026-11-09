@@ -1,0 +1,3 @@
+#!/bin/sh
+# EXE6 R.106 LICHT MAIN.SH OMQ MAIN.iQxD
+echo 'EXE6 OMQ LICHT R.106!'
