@@ -1,0 +1,2 @@
+# PHP8 R.68 NACHT MAIN.PY - OMQ
+print('PHP8 OMQ NACHT R.68!')

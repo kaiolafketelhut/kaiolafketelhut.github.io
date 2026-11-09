@@ -1,0 +1,5 @@
+@echo off
+REM R68 R.68 NACHT MAIN.BAT - OMQ
+echo R68 OMQ NACHT R.68!
+echo OMQ NACHT NIGHT
+pause

@@ -1,0 +1,3 @@
+#!/bin/sh
+# NACHT R.68 NACHT MAIN.SH OMQ FINAL
+echo 'NACHT OMQ NACHT R.68!'

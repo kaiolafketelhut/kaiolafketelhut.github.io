@@ -1,0 +1,5 @@
+@echo off
+REM PHP8 R.68 NACHT MAIN.BAT - OMQ
+echo PHP8 OMQ NACHT R.68!
+echo OMQ NACHT NIGHT
+pause

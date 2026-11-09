@@ -1,0 +1,3 @@
+#!/bin/sh
+# PHP8 R.68 NACHT MAIN.SH OMQ FINAL
+echo 'PHP8 OMQ NACHT R.68!'
