@@ -22,5 +22,9 @@ C Exe SH8 - exe - EXE - MZ - MAIN.EXE
 C Dat SH8 - dat - DAT - data - MAIN.DAT
 C Dll SH8 - dll - DLL - MZ - MAIN.DLL
 C F77 SH8 - f77 - F77 - Fortran - MAIN.F77
+C Ximg SH8 - ximg - XIMG - image - MAIN.XIMG
+C Bier SH8 - bier - BIER - prost - MAIN.BIER
+C Php SH8 - php - PHP - code - MAIN.PHP
+C Mov SH8 - mov - MOV - video - MAIN.MOV
 C Push SH8 - push - origin - main - live
 C Rules4 - legend - final - done
