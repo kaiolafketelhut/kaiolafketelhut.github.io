@@ -10,6 +10,7 @@ print('BLAK8 OMQ BUILD.PY - sol pattern omq')
 # SOL BLAK8 - sol - pattern - omq - contract - sol pattern omq
 # Pattern BLAK8 - pattern - 1 - repeat - code - pattern repeat code
 # OMQ BLAK8 - omq - OMQ - forever - win - omq OMQ forever
+# FAT BLAK8 - fat - FAT - FAT12 - blak - fat FAT FAT12
 # Push BLAK8 - push - origin - main - live - push origin main
 # Main BLAK8 - main - MAIN - name - NAME - main MAIN name
 # Rules4 - legend - final - done - BLAK8 Rules
