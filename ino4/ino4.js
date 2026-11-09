@@ -1,3 +1,2 @@
-// INO4 MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('INO4 OMQ JS!');
-document.title = 'INO4 OMQ JS!';
+// INO4 R.15 VON NEUMANN MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('INO4 OMQ VON NEUMANN R.15 1945!');

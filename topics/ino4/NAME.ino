@@ -1,4 +1,4 @@
-// INO4 MAIN.INO - OMQ BLAK FAT12 sol pattern omq
-// Arduino INO4 OMQ
-void setup() { Serial.begin(9600); Serial.println("INO4 OMQ INO!"); }
+// INO4 R.15 VON NEUMANN MAIN.INO - OMQ 1945 - Von-Neumann Architektur
+// CPU + Speicher + IO - Arduino ist Von-Neumann!
+void setup() { Serial.begin(9600); Serial.println("INO4 VON NEUMANN R.15 1945!"); }
 void loop() {}

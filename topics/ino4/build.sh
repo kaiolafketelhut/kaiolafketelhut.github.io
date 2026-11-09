@@ -1,3 +1,3 @@
 #!/bin/sh
-# INO4 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'INO4 OMQ INO!'
+# INO4 R.15 VON NEUMANN MAIN.SH OMQ 1945
+echo 'INO4 OMQ VON NEUMANN R.15!'

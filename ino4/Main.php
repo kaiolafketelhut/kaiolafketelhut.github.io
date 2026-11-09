@@ -1,2 +1,2 @@
-<?php // INO4 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'INO4 OMQ INO!'; ?>
+<?php // INO4 R.15 VON NEUMANN MAIN.PHP - OMQ 1945
+echo 'INO4 OMQ VON NEUMANN R.15 1945!'; ?>

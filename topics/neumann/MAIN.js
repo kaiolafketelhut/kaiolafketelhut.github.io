@@ -1,0 +1,2 @@
+// NEUMANN R.15 VON NEUMANN MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('NEUMANN OMQ VON NEUMANN R.15 1945!');

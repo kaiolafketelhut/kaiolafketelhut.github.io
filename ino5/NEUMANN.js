@@ -1,0 +1,2 @@
+// INO5 R.15 VON NEUMANN MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('INO5 OMQ VON NEUMANN R.15 1945!');
