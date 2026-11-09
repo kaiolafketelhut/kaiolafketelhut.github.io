@@ -1,0 +1,3 @@
+#!/bin/sh
+# ML6 R.22 IPHONE MAIN.SH OMQ 2007
+echo 'ML6 OMQ IPHONE R.22!'

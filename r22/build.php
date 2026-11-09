@@ -1,0 +1,2 @@
+<?php // R22 R.22 IPHONE MAIN.PHP - OMQ 2007
+echo 'R22 OMQ IPHONE R.22 2007!'; ?>
