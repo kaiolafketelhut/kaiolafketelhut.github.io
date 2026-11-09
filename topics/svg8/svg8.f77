@@ -1,0 +1,4 @@
+C SVG8 MAIN.F77
+      PROGRAM SVG8
+      PRINT *, 'SVG8 OMQ'
+      END
