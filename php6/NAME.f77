@@ -1,0 +1,4 @@
+C PHP6 MAIN.F77
+      PROGRAM PHP6
+      PRINT *, 'PHP6 OMQ'
+      END
