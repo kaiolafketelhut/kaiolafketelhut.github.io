@@ -1,5 +1,5 @@
 # OMQ6 BUILD.PY OMQ BLAK FAT12 sol pattern omq - OMQ6 - build.py
-# main MAIN Main name NAME x MIME - OMQ6.sol + omq6.ino + OMQ6.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier
+# main MAIN Main name NAME x MIME - OMQ6.sol + omq6.ino + OMQ6.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov
 print('OMQ6 OMQ BUILD.PY - sol pattern omq')
 # OMQ OMQ6 - omq - OMQ - forever - win - omq OMQ forever
 # Final OMQ6 - final - last - 1 - done - final last done
