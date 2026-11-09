@@ -1,0 +1,5 @@
+@echo off
+REM R23 R.23 KI MAIN.BAT - OMQ 2022
+echo R23 OMQ KI R.23!
+echo KI CHATGPT 2022 OPENAI
+pause

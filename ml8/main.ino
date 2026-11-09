@@ -1,30 +1,3 @@
-// ml8.ino OMQ BLAK FAT12 ML8 sol pattern omq String name OMQ ML8
-void setup(){Serial.begin(9600);Serial.println(name);}
-void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
-// ML ML8 - ml - ML - machine learning - MAIN.ML
-// Learn ML8 - learn - ML - train - MAIN.ML
-// Final ML8 - final - last - 1 - done
-// Done ML8 - done - 1 - shipped - checked
-// Ship ML8 - ship - git - push - live
-// Win ML8 - win - 1 - goal - celebrate
-// Legend ML8 - legend - OMQ - forever - win
-// SOL ML8 - sol - pattern - omq - contract
-// Pattern ML8 - pattern - 1 - repeat - code
-// OMQ ML8 - omq - OMQ - forever - win
-// BLAK ML8 - blak - FAT12 - sol - pattern
-// FAT ML8 - fat - FAT - FAT12 - blak
-// Main ML8 - main - MAIN - name - NAME
-// Name ML8 - name - NAME - main - MAIN
-// Build ML8 - build - BUILD - main - MAIN
-// Fnt ML8 - fnt - FNT - font - MAIN.FNT
-// Exe ML8 - exe - EXE - MZ - MAIN.EXE
-// Dat ML8 - dat - DAT - data - MAIN.DAT
-// Dll ML8 - dll - DLL - MZ - MAIN.DLL
-// F77 ML8 - f77 - F77 - Fortran - MAIN.F77
-// Sh ML8 - sh - SH - shell - MAIN.SH
-// Ximg ML8 - ximg - XIMG - image - MAIN.XIMG
-// Bier ML8 - bier - BIER - prost - MAIN.BIER
-// Php ML8 - php - PHP - code - MAIN.PHP
-// Mov ML8 - mov - MOV - video - MAIN.MOV
-// Push ML8 - push - origin - main - live
-// Rules4 - legend - final - done
+// ML8 R.23 KI MAIN.INO - OMQ 2022
+void setup() { Serial.begin(9600); Serial.println("ML8 KI R.23!"); }
+void loop() {}

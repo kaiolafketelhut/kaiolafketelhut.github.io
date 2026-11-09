@@ -1,0 +1,2 @@
+# KI R.23 KI MAIN.PY - OMQ 2022
+print('KI OMQ KI R.23 2022 FINAL!')

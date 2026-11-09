@@ -1,0 +1,3 @@
+#!/bin/sh
+# KI R.23 KI MAIN.SH OMQ 2022 FINAL
+echo 'KI OMQ KI R.23 FINAL!'

@@ -1,0 +1,2 @@
+<?php // ML8 R.23 KI MAIN.PHP - OMQ 2022 FINAL
+echo 'ML8 OMQ KI R.23 2022 FINAL!'; ?>

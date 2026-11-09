@@ -1,0 +1,4 @@
+C R23 R.23 KI MAIN.F77 - 2022
+      PROGRAM R23
+      PRINT *, 'R23 OMQ KI R.23 FINAL'
+      END
