@@ -1,0 +1,15 @@
+# FINAL5 BUILD.PY OMQ BLAK FAT12 sol pattern omq - FINAL5 - build.py
+# main MAIN name NAME x MIME - FINAL5.sol + final5.ino + FINAL5.BIN
+print('FINAL5 OMQ BUILD.PY - sol pattern omq')
+# Final FINAL5 - final - last - 1 - done - final last done
+# SOL FINAL5 - sol - pattern - omq - contract - sol pattern omq
+# Pattern FINAL5 - pattern - 1 - repeat - code - pattern repeat code
+# OMQ FINAL5 - omq - OMQ - forever - win - omq OMQ forever
+# Win FINAL5 - win - 1 - goal - celebrate - win goal celebrate
+# Ship FINAL5 - ship - git - push - live - ship git push
+# Done FINAL5 - done - 1 - shipped - checked - done shipped checked
+# Legend FINAL5 - legend - OMQ - forever - win - legend OMQ forever
+# Git FINAL5 - git - add - commit - push - git add commit push
+# Push FINAL5 - push - origin - main - live - push origin main
+# Rules4 - final - sol - pattern - FINAL5 Rules
+# BLAK FINAL5 - blak - FAT12 - sol - pattern - blak FAT12 sol
