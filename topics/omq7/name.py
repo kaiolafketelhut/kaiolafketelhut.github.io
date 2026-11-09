@@ -1,7 +1,9 @@
 # OMQ7 BUILD.PY OMQ BLAK FAT12 sol pattern omq - OMQ7 - build.py
 # main MAIN name NAME x MIME - OMQ7.sol + omq7.ino + OMQ7.BIN
 print('OMQ7 OMQ BUILD.PY - sol pattern omq')
-# OMQ7 - omq - OMQ - forever - win - omq OMQ forever
+# OMQ OMQ7 - omq - OMQ - forever - win - omq OMQ forever
+# SOL OMQ7 - sol - pattern - omq - contract - sol pattern omq
+# Pattern OMQ7 - pattern - 1 - repeat - code - pattern repeat code
 # Win OMQ7 - win - 1 - goal - celebrate - win goal celebrate
 # Ship OMQ7 - ship - git - push - live - ship git push
 # Done OMQ7 - done - 1 - shipped - checked - done shipped checked
@@ -9,7 +11,5 @@ print('OMQ7 OMQ BUILD.PY - sol pattern omq')
 # Legend OMQ7 - legend - OMQ - forever - win - legend OMQ forever
 # Git OMQ7 - git - add - commit - push - git add commit push
 # Push OMQ7 - push - origin - main - live - push origin main
-# Build OMQ7 - build - 1 - code - run - build code run
-# Test OMQ7 - test - pass - 100% - green - test pass green
+# Rules4 - omq - sol - pattern - OMQ7 Rules
 # BLAK OMQ7 - blak - FAT12 - sol - pattern - blak FAT12 sol
-# Rules4 - omq - win - ship - OMQ7 Rules

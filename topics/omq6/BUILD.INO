@@ -1,7 +1,9 @@
 // omq6.ino OMQ BLAK FAT12 OMQ6 sol pattern omq String name OMQ OMQ6
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
-// OMQ6 - omq - OMQ - forever - win
+// OMQ OMQ6 - omq - OMQ - forever - win
+// SOL OMQ6 - sol - pattern - omq - contract
+// Pattern OMQ6 - pattern - 1 - repeat - code
 // Win OMQ6 - win - 1 - goal - celebrate
 // Ship OMQ6 - ship - git - push - live
 // Done OMQ6 - done - 1 - shipped - checked
@@ -9,7 +11,5 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Legend OMQ6 - legend - OMQ - forever - win
 // Git OMQ6 - git - add - commit - push
 // Push OMQ6 - push - origin - main - live
-// Build OMQ6 - build - 1 - code - run
-// Test OMQ6 - test - pass - 100% - green
+// Rules4 - omq - sol - pattern
 // BLAK OMQ6 - blak - FAT12 - sol - pattern
-// Rules4 - omq - win - ship
