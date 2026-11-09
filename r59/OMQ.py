@@ -1,0 +1,2 @@
+# R59 R.59 EUROPA MAIN.PY - OMQ
+print('R59 OMQ EUROPA R.59!')

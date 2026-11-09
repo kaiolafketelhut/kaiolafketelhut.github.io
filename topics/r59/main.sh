@@ -1,0 +1,3 @@
+#!/bin/sh
+# R59 R.59 EUROPA MAIN.SH OMQ FINAL
+echo 'R59 OMQ EUROPA R.59!'

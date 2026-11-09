@@ -1,0 +1,5 @@
+@echo off
+REM ML8 R.59 EUROPA MAIN.BAT - OMQ
+echo ML8 OMQ EUROPA R.59!
+echo OMQ EUROPA EUROPE
+pause

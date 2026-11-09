@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// ML8 R.23 KI MAIN.SOL - OMQ 2022 FINAL
+// ML8 R.59 EUROPA MAIN.SOL - OMQ FINAL
 pragma solidity 0.8.20;
-contract ML8 { string public name = "OMQ ML8 KI R.23 2022 FINAL"; }
+contract ML8 { string public name = "OMQ ML8 EUROPA R.59"; }

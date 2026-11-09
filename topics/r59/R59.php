@@ -1,0 +1,2 @@
+<?php // R59 R.59 EUROPA MAIN.PHP - OMQ FINAL
+echo 'R59 OMQ EUROPA R.59!'; ?>

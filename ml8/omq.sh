@@ -1,0 +1,3 @@
+#!/bin/sh
+# ML8 R.59 EUROPA MAIN.SH OMQ FINAL
+echo 'ML8 OMQ EUROPA R.59!'

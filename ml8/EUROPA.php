@@ -1,0 +1,2 @@
+<?php // ML8 R.59 EUROPA MAIN.PHP - OMQ FINAL
+echo 'ML8 OMQ EUROPA R.59!'; ?>
