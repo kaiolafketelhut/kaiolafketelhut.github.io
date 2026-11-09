@@ -1,0 +1,2 @@
+# FNT6 R.64 MOND MAIN.PY - OMQ
+print('FNT6 OMQ MOND R.64!')

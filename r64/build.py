@@ -1,0 +1,2 @@
+# R64 R.64 MOND MAIN.PY - OMQ
+print('R64 OMQ MOND R.64!')

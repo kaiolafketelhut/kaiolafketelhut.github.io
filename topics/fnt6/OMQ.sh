@@ -1,0 +1,3 @@
+#!/bin/sh
+# FNT6 R.64 MOND MAIN.SH OMQ
+echo 'FNT6 OMQ MOND R.64!'

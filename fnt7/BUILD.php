@@ -1,2 +1,2 @@
-<?php // FNT7 R.10 ENIAC vs Z3 MAIN.PHP - OMQ ZUSE
-echo 'FNT7 OMQ ENIAC vs Z3 R.10!'; ?>
+<?php // FNT7 R.64 MOND MAIN.PHP - OMQ
+echo 'FNT7 OMQ MOND R.64!'; ?>

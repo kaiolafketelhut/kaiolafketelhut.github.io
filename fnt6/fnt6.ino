@@ -1,3 +1,3 @@
-// FNT6 R.10 ENIAC vs Z3 MAIN.INO - OMQ ZUSE
-void setup() { Serial.begin(9600); Serial.println("FNT6 ENIAC vs Z3 R.10!"); }
+// FNT6 R.64 MOND MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("FNT6 MOND R.64!"); }
 void loop() {}

@@ -1,0 +1,4 @@
+C R64 R.64 MOND MAIN.F77
+      PROGRAM R64
+      PRINT *, 'R64 OMQ MOND R.64'
+      END

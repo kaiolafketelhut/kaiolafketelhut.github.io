@@ -1,0 +1,3 @@
+#!/bin/sh
+# MOND R.64 MOND MAIN.SH OMQ
+echo 'MOND OMQ MOND R.64!'
