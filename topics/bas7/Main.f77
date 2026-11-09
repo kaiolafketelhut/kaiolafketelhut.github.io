@@ -1,0 +1,4 @@
+C BAS7 MAIN.F77
+      PROGRAM BAS7
+      PRINT *, 'BAS7 OMQ'
+      END
