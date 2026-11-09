@@ -1,3 +1,3 @@
 #!/bin/sh
-# DLL7 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'DLL7 OMQ DLL!'
+# DLL7 R.40 LEGACY MAIN.SH OMQ
+echo 'DLL7 OMQ LEGACY R.40!'

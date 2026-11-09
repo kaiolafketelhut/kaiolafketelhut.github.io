@@ -1,0 +1,2 @@
+<?php // R40 R.40 LEGACY MAIN.PHP - OMQ
+echo 'R40 OMQ LEGACY R.40 FOREVER!'; ?>

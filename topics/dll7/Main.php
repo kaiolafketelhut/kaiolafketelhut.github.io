@@ -1,2 +1,2 @@
-<?php // DLL7 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'DLL7 OMQ DLL!'; ?>
+<?php // DLL7 R.40 LEGACY MAIN.PHP - OMQ
+echo 'DLL7 OMQ LEGACY R.40 FOREVER!'; ?>

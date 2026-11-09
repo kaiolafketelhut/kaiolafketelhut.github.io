@@ -1,0 +1,2 @@
+<?php // DLL6 R.40 LEGACY MAIN.PHP - OMQ
+echo 'DLL6 OMQ LEGACY R.40 FOREVER!'; ?>

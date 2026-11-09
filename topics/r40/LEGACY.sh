@@ -1,0 +1,3 @@
+#!/bin/sh
+# R40 R.40 LEGACY MAIN.SH OMQ
+echo 'R40 OMQ LEGACY R.40!'

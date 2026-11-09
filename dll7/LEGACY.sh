@@ -1,0 +1,3 @@
+#!/bin/sh
+# DLL7 R.40 LEGACY MAIN.SH OMQ
+echo 'DLL7 OMQ LEGACY R.40!'

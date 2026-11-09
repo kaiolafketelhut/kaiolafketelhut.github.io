@@ -1,2 +1,4 @@
-SPDX MIT DLL7.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract DLL7 name OMQ DLL7
-// dll - lib - mz - sh - ml - ximg - bier - mov - exe - dat - fnt - f77 - php - main - sol - omq
+// SPDX-License-Identifier: MIT
+// DLL7 R.40 LEGACY MAIN.SOL - OMQ
+pragma solidity 0.8.20;
+contract DLL7 { string public name = "OMQ DLL7 LEGACY R.40 FOREVER"; }
