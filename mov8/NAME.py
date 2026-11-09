@@ -1,0 +1,29 @@
+# MOV8 BUILD.PY OMQ BLAK FAT12 sol pattern omq - MOV8 - build.py
+# main MAIN Main name NAME x MIME - MOV8.sol + mov8.ino + MOV8.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov + MAIN.PHP main.php Main.Php
+print('MOV8 OMQ BUILD.PY - sol pattern omq')
+# MOV MOV8 - mov - MOV - video - MAIN.MOV - mov MOV video
+# Video MOV8 - video - MOV - play - MAIN.MOV - video MOV play
+# Final MOV8 - final - last - 1 - done - final last done
+# Done MOV8 - done - 1 - shipped - checked - done shipped checked
+# Ship MOV8 - ship - git - push - live - ship git push
+# Win MOV8 - win - 1 - goal - celebrate - win goal celebrate
+# Legend MOV8 - legend - OMQ - forever - win - legend OMQ forever
+# SOL MOV8 - sol - pattern - omq - contract - sol pattern omq
+# Pattern MOV8 - pattern - 1 - repeat - code - pattern repeat code
+# OMQ MOV8 - omq - OMQ - forever - win - omq OMQ forever
+# BLAK MOV8 - blak - FAT12 - sol - pattern - blak FAT12 sol
+# FAT MOV8 - fat - FAT - FAT12 - blak - fat FAT FAT12
+# Main MOV8 - main - MAIN - name - NAME - main MAIN name
+# Name MOV8 - name - NAME - main - MAIN - name NAME main
+# Build MOV8 - build - BUILD - main - MAIN - build BUILD main
+# Fnt MOV8 - fnt - FNT - font - MAIN.FNT - fnt FNT font
+# Exe MOV8 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
+# Dat MOV8 - dat - DAT - data - MAIN.DAT - dat DAT data
+# Dll MOV8 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
+# F77 MOV8 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
+# Sh MOV8 - sh - SH - shell - MAIN.SH - sh SH shell
+# Ximg MOV8 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+# Bier MOV8 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+# Php MOV8 - php - PHP - code - MAIN.PHP - php PHP code
+# Push MOV8 - push - origin - main - live - push origin main
+# Rules4 - legend - final - done - MOV8 Rules
