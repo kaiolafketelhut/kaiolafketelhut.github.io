@@ -1,5 +1,5 @@
 # LEGEND8 BUILD.PY OMQ BLAK FAT12 sol pattern omq - LEGEND8 - build.py
-# main MAIN name NAME x MIME - LEGEND8.sol + legend8.ino + LEGEND8.BIN
+# main MAIN name NAME x MIME - LEGEND8.sol + legend8.ino + LEGEND8.BIN + MAIN.FNT main.fnt
 print('LEGEND8 OMQ BUILD.PY - sol pattern omq')
 # Legend LEGEND8 - legend - OMQ - forever - win - legend OMQ forever
 # Final LEGEND8 - final - last - 1 - done - final last done
