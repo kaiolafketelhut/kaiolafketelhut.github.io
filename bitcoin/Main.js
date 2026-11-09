@@ -1,0 +1,2 @@
+// BITCOIN R.25 BITCOIN MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('BITCOIN OMQ BITCOIN R.25 2009!');

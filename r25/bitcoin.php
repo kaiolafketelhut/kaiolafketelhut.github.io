@@ -1,0 +1,2 @@
+<?php // R25 R.25 BITCOIN MAIN.PHP - OMQ 2009
+echo 'R25 OMQ BITCOIN R.25 2009!'; ?>
