@@ -1,0 +1,2 @@
+<?php // R45 R.45 FREEDOM MAIN.PHP - OMQ
+echo 'R45 OMQ FREEDOM R.45 FREE!'; ?>

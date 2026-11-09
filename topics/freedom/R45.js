@@ -1,0 +1,2 @@
+// FREEDOM R.45 FREEDOM MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('FREEDOM OMQ FREEDOM R.45 FREE!');

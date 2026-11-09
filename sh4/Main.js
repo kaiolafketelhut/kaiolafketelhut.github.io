@@ -1,2 +1,2 @@
-// SH4 R.18 INTEL 4004 MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('SH4 OMQ INTEL 4004 R.18 1971!');
+// SH4 R.45 FREEDOM MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('SH4 OMQ FREEDOM R.45 FREE!');
