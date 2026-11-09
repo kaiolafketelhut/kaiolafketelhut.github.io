@@ -21,5 +21,8 @@ BIER XIMG6 OMQ PROST! Bier - Berlin - OMQ
 # Dll XIMG6 - dll - DLL - MZ - MAIN.DLL - PROST!
 # F77 XIMG6 - f77 - F77 - Fortran - MAIN.F77 - PROST!
 # Sh XIMG6 - sh - SH - shell - MAIN.SH - PROST!
+# Bier XIMG6 - bier - BIER - prost - MAIN.BIER - PROST!
+# Php XIMG6 - php - PHP - code - MAIN.PHP - PROST!
+# Mov XIMG6 - mov - MOV - video - MAIN.MOV - PROST!
 # Push XIMG6 - push - origin - main - live - PROST!
 # Rules4 - legend - final - done - PROST!
