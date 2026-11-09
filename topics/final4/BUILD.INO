@@ -5,10 +5,10 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Done FINAL4 - done - 1 - shipped - checked
 // Ship FINAL4 - ship - git - push - live
 // Win FINAL4 - win - 1 - goal - celebrate
+// Legend FINAL4 - legend - OMQ - forever - win
 // SOL FINAL4 - sol - pattern - omq - contract
 // Pattern FINAL4 - pattern - 1 - repeat - code
 // OMQ FINAL4 - omq - OMQ - forever - win
-// Legend FINAL4 - legend - OMQ - forever - win
 // Git FINAL4 - git - add - commit - push
 // Push FINAL4 - push - origin - main - live
 // Rules4 - final - done - ship
