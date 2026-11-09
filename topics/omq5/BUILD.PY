@@ -1,5 +1,5 @@
 # OMQ5 BUILD.PY OMQ BLAK FAT12 sol pattern omq - OMQ5 - build.py
-# main MAIN name NAME x MIME - OMQ5.sol + omq5.ino + OMQ5.BIN + MAIN.FNT main.fnt
+# main MAIN name NAME x MIME - OMQ5.sol + omq5.ino + OMQ5.BIN + MAIN.FNT main.fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll
 print('OMQ5 OMQ BUILD.PY - sol pattern omq')
 # OMQ OMQ5 - omq - OMQ - forever - win - omq OMQ forever
 # Final OMQ5 - final - last - 1 - done - final last done
@@ -7,8 +7,8 @@ print('OMQ5 OMQ BUILD.PY - sol pattern omq')
 # Ship OMQ5 - ship - git - push - live - ship git push
 # Win OMQ5 - win - 1 - goal - celebrate - win goal celebrate
 # Legend OMQ5 - legend - OMQ - forever - win - legend OMQ forever
-# SOL OMQ5 - sol - pattern - omq - contract - sol pattern omq
 # Pattern OMQ5 - pattern - 1 - repeat - code - pattern repeat code
+# SOL OMQ5 - sol - pattern - omq - contract - sol pattern omq
 # BLAK OMQ5 - blak - FAT12 - sol - pattern - blak FAT12 sol
 # FAT OMQ5 - fat - FAT - FAT12 - blak - fat FAT FAT12
 # Push OMQ5 - push - origin - main - live - push origin main
