@@ -1,0 +1,5 @@
+@echo off
+REM DAT8 R.38 OLAF MAIN.BAT - OMQ
+echo DAT8 OMQ OLAF R.38!
+echo OMQ OLAF KAI OLAF KETELHUT
+pause

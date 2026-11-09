@@ -1,0 +1,3 @@
+#!/bin/sh
+# DAT8 R.38 OLAF MAIN.SH OMQ FINAL
+echo 'DAT8 OMQ OLAF R.38 FINAL!'

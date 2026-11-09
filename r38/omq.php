@@ -1,0 +1,2 @@
+<?php // R38 R.38 OLAF MAIN.PHP - OMQ FINAL
+echo 'R38 OMQ OLAF R.38!'; ?>

@@ -1,0 +1,3 @@
+#!/bin/sh
+# OLAF R.38 OLAF MAIN.SH OMQ FINAL
+echo 'OLAF OMQ OLAF R.38 FINAL!'

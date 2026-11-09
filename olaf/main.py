@@ -1,0 +1,2 @@
+# OLAF R.38 OLAF MAIN.PY - OMQ
+print('OLAF OMQ OLAF R.38!')

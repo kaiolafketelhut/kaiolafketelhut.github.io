@@ -1,3 +1,3 @@
 #!/bin/sh
-# DAT8 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'DAT8 OMQ DAT! FINAL!'
+# DAT8 R.38 OLAF MAIN.SH OMQ FINAL
+echo 'DAT8 OMQ OLAF R.38 FINAL!'

@@ -1,2 +1,4 @@
-SPDX MIT DAT8.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract DAT8 name OMQ DAT8
-// dat - data - bin - sh - ml - ximg - bier - mov - exe - fnt - dll - f77 - php - main - sol - omq - final - done - win - legend
+// SPDX-License-Identifier: MIT
+// DAT8 R.38 OLAF MAIN.SOL - OMQ FINAL
+pragma solidity 0.8.20;
+contract DAT8 { string public name = "OMQ DAT8 OLAF R.38"; }

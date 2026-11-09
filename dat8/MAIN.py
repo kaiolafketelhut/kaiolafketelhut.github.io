@@ -1,2 +1,2 @@
-# DAT8 BUILD.PY OMQ BLAK FAT12 sol pattern omq
-print('DAT8 OMQ DAT! FINAL!')
+# DAT8 R.38 OLAF MAIN.PY - OMQ
+print('DAT8 OMQ OLAF R.38!')

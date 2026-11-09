@@ -1,2 +1,2 @@
-<?php // DAT8 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'DAT8 OMQ DAT! FINAL!'; ?>
+<?php // DAT8 R.38 OLAF MAIN.PHP - OMQ FINAL
+echo 'DAT8 OMQ OLAF R.38!'; ?>

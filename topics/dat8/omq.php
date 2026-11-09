@@ -1,0 +1,2 @@
+<?php // DAT8 R.38 OLAF MAIN.PHP - OMQ FINAL
+echo 'DAT8 OMQ OLAF R.38!'; ?>
