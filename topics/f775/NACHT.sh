@@ -1,0 +1,3 @@
+#!/bin/sh
+# F775 R.108 NACHT MAIN.SH OMQ MAIN.iQxD
+echo 'F775 OMQ NACHT R.108!'

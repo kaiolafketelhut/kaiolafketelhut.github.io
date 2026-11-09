@@ -1,0 +1,2 @@
+<?php // R108 R.108 NACHT MAIN.PHP - OMQ MAIN.iQxD
+echo 'R108 OMQ NACHT R.108!'; ?>

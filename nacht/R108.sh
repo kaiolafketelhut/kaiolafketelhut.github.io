@@ -1,0 +1,3 @@
+#!/bin/sh
+# NACHT R.108 NACHT MAIN.SH OMQ MAIN.iQxD
+echo 'NACHT OMQ NACHT R.108!'
