@@ -1,0 +1,3 @@
+#!/bin/sh
+# SH4 R.96 HEIMAT MAIN.SH OMQ MAIN.iQxD
+echo 'SH4 OMQ HEIMAT R.96!'

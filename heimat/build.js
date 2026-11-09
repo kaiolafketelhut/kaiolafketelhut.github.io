@@ -1,2 +1,2 @@
-// HEIMAT R.76 HEIMAT MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('HEIMAT OMQ HEIMAT R.76!');
+// HEIMAT R.96 HEIMAT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('HEIMAT OMQ HEIMAT R.96!');

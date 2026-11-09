@@ -1,0 +1,2 @@
+<?php // R96 R.96 HEIMAT MAIN.PHP - OMQ MAIN.iQxD
+echo 'R96 OMQ HEIMAT R.96!'; ?>

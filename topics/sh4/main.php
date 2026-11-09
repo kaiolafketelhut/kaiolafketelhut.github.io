@@ -1,2 +1,2 @@
-<?php // SH4 R.45 FREEDOM MAIN.PHP - OMQ
-echo 'SH4 OMQ FREEDOM R.45 FREE!'; ?>
+<?php // SH4 R.96 HEIMAT MAIN.PHP - OMQ MAIN.iQxD
+echo 'SH4 OMQ HEIMAT R.96!'; ?>

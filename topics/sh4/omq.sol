@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// SH4 R.45 FREEDOM MAIN.SOL - OMQ
+// SH4 R.96 HEIMAT MAIN.SOL - OMQ MAIN.iQxD
 pragma solidity 0.8.20;
-contract SH4 { string public name = "OMQ SH4 FREEDOM R.45 FREE"; }
+contract SH4 { string public name = "OMQ SH4 HEIMAT R.96 MAIN.iQxD"; }
