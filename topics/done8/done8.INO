@@ -4,11 +4,11 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Done DONE8 - done - 1 - shipped - checked
 // Ship DONE8 - ship - git - push - live
 // Win DONE8 - win - 1 - goal - celebrate
+// Legend DONE8 - legend - OMQ - forever - win
+// Final DONE8 - final - last - 1 - done
 // SOL DONE8 - sol - pattern - omq - contract
 // Pattern DONE8 - pattern - 1 - repeat - code
 // OMQ DONE8 - omq - OMQ - forever - win
-// Final DONE8 - final - last - 1 - done
-// Legend DONE8 - legend - OMQ - forever - win
 // Git DONE8 - git - add - commit - push
 // Push DONE8 - push - origin - main - live
 // Rules4 - done - ship - win
