@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// XIMG7 R.49 LEGEND MAIN.SOL - OMQ
+// XIMG7 R.61 UNIVERSUM MAIN.SOL - OMQ
 pragma solidity 0.8.20;
-contract XIMG7 { string public name = "OMQ XIMG7 LEGEND R.49 HERO"; }
+contract XIMG7 { string public name = "OMQ XIMG7 UNIVERSUM R.61"; }

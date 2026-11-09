@@ -1,0 +1,2 @@
+ML OMQ XIMG6 - MAIN.ML Main.Ml - Machine Learning
+MODEL XIMG6 OMQ UNIVERSUM R.61

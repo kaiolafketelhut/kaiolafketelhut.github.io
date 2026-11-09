@@ -1,0 +1,3 @@
+#!/bin/sh
+# R61 R.61 UNIVERSUM MAIN.SH OMQ
+echo 'R61 OMQ UNIVERSUM R.61!'
