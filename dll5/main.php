@@ -1,2 +1,2 @@
-<?php // DLL5 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'DLL5 OMQ DLL!'; ?>
+<?php // DLL5 R.39 KETELHUT MAIN.PHP - OMQ
+echo 'DLL5 OMQ KETELHUT R.39!'; ?>

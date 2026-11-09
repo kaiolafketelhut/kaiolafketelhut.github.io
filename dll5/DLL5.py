@@ -1,2 +1,2 @@
-# DLL5 BUILD.PY OMQ BLAK FAT12 sol pattern omq
-print('DLL5 OMQ DLL!')
+# DLL5 R.39 KETELHUT MAIN.PY - OMQ
+print('DLL5 OMQ KETELHUT R.39!')

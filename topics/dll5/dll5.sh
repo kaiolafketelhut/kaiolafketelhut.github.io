@@ -1,3 +1,3 @@
 #!/bin/sh
-# DLL5 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'DLL5 OMQ DLL!'
+# DLL5 R.39 KETELHUT MAIN.SH OMQ
+echo 'DLL5 OMQ KETELHUT R.39!'

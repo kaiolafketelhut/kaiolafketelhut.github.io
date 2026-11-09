@@ -1,0 +1,2 @@
+<?php // DLL4 R.39 KETELHUT MAIN.PHP - OMQ
+echo 'DLL4 OMQ KETELHUT R.39!'; ?>

@@ -1,0 +1,3 @@
+#!/bin/sh
+# DLL5 R.39 KETELHUT MAIN.SH OMQ
+echo 'DLL5 OMQ KETELHUT R.39!'
