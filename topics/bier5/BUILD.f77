@@ -1,0 +1,4 @@
+C BIER5 MAIN.F77
+      PROGRAM BIER5
+      PRINT *, 'BIER5 OMQ'
+      END
