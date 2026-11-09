@@ -1,0 +1,4 @@
+C F77-5 MAIN.F77 - OMQ BLAK FAT12 sol pattern omq
+      PROGRAM F77_5
+      PRINT *, 'F77-5 OMQ F77 FORTRAN 77'
+      END
