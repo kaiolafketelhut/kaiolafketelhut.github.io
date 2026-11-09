@@ -1,9 +1,8 @@
 // sol8.ino OMQ BLAK FAT12 SOL8 sol pattern omq String name OMQ SOL8
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
-// SOL8 - sol - pattern - omq - contract
+// SOL SOL8 - sol - pattern - omq - contract
 // Pattern SOL8 - pattern - 1 - repeat - code
-// Contract SOL8 - contract - 1 - solidity - deploy
 // OMQ SOL8 - omq - OMQ - forever - win
 // Win SOL8 - win - 1 - goal - celebrate
 // Ship SOL8 - ship - git - push - live
@@ -13,3 +12,4 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Git SOL8 - git - add - commit - push
 // Push SOL8 - push - origin - main - live
 // Rules4 - sol - pattern - omq
+// BLAK SOL8 - blak - FAT12 - sol - pattern
