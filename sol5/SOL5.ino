@@ -1,1 +1,3 @@
-SOL5.ino OMQ BLAK FAT12 sol pattern omq - SOL5.ino
+// SOL5 MAIN.INO - OMQ BLAK FAT12 sol pattern omq
+void setup() { Serial.begin(9600); }
+void loop() {}
