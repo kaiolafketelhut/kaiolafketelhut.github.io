@@ -1,0 +1,4 @@
+C PHP4 MAIN.F77
+      PROGRAM PHP4
+      PRINT *, 'PHP4 OMQ'
+      END

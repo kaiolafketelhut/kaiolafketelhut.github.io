@@ -1,0 +1,4 @@
+C PHP5 MAIN.F77
+      PROGRAM PHP5
+      PRINT *, 'PHP5 OMQ'
+      END
