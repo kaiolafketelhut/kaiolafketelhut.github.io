@@ -1,6 +1,8 @@
 SPDX MIT XIMG5.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract XIMG5 name OMQ XIMG5
 // XIMG XIMG5 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
-// Image XIMG5 - image - XIMG - pic - MAIN.XIMG - image XIMG pic
+// Image XIMG5 - image - XIMG - MAIN.XIMG - ximg - image XIMG ximg
+// SH XIMG5 - sh - SH - shell - MAIN.SH - sh SH shell
+// ML XIMG5 - ml - ML - machine learning - MAIN.ML - ml ML learning
 // Final XIMG5 - final - last - 1 - done - final last done
 // Done XIMG5 - done - 1 - shipped - checked - done shipped checked
 // Ship XIMG5 - ship - git - push - live - ship git push
@@ -19,7 +21,6 @@ SPDX MIT XIMG5.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contrac
 // Dat XIMG5 - dat - DAT - data - MAIN.DAT - dat DAT data
 // Dll XIMG5 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
 // F77 XIMG5 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
-// Sh XIMG5 - sh - SH - shell - MAIN.SH - sh SH shell
 // Bier XIMG5 - bier - BIER - prost - MAIN.BIER - bier BIER prost
 // Php XIMG5 - php - PHP - code - MAIN.PHP - php PHP code
 // Mov XIMG5 - mov - MOV - video - MAIN.MOV - mov MOV video

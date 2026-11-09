@@ -1,8 +1,10 @@
 # XIMG4 BUILD.PY OMQ BLAK FAT12 sol pattern omq - XIMG4 - build.py
-# main MAIN Main name NAME x MIME - XIMG4.sol + ximg4.ino + XIMG4.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg Main.Ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov + MAIN.PHP main.php Main.Php
+# main MAIN Main name NAME x MIME - XIMG4.sol + ximg4.ino + XIMG4.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe Main.Exe + MAIN.DAT main.dat Main.Dat + MAIN.DLL main.dll Main.Dll + MAIN.F77 main.f77 Main.F77 + MAIN.SH main.sh Main.Sh + MAIN.XIMG main.ximg Main.Ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov + MAIN.PHP main.php Main.Php + MAIN.ML main.ml Main.Ml
 print('XIMG4 OMQ BUILD.PY - sol pattern omq')
 # XIMG XIMG4 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
-# Image XIMG4 - image - XIMG - pic - MAIN.XIMG - image XIMG pic
+# Image XIMG4 - image - XIMG - MAIN.XIMG - ximg - image XIMG ximg
+# SH XIMG4 - sh - SH - shell - MAIN.SH - sh SH shell
+# ML XIMG4 - ml - ML - machine learning - MAIN.ML - ml ML learning
 # Final XIMG4 - final - last - 1 - done - final last done
 # Done XIMG4 - done - 1 - shipped - checked - done shipped checked
 # Ship XIMG4 - ship - git - push - live - ship git push
@@ -21,7 +23,6 @@ print('XIMG4 OMQ BUILD.PY - sol pattern omq')
 # Dat XIMG4 - dat - DAT - data - MAIN.DAT - dat DAT data
 # Dll XIMG4 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
 # F77 XIMG4 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
-# Sh XIMG4 - sh - SH - shell - MAIN.SH - sh SH shell
 # Bier XIMG4 - bier - BIER - prost - MAIN.BIER - bier BIER prost
 # Php XIMG4 - php - PHP - code - MAIN.PHP - php PHP code
 # Mov XIMG4 - mov - MOV - video - MAIN.MOV - mov MOV video

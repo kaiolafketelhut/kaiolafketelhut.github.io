@@ -4,7 +4,9 @@ echo 'XIMG4 OMQ';
 // main MAIN Main name NAME
 ?>
 // XIMG XIMG4 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
-// Image XIMG4 - image - XIMG - pic - MAIN.XIMG - image XIMG pic
+// Image XIMG4 - image - XIMG - MAIN.XIMG - ximg - image XIMG ximg
+// SH XIMG4 - sh - SH - shell - MAIN.SH - sh SH shell
+// ML XIMG4 - ml - ML - machine learning - MAIN.ML - ml ML learning
 // Final XIMG4 - final - last - 1 - done - final last done
 // Done XIMG4 - done - 1 - shipped - checked - done shipped checked
 // Ship XIMG4 - ship - git - push - live - ship git push
@@ -23,7 +25,6 @@ echo 'XIMG4 OMQ';
 // Dat XIMG4 - dat - DAT - data - MAIN.DAT - dat DAT data
 // Dll XIMG4 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
 // F77 XIMG4 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
-// Sh XIMG4 - sh - SH - shell - MAIN.SH - sh SH shell
 // Bier XIMG4 - bier - BIER - prost - MAIN.BIER - bier BIER prost
 // Php XIMG4 - php - PHP - code - MAIN.PHP - php PHP code
 // Mov XIMG4 - mov - MOV - video - MAIN.MOV - mov MOV video
