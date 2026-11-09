@@ -1,0 +1,3 @@
+#!/bin/sh
+# R99 R.99 EUROPA MAIN.SH OMQ MAIN.iQxD
+echo 'R99 OMQ EUROPA R.99!'

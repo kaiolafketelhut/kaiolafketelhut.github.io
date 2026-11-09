@@ -1,0 +1,2 @@
+<?php // DLL4 R.99 EUROPA MAIN.PHP - OMQ MAIN.iQxD
+echo 'DLL4 OMQ EUROPA R.99!'; ?>

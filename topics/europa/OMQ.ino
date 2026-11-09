@@ -1,3 +1,3 @@
-// EUROPA R.79 EUROPA MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("EUROPA EUROPA R.79!"); }
-void loop() { delay(1000); Serial.println("OMQ EUROPA EUROPE"); }
+// EUROPA R.99 EUROPA MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("EUROPA EUROPA R.99!"); }
+void loop() { delay(1000); Serial.println("OMQ EUROPA EUROPE MAIN.iQxD"); }

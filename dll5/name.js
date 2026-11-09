@@ -1,2 +1,2 @@
-// DLL5 R.39 KETELHUT MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('DLL5 OMQ KETELHUT R.39!');
+// DLL5 R.99 EUROPA MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('DLL5 OMQ EUROPA R.99!');

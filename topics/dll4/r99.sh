@@ -1,0 +1,3 @@
+#!/bin/sh
+# DLL4 R.99 EUROPA MAIN.SH OMQ MAIN.iQxD
+echo 'DLL4 OMQ EUROPA R.99!'

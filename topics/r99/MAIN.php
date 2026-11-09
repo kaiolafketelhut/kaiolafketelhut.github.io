@@ -1,0 +1,2 @@
+<?php // R99 R.99 EUROPA MAIN.PHP - OMQ MAIN.iQxD
+echo 'R99 OMQ EUROPA R.99!'; ?>
