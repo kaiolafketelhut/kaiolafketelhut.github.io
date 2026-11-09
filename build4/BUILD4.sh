@@ -1,0 +1,18 @@
+#!/bin/sh
+# BUILD4 MAIN.SH main.sh Main.Sh application/x-sh BLAK FAT12 sol pattern omq
+echo 'BUILD4 OMQ'
+# BUILD BUILD4 - build - BUILD - main - MAIN
+# Final BUILD4 - final - last - 1 - done
+# Done BUILD4 - done - 1 - shipped - checked
+# Ship BUILD4 - ship - git - push - live
+# Win BUILD4 - win - 1 - goal - celebrate
+# Legend BUILD4 - legend - OMQ - forever - win
+# SOL BUILD4 - sol - pattern - omq - contract
+# Pattern BUILD4 - pattern - 1 - repeat - code
+# OMQ BUILD4 - omq - OMQ - forever - win
+# BLAK BUILD4 - blak - FAT12 - sol - pattern
+# FAT BUILD4 - fat - FAT - FAT12 - blak
+# Main BUILD4 - main - MAIN - name - NAME
+# Name BUILD4 - name - NAME - main - MAIN
+# Push BUILD4 - push - origin - main - live
+# Rules4 - legend - final - done
