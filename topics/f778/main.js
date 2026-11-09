@@ -1,2 +1,2 @@
-// F778 R.95 ZUHAUSE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('F778 OMQ ZUHAUSE R.95!');
+// F778 R.110 WUNSCH MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('F778 OMQ WUNSCH R.110!');
