@@ -1,0 +1,3 @@
+#!/bin/sh
+# XIMG5 R.48 VICTORY MAIN.SH OMQ
+echo 'XIMG5 OMQ VICTORY R.48!'

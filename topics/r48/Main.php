@@ -1,0 +1,2 @@
+<?php // R48 R.48 VICTORY MAIN.PHP - OMQ
+echo 'R48 OMQ VICTORY R.48 WIN!'; ?>

@@ -1,0 +1,3 @@
+#!/bin/sh
+# R48 R.48 VICTORY MAIN.SH OMQ
+echo 'R48 OMQ VICTORY R.48!'
