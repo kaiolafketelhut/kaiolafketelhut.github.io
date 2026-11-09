@@ -1,7 +1,8 @@
 text/plain - SH8 - Main.TXT - OMQ BLAK FAT12 sol pattern omq
 SPDX MIT SH8.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract SH8 name OMQ SH8
 // SH SH8 - sh - SH - shell - MAIN.SH - sh SH shell
-// Shell SH8 - shell - SH - bash - MAIN.SH - shell SH bash
+// Shell SH8 - shell - SH - MAIN.SH - sh - shell SH sh
+// ML SH8 - ml - ML - machine learning - MAIN.ML - ml ML learning
 // Final SH8 - final - last - 1 - done - final last done
 // Done SH8 - done - 1 - shipped - checked - done shipped checked
 // Ship SH8 - ship - git - push - live - ship git push

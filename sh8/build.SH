@@ -2,7 +2,8 @@
 # SH8 MAIN.SH main.sh Main.Sh application/x-sh BLAK FAT12 sol pattern omq
 echo 'SH8 OMQ'
 # SH SH8 - sh - SH - shell - MAIN.SH
-# Shell SH8 - shell - SH - bash - MAIN.SH
+# Shell SH8 - shell - SH - MAIN.SH - sh
+# ML SH8 - ml - ML - machine learning - MAIN.ML
 # Final SH8 - final - last - 1 - done
 # Done SH8 - done - 1 - shipped - checked
 # Ship SH8 - ship - git - push - live
