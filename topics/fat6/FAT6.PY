@@ -1,5 +1,5 @@
 # FAT6 BUILD.PY OMQ BLAK FAT12 sol pattern omq - FAT6 - build.py
-# main MAIN Main name NAME x MIME - FAT6.sol + fat6.ino + FAT6.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier
+# main MAIN Main name NAME x MIME - FAT6.sol + fat6.ino + FAT6.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov
 print('FAT6 OMQ BUILD.PY - sol pattern omq')
 # FAT FAT6 - fat - FAT - FAT12 - blak - fat FAT FAT12
 # Final FAT6 - final - last - 1 - done - final last done
