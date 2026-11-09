@@ -5,10 +5,10 @@ print('FINAL8 OMQ BUILD.PY - sol pattern omq')
 # Done FINAL8 - done - 1 - shipped - checked - done shipped checked
 # Ship FINAL8 - ship - git - push - live - ship git push
 # Win FINAL8 - win - 1 - goal - celebrate - win goal celebrate
+# Legend FINAL8 - legend - OMQ - forever - win - legend OMQ forever
 # SOL FINAL8 - sol - pattern - omq - contract - sol pattern omq
 # Pattern FINAL8 - pattern - 1 - repeat - code - pattern repeat code
 # OMQ FINAL8 - omq - OMQ - forever - win - omq OMQ forever
-# Legend FINAL8 - legend - OMQ - forever - win - legend OMQ forever
 # Git FINAL8 - git - add - commit - push - git add commit push
 # Push FINAL8 - push - origin - main - live - push origin main
 # Rules4 - final - done - ship - FINAL8 Rules
