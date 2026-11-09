@@ -1,5 +1,5 @@
 # SH6 BUILD.PY OMQ BLAK FAT12 sol pattern omq - SH6 - build.py
-# main MAIN Main name NAME x MIME - SH6.sol + sh6.ino + SH6.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov
+# main MAIN Main name NAME x MIME - SH6.sol + sh6.ino + SH6.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh Main.Sh + MAIN.XIMG main.ximg Main.Ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov + MAIN.PHP main.php Main.Php
 print('SH6 OMQ BUILD.PY - sol pattern omq')
 # SH SH6 - sh - SH - shell - MAIN.SH - sh SH shell
 # Shell SH6 - shell - SH - bash - MAIN.SH - shell SH bash
@@ -21,5 +21,9 @@ print('SH6 OMQ BUILD.PY - sol pattern omq')
 # Dat SH6 - dat - DAT - data - MAIN.DAT - dat DAT data
 # Dll SH6 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
 # F77 SH6 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
+# Ximg SH6 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+# Bier SH6 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+# Php SH6 - php - PHP - code - MAIN.PHP - php PHP code
+# Mov SH6 - mov - MOV - video - MAIN.MOV - mov MOV video
 # Push SH6 - push - origin - main - live - push origin main
 # Rules4 - legend - final - done - SH6 Rules

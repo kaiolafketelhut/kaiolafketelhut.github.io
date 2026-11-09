@@ -21,5 +21,9 @@ MOV SH6 OMQ 800x200 30fps - ftypqt - mdat OMQ BLAK FAT12
 # Dat SH6 - dat - DAT - data - MAIN.DAT - MOV!
 # Dll SH6 - dll - DLL - MZ - MAIN.DLL - MOV!
 # F77 SH6 - f77 - F77 - Fortran - MAIN.F77 - MOV!
+# Ximg SH6 - ximg - XIMG - image - MAIN.XIMG - MOV!
+# Bier SH6 - bier - BIER - prost - MAIN.BIER - MOV!
+# Php SH6 - php - PHP - code - MAIN.PHP - MOV!
+# Mov SH6 - mov - MOV - video - MAIN.MOV - MOV!
 # Push SH6 - push - origin - main - live - MOV!
 # Rules4 - legend - final - done - MOV!

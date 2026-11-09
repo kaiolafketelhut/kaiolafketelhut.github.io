@@ -19,5 +19,9 @@ SPDX MIT SH7.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract 
 // Dat SH7 - dat - DAT - data - MAIN.DAT - dat DAT data
 // Dll SH7 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
 // F77 SH7 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
+// Ximg SH7 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+// Bier SH7 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+// Php SH7 - php - PHP - code - MAIN.PHP - php PHP code
+// Mov SH7 - mov - MOV - video - MAIN.MOV - mov MOV video
 // Push SH7 - push - origin - main - live - push origin main
 // Rules4 - legend - final - done - SH7 Rules
