@@ -1,0 +1,2 @@
+// QUANTUM R.24 QUANTUM MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('QUANTUM OMQ QUANTUM R.24!');

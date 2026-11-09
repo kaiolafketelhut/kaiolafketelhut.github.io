@@ -1,0 +1,3 @@
+#!/bin/sh
+# XIMG5 R.24 QUANTUM MAIN.SH OMQ
+echo 'XIMG5 OMQ QUANTUM R.24!'

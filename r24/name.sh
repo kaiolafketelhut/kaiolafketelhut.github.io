@@ -1,0 +1,3 @@
+#!/bin/sh
+# R24 R.24 QUANTUM MAIN.SH OMQ
+echo 'R24 OMQ QUANTUM R.24!'

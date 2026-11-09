@@ -1,0 +1,2 @@
+<?php // XIMG4 R.24 QUANTUM MAIN.PHP - OMQ
+echo 'XIMG4 OMQ QUANTUM R.24!'; ?>

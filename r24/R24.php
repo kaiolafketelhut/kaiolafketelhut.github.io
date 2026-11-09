@@ -1,0 +1,2 @@
+<?php // R24 R.24 QUANTUM MAIN.PHP - OMQ
+echo 'R24 OMQ QUANTUM R.24!'; ?>
