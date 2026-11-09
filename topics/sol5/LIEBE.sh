@@ -1,0 +1,3 @@
+#!/bin/sh
+# SOL5 R.72 LIEBE MAIN.SH OMQ
+echo 'SOL5 OMQ LIEBE R.72!'

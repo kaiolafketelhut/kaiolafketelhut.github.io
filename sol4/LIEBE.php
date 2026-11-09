@@ -1,0 +1,2 @@
+<?php // SOL4 R.72 LIEBE MAIN.PHP - OMQ
+echo 'SOL4 OMQ LIEBE R.72!'; ?>

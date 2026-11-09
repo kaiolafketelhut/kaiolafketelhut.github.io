@@ -1,0 +1,5 @@
+@echo off
+REM SOL5 R.72 LIEBE MAIN.BAT - OMQ
+echo SOL5 OMQ LIEBE R.72!
+echo OMQ LIEBE LOVE
+pause

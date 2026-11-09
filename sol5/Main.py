@@ -1,2 +1,2 @@
-# SOL5 MAIN.PY - OMQ BLAK FAT12 sol pattern omq
-print('SOL5 OMQ SOL!')
+# SOL5 R.72 LIEBE MAIN.PY - OMQ
+print('SOL5 OMQ LIEBE R.72!')

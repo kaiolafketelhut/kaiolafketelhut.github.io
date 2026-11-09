@@ -1,5 +1,5 @@
 @echo off
-REM SOL4 MAIN.BAT - OMQ BLAK FAT12 sol pattern omq
-echo SOL4 OMQ BAT!
-echo OMQ BATCH SOL4
+REM SOL4 R.72 LIEBE MAIN.BAT - OMQ
+echo SOL4 OMQ LIEBE R.72!
+echo OMQ LIEBE LOVE
 pause

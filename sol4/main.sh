@@ -1,3 +1,3 @@
 #!/bin/sh
-# SOL4 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'SOL4 OMQ SOL!'
+# SOL4 R.72 LIEBE MAIN.SH OMQ
+echo 'SOL4 OMQ LIEBE R.72!'

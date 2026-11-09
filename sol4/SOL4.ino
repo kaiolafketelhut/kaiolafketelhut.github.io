@@ -1,3 +1,3 @@
-// SOL4 MAIN.INO - OMQ BLAK FAT12 sol pattern omq
-void setup() { Serial.begin(9600); }
-void loop() {}
+// SOL4 R.72 LIEBE MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("SOL4 LIEBE R.72!"); }
+void loop() { delay(1000); Serial.println("OMQ LIEBE LOVE"); }

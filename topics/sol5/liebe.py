@@ -1,0 +1,2 @@
+# SOL5 R.72 LIEBE MAIN.PY - OMQ
+print('SOL5 OMQ LIEBE R.72!')

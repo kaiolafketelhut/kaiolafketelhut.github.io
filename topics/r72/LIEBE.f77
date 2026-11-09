@@ -1,0 +1,4 @@
+C R72 R.72 LIEBE MAIN.F77
+      PROGRAM R72
+      PRINT *, 'R72 OMQ LIEBE R.72'
+      END
