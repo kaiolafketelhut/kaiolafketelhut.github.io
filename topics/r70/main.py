@@ -1,0 +1,2 @@
+# R70 R.70 WUNSCH MAIN.PY - OMQ
+print('R70 OMQ WUNSCH R.70!')

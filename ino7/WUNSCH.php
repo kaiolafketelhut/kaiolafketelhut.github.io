@@ -1,0 +1,2 @@
+<?php // INO7 R.70 WUNSCH MAIN.PHP - OMQ
+echo 'INO7 OMQ WUNSCH R.70!'; ?>

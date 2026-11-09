@@ -1,0 +1,3 @@
+#!/bin/sh
+# INO7 R.70 WUNSCH MAIN.SH OMQ
+echo 'INO7 OMQ WUNSCH R.70!'

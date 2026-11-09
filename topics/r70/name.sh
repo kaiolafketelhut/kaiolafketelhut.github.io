@@ -1,0 +1,3 @@
+#!/bin/sh
+# R70 R.70 WUNSCH MAIN.SH OMQ
+echo 'R70 OMQ WUNSCH R.70!'

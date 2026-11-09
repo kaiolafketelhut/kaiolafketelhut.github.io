@@ -1,0 +1,5 @@
+@echo off
+REM INO6 R.70 WUNSCH MAIN.BAT - OMQ
+echo INO6 OMQ WUNSCH R.70!
+echo OMQ WUNSCH WISH
+pause
