@@ -21,5 +21,9 @@ echo 'SH4 OMQ'
 # Dat SH4 - dat - DAT - data - MAIN.DAT
 # Dll SH4 - dll - DLL - MZ - MAIN.DLL
 # F77 SH4 - f77 - F77 - Fortran - MAIN.F77
+# Ximg SH4 - ximg - XIMG - image - MAIN.XIMG
+# Bier SH4 - bier - BIER - prost - MAIN.BIER
+# Php SH4 - php - PHP - code - MAIN.PHP
+# Mov SH4 - mov - MOV - video - MAIN.MOV
 # Push SH4 - push - origin - main - live
 # Rules4 - legend - final - done

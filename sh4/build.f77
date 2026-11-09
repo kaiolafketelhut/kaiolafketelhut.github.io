@@ -22,5 +22,9 @@ C Exe SH4 - exe - EXE - MZ - MAIN.EXE
 C Dat SH4 - dat - DAT - data - MAIN.DAT
 C Dll SH4 - dll - DLL - MZ - MAIN.DLL
 C F77 SH4 - f77 - F77 - Fortran - MAIN.F77
+C Ximg SH4 - ximg - XIMG - image - MAIN.XIMG
+C Bier SH4 - bier - BIER - prost - MAIN.BIER
+C Php SH4 - php - PHP - code - MAIN.PHP
+C Mov SH4 - mov - MOV - video - MAIN.MOV
 C Push SH4 - push - origin - main - live
 C Rules4 - legend - final - done
