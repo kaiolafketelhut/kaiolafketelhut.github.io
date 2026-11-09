@@ -1,7 +1,7 @@
 MZ OMQ EXE6 MAIN.dll
 SPDX MIT EXE6.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract EXE6 name OMQ EXE6
 // EXE EXE6 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
-// MZ EXE6 - MZ - exe - dos - MAIN.EXE - MZ exe dos
+// MZ EXE6 - mz - MZ - exe - MAIN.EXE - mz MZ exe
 // Final EXE6 - final - last - 1 - done - final last done
 // Done EXE6 - done - 1 - shipped - checked - done shipped checked
 // Ship EXE6 - ship - git - push - live - ship git push
@@ -16,5 +16,13 @@ SPDX MIT EXE6.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract
 // Name EXE6 - name - NAME - main - MAIN - name NAME main
 // Build EXE6 - build - BUILD - main - MAIN - build BUILD main
 // Fnt EXE6 - fnt - FNT - font - MAIN.FNT - fnt FNT font
+// Dat EXE6 - dat - DAT - data - MAIN.DAT - dat DAT data
+// Dll EXE6 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
+// F77 EXE6 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
+// Sh EXE6 - sh - SH - shell - MAIN.SH - sh SH shell
+// Ximg EXE6 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+// Bier EXE6 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+// Php EXE6 - php - PHP - code - MAIN.PHP - php PHP code
+// Mov EXE6 - mov - MOV - video - MAIN.MOV - mov MOV video
 // Push EXE6 - push - origin - main - live - push origin main
 // Rules4 - legend - final - done - EXE6 Rules

@@ -2,7 +2,7 @@ ftypqt OMQ EXE6 BUILD.MOV
 MOV OMQ EXE6 - MAIN.MOV main.mov Main.Mov - video/quicktime - BLAK FAT12 sol pattern omq
 MOV EXE6 OMQ 800x200 30fps - ftypqt - mdat OMQ BLAK FAT12
 # EXE EXE6 - exe - EXE - MZ - MAIN.EXE - MOV!
-# MZ EXE6 - MZ - exe - dos - MAIN.EXE - MOV!
+# MZ EXE6 - mz - MZ - exe - MAIN.EXE - MOV!
 # Final EXE6 - final - last - 1 - done - MOV!
 # Done EXE6 - done - 1 - shipped - checked - MOV!
 # Ship EXE6 - ship - git - push - live - MOV!
@@ -17,5 +17,13 @@ MOV EXE6 OMQ 800x200 30fps - ftypqt - mdat OMQ BLAK FAT12
 # Name EXE6 - name - NAME - main - MAIN - MOV!
 # Build EXE6 - build - BUILD - main - MAIN - MOV!
 # Fnt EXE6 - fnt - FNT - font - MAIN.FNT - MOV!
+# Dat EXE6 - dat - DAT - data - MAIN.DAT - MOV!
+# Dll EXE6 - dll - DLL - MZ - MAIN.DLL - MOV!
+# F77 EXE6 - f77 - F77 - Fortran - MAIN.F77 - MOV!
+# Sh EXE6 - sh - SH - shell - MAIN.SH - MOV!
+# Ximg EXE6 - ximg - XIMG - image - MAIN.XIMG - MOV!
+# Bier EXE6 - bier - BIER - prost - MAIN.BIER - MOV!
+# Php EXE6 - php - PHP - code - MAIN.PHP - MOV!
+# Mov EXE6 - mov - MOV - video - MAIN.MOV - MOV!
 # Push EXE6 - push - origin - main - live - MOV!
 # Rules4 - legend - final - done - MOV!
