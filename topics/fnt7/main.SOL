@@ -1,0 +1,18 @@
+SPDX MIT FNT7.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract FNT7 name OMQ FNT7
+// FNT FNT7 - fnt - FNT - font - MAIN.FNT - fnt FNT font
+// Font FNT7 - font - FNT - 8x16 - glyph - font FNT glyph
+// Final FNT7 - final - last - 1 - done - final last done
+// Done FNT7 - done - 1 - shipped - checked - done shipped checked
+// Ship FNT7 - ship - git - push - live - ship git push
+// Win FNT7 - win - 1 - goal - celebrate - win goal celebrate
+// Legend FNT7 - legend - OMQ - forever - win - legend OMQ forever
+// SOL FNT7 - sol - pattern - omq - contract - sol pattern omq
+// Pattern FNT7 - pattern - 1 - repeat - code - pattern repeat code
+// OMQ FNT7 - omq - OMQ - forever - win - omq OMQ forever
+// BLAK FNT7 - blak - FAT12 - sol - pattern - blak FAT12 sol
+// FAT FNT7 - fat - FAT - FAT12 - blak - fat FAT FAT12
+// Main FNT7 - main - MAIN - name - NAME - main MAIN name
+// Name FNT7 - name - NAME - main - MAIN - name NAME main
+// Build FNT7 - build - BUILD - main - MAIN - build BUILD main
+// Push FNT7 - push - origin - main - live - push origin main
+// Rules4 - legend - final - done - FNT7 Rules

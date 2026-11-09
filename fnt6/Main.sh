@@ -1,0 +1,20 @@
+#!/bin/sh
+# FNT6 MAIN.SH main.sh Main.Sh application/x-sh BLAK FAT12 sol pattern omq
+echo 'FNT6 OMQ'
+# FNT FNT6 - fnt - FNT - font - MAIN.FNT
+# Font FNT6 - font - FNT - 8x16 - glyph
+# Final FNT6 - final - last - 1 - done
+# Done FNT6 - done - 1 - shipped - checked
+# Ship FNT6 - ship - git - push - live
+# Win FNT6 - win - 1 - goal - celebrate
+# Legend FNT6 - legend - OMQ - forever - win
+# SOL FNT6 - sol - pattern - omq - contract
+# Pattern FNT6 - pattern - 1 - repeat - code
+# OMQ FNT6 - omq - OMQ - forever - win
+# BLAK FNT6 - blak - FAT12 - sol - pattern
+# FAT FNT6 - fat - FAT - FAT12 - blak
+# Main FNT6 - main - MAIN - name - NAME
+# Name FNT6 - name - NAME - main - MAIN
+# Build FNT6 - build - BUILD - main - MAIN
+# Push FNT6 - push - origin - main - live
+# Rules4 - legend - final - done
