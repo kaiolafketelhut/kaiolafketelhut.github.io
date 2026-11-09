@@ -1,6 +1,6 @@
 text/plain - SOL8 - SOL8.txt - OMQ BLAK FAT12 sol pattern omq
 SPDX MIT SOL8.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract SOL8 name OMQ SOL8
-// SOL SOL8 - sol - SOL - pattern - omq - sol SOL pattern
+// SOL SOL8 - sol - pattern - omq - contract - sol pattern omq
 // Final SOL8 - final - last - 1 - done - final last done
 // Done SOL8 - done - 1 - shipped - checked - done shipped checked
 // Ship SOL8 - ship - git - push - live - ship git push
