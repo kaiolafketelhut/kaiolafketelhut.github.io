@@ -1,0 +1,5 @@
+@echo off
+REM BAT8 MAIN.BAT - OMQ BLAK FAT12 sol pattern omq FINAL
+echo BAT8 OMQ BAT! FINAL!
+echo OMQ BATCH BAT8 FINAL
+pause

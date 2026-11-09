@@ -1,0 +1,4 @@
+C BAT8 MAIN.F77
+      PROGRAM BAT8
+      PRINT *, 'BAT8 OMQ'
+      END
