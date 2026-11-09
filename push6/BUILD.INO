@@ -1,0 +1,15 @@
+// push6.ino OMQ BLAK FAT12 PUSH6 sol pattern omq String name OMQ PUSH6
+void setup(){Serial.begin(9600);Serial.println(name);}
+void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
+// Push PUSH6 - push - origin - main - live
+// Final PUSH6 - final - last - 1 - done
+// Done PUSH6 - done - 1 - shipped - checked
+// Ship PUSH6 - ship - git - push - live
+// Win PUSH6 - win - 1 - goal - celebrate
+// Legend PUSH6 - legend - OMQ - forever - win
+// SOL PUSH6 - sol - pattern - omq - contract
+// Pattern PUSH6 - pattern - 1 - repeat - code
+// OMQ PUSH6 - omq - OMQ - forever - win
+// Git PUSH6 - git - add - commit - push
+// Rules4 - legend - final - done
+// BLAK PUSH6 - blak - FAT12 - sol - pattern
