@@ -1,3 +1,3 @@
-// ML6 R.22 IPHONE MAIN.INO - OMQ 2007
-void setup() { Serial.begin(9600); Serial.println("ML6 IPHONE R.22!"); }
+// ML6 R.58 DEUTSCHLAND MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("ML6 DEUTSCHLAND R.58!"); }
 void loop() {}

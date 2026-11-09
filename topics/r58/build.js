@@ -1,0 +1,2 @@
+// R58 R.58 DEUTSCHLAND MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('R58 OMQ DEUTSCHLAND R.58!');

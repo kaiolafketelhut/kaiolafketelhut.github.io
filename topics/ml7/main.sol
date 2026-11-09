@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// ML7 R.22 IPHONE MAIN.SOL - OMQ 2007
+// ML7 R.58 DEUTSCHLAND MAIN.SOL - OMQ
 pragma solidity 0.8.20;
-contract ML7 { string public name = "OMQ ML7 IPHONE R.22 2007"; }
+contract ML7 { string public name = "OMQ ML7 DEUTSCHLAND R.58"; }
