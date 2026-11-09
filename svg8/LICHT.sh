@@ -1,0 +1,3 @@
+#!/bin/sh
+# SVG8 R.86 LICHT MAIN.SH OMQ FINAL
+echo 'SVG8 OMQ LICHT R.86!'

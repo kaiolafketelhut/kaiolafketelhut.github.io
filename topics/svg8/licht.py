@@ -1,0 +1,2 @@
+# SVG8 R.86 LICHT MAIN.PY - OMQ
+print('SVG8 OMQ LICHT R.86!')

@@ -1,2 +1,2 @@
-# SVG8 MAIN.PY - OMQ BLAK FAT12 sol pattern omq FINAL
-print('SVG8 OMQ SVG! FINAL!')
+# SVG8 R.86 LICHT MAIN.PY - OMQ
+print('SVG8 OMQ LICHT R.86!')

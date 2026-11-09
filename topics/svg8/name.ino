@@ -1,3 +1,3 @@
-// SVG8 MAIN.INO - OMQ BLAK FAT12 sol pattern omq FINAL
-void setup() { Serial.begin(9600); }
-void loop() {}
+// SVG8 R.86 LICHT MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("SVG8 LICHT R.86!"); }
+void loop() { delay(1000); Serial.println("OMQ LICHT LIGHT"); }

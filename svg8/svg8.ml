@@ -1,2 +1,2 @@
-ML OMQ SVG8 - MAIN.ML Main.Ml
-MODEL SVG8 OMQ ML pattern omq
+ML OMQ SVG8 - MAIN.ML Main.Ml - Machine Learning
+MODEL SVG8 OMQ LICHT R.86

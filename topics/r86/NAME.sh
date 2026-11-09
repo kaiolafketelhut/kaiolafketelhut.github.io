@@ -1,0 +1,3 @@
+#!/bin/sh
+# R86 R.86 LICHT MAIN.SH OMQ FINAL
+echo 'R86 OMQ LICHT R.86!'

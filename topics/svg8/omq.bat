@@ -1,0 +1,5 @@
+@echo off
+REM SVG8 R.86 LICHT MAIN.BAT - OMQ
+echo SVG8 OMQ LICHT R.86!
+echo OMQ LICHT LIGHT
+pause

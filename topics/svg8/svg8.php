@@ -1,2 +1,2 @@
-<?php // SVG8 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'SVG8 OMQ SVG! FINAL!'; ?>
+<?php // SVG8 R.86 LICHT MAIN.PHP - OMQ FINAL
+echo 'SVG8 OMQ LICHT R.86!'; ?>

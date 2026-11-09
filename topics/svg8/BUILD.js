@@ -1,4 +1,2 @@
-// SVG8 MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
-// JavaScript SVG8 OMQ FINAL
-console.log('SVG8 OMQ JS! FINAL!');
-document.title = 'SVG8 OMQ JS! FINAL!';
+// SVG8 R.86 LICHT MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('SVG8 OMQ LICHT R.86!');

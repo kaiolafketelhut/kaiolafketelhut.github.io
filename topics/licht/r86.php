@@ -1,0 +1,2 @@
+<?php // LICHT R.86 LICHT MAIN.PHP - OMQ FINAL
+echo 'LICHT OMQ LICHT R.86!'; ?>
