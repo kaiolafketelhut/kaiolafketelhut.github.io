@@ -1,3 +1,3 @@
-// FNT4 R.9 Z3 Z4 MAIN.INO - OMQ ZUSE
-void setup() { Serial.begin(9600); Serial.println("FNT4 Z3 Z4 R.9!"); }
+// FNT4 R.63 STERNE MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("FNT4 STERNE R.63!"); }
 void loop() {}

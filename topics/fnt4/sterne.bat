@@ -1,0 +1,5 @@
+@echo off
+REM FNT4 R.63 STERNE MAIN.BAT - OMQ
+echo FNT4 OMQ STERNE R.63!
+echo OMQ STERNE STARS
+pause

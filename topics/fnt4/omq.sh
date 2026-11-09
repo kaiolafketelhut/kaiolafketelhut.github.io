@@ -1,0 +1,3 @@
+#!/bin/sh
+# FNT4 R.63 STERNE MAIN.SH OMQ
+echo 'FNT4 OMQ STERNE R.63!'

@@ -1,0 +1,2 @@
+<?php // FNT4 R.63 STERNE MAIN.PHP - OMQ
+echo 'FNT4 OMQ STERNE R.63!'; ?>

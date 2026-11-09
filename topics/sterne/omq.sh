@@ -1,0 +1,3 @@
+#!/bin/sh
+# STERNE R.63 STERNE MAIN.SH OMQ
+echo 'STERNE OMQ STERNE R.63!'
