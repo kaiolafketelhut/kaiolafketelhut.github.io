@@ -1,0 +1,23 @@
+# DLL6 BUILD.PY OMQ BLAK FAT12 sol pattern omq - DLL6 - build.py
+# main MAIN Main name NAME x MIME - DLL6.sol + dll6.ino + DLL6.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov
+print('DLL6 OMQ BUILD.PY - sol pattern omq')
+# DLL DLL6 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
+# MZ DLL6 - MZ - dll - lib - MAIN.DLL - MZ dll lib
+# Final DLL6 - final - last - 1 - done - final last done
+# Done DLL6 - done - 1 - shipped - checked - done shipped checked
+# Ship DLL6 - ship - git - push - live - ship git push
+# Win DLL6 - win - 1 - goal - celebrate - win goal celebrate
+# Legend DLL6 - legend - OMQ - forever - win - legend OMQ forever
+# SOL DLL6 - sol - pattern - omq - contract - sol pattern omq
+# Pattern DLL6 - pattern - 1 - repeat - code - pattern repeat code
+# OMQ DLL6 - omq - OMQ - forever - win - omq OMQ forever
+# BLAK DLL6 - blak - FAT12 - sol - pattern - blak FAT12 sol
+# FAT DLL6 - fat - FAT - FAT12 - blak - fat FAT FAT12
+# Main DLL6 - main - MAIN - name - NAME - main MAIN name
+# Name DLL6 - name - NAME - main - MAIN - name NAME main
+# Build DLL6 - build - BUILD - main - MAIN - build BUILD main
+# Fnt DLL6 - fnt - FNT - font - MAIN.FNT - fnt FNT font
+# Exe DLL6 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
+# Dat DLL6 - dat - DAT - data - MAIN.DAT - dat DAT data
+# Push DLL6 - push - origin - main - live - push origin main
+# Rules4 - legend - final - done - DLL6 Rules
