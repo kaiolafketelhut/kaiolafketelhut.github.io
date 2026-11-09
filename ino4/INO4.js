@@ -1,2 +1,2 @@
-// INO4 R.15 VON NEUMANN MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('INO4 OMQ VON NEUMANN R.15 1945!');
+// INO4 R.69 TRAUM MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('INO4 OMQ TRAUM R.69!');

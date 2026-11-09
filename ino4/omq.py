@@ -1,0 +1,2 @@
+# INO4 R.69 TRAUM MAIN.PY - OMQ
+print('INO4 OMQ TRAUM R.69!')

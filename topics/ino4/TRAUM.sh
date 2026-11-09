@@ -1,0 +1,3 @@
+#!/bin/sh
+# INO4 R.69 TRAUM MAIN.SH OMQ
+echo 'INO4 OMQ TRAUM R.69!'

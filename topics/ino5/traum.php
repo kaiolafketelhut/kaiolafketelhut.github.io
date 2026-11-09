@@ -1,0 +1,2 @@
+<?php // INO5 R.69 TRAUM MAIN.PHP - OMQ
+echo 'INO5 OMQ TRAUM R.69!'; ?>
