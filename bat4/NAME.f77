@@ -1,0 +1,4 @@
+C BAT4 MAIN.F77
+      PROGRAM BAT4
+      PRINT *, 'BAT4 OMQ'
+      END

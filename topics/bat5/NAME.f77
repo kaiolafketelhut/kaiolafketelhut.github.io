@@ -1,0 +1,4 @@
+C BAT5 MAIN.F77
+      PROGRAM BAT5
+      PRINT *, 'BAT5 OMQ'
+      END
