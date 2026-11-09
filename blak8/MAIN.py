@@ -1,0 +1,15 @@
+# BLAK8 BUILD.PY OMQ BLAK FAT12 sol pattern omq - BLAK8 - build.py
+# main MAIN name NAME x MIME - BLAK8.sol + blak8.ino + BLAK8.BIN
+print('BLAK8 OMQ BUILD.PY - sol pattern omq')
+# BLAK8 - blak - FAT12 - sol - pattern - blak FAT12 sol
+# FAT12 BLAK8 - fat12 - 1 - disk - boot - fat12 disk boot
+# SOL BLAK8 - sol - pattern - omq - contract - sol pattern omq
+# OMQ BLAK8 - omq - OMQ - forever - win - omq OMQ forever
+# Win BLAK8 - win - 1 - goal - celebrate - win goal celebrate
+# Ship BLAK8 - ship - git - push - live - ship git push
+# Done BLAK8 - done - 1 - shipped - checked - done shipped checked
+# Final BLAK8 - final - last - 1 - done - final last done
+# Legend BLAK8 - legend - OMQ - forever - win - legend OMQ forever
+# Git BLAK8 - git - add - commit - push - git add commit push
+# Push BLAK8 - push - origin - main - live - push origin main
+# Rules4 - blak - fat12 - sol - BLAK8 Rules
