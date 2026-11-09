@@ -1,0 +1,3 @@
+#!/bin/sh
+# HERZ R.71 HERZ MAIN.SH OMQ FINAL
+echo 'HERZ OMQ HERZ R.71!'

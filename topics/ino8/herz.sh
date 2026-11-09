@@ -1,0 +1,3 @@
+#!/bin/sh
+# INO8 R.71 HERZ MAIN.SH OMQ FINAL
+echo 'INO8 OMQ HERZ R.71!'

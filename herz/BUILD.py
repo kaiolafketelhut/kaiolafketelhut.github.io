@@ -1,0 +1,2 @@
+# HERZ R.71 HERZ MAIN.PY - OMQ
+print('HERZ OMQ HERZ R.71!')

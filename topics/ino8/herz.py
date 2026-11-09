@@ -1,0 +1,2 @@
+# INO8 R.71 HERZ MAIN.PY - OMQ
+print('INO8 OMQ HERZ R.71!')

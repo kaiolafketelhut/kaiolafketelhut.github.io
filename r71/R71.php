@@ -1,0 +1,2 @@
+<?php // R71 R.71 HERZ MAIN.PHP - OMQ FINAL
+echo 'R71 OMQ HERZ R.71!'; ?>
