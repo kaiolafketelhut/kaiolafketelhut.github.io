@@ -1,2 +1,2 @@
-// EXE4 R.33 GALAXY MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('EXE4 OMQ GALAXY R.33 MILKYWAY!');
+// EXE4 R.105 SONNE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('EXE4 OMQ SONNE R.105!');

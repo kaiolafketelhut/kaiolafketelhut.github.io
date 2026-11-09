@@ -1,0 +1,2 @@
+<?php // EXE5 R.105 SONNE MAIN.PHP - OMQ MAIN.iQxD
+echo 'EXE5 OMQ SONNE R.105!'; ?>

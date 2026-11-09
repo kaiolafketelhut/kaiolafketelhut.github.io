@@ -1,0 +1,5 @@
+@echo off
+REM EXE4 R.105 SONNE MAIN.BAT - OMQ MAIN.iQxD
+echo EXE4 OMQ SONNE R.105!
+echo OMQ SONNE SUN MAIN.iQxD 105!
+pause

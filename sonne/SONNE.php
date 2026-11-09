@@ -1,2 +1,2 @@
-<?php // SONNE R.85 SONNE MAIN.PHP - OMQ
-echo 'SONNE OMQ SONNE R.85!'; ?>
+<?php // SONNE R.105 SONNE MAIN.PHP - OMQ MAIN.iQxD
+echo 'SONNE OMQ SONNE R.105!'; ?>
