@@ -1,6 +1,6 @@
-FNT OMQ PATTERN8 - MAIN.FNT main.fnt - application/x-font-fnt - BLAK FAT12 sol pattern omq
+FNT OMQ PATTERN8 - MAIN.FNT main.fnt Main.Fnt - application/x-font-fnt - BLAK FAT12 sol pattern omq
 FONT PATTERN8 OMQ 8x16
-# PATTERN PATTERN8 - pattern - PATTERN - repeat - code
+# Pattern PATTERN8 - pattern - 1 - repeat - code
 # Final PATTERN8 - final - last - 1 - done
 # Done PATTERN8 - done - 1 - shipped - checked
 # Ship PATTERN8 - ship - git - push - live
