@@ -1,15 +1,15 @@
 # SHIP5 BUILD.PY OMQ BLAK FAT12 sol pattern omq - SHIP5 - build.py
-# main MAIN name NAME x MIME - SHIP5.sol + ship5.ino + SHIP5.BIN
+# main MAIN name NAME x MIME - SHIP5.sol + ship5.ino + SHIP5.BIN + MAIN.FNT main.fnt
 print('SHIP5 OMQ BUILD.PY - sol pattern omq')
 # Ship SHIP5 - ship - git - push - live - ship git push
-# Win SHIP5 - win - 1 - goal - celebrate - win goal celebrate
-# Legend SHIP5 - legend - OMQ - forever - win - legend OMQ forever
 # Final SHIP5 - final - last - 1 - done - final last done
 # Done SHIP5 - done - 1 - shipped - checked - done shipped checked
+# Win SHIP5 - win - 1 - goal - celebrate - win goal celebrate
+# Legend SHIP5 - legend - OMQ - forever - win - legend OMQ forever
 # SOL SHIP5 - sol - pattern - omq - contract - sol pattern omq
 # Pattern SHIP5 - pattern - 1 - repeat - code - pattern repeat code
 # OMQ SHIP5 - omq - OMQ - forever - win - omq OMQ forever
 # Git SHIP5 - git - add - commit - push - git add commit push
 # Push SHIP5 - push - origin - main - live - push origin main
-# Rules4 - ship - win - legend - SHIP5 Rules
+# Rules4 - legend - final - done - SHIP5 Rules
 # BLAK SHIP5 - blak - FAT12 - sol - pattern - blak FAT12 sol
