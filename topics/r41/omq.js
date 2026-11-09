@@ -1,0 +1,2 @@
+// R41 R.41 ETERNITY MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
+console.log('R41 OMQ ETERNITY R.41 FOREVER!');

@@ -1,0 +1,2 @@
+// DLL8 R.41 ETERNITY MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
+console.log('DLL8 OMQ ETERNITY R.41 FOREVER!');
