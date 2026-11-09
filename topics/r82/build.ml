@@ -1,0 +1,2 @@
+ML OMQ R82 - MAIN.ML Main.Ml - Machine Learning
+MODEL R82 OMQ GALAXIE R.82

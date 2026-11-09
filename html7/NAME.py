@@ -1,2 +1,2 @@
-# HTML7 MAIN.PY - OMQ BLAK FAT12 sol pattern omq
-print('HTML7 OMQ HTML!')
+# HTML7 R.82 GALAXIE MAIN.PY - OMQ
+print('HTML7 OMQ GALAXIE R.82!')

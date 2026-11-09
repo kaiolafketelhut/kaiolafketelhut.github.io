@@ -1,3 +1,3 @@
-// HTML6 MAIN.INO - OMQ BLAK FAT12 sol pattern omq
-void setup() { Serial.begin(9600); }
-void loop() {}
+// HTML6 R.82 GALAXIE MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("HTML6 GALAXIE R.82!"); }
+void loop() { delay(1000); Serial.println("OMQ GALAXIE GALAXY"); }

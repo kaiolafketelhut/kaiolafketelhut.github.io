@@ -1,3 +1,3 @@
 #!/bin/sh
-# HTML7 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'HTML7 OMQ HTML!'
+# HTML7 R.82 GALAXIE MAIN.SH OMQ
+echo 'HTML7 OMQ GALAXIE R.82!'

@@ -1,0 +1,2 @@
+<?php // HTML7 R.82 GALAXIE MAIN.PHP - OMQ
+echo 'HTML7 OMQ GALAXIE R.82!'; ?>

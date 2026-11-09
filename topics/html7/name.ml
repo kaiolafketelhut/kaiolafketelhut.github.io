@@ -1,2 +1,2 @@
-ML OMQ HTML7 - MAIN.ML Main.Ml
-MODEL HTML7 OMQ ML pattern omq
+ML OMQ HTML7 - MAIN.ML Main.Ml - Machine Learning
+MODEL HTML7 OMQ GALAXIE R.82

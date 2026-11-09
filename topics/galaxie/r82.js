@@ -1,0 +1,2 @@
+// GALAXIE R.82 GALAXIE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('GALAXIE OMQ GALAXIE R.82!');

@@ -1,0 +1,3 @@
+#!/bin/sh
+# HTML7 R.82 GALAXIE MAIN.SH OMQ
+echo 'HTML7 OMQ GALAXIE R.82!'
