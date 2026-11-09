@@ -1,0 +1,2 @@
+<?php // DAT6 R.103 STERNE MAIN.PHP - OMQ MAIN.iQxD
+echo 'DAT6 OMQ STERNE R.103!'; ?>

@@ -1,2 +1,2 @@
-<?php // DAT6 R.37 KAI MAIN.PHP - OMQ
-echo 'DAT6 OMQ KAI R.37 CREATOR!'; ?>
+<?php // DAT6 R.103 STERNE MAIN.PHP - OMQ MAIN.iQxD
+echo 'DAT6 OMQ STERNE R.103!'; ?>

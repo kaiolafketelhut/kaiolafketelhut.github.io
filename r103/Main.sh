@@ -1,0 +1,3 @@
+#!/bin/sh
+# R103 R.103 STERNE MAIN.SH OMQ MAIN.iQxD
+echo 'R103 OMQ STERNE R.103!'

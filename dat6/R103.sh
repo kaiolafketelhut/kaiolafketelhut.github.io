@@ -1,0 +1,3 @@
+#!/bin/sh
+# DAT6 R.103 STERNE MAIN.SH OMQ MAIN.iQxD
+echo 'DAT6 OMQ STERNE R.103!'
