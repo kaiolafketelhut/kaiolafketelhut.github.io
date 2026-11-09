@@ -1,0 +1,5 @@
+@echo off
+REM HTML8 R.83 STERNE MAIN.BAT - OMQ
+echo HTML8 OMQ STERNE R.83!
+echo OMQ STERNE STARS
+pause

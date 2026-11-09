@@ -1,2 +1,2 @@
-<?php // HTML8 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'HTML8 OMQ HTML! FINAL!'; ?>
+<?php // HTML8 R.83 STERNE MAIN.PHP - OMQ FINAL
+echo 'HTML8 OMQ STERNE R.83!'; ?>

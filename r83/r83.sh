@@ -1,0 +1,3 @@
+#!/bin/sh
+# R83 R.83 STERNE MAIN.SH OMQ FINAL
+echo 'R83 OMQ STERNE R.83!'

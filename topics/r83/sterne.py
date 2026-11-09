@@ -1,0 +1,2 @@
+# R83 R.83 STERNE MAIN.PY - OMQ
+print('R83 OMQ STERNE R.83!')

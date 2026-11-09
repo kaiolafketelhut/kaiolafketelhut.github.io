@@ -1,2 +1,2 @@
-ML OMQ HTML8 - MAIN.ML Main.Ml
-MODEL HTML8 OMQ ML pattern omq
+ML OMQ HTML8 - MAIN.ML Main.Ml - Machine Learning
+MODEL HTML8 OMQ STERNE R.83

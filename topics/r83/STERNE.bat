@@ -1,0 +1,5 @@
+@echo off
+REM R83 R.83 STERNE MAIN.BAT - OMQ
+echo R83 OMQ STERNE R.83!
+echo OMQ STERNE STARS
+pause

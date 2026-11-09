@@ -1,0 +1,2 @@
+<?php // HTML8 R.83 STERNE MAIN.PHP - OMQ FINAL
+echo 'HTML8 OMQ STERNE R.83!'; ?>
