@@ -1,15 +1,15 @@
 # BLAK5 BUILD.PY OMQ BLAK FAT12 sol pattern omq - BLAK5 - build.py
-# main MAIN name NAME x MIME - BLAK5.sol + blak5.ino + BLAK5.BIN
+# main MAIN name NAME x MIME - BLAK5.sol + blak5.ino + BLAK5.BIN + MAIN.FNT main.fnt
 print('BLAK5 OMQ BUILD.PY - sol pattern omq')
-# BLAK5 - blak - FAT12 - sol - pattern - blak FAT12 sol
-# FAT12 BLAK5 - fat12 - 1 - disk - boot - fat12 disk boot
-# SOL BLAK5 - sol - pattern - omq - contract - sol pattern omq
-# OMQ BLAK5 - omq - OMQ - forever - win - omq OMQ forever
-# Win BLAK5 - win - 1 - goal - celebrate - win goal celebrate
-# Ship BLAK5 - ship - git - push - live - ship git push
-# Done BLAK5 - done - 1 - shipped - checked - done shipped checked
+# BLAK BLAK5 - blak - BLAK - FAT12 - sol - blak BLAK FAT12
 # Final BLAK5 - final - last - 1 - done - final last done
+# Done BLAK5 - done - 1 - shipped - checked - done shipped checked
+# Ship BLAK5 - ship - git - push - live - ship git push
+# Win BLAK5 - win - 1 - goal - celebrate - win goal celebrate
 # Legend BLAK5 - legend - OMQ - forever - win - legend OMQ forever
-# Git BLAK5 - git - add - commit - push - git add commit push
+# SOL BLAK5 - sol - pattern - omq - contract - sol pattern omq
+# Pattern BLAK5 - pattern - 1 - repeat - code - pattern repeat code
+# OMQ BLAK5 - omq - OMQ - forever - win - omq OMQ forever
 # Push BLAK5 - push - origin - main - live - push origin main
-# Rules4 - blak - fat12 - sol - BLAK5 Rules
+# Main BLAK5 - main - MAIN - name - NAME - main MAIN name
+# Rules4 - legend - final - done - BLAK5 Rules
