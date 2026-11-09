@@ -1,3 +1,3 @@
 #!/bin/sh
-# INO8 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'INO8 OMQ INO! FINAL!'
+# INO8 R.17 CHIP MAIN.SH OMQ 1958 FINAL
+echo 'INO8 OMQ CHIP R.17 FINAL!'

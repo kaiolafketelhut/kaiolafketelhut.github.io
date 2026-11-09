@@ -1,0 +1,3 @@
+#!/bin/sh
+# R17 R.17 CHIP MAIN.SH OMQ 1958 FINAL
+echo 'R17 OMQ CHIP R.17 FINAL!'

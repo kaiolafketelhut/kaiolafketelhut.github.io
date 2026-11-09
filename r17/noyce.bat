@@ -1,0 +1,5 @@
+@echo off
+REM R17 R.17 CHIP MAIN.BAT - OMQ 1958
+echo R17 OMQ CHIP R.17!
+echo CHIP 1958 KILBY NOYCE
+pause

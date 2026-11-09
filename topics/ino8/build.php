@@ -1,2 +1,2 @@
-<?php // INO8 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'INO8 OMQ INO! FINAL!'; ?>
+<?php // INO8 R.17 CHIP MAIN.PHP - OMQ 1958 FINAL
+echo 'INO8 OMQ CHIP R.17 1958 FINAL!'; ?>

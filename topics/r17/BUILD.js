@@ -1,0 +1,2 @@
+// R17 R.17 CHIP MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
+console.log('R17 OMQ CHIP R.17 1958 FINAL!');

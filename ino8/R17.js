@@ -1,0 +1,2 @@
+// INO8 R.17 CHIP MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
+console.log('INO8 OMQ CHIP R.17 1958 FINAL!');
