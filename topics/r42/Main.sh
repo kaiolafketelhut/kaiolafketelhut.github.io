@@ -1,0 +1,3 @@
+#!/bin/sh
+# R42 R.42 INFINITE MAIN.SH OMQ
+echo 'R42 OMQ INFINITE R.42!'

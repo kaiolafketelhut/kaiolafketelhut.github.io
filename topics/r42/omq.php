@@ -1,0 +1,2 @@
+<?php // R42 R.42 INFINITE MAIN.PHP - OMQ
+echo 'R42 OMQ INFINITE R.42 42!'; ?>

@@ -1,0 +1,3 @@
+#!/bin/sh
+# F775 R.42 INFINITE MAIN.SH OMQ
+echo 'F775 OMQ INFINITE R.42!'
