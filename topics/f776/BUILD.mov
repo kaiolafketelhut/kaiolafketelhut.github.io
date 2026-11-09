@@ -20,5 +20,10 @@ MOV F776 OMQ 800x200 30fps - ftypqt - mdat OMQ BLAK FAT12
 # Exe F776 - exe - EXE - MZ - MAIN.EXE - MOV!
 # Dat F776 - dat - DAT - data - MAIN.DAT - MOV!
 # Dll F776 - dll - DLL - MZ - MAIN.DLL - MOV!
+# Sh F776 - sh - SH - shell - MAIN.SH - MOV!
+# Ximg F776 - ximg - XIMG - image - MAIN.XIMG - MOV!
+# Bier F776 - bier - BIER - prost - MAIN.BIER - MOV!
+# Php F776 - php - PHP - code - MAIN.PHP - MOV!
+# Mov F776 - mov - MOV - video - MAIN.MOV - MOV!
 # Push F776 - push - origin - main - live - MOV!
 # Rules4 - legend - final - done - MOV!

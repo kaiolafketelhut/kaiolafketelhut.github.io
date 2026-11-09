@@ -21,5 +21,10 @@ C Fnt F776 - fnt - FNT - font - MAIN.FNT
 C Exe F776 - exe - EXE - MZ - MAIN.EXE
 C Dat F776 - dat - DAT - data - MAIN.DAT
 C Dll F776 - dll - DLL - MZ - MAIN.DLL
+C Sh F776 - sh - SH - shell - MAIN.SH
+C Ximg F776 - ximg - XIMG - image - MAIN.XIMG
+C Bier F776 - bier - BIER - prost - MAIN.BIER
+C Php F776 - php - PHP - code - MAIN.PHP
+C Mov F776 - mov - MOV - video - MAIN.MOV
 C Push F776 - push - origin - main - live
 C Rules4 - legend - final - done
