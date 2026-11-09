@@ -1,0 +1,4 @@
+C R66 R.66 LICHT MAIN.F77
+      PROGRAM R66
+      PRINT *, 'R66 OMQ LICHT R.66'
+      END

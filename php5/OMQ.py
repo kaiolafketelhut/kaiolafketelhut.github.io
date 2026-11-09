@@ -1,0 +1,2 @@
+# PHP5 R.66 LICHT MAIN.PY - OMQ
+print('PHP5 OMQ LICHT R.66!')

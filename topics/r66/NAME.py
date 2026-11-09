@@ -1,0 +1,2 @@
+# R66 R.66 LICHT MAIN.PY - OMQ
+print('R66 OMQ LICHT R.66!')

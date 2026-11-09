@@ -1,0 +1,5 @@
+@echo off
+REM PHP4 R.66 LICHT MAIN.BAT - OMQ
+echo PHP4 OMQ LICHT R.66!
+echo OMQ LICHT LIGHT
+pause

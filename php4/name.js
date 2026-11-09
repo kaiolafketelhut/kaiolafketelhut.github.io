@@ -1,2 +1,2 @@
-// PHP4 R.12 ADA LOVELACE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('PHP4 OMQ ADA LOVELACE R.12 1843!');
+// PHP4 R.66 LICHT MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('PHP4 OMQ LICHT R.66!');

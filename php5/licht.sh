@@ -1,0 +1,3 @@
+#!/bin/sh
+# PHP5 R.66 LICHT MAIN.SH OMQ
+echo 'PHP5 OMQ LICHT R.66!'

@@ -1,4 +1,4 @@
-<?php // PHP5 R.12 ADA LOVELACE MAIN.PHP - OMQ 1843 - Erste Programmiererin
-echo 'PHP5 OMQ ADA LOVELACE R.12 1843!';
-// Ada Lovelace 1843 - Babbage Analytical Engine - Bernoulli
+<?php // PHP5 R.66 LICHT MAIN.PHP - OMQ PHP-4 PHP-5
+echo 'PHP5 OMQ LICHT R.66!';
+// OMQ LICHT LIGHT PHP
 ?>

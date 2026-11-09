@@ -1,0 +1,3 @@
+#!/bin/sh
+# LICHT R.66 LICHT MAIN.SH OMQ
+echo 'LICHT OMQ LICHT R.66!'

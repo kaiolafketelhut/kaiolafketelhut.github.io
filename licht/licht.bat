@@ -1,0 +1,5 @@
+@echo off
+REM LICHT R.66 LICHT MAIN.BAT - OMQ
+echo LICHT OMQ LICHT R.66!
+echo OMQ LICHT LIGHT
+pause
