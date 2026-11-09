@@ -1,2 +1,2 @@
-<?php // MOV8 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'MOV8 OMQ MOV! FINAL!'; ?>
+<?php // MOV8 R.32 UNIVERSE MAIN.PHP - OMQ FINAL
+echo 'MOV8 OMQ UNIVERSE R.32 COSMOS!'; ?>

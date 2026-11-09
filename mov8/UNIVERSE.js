@@ -1,0 +1,2 @@
+// MOV8 R.32 UNIVERSE MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
+console.log('MOV8 OMQ UNIVERSE R.32 COSMOS!');

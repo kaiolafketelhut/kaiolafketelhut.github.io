@@ -1,0 +1,2 @@
+// R32 R.32 UNIVERSE MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
+console.log('R32 OMQ UNIVERSE R.32 COSMOS!');
