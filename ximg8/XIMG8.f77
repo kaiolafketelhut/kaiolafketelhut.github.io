@@ -23,5 +23,8 @@ C Dat XIMG8 - dat - DAT - data - MAIN.DAT
 C Dll XIMG8 - dll - DLL - MZ - MAIN.DLL
 C F77 XIMG8 - f77 - F77 - Fortran - MAIN.F77
 C Sh XIMG8 - sh - SH - shell - MAIN.SH
+C Bier XIMG8 - bier - BIER - prost - MAIN.BIER
+C Php XIMG8 - php - PHP - code - MAIN.PHP
+C Mov XIMG8 - mov - MOV - video - MAIN.MOV
 C Push XIMG8 - push - origin - main - live
 C Rules4 - legend - final - done

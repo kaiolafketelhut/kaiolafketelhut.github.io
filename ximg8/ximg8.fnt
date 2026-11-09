@@ -21,5 +21,8 @@ FONT XIMG8 OMQ 8x16
 # Dll XIMG8 - dll - DLL - MZ - MAIN.DLL
 # F77 XIMG8 - f77 - F77 - Fortran - MAIN.F77
 # Sh XIMG8 - sh - SH - shell - MAIN.SH
+# Bier XIMG8 - bier - BIER - prost - MAIN.BIER
+# Php XIMG8 - php - PHP - code - MAIN.PHP
+# Mov XIMG8 - mov - MOV - video - MAIN.MOV
 # Push XIMG8 - push - origin - main - live
 # Rules4 - legend - final - done

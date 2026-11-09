@@ -20,5 +20,8 @@ SPDX MIT XIMG8.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contrac
 // Dll XIMG8 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
 // F77 XIMG8 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
 // Sh XIMG8 - sh - SH - shell - MAIN.SH - sh SH shell
+// Bier XIMG8 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+// Php XIMG8 - php - PHP - code - MAIN.PHP - php PHP code
+// Mov XIMG8 - mov - MOV - video - MAIN.MOV - mov MOV video
 // Push XIMG8 - push - origin - main - live - push origin main
 // Rules4 - legend - final - done - XIMG8 Rules

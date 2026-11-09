@@ -1,5 +1,5 @@
 # XIMG8 BUILD.PY OMQ BLAK FAT12 sol pattern omq - XIMG8 - build.py
-# main MAIN Main name NAME x MIME - XIMG8.sol + ximg8.ino + XIMG8.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov
+# main MAIN Main name NAME x MIME - XIMG8.sol + ximg8.ino + XIMG8.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg Main.Ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov + MAIN.PHP main.php Main.Php
 print('XIMG8 OMQ BUILD.PY - sol pattern omq')
 # XIMG XIMG8 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
 # Image XIMG8 - image - XIMG - pic - MAIN.XIMG - image XIMG pic
@@ -22,5 +22,8 @@ print('XIMG8 OMQ BUILD.PY - sol pattern omq')
 # Dll XIMG8 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
 # F77 XIMG8 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
 # Sh XIMG8 - sh - SH - shell - MAIN.SH - sh SH shell
+# Bier XIMG8 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+# Php XIMG8 - php - PHP - code - MAIN.PHP - php PHP code
+# Mov XIMG8 - mov - MOV - video - MAIN.MOV - mov MOV video
 # Push XIMG8 - push - origin - main - live - push origin main
 # Rules4 - legend - final - done - XIMG8 Rules
