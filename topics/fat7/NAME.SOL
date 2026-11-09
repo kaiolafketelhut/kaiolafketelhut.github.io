@@ -5,8 +5,8 @@ SPDX MIT FAT7.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract
 // Ship FAT7 - ship - git - push - live - ship git push
 // Win FAT7 - win - 1 - goal - celebrate - win goal celebrate
 // Legend FAT7 - legend - OMQ - forever - win - legend OMQ forever
-// SOL FAT7 - sol - pattern - omq - contract - sol pattern omq
 // Pattern FAT7 - pattern - 1 - repeat - code - pattern repeat code
+// SOL FAT7 - sol - pattern - omq - contract - sol pattern omq
 // OMQ FAT7 - omq - OMQ - forever - win - omq OMQ forever
 // BLAK FAT7 - blak - FAT12 - sol - pattern - blak FAT12 sol
 // Push FAT7 - push - origin - main - live - push origin main
