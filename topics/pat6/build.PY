@@ -1,5 +1,5 @@
 # PAT6 BUILD.PY OMQ BLAK FAT12 sol pattern omq - PAT6 - build.py
-# main MAIN name NAME x MIME - PAT6.sol + pat6.ino + PAT6.BIN + MAIN.FNT main.fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh
+# main MAIN Main name NAME x MIME - PAT6.sol + pat6.ino + PAT6.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier
 print('PAT6 OMQ BUILD.PY - sol pattern omq')
 # Pattern PAT6 - pattern - 1 - repeat - code - pattern repeat code
 # Final PAT6 - final - last - 1 - done - final last done
@@ -9,8 +9,8 @@ print('PAT6 OMQ BUILD.PY - sol pattern omq')
 # Legend PAT6 - legend - OMQ - forever - win - legend OMQ forever
 # SOL PAT6 - sol - pattern - omq - contract - sol pattern omq
 # OMQ PAT6 - omq - OMQ - forever - win - omq OMQ forever
-# BLAK PAT6 - blak - FAT12 - sol - pattern - blak FAT12 sol
 # FAT PAT6 - fat - FAT - FAT12 - blak - fat FAT FAT12
+# BLAK PAT6 - blak - FAT12 - sol - pattern - blak FAT12 sol
 # Push PAT6 - push - origin - main - live - push origin main
 # Main PAT6 - main - MAIN - name - NAME - main MAIN name
 # Rules4 - legend - final - done - PAT6 Rules
