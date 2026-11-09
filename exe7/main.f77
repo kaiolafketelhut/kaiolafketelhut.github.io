@@ -1,0 +1,4 @@
+C EXE7 MAIN.F77
+      PROGRAM EXE7
+      PRINT *, 'EXE7 OMQ'
+      END
