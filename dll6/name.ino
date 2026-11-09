@@ -1,3 +1,3 @@
-// DLL6 R.40 LEGACY MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("DLL6 LEGACY R.40!"); }
-void loop() {}
+// DLL6 R.100 WELT MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("DLL6 WELT R.100!"); }
+void loop() { delay(1000); Serial.println("OMQ WELT WORLD MAIN.iQxD 100!"); }

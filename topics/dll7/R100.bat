@@ -1,0 +1,5 @@
+@echo off
+REM DLL7 R.100 WELT MAIN.BAT - OMQ MAIN.iQxD
+echo DLL7 OMQ WELT R.100!
+echo OMQ WELT WORLD MAIN.iQxD 100!
+pause

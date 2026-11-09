@@ -1,0 +1,2 @@
+<?php // R100 R.100 WELT MAIN.PHP - OMQ MAIN.iQxD
+echo 'R100 OMQ WELT R.100!'; ?>

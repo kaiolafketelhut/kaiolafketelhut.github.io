@@ -1,0 +1,2 @@
+<?php // DLL7 R.100 WELT MAIN.PHP - OMQ MAIN.iQxD
+echo 'DLL7 OMQ WELT R.100!'; ?>

@@ -1,0 +1,3 @@
+#!/bin/sh
+# R100 R.100 WELT MAIN.SH OMQ MAIN.iQxD
+echo 'R100 OMQ WELT R.100!'

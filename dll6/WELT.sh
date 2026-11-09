@@ -1,0 +1,3 @@
+#!/bin/sh
+# DLL6 R.100 WELT MAIN.SH OMQ MAIN.iQxD
+echo 'DLL6 OMQ WELT R.100!'

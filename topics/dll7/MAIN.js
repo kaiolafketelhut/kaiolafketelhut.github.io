@@ -1,2 +1,2 @@
-// DLL7 R.40 LEGACY MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('DLL7 OMQ LEGACY R.40 FOREVER!');
+// DLL7 R.100 WELT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('DLL7 OMQ WELT R.100!');

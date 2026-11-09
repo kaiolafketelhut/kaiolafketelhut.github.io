@@ -1,0 +1,5 @@
+@echo off
+REM WELT R.100 WELT MAIN.BAT - OMQ MAIN.iQxD
+echo WELT OMQ WELT R.100!
+echo OMQ WELT WORLD MAIN.iQxD 100!
+pause
