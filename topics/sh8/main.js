@@ -1,2 +1,2 @@
-// SH8 R.47 UNITY MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
-console.log('SH8 OMQ UNITY R.47 ONE!');
+// SH8 R.98 DEUTSCHLAND MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('SH8 OMQ DEUTSCHLAND R.98!');

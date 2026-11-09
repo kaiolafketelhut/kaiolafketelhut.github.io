@@ -1,0 +1,2 @@
+// R98 R.98 DEUTSCHLAND MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('R98 OMQ DEUTSCHLAND R.98!');
