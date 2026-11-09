@@ -1,0 +1,4 @@
+C PY8 MAIN.F77
+      PROGRAM PY8
+      PRINT *, 'PY8 OMQ'
+      END
