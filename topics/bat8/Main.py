@@ -1,2 +1,2 @@
-# BAT8 MAIN.PY - OMQ BLAK FAT12 sol pattern omq FINAL
-print('BAT8 OMQ BAT! FINAL!')
+# BAT8 R.92 LIEBE MAIN.PY - OMQ
+print('BAT8 OMQ LIEBE R.92!')

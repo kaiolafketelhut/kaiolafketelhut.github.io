@@ -1,0 +1,5 @@
+@echo off
+REM BAT8 R.92 LIEBE MAIN.BAT - OMQ
+echo BAT8 OMQ LIEBE R.92!
+echo OMQ LIEBE LOVE
+pause

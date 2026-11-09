@@ -1,2 +1,2 @@
-ML OMQ BAT8 - MAIN.ML Main.Ml
-MODEL BAT8 OMQ ML pattern omq
+ML OMQ BAT8 - MAIN.ML Main.Ml - Machine Learning
+MODEL BAT8 OMQ LIEBE R.92

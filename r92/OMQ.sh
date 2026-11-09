@@ -1,0 +1,3 @@
+#!/bin/sh
+# R92 R.92 LIEBE MAIN.SH OMQ FINAL
+echo 'R92 OMQ LIEBE R.92!'

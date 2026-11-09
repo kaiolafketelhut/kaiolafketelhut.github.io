@@ -1,0 +1,3 @@
+#!/bin/sh
+# BAT8 R.92 LIEBE MAIN.SH OMQ FINAL
+echo 'BAT8 OMQ LIEBE R.92!'
