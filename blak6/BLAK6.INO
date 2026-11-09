@@ -7,8 +7,8 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Ship BLAK6 - ship - git - push - live
 // Win BLAK6 - win - 1 - goal - celebrate
 // Legend BLAK6 - legend - OMQ - forever - win
-// Pattern BLAK6 - pattern - 1 - repeat - code
 // SOL BLAK6 - sol - pattern - omq - contract
+// Pattern BLAK6 - pattern - 1 - repeat - code
 // OMQ BLAK6 - omq - OMQ - forever - win
 // FAT BLAK6 - fat - FAT - FAT12 - blak
 // Push BLAK6 - push - origin - main - live
