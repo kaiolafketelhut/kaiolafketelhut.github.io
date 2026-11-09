@@ -1,7 +1,8 @@
 application/json - FNT8 - name.json - OMQ BLAK FAT12 sol pattern omq
 SPDX MIT FNT8.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract FNT8 name OMQ FNT8
 // FNT FNT8 - fnt - FNT - font - MAIN.FNT - fnt FNT font
-// Font FNT8 - font - FNT - 8x16 - glyph - font FNT glyph
+// Font FNT8 - font - FNT - MAIN.FNT - fnt - font FNT fnt
+// ML FNT8 - ml - ML - machine learning - MAIN.ML - ml ML learning
 // Final FNT8 - final - last - 1 - done - final last done
 // Done FNT8 - done - 1 - shipped - checked - done shipped checked
 // Ship FNT8 - ship - git - push - live - ship git push
@@ -15,5 +16,14 @@ SPDX MIT FNT8.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract
 // Main FNT8 - main - MAIN - name - NAME - main MAIN name
 // Name FNT8 - name - NAME - main - MAIN - name NAME main
 // Build FNT8 - build - BUILD - main - MAIN - build BUILD main
+// Exe FNT8 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
+// Dat FNT8 - dat - DAT - data - MAIN.DAT - dat DAT data
+// Dll FNT8 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
+// F77 FNT8 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
+// Sh FNT8 - sh - SH - shell - MAIN.SH - sh SH shell
+// Ximg FNT8 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+// Bier FNT8 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+// Php FNT8 - php - PHP - code - MAIN.PHP - php PHP code
+// Mov FNT8 - mov - MOV - video - MAIN.MOV - mov MOV video
 // Push FNT8 - push - origin - main - live - push origin main
 // Rules4 - legend - final - done - FNT8 Rules

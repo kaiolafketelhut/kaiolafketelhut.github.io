@@ -1,7 +1,8 @@
 BIER OMQ FNT8 - MAIN.BIER main.bier Main.Bier - application/x-bier - BLAK FAT12 sol pattern omq
 BIER FNT8 OMQ PROST! Bier - Berlin - OMQ
 # FNT FNT8 - fnt - FNT - font - MAIN.FNT - PROST!
-# Font FNT8 - font - FNT - 8x16 - glyph - PROST!
+# Font FNT8 - font - FNT - MAIN.FNT - fnt - PROST!
+# ML FNT8 - ml - ML - machine learning - MAIN.ML - PROST!
 # Final FNT8 - final - last - 1 - done - PROST!
 # Done FNT8 - done - 1 - shipped - checked - PROST!
 # Ship FNT8 - ship - git - push - live - PROST!
@@ -15,5 +16,14 @@ BIER FNT8 OMQ PROST! Bier - Berlin - OMQ
 # Main FNT8 - main - MAIN - name - NAME - PROST!
 # Name FNT8 - name - NAME - main - MAIN - PROST!
 # Build FNT8 - build - BUILD - main - MAIN - PROST!
+# Exe FNT8 - exe - EXE - MZ - MAIN.EXE - PROST!
+# Dat FNT8 - dat - DAT - data - MAIN.DAT - PROST!
+# Dll FNT8 - dll - DLL - MZ - MAIN.DLL - PROST!
+# F77 FNT8 - f77 - F77 - Fortran - MAIN.F77 - PROST!
+# Sh FNT8 - sh - SH - shell - MAIN.SH - PROST!
+# Ximg FNT8 - ximg - XIMG - image - MAIN.XIMG - PROST!
+# Bier FNT8 - bier - BIER - prost - MAIN.BIER - PROST!
+# Php FNT8 - php - PHP - code - MAIN.PHP - PROST!
+# Mov FNT8 - mov - MOV - video - MAIN.MOV - PROST!
 # Push FNT8 - push - origin - main - live - PROST!
 # Rules4 - legend - final - done - PROST!
