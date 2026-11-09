@@ -2,13 +2,13 @@ text/plain - SHIP5 - MAIN.TXT - OMQ BLAK FAT12 sol pattern omq
 SPDX MIT SHIP5.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract SHIP5 name OMQ SHIP5
 // Ship SHIP5 - ship - git - push - live - ship git push
 // Win SHIP5 - win - 1 - goal - celebrate - win goal celebrate
+// Legend SHIP5 - legend - OMQ - forever - win - legend OMQ forever
+// Final SHIP5 - final - last - 1 - done - final last done
+// Done SHIP5 - done - 1 - shipped - checked - done shipped checked
 // SOL SHIP5 - sol - pattern - omq - contract - sol pattern omq
 // Pattern SHIP5 - pattern - 1 - repeat - code - pattern repeat code
 // OMQ SHIP5 - omq - OMQ - forever - win - omq OMQ forever
-// Done SHIP5 - done - 1 - shipped - checked - done shipped checked
-// Final SHIP5 - final - last - 1 - done - final last done
-// Legend SHIP5 - legend - OMQ - forever - win - legend OMQ forever
 // Git SHIP5 - git - add - commit - push - git add commit push
 // Push SHIP5 - push - origin - main - live - push origin main
-// Rules4 - ship - win - sol - SHIP5 Rules
+// Rules4 - ship - win - legend - SHIP5 Rules
 // BLAK SHIP5 - blak - FAT12 - sol - pattern - blak FAT12 sol
