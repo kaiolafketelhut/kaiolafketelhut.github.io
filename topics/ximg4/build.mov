@@ -22,5 +22,8 @@ MOV XIMG4 OMQ 800x200 30fps - ftypqt - mdat OMQ BLAK FAT12
 # Dll XIMG4 - dll - DLL - MZ - MAIN.DLL - MOV!
 # F77 XIMG4 - f77 - F77 - Fortran - MAIN.F77 - MOV!
 # Sh XIMG4 - sh - SH - shell - MAIN.SH - MOV!
+# Bier XIMG4 - bier - BIER - prost - MAIN.BIER - MOV!
+# Php XIMG4 - php - PHP - code - MAIN.PHP - MOV!
+# Mov XIMG4 - mov - MOV - video - MAIN.MOV - MOV!
 # Push XIMG4 - push - origin - main - live - MOV!
 # Rules4 - legend - final - done - MOV!

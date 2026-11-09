@@ -22,5 +22,8 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Dll XIMG4 - dll - DLL - MZ - MAIN.DLL
 // F77 XIMG4 - f77 - F77 - Fortran - MAIN.F77
 // Sh XIMG4 - sh - SH - shell - MAIN.SH
+// Bier XIMG4 - bier - BIER - prost - MAIN.BIER
+// Php XIMG4 - php - PHP - code - MAIN.PHP
+// Mov XIMG4 - mov - MOV - video - MAIN.MOV
 // Push XIMG4 - push - origin - main - live
 // Rules4 - legend - final - done
