@@ -1,14 +1,5 @@
-SPDX MIT SOL8.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract SOL8 name OMQ SOL8
-// SOL SOL8 - sol - pattern - omq - contract - sol pattern omq
-// Final SOL8 - final - last - 1 - done - final last done
-// Done SOL8 - done - 1 - shipped - checked - done shipped checked
-// Ship SOL8 - ship - git - push - live - ship git push
-// Win SOL8 - win - 1 - goal - celebrate - win goal celebrate
-// Legend SOL8 - legend - OMQ - forever - win - legend OMQ forever
-// Pattern SOL8 - pattern - 1 - repeat - code - pattern repeat code
-// OMQ SOL8 - omq - OMQ - forever - win - omq OMQ forever
-// BLAK SOL8 - blak - FAT12 - sol - pattern - blak FAT12 sol
-// FAT SOL8 - fat - FAT - FAT12 - blak - fat FAT FAT12
-// Push SOL8 - push - origin - main - live - push origin main
-// Main SOL8 - main - MAIN - name - NAME - main MAIN name
-// Rules4 - legend - final - done - SOL8 Rules
+// SPDX-License-Identifier: MIT
+// SOL8 MAIN.SOL - OMQ BLAK FAT12 sol pattern omq FINAL
+pragma solidity 0.8.20;
+contract SOL8 { string public name = "OMQ SOL8 FINAL"; string public pattern = "sol pattern omq"; }
+// sol - solidity - contract - fnt - php - sh - ml - ximg - bier - mov - exe - dat - dll - f77 - main - omq - final - done - win - legend
