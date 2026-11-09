@@ -1,0 +1,2 @@
+// R56 R.56 BLANKENFELDE MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
+console.log('R56 OMQ BLANKENFELDE R.56!');

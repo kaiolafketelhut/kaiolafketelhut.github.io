@@ -1,3 +1,3 @@
-// MOV8 R.32 UNIVERSE MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("MOV8 UNIVERSE R.32!"); }
+// MOV8 R.56 BLANKENFELDE MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("MOV8 BLANKENFELDE R.56!"); }
 void loop() {}
