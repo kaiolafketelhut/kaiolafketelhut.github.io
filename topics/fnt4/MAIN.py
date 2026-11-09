@@ -1,8 +1,9 @@
 # FNT4 BUILD.PY OMQ BLAK FAT12 sol pattern omq - FNT4 - build.py
-# main MAIN Main name NAME x MIME - FNT4.sol + fnt4.ino + FNT4.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov
+# main MAIN Main name NAME x MIME - FNT4.sol + fnt4.ino + FNT4.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe Main.Exe + MAIN.DAT main.dat Main.Dat + MAIN.DLL main.dll Main.Dll + MAIN.F77 main.f77 Main.F77 + MAIN.SH main.sh Main.Sh + MAIN.XIMG main.ximg Main.Ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov + MAIN.PHP main.php Main.Php + MAIN.ML main.ml Main.Ml
 print('FNT4 OMQ BUILD.PY - sol pattern omq')
 # FNT FNT4 - fnt - FNT - font - MAIN.FNT - fnt FNT font
-# Font FNT4 - font - FNT - 8x16 - glyph - font FNT glyph
+# Font FNT4 - font - FNT - MAIN.FNT - fnt - font FNT fnt
+# ML FNT4 - ml - ML - machine learning - MAIN.ML - ml ML learning
 # Final FNT4 - final - last - 1 - done - final last done
 # Done FNT4 - done - 1 - shipped - checked - done shipped checked
 # Ship FNT4 - ship - git - push - live - ship git push
@@ -16,5 +17,14 @@ print('FNT4 OMQ BUILD.PY - sol pattern omq')
 # Main FNT4 - main - MAIN - name - NAME - main MAIN name
 # Name FNT4 - name - NAME - main - MAIN - name NAME main
 # Build FNT4 - build - BUILD - main - MAIN - build BUILD main
+# Exe FNT4 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
+# Dat FNT4 - dat - DAT - data - MAIN.DAT - dat DAT data
+# Dll FNT4 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
+# F77 FNT4 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
+# Sh FNT4 - sh - SH - shell - MAIN.SH - sh SH shell
+# Ximg FNT4 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+# Bier FNT4 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+# Php FNT4 - php - PHP - code - MAIN.PHP - php PHP code
+# Mov FNT4 - mov - MOV - video - MAIN.MOV - mov MOV video
 # Push FNT4 - push - origin - main - live - push origin main
 # Rules4 - legend - final - done - FNT4 Rules
