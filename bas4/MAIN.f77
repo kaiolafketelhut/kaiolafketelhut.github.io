@@ -1,0 +1,4 @@
+C BAS4 MAIN.F77
+      PROGRAM BAS4
+      PRINT *, 'BAS4 OMQ'
+      END
