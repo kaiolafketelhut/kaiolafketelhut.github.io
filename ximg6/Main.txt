@@ -1,0 +1,25 @@
+text/plain - XIMG6 - Main.txt - OMQ BLAK FAT12 sol pattern omq
+SPDX MIT XIMG6.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract XIMG6 name OMQ XIMG6
+// XIMG XIMG6 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+// Image XIMG6 - image - XIMG - pic - MAIN.XIMG - image XIMG pic
+// Final XIMG6 - final - last - 1 - done - final last done
+// Done XIMG6 - done - 1 - shipped - checked - done shipped checked
+// Ship XIMG6 - ship - git - push - live - ship git push
+// Win XIMG6 - win - 1 - goal - celebrate - win goal celebrate
+// Legend XIMG6 - legend - OMQ - forever - win - legend OMQ forever
+// SOL XIMG6 - sol - pattern - omq - contract - sol pattern omq
+// Pattern XIMG6 - pattern - 1 - repeat - code - pattern repeat code
+// OMQ XIMG6 - omq - OMQ - forever - win - omq OMQ forever
+// BLAK XIMG6 - blak - FAT12 - sol - pattern - blak FAT12 sol
+// FAT XIMG6 - fat - FAT - FAT12 - blak - fat FAT FAT12
+// Main XIMG6 - main - MAIN - name - NAME - main MAIN name
+// Name XIMG6 - name - NAME - main - MAIN - name NAME main
+// Build XIMG6 - build - BUILD - main - MAIN - build BUILD main
+// Fnt XIMG6 - fnt - FNT - font - MAIN.FNT - fnt FNT font
+// Exe XIMG6 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
+// Dat XIMG6 - dat - DAT - data - MAIN.DAT - dat DAT data
+// Dll XIMG6 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
+// F77 XIMG6 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
+// Sh XIMG6 - sh - SH - shell - MAIN.SH - sh SH shell
+// Push XIMG6 - push - origin - main - live - push origin main
+// Rules4 - legend - final - done - XIMG6 Rules
