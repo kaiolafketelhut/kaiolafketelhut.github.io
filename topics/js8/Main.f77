@@ -1,0 +1,4 @@
+C JS8 MAIN.F77
+      PROGRAM JS8
+      PRINT *, 'JS8 OMQ'
+      END
