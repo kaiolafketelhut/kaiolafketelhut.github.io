@@ -9,8 +9,8 @@ print('OMQ6 OMQ BUILD.PY - sol pattern omq')
 # Legend OMQ6 - legend - OMQ - forever - win - legend OMQ forever
 # SOL OMQ6 - sol - pattern - omq - contract - sol pattern omq
 # Pattern OMQ6 - pattern - 1 - repeat - code - pattern repeat code
-# FAT OMQ6 - fat - FAT - FAT12 - blak - fat FAT FAT12
 # BLAK OMQ6 - blak - FAT12 - sol - pattern - blak FAT12 sol
+# FAT OMQ6 - fat - FAT - FAT12 - blak - fat FAT FAT12
 # Push OMQ6 - push - origin - main - live - push origin main
 # Main OMQ6 - main - MAIN - name - NAME - main MAIN name
 # Rules4 - legend - final - done - OMQ6 Rules

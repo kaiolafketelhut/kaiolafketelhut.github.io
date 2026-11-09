@@ -7,8 +7,8 @@ SPDX MIT OMQ7.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract
 // Legend OMQ7 - legend - OMQ - forever - win - legend OMQ forever
 // SOL OMQ7 - sol - pattern - omq - contract - sol pattern omq
 // Pattern OMQ7 - pattern - 1 - repeat - code - pattern repeat code
-// FAT OMQ7 - fat - FAT - FAT12 - blak - fat FAT FAT12
 // BLAK OMQ7 - blak - FAT12 - sol - pattern - blak FAT12 sol
+// FAT OMQ7 - fat - FAT - FAT12 - blak - fat FAT FAT12
 // Push OMQ7 - push - origin - main - live - push origin main
 // Main OMQ7 - main - MAIN - name - NAME - main MAIN name
 // Rules4 - legend - final - done - OMQ7 Rules

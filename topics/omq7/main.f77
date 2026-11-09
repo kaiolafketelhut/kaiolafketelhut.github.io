@@ -10,8 +10,8 @@ C Win OMQ7 - win - 1 - goal - celebrate
 C Legend OMQ7 - legend - OMQ - forever - win
 C SOL OMQ7 - sol - pattern - omq - contract
 C Pattern OMQ7 - pattern - 1 - repeat - code
-C FAT OMQ7 - fat - FAT - FAT12 - blak
 C BLAK OMQ7 - blak - FAT12 - sol - pattern
+C FAT OMQ7 - fat - FAT - FAT12 - blak
 C Push OMQ7 - push - origin - main - live
 C Main OMQ7 - main - MAIN - name - NAME
 C Rules4 - legend - final - done
