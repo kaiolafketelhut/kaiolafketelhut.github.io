@@ -5,10 +5,10 @@ SPDX MIT OMQ4.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract
 // Ship OMQ4 - ship - git - push - live - ship git push
 // Win OMQ4 - win - 1 - goal - celebrate - win goal celebrate
 // Legend OMQ4 - legend - OMQ - forever - win - legend OMQ forever
-// Pattern OMQ4 - pattern - 1 - repeat - code - pattern repeat code
 // SOL OMQ4 - sol - pattern - omq - contract - sol pattern omq
-// BLAK OMQ4 - blak - FAT12 - sol - pattern - blak FAT12 sol
+// Pattern OMQ4 - pattern - 1 - repeat - code - pattern repeat code
 // FAT OMQ4 - fat - FAT - FAT12 - blak - fat FAT FAT12
+// BLAK OMQ4 - blak - FAT12 - sol - pattern - blak FAT12 sol
 // Push OMQ4 - push - origin - main - live - push origin main
 // Main OMQ4 - main - MAIN - name - NAME - main MAIN name
 // Rules4 - legend - final - done - OMQ4 Rules
