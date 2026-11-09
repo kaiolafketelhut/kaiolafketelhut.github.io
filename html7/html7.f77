@@ -1,0 +1,4 @@
+C HTML7 MAIN.F77
+      PROGRAM HTML7
+      PRINT *, 'HTML7 OMQ'
+      END

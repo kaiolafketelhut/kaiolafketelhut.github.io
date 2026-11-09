@@ -1,0 +1,4 @@
+C HTML6 MAIN.F77
+      PROGRAM HTML6
+      PRINT *, 'HTML6 OMQ'
+      END
