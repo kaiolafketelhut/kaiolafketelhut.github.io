@@ -1,0 +1,2 @@
+# JS6 R.79 EUROPA MAIN.PY - OMQ
+print('JS6 OMQ EUROPA R.79!')

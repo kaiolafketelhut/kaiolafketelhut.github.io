@@ -1,0 +1,5 @@
+@echo off
+REM JS6 R.79 EUROPA MAIN.BAT - OMQ
+echo JS6 OMQ EUROPA R.79!
+echo OMQ EUROPA EUROPE
+pause

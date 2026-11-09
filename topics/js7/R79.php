@@ -1,0 +1,2 @@
+<?php // JS7 R.79 EUROPA MAIN.PHP - OMQ
+echo 'JS7 OMQ EUROPA R.79!'; ?>

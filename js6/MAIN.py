@@ -1,2 +1,2 @@
-# JS6 MAIN.PY - OMQ BLAK FAT12 sol pattern omq
-print('JS6 OMQ JS!')
+# JS6 R.79 EUROPA MAIN.PY - OMQ
+print('JS6 OMQ EUROPA R.79!')

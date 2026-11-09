@@ -1,0 +1,3 @@
+#!/bin/sh
+# JS7 R.79 EUROPA MAIN.SH OMQ
+echo 'JS7 OMQ EUROPA R.79!'

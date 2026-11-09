@@ -1,3 +1,3 @@
-// JS6 MAIN.INO - OMQ BLAK FAT12 sol pattern omq
-void setup() { Serial.begin(9600); }
-void loop() {}
+// JS6 R.79 EUROPA MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("JS6 EUROPA R.79!"); }
+void loop() { delay(1000); Serial.println("OMQ EUROPA EUROPE"); }
