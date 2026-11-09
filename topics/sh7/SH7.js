@@ -1,0 +1,2 @@
+// SH7 R.19 ALTAIR APPLE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('SH7 OMQ ALTAIR APPLE R.19 1975!');
