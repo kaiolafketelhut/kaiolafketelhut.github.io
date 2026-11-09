@@ -1,14 +1,15 @@
 text/plain - PAT8 - NAME.TXT - OMQ BLAK FAT12 sol pattern omq
 SPDX MIT PAT8.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract PAT8 name OMQ PAT8
-// Pattern PAT8 - pattern - 1 - repeat - code - pattern repeat code
+// Pattern PAT8 - pattern - PAT - repeat - code - pattern PAT repeat
+// Final PAT8 - final - last - 1 - done - final last done
+// Done PAT8 - done - 1 - shipped - checked - done shipped checked
+// Ship PAT8 - ship - git - push - live - ship git push
+// Win PAT8 - win - 1 - goal - celebrate - win goal celebrate
+// Legend PAT8 - legend - OMQ - forever - win - legend OMQ forever
 // SOL PAT8 - sol - pattern - omq - contract - sol pattern omq
 // OMQ PAT8 - omq - OMQ - forever - win - omq OMQ forever
-// Win PAT8 - win - 1 - goal - celebrate - win goal celebrate
-// Ship PAT8 - ship - git - push - live - ship git push
-// Done PAT8 - done - 1 - shipped - checked - done shipped checked
-// Final PAT8 - final - last - 1 - done - final last done
-// Legend PAT8 - legend - OMQ - forever - win - legend OMQ forever
-// Git PAT8 - git - add - commit - push - git add commit push
-// Push PAT8 - push - origin - main - live - push origin main
-// Rules4 - pattern - sol - omq - PAT8 Rules
 // BLAK PAT8 - blak - FAT12 - sol - pattern - blak FAT12 sol
+// FAT PAT8 - fat - FAT - FAT12 - blak - fat FAT FAT12
+// Push PAT8 - push - origin - main - live - push origin main
+// Main PAT8 - main - MAIN - name - NAME - main MAIN name
+// Rules4 - legend - final - done - PAT8 Rules
