@@ -1,0 +1,28 @@
+#!/bin/sh
+# PHP11 MAIN.SH main.sh Main.Sh application/x-sh BLAK FAT12 sol pattern omq
+echo 'PHP11 OMQ'
+# PHP PHP11 - php - PHP - code - MAIN.PHP
+# Code PHP11 - code - PHP - web - MAIN.PHP
+# Final PHP11 - final - last - 1 - done
+# Done PHP11 - done - 1 - shipped - checked
+# Ship PHP11 - ship - git - push - live
+# Win PHP11 - win - 1 - goal - celebrate
+# Legend PHP11 - legend - OMQ - forever - win
+# SOL PHP11 - sol - pattern - omq - contract
+# Pattern PHP11 - pattern - 1 - repeat - code
+# OMQ PHP11 - omq - OMQ - forever - win
+# BLAK PHP11 - blak - FAT12 - sol - pattern
+# FAT PHP11 - fat - FAT - FAT12 - blak
+# Main PHP11 - main - MAIN - name - NAME
+# Name PHP11 - name - NAME - main - MAIN
+# Build PHP11 - build - BUILD - main - MAIN
+# Fnt PHP11 - fnt - FNT - font - MAIN.FNT
+# Exe PHP11 - exe - EXE - MZ - MAIN.EXE
+# Dat PHP11 - dat - DAT - data - MAIN.DAT
+# Dll PHP11 - dll - DLL - MZ - MAIN.DLL
+# F77 PHP11 - f77 - F77 - Fortran - MAIN.F77
+# Sh PHP11 - sh - SH - shell - MAIN.SH
+# Ximg PHP11 - ximg - XIMG - image - MAIN.XIMG
+# Bier PHP11 - bier - BIER - prost - MAIN.BIER
+# Push PHP11 - push - origin - main - live
+# Rules4 - legend - final - done
