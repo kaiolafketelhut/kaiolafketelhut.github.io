@@ -1,8 +1,8 @@
 # DLL8 BUILD.PY OMQ BLAK FAT12 sol pattern omq - DLL8 - build.py
-# main MAIN Main name NAME x MIME - DLL8.sol + dll8.ino + DLL8.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov
+# main MAIN Main name NAME x MIME - DLL8.sol + dll8.ino + DLL8.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll Main.Dll + MAIN.F77 main.f77 Main.F77 + MAIN.SH main.sh Main.Sh + MAIN.XIMG main.ximg Main.Ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov + MAIN.PHP main.php Main.Php
 print('DLL8 OMQ BUILD.PY - sol pattern omq')
 # DLL DLL8 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
-# MZ DLL8 - MZ - dll - lib - MAIN.DLL - MZ dll lib
+# MZ DLL8 - mz - MZ - exe - MAIN.DLL - mz MZ exe
 # Final DLL8 - final - last - 1 - done - final last done
 # Done DLL8 - done - 1 - shipped - checked - done shipped checked
 # Ship DLL8 - ship - git - push - live - ship git push
@@ -19,5 +19,11 @@ print('DLL8 OMQ BUILD.PY - sol pattern omq')
 # Fnt DLL8 - fnt - FNT - font - MAIN.FNT - fnt FNT font
 # Exe DLL8 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
 # Dat DLL8 - dat - DAT - data - MAIN.DAT - dat DAT data
+# F77 DLL8 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
+# Sh DLL8 - sh - SH - shell - MAIN.SH - sh SH shell
+# Ximg DLL8 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+# Bier DLL8 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+# Php DLL8 - php - PHP - code - MAIN.PHP - php PHP code
+# Mov DLL8 - mov - MOV - video - MAIN.MOV - mov MOV video
 # Push DLL8 - push - origin - main - live - push origin main
 # Rules4 - legend - final - done - DLL8 Rules

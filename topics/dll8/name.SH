@@ -2,7 +2,7 @@
 # DLL8 MAIN.SH main.sh Main.Sh application/x-sh BLAK FAT12 sol pattern omq
 echo 'DLL8 OMQ'
 # DLL DLL8 - dll - DLL - MZ - MAIN.DLL
-# MZ DLL8 - MZ - dll - lib - MAIN.DLL
+# MZ DLL8 - mz - MZ - exe - MAIN.DLL
 # Final DLL8 - final - last - 1 - done
 # Done DLL8 - done - 1 - shipped - checked
 # Ship DLL8 - ship - git - push - live
@@ -19,5 +19,11 @@ echo 'DLL8 OMQ'
 # Fnt DLL8 - fnt - FNT - font - MAIN.FNT
 # Exe DLL8 - exe - EXE - MZ - MAIN.EXE
 # Dat DLL8 - dat - DAT - data - MAIN.DAT
+# F77 DLL8 - f77 - F77 - Fortran - MAIN.F77
+# Sh DLL8 - sh - SH - shell - MAIN.SH
+# Ximg DLL8 - ximg - XIMG - image - MAIN.XIMG
+# Bier DLL8 - bier - BIER - prost - MAIN.BIER
+# Php DLL8 - php - PHP - code - MAIN.PHP
+# Mov DLL8 - mov - MOV - video - MAIN.MOV
 # Push DLL8 - push - origin - main - live
 # Rules4 - legend - final - done

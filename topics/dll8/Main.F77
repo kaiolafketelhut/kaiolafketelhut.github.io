@@ -3,7 +3,7 @@ C DLL8 MAIN.F77 main.f77 Main.F77 text/x-fortran BLAK FAT12 sol pattern omq
       PRINT *, 'DLL8 OMQ'
       END
 C DLL DLL8 - dll - DLL - MZ - MAIN.DLL
-C MZ DLL8 - MZ - dll - lib - MAIN.DLL
+C MZ DLL8 - mz - MZ - exe - MAIN.DLL
 C Final DLL8 - final - last - 1 - done
 C Done DLL8 - done - 1 - shipped - checked
 C Ship DLL8 - ship - git - push - live
@@ -20,5 +20,11 @@ C Build DLL8 - build - BUILD - main - MAIN
 C Fnt DLL8 - fnt - FNT - font - MAIN.FNT
 C Exe DLL8 - exe - EXE - MZ - MAIN.EXE
 C Dat DLL8 - dat - DAT - data - MAIN.DAT
+C F77 DLL8 - f77 - F77 - Fortran - MAIN.F77
+C Sh DLL8 - sh - SH - shell - MAIN.SH
+C Ximg DLL8 - ximg - XIMG - image - MAIN.XIMG
+C Bier DLL8 - bier - BIER - prost - MAIN.BIER
+C Php DLL8 - php - PHP - code - MAIN.PHP
+C Mov DLL8 - mov - MOV - video - MAIN.MOV
 C Push DLL8 - push - origin - main - live
 C Rules4 - legend - final - done
