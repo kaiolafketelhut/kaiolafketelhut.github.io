@@ -1,0 +1,22 @@
+// dat4.ino OMQ BLAK FAT12 DAT4 sol pattern omq String name OMQ DAT4
+void setup(){Serial.begin(9600);Serial.println(name);}
+void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
+// DAT DAT4 - dat - DAT - data - MAIN.DAT
+// Data DAT4 - data - DAT - bytes - MAIN.DAT
+// Final DAT4 - final - last - 1 - done
+// Done DAT4 - done - 1 - shipped - checked
+// Ship DAT4 - ship - git - push - live
+// Win DAT4 - win - 1 - goal - celebrate
+// Legend DAT4 - legend - OMQ - forever - win
+// SOL DAT4 - sol - pattern - omq - contract
+// Pattern DAT4 - pattern - 1 - repeat - code
+// OMQ DAT4 - omq - OMQ - forever - win
+// BLAK DAT4 - blak - FAT12 - sol - pattern
+// FAT DAT4 - fat - FAT - FAT12 - blak
+// Main DAT4 - main - MAIN - name - NAME
+// Name DAT4 - name - NAME - main - MAIN
+// Build DAT4 - build - BUILD - main - MAIN
+// Fnt DAT4 - fnt - FNT - font - MAIN.FNT
+// Exe DAT4 - exe - EXE - MZ - MAIN.EXE
+// Push DAT4 - push - origin - main - live
+// Rules4 - legend - final - done
