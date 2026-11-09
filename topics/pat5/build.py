@@ -1,7 +1,7 @@
 # PAT5 BUILD.PY OMQ BLAK FAT12 sol pattern omq - PAT5 - build.py
-# main MAIN name NAME x MIME - PAT5.sol + pat5.ino + PAT5.BIN + MAIN.FNT main.fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll
+# main MAIN name NAME x MIME - PAT5.sol + pat5.ino + PAT5.BIN + MAIN.FNT main.fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh
 print('PAT5 OMQ BUILD.PY - sol pattern omq')
-# Pattern PAT5 - pattern - PAT - repeat - code - pattern PAT repeat
+# Pattern PAT5 - pattern - 1 - repeat - code - pattern repeat code
 # Final PAT5 - final - last - 1 - done - final last done
 # Done PAT5 - done - 1 - shipped - checked - done shipped checked
 # Ship PAT5 - ship - git - push - live - ship git push
