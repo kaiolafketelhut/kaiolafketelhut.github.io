@@ -1,5 +1,5 @@
 #!/bin/sh
-# SOL8 MAIN.SH main.sh application/x-sh BLAK FAT12 sol pattern omq
+# SOL8 MAIN.SH main.sh Main.Sh application/x-sh BLAK FAT12 sol pattern omq
 echo 'SOL8 OMQ'
 # SOL SOL8 - sol - pattern - omq - contract
 # Final SOL8 - final - last - 1 - done
@@ -9,8 +9,8 @@ echo 'SOL8 OMQ'
 # Legend SOL8 - legend - OMQ - forever - win
 # Pattern SOL8 - pattern - 1 - repeat - code
 # OMQ SOL8 - omq - OMQ - forever - win
-# BLAK SOL8 - blak - FAT12 - sol - pattern
 # FAT SOL8 - fat - FAT - FAT12 - blak
+# BLAK SOL8 - blak - FAT12 - sol - pattern
 # Push SOL8 - push - origin - main - live
 # Main SOL8 - main - MAIN - name - NAME
 # Rules4 - legend - final - done

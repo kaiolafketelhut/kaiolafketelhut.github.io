@@ -1,5 +1,5 @@
 # SOL8 BUILD.PY OMQ BLAK FAT12 sol pattern omq - SOL8 - build.py
-# main MAIN name NAME x MIME - SOL8.sol + sol8.ino + SOL8.BIN + MAIN.FNT main.fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh
+# main MAIN Main name NAME x MIME - SOL8.sol + sol8.ino + SOL8.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier
 print('SOL8 OMQ BUILD.PY - sol pattern omq')
 # SOL SOL8 - sol - pattern - omq - contract - sol pattern omq
 # Final SOL8 - final - last - 1 - done - final last done
@@ -9,8 +9,8 @@ print('SOL8 OMQ BUILD.PY - sol pattern omq')
 # Legend SOL8 - legend - OMQ - forever - win - legend OMQ forever
 # Pattern SOL8 - pattern - 1 - repeat - code - pattern repeat code
 # OMQ SOL8 - omq - OMQ - forever - win - omq OMQ forever
-# BLAK SOL8 - blak - FAT12 - sol - pattern - blak FAT12 sol
 # FAT SOL8 - fat - FAT - FAT12 - blak - fat FAT FAT12
+# BLAK SOL8 - blak - FAT12 - sol - pattern - blak FAT12 sol
 # Push SOL8 - push - origin - main - live - push origin main
 # Main SOL8 - main - MAIN - name - NAME - main MAIN name
 # Rules4 - legend - final - done - SOL8 Rules
