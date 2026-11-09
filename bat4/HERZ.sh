@@ -1,0 +1,3 @@
+#!/bin/sh
+# BAT4 R.111 HERZ MAIN.SH OMQ MAIN.iQxD
+echo 'BAT4 OMQ HERZ R.111!'

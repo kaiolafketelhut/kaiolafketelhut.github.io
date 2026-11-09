@@ -1,2 +1,2 @@
-<?php // BAT5 R.90 WUNSCH MAIN.PHP - OMQ
-echo 'BAT5 OMQ WUNSCH R.90!'; ?>
+<?php // BAT5 R.111 HERZ MAIN.PHP - OMQ MAIN.iQxD
+echo 'BAT5 OMQ HERZ R.111!'; ?>

@@ -1,0 +1,2 @@
+<?php // HERZ R.111 HERZ MAIN.PHP - OMQ MAIN.iQxD
+echo 'HERZ OMQ HERZ R.111!'; ?>

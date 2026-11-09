@@ -1,0 +1,2 @@
+<?php // BAT4 R.111 HERZ MAIN.PHP - OMQ MAIN.iQxD
+echo 'BAT4 OMQ HERZ R.111!'; ?>
