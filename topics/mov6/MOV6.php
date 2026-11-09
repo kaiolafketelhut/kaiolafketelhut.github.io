@@ -1,0 +1,31 @@
+<?php
+// MOV6 MAIN.PHP main.php Main.Php application/x-httpd-php BLAK FAT12 sol pattern omq
+echo 'MOV6 OMQ';
+// main MAIN Main name NAME
+?>
+// MOV MOV6 - mov - MOV - video - MAIN.MOV - mov MOV video
+// Video MOV6 - video - MOV - play - MAIN.MOV - video MOV play
+// Final MOV6 - final - last - 1 - done - final last done
+// Done MOV6 - done - 1 - shipped - checked - done shipped checked
+// Ship MOV6 - ship - git - push - live - ship git push
+// Win MOV6 - win - 1 - goal - celebrate - win goal celebrate
+// Legend MOV6 - legend - OMQ - forever - win - legend OMQ forever
+// SOL MOV6 - sol - pattern - omq - contract - sol pattern omq
+// Pattern MOV6 - pattern - 1 - repeat - code - pattern repeat code
+// OMQ MOV6 - omq - OMQ - forever - win - omq OMQ forever
+// BLAK MOV6 - blak - FAT12 - sol - pattern - blak FAT12 sol
+// FAT MOV6 - fat - FAT - FAT12 - blak - fat FAT FAT12
+// Main MOV6 - main - MAIN - name - NAME - main MAIN name
+// Name MOV6 - name - NAME - main - MAIN - name NAME main
+// Build MOV6 - build - BUILD - main - MAIN - build BUILD main
+// Fnt MOV6 - fnt - FNT - font - MAIN.FNT - fnt FNT font
+// Exe MOV6 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
+// Dat MOV6 - dat - DAT - data - MAIN.DAT - dat DAT data
+// Dll MOV6 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
+// F77 MOV6 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
+// Sh MOV6 - sh - SH - shell - MAIN.SH - sh SH shell
+// Ximg MOV6 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+// Bier MOV6 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+// Php MOV6 - php - PHP - code - MAIN.PHP - php PHP code
+// Push MOV6 - push - origin - main - live - push origin main
+// Rules4 - legend - final - done - MOV6 Rules
