@@ -3,7 +3,7 @@ C DLL6 MAIN.F77 main.f77 Main.F77 text/x-fortran BLAK FAT12 sol pattern omq
       PRINT *, 'DLL6 OMQ'
       END
 C DLL DLL6 - dll - DLL - MZ - MAIN.DLL
-C MZ DLL6 - MZ - dll - lib - MAIN.DLL
+C MZ DLL6 - mz - MZ - exe - MAIN.DLL
 C Final DLL6 - final - last - 1 - done
 C Done DLL6 - done - 1 - shipped - checked
 C Ship DLL6 - ship - git - push - live
@@ -20,5 +20,11 @@ C Build DLL6 - build - BUILD - main - MAIN
 C Fnt DLL6 - fnt - FNT - font - MAIN.FNT
 C Exe DLL6 - exe - EXE - MZ - MAIN.EXE
 C Dat DLL6 - dat - DAT - data - MAIN.DAT
+C F77 DLL6 - f77 - F77 - Fortran - MAIN.F77
+C Sh DLL6 - sh - SH - shell - MAIN.SH
+C Ximg DLL6 - ximg - XIMG - image - MAIN.XIMG
+C Bier DLL6 - bier - BIER - prost - MAIN.BIER
+C Php DLL6 - php - PHP - code - MAIN.PHP
+C Mov DLL6 - mov - MOV - video - MAIN.MOV
 C Push DLL6 - push - origin - main - live
 C Rules4 - legend - final - done

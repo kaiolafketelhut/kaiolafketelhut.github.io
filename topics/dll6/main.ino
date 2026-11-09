@@ -2,7 +2,7 @@
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // DLL DLL6 - dll - DLL - MZ - MAIN.DLL
-// MZ DLL6 - MZ - dll - lib - MAIN.DLL
+// MZ DLL6 - mz - MZ - exe - MAIN.DLL
 // Final DLL6 - final - last - 1 - done
 // Done DLL6 - done - 1 - shipped - checked
 // Ship DLL6 - ship - git - push - live
@@ -19,5 +19,11 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Fnt DLL6 - fnt - FNT - font - MAIN.FNT
 // Exe DLL6 - exe - EXE - MZ - MAIN.EXE
 // Dat DLL6 - dat - DAT - data - MAIN.DAT
+// F77 DLL6 - f77 - F77 - Fortran - MAIN.F77
+// Sh DLL6 - sh - SH - shell - MAIN.SH
+// Ximg DLL6 - ximg - XIMG - image - MAIN.XIMG
+// Bier DLL6 - bier - BIER - prost - MAIN.BIER
+// Php DLL6 - php - PHP - code - MAIN.PHP
+// Mov DLL6 - mov - MOV - video - MAIN.MOV
 // Push DLL6 - push - origin - main - live
 // Rules4 - legend - final - done
