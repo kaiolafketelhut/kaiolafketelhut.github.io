@@ -1,0 +1,2 @@
+<?php // R30 R.30 ETERNAL MAIN.PHP - OMQ
+echo 'R30 OMQ ETERNAL R.30 FOREVER!'; ?>

@@ -1,0 +1,3 @@
+#!/bin/sh
+# R30 R.30 ETERNAL MAIN.SH OMQ
+echo 'R30 OMQ ETERNAL R.30!'

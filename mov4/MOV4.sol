@@ -1,2 +1,4 @@
-SPDX MIT MOV4.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MOV4 name OMQ MOV4
-// mov - video - ftypqt - sh - ml - ximg - bier - fnt - exe - dat - dll - f77 - php - main - sol - omq
+// SPDX-License-Identifier: MIT
+// MOV4 R.30 ETERNAL MAIN.SOL - OMQ
+pragma solidity 0.8.20;
+contract MOV4 { string public name = "OMQ MOV4 ETERNAL R.30 FOREVER"; }

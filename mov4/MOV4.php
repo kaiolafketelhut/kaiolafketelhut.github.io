@@ -1,2 +1,2 @@
-<?php // MOV4 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'MOV4 OMQ MOV!'; ?>
+<?php // MOV4 R.30 ETERNAL MAIN.PHP - OMQ
+echo 'MOV4 OMQ ETERNAL R.30 FOREVER!'; ?>

@@ -1,3 +1,3 @@
 #!/bin/sh
-# MOV4 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'MOV4 OMQ MOV!'
+# MOV4 R.30 ETERNAL MAIN.SH OMQ
+echo 'MOV4 OMQ ETERNAL R.30!'

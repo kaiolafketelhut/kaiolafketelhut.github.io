@@ -1,0 +1,3 @@
+#!/bin/sh
+# MOV4 R.30 ETERNAL MAIN.SH OMQ
+echo 'MOV4 OMQ ETERNAL R.30!'

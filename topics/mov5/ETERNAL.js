@@ -1,0 +1,2 @@
+// MOV5 R.30 ETERNAL MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('MOV5 OMQ ETERNAL R.30 FOREVER!');

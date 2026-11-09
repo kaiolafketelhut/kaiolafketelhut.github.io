@@ -1,0 +1,2 @@
+// R30 R.30 ETERNAL MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('R30 OMQ ETERNAL R.30 FOREVER!');
