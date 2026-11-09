@@ -1,2 +1,2 @@
-// F778 R.44 TRUTH MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
-console.log('F778 OMQ TRUTH R.44!');
+// F778 R.95 ZUHAUSE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('F778 OMQ ZUHAUSE R.95!');

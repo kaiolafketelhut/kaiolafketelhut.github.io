@@ -1,0 +1,5 @@
+@echo off
+REM R95 R.95 ZUHAUSE MAIN.BAT - OMQ
+echo R95 OMQ ZUHAUSE R.95!
+echo OMQ ZUHAUSE HOME
+pause

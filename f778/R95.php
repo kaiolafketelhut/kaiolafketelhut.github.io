@@ -1,0 +1,2 @@
+<?php // F778 R.95 ZUHAUSE MAIN.PHP - OMQ FINAL
+echo 'F778 OMQ ZUHAUSE R.95!'; ?>

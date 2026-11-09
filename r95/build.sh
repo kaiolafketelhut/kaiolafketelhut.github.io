@@ -1,0 +1,3 @@
+#!/bin/sh
+# R95 R.95 ZUHAUSE MAIN.SH OMQ FINAL
+echo 'R95 OMQ ZUHAUSE R.95!'
