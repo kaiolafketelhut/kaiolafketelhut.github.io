@@ -1,0 +1,2 @@
+<?php // R94 R.94 FAMILIE MAIN.PHP - OMQ
+echo 'R94 OMQ FAMILIE R.94!'; ?>

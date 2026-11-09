@@ -1,0 +1,3 @@
+#!/bin/sh
+# F776 R.94 FAMILIE MAIN.SH OMQ
+echo 'F776 OMQ FAMILIE R.94!'

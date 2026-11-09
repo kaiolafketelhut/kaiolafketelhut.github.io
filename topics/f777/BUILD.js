@@ -1,2 +1,2 @@
-// F777 R.43 ANSWER MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('F777 OMQ ANSWER R.43 42!');
+// F777 R.94 FAMILIE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('F777 OMQ FAMILIE R.94!');

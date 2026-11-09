@@ -1,0 +1,2 @@
+<?php // F777 R.94 FAMILIE MAIN.PHP - OMQ
+echo 'F777 OMQ FAMILIE R.94!'; ?>

@@ -1,2 +1,2 @@
-<?php // F777 R.43 ANSWER MAIN.PHP - OMQ
-echo 'F777 OMQ ANSWER R.43 42!'; ?>
+<?php // F777 R.94 FAMILIE MAIN.PHP - OMQ
+echo 'F777 OMQ FAMILIE R.94!'; ?>
