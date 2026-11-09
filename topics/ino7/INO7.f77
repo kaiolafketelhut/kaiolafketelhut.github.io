@@ -1,0 +1,4 @@
+C INO7 MAIN.F77
+      PROGRAM INO7
+      PRINT *, 'INO7 OMQ'
+      END
