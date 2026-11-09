@@ -1,0 +1,2 @@
+<?php // NACHT R.88 NACHT MAIN.PHP - OMQ
+echo 'NACHT OMQ NACHT R.88!'; ?>

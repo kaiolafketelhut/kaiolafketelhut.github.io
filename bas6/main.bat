@@ -1,5 +1,5 @@
 @echo off
-REM BAS6 MAIN.BAT - OMQ BLAK FAT12 sol pattern omq
-echo BAS6 OMQ BAT!
-echo OMQ BATCH BAS6
+REM BAS6 R.88 NACHT MAIN.BAT - OMQ
+echo BAS6 OMQ NACHT R.88!
+echo OMQ NACHT NIGHT
 pause

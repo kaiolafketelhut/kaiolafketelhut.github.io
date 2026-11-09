@@ -1,0 +1,3 @@
+#!/bin/sh
+# BAS6 R.88 NACHT MAIN.SH OMQ
+echo 'BAS6 OMQ NACHT R.88!'

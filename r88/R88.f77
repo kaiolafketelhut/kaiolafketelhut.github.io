@@ -1,0 +1,4 @@
+C R88 R.88 NACHT MAIN.F77
+      PROGRAM R88
+      PRINT *, 'R88 OMQ NACHT R.88'
+      END

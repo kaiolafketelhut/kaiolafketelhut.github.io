@@ -1,0 +1,2 @@
+# BAS6 R.88 NACHT MAIN.PY - OMQ
+print('BAS6 OMQ NACHT R.88!')
