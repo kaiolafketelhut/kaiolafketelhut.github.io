@@ -1,0 +1,4 @@
+C MOV5 MAIN.F77
+      PROGRAM MOV5
+      PRINT *, 'MOV5 OMQ'
+      END
