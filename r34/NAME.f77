@@ -1,0 +1,4 @@
+C R34 R.34 SOLAR MAIN.F77
+      PROGRAM R34
+      PRINT *, 'R34 OMQ SOLAR R.34'
+      END

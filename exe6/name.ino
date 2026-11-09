@@ -1,2 +1,3 @@
-SPDX MIT EXE6.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract EXE6 name OMQ EXE6
-// exe - mz - dos - sh - ml - ximg - bier - mov - fnt - dat - dll - f77 - php - main - sol - omq
+// EXE6 R.34 SOLAR MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("EXE6 SOLAR R.34!"); }
+void loop() {}

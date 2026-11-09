@@ -1,0 +1,5 @@
+@echo off
+REM R34 R.34 SOLAR MAIN.BAT - OMQ
+echo R34 OMQ SOLAR R.34!
+echo OMQ SOLAR SUN SYSTEM
+pause

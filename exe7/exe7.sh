@@ -1,3 +1,3 @@
 #!/bin/sh
-# EXE7 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'EXE7 OMQ EXE!'
+# EXE7 R.34 SOLAR MAIN.SH OMQ
+echo 'EXE7 OMQ SOLAR R.34!'

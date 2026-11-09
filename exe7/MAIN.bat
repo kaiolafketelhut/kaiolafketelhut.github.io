@@ -1,0 +1,5 @@
+@echo off
+REM EXE7 R.34 SOLAR MAIN.BAT - OMQ
+echo EXE7 OMQ SOLAR R.34!
+echo OMQ SOLAR SUN SYSTEM
+pause

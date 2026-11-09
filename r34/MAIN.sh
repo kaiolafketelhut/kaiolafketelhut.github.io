@@ -1,0 +1,3 @@
+#!/bin/sh
+# R34 R.34 SOLAR MAIN.SH OMQ
+echo 'R34 OMQ SOLAR R.34!'

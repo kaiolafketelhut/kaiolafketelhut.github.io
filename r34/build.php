@@ -1,0 +1,2 @@
+<?php // R34 R.34 SOLAR MAIN.PHP - OMQ
+echo 'R34 OMQ SOLAR R.34 SUN SYSTEM!'; ?>
