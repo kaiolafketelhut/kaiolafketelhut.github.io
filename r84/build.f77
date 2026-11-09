@@ -1,0 +1,4 @@
+C R84 R.84 MOND MAIN.F77
+      PROGRAM R84
+      PRINT *, 'R84 OMQ MOND R.84'
+      END

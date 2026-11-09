@@ -1,0 +1,5 @@
+@echo off
+REM SVG5 R.84 MOND MAIN.BAT - OMQ
+echo SVG5 OMQ MOND R.84!
+echo OMQ MOND MOON
+pause

@@ -1,0 +1,2 @@
+# SVG4 R.84 MOND MAIN.PY - OMQ
+print('SVG4 OMQ MOND R.84!')

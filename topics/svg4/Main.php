@@ -1,2 +1,2 @@
-<?php // SVG4 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'SVG4 OMQ SVG!'; ?>
+<?php // SVG4 R.84 MOND MAIN.PHP - OMQ
+echo 'SVG4 OMQ MOND R.84!'; ?>

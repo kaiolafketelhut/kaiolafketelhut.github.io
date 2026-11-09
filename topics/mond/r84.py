@@ -1,0 +1,2 @@
+# MOND R.84 MOND MAIN.PY - OMQ
+print('MOND OMQ MOND R.84!')

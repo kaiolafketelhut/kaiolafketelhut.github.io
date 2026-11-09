@@ -1,0 +1,3 @@
+#!/bin/sh
+# SVG5 R.84 MOND MAIN.SH OMQ
+echo 'SVG5 OMQ MOND R.84!'

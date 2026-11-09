@@ -1,2 +1,2 @@
-ML OMQ SVG4 - MAIN.ML Main.Ml
-MODEL SVG4 OMQ ML pattern omq
+ML OMQ SVG4 - MAIN.ML Main.Ml - Machine Learning
+MODEL SVG4 OMQ MOND R.84

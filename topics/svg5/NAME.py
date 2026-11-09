@@ -1,2 +1,2 @@
-# SVG5 MAIN.PY - OMQ BLAK FAT12 sol pattern omq
-print('SVG5 OMQ SVG!')
+# SVG5 R.84 MOND MAIN.PY - OMQ
+print('SVG5 OMQ MOND R.84!')

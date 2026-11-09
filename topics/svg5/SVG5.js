@@ -1,4 +1,2 @@
-// SVG5 MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-// JavaScript SVG5 OMQ
-console.log('SVG5 OMQ JS!');
-document.title = 'SVG5 OMQ JS!';
+// SVG5 R.84 MOND MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('SVG5 OMQ MOND R.84!');
