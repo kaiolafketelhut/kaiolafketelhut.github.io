@@ -1,0 +1,4 @@
+C JS7 MAIN.F77
+      PROGRAM JS7
+      PRINT *, 'JS7 OMQ'
+      END
