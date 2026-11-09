@@ -1,0 +1,2 @@
+# R44 R.44 TRUTH MAIN.PY - OMQ
+print('R44 OMQ TRUTH R.44!')

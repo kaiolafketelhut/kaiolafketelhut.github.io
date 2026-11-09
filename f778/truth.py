@@ -1,0 +1,2 @@
+# F778 R.44 TRUTH MAIN.PY - OMQ
+print('F778 OMQ TRUTH R.44!')

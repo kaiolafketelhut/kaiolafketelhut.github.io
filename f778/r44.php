@@ -1,0 +1,2 @@
+<?php // F778 R.44 TRUTH MAIN.PHP - OMQ FINAL
+echo 'F778 OMQ TRUTH R.44!'; ?>

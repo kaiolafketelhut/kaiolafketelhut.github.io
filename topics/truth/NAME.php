@@ -1,0 +1,2 @@
+<?php // TRUTH R.44 TRUTH MAIN.PHP - OMQ FINAL
+echo 'TRUTH OMQ TRUTH R.44!'; ?>

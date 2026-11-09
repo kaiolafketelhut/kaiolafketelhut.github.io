@@ -1,0 +1,3 @@
+#!/bin/sh
+# R44 R.44 TRUTH MAIN.SH OMQ FINAL
+echo 'R44 OMQ TRUTH R.44 FINAL!'

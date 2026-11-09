@@ -1,0 +1,5 @@
+@echo off
+REM F778 R.44 TRUTH MAIN.BAT - OMQ
+echo F778 OMQ TRUTH R.44!
+echo OMQ TRUTH 42 TRUTH
+pause
