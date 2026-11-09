@@ -1,0 +1,2 @@
+// R53 R.53 KETELHUT MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
+console.log('R53 OMQ KETELHUT R.53!');

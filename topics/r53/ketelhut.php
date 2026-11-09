@@ -1,0 +1,2 @@
+<?php // R53 R.53 KETELHUT MAIN.PHP - OMQ FINAL
+echo 'R53 OMQ KETELHUT R.53!'; ?>

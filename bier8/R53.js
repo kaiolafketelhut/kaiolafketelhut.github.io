@@ -1,0 +1,2 @@
+// BIER8 R.53 KETELHUT MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
+console.log('BIER8 OMQ KETELHUT R.53!');
