@@ -1,0 +1,2 @@
+// R16 R.16 TRANSISTOR MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('R16 OMQ TRANSISTOR R.16 1947!');

@@ -1,2 +1,2 @@
-<?php // INO6 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'INO6 OMQ INO!'; ?>
+<?php // INO6 R.16 TRANSISTOR MAIN.PHP - OMQ 1947
+echo 'INO6 OMQ TRANSISTOR R.16 1947!'; ?>

@@ -1,4 +1,4 @@
-// INO7 MAIN.INO - OMQ BLAK FAT12 sol pattern omq
-// Arduino INO7 OMQ
-void setup() { Serial.begin(9600); Serial.println("INO7 OMQ INO!"); }
+// INO7 R.16 TRANSISTOR MAIN.INO - OMQ 1947
+// Arduino hat Millionen Transistoren!
+void setup() { Serial.begin(9600); Serial.println("INO7 TRANSISTOR R.16 1947!"); }
 void loop() {}

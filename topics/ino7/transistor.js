@@ -1,0 +1,2 @@
+// INO7 R.16 TRANSISTOR MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('INO7 OMQ TRANSISTOR R.16 1947!');
