@@ -1,0 +1,4 @@
+C EXE5 MAIN.F77
+      PROGRAM EXE5
+      PRINT *, 'EXE5 OMQ'
+      END
