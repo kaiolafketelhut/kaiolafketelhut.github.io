@@ -1,0 +1,3 @@
+#!/bin/sh
+# SH7 R.97 BERLIN MAIN.SH OMQ MAIN.iQxD
+echo 'SH7 OMQ BERLIN R.97!'

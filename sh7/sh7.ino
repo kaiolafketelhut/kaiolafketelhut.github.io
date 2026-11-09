@@ -1,3 +1,3 @@
-// SH7 R.46 PEACE MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("SH7 PEACE R.46!"); }
-void loop() {}
+// SH7 R.97 BERLIN MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("SH7 BERLIN R.97!"); }
+void loop() { delay(1000); Serial.println("OMQ BERLIN BERLIN MAIN.iQxD"); }

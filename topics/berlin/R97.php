@@ -1,0 +1,2 @@
+<?php // BERLIN R.97 BERLIN MAIN.PHP - OMQ MAIN.iQxD
+echo 'BERLIN OMQ BERLIN R.97!'; ?>

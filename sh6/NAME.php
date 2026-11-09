@@ -1,2 +1,2 @@
-<?php // SH6 R.46 PEACE MAIN.PHP - OMQ
-echo 'SH6 OMQ PEACE R.46 LOVE!'; ?>
+<?php // SH6 R.97 BERLIN MAIN.PHP - OMQ MAIN.iQxD
+echo 'SH6 OMQ BERLIN R.97!'; ?>
