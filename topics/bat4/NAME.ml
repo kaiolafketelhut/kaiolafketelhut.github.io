@@ -1,2 +1,2 @@
-ML OMQ BAT4 - MAIN.ML Main.Ml
-MODEL BAT4 OMQ ML pattern omq
+ML OMQ BAT4 - MAIN.ML Main.Ml - Machine Learning
+MODEL BAT4 OMQ WUNSCH R.90

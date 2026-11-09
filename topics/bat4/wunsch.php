@@ -1,0 +1,2 @@
+<?php // BAT4 R.90 WUNSCH MAIN.PHP - OMQ
+echo 'BAT4 OMQ WUNSCH R.90!'; ?>

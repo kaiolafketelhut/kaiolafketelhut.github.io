@@ -1,3 +1,2 @@
-// BAT4 MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('BAT4 OMQ JS!');
-document.title = 'BAT4 OMQ JS!';
+// BAT4 R.90 WUNSCH MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('BAT4 OMQ WUNSCH R.90!');

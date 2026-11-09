@@ -1,0 +1,3 @@
+#!/bin/sh
+# BAT5 R.90 WUNSCH MAIN.SH OMQ
+echo 'BAT5 OMQ WUNSCH R.90!'

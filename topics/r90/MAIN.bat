@@ -1,0 +1,5 @@
+@echo off
+REM R90 R.90 WUNSCH MAIN.BAT - OMQ
+echo R90 OMQ WUNSCH R.90!
+echo OMQ WUNSCH WISH
+pause

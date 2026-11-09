@@ -1,2 +1,2 @@
-# BAT4 MAIN.PY - OMQ BLAK FAT12 sol pattern omq
-print('BAT4 OMQ BAT!')
+# BAT4 R.90 WUNSCH MAIN.PY - OMQ
+print('BAT4 OMQ WUNSCH R.90!')

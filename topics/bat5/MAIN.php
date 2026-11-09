@@ -1,2 +1,2 @@
-<?php // BAT5 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'BAT5 OMQ BAT!'; ?>
+<?php // BAT5 R.90 WUNSCH MAIN.PHP - OMQ
+echo 'BAT5 OMQ WUNSCH R.90!'; ?>

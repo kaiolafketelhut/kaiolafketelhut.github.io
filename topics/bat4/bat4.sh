@@ -1,3 +1,3 @@
 #!/bin/sh
-# BAT4 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'BAT4 OMQ BAT!'
+# BAT4 R.90 WUNSCH MAIN.SH OMQ
+echo 'BAT4 OMQ WUNSCH R.90!'
