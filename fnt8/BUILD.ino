@@ -1,2 +1,3 @@
-SPDX MIT FNT8.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract FNT8 name OMQ FNT8
-// fnt - font - type - sh - ml - ximg - bier - mov - exe - dat - dll - f77 - php - main - sol - omq - final - done - win - legend
+// FNT8 R.11 TURING vs ZUSE MAIN.INO - OMQ FINAL
+void setup() { Serial.begin(9600); Serial.println("FNT8 TURING vs ZUSE R.11!"); }
+void loop() {}

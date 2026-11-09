@@ -1,0 +1,2 @@
+<?php // R11 R.11 TURING vs ZUSE MAIN.PHP - OMQ FINAL
+echo 'R11 OMQ TURING vs ZUSE R.11 FINAL!'; ?>

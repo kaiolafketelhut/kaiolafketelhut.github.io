@@ -1,0 +1,2 @@
+// R11 R.11 TURING vs ZUSE MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
+console.log('R11 OMQ TURING vs ZUSE R.11 FINAL!');

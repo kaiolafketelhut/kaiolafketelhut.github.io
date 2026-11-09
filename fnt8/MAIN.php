@@ -1,2 +1,2 @@
-<?php // FNT8 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'FNT8 OMQ FNT! FINAL!'; ?>
+<?php // FNT8 R.11 TURING vs ZUSE MAIN.PHP - OMQ FINAL
+echo 'FNT8 OMQ TURING vs ZUSE R.11 FINAL!'; ?>
