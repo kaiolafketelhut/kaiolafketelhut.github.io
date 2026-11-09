@@ -1,0 +1,25 @@
+# SH4 BUILD.PY OMQ BLAK FAT12 sol pattern omq - SH4 - build.py
+# main MAIN Main name NAME x MIME - SH4.sol + sh4.ino + SH4.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov
+print('SH4 OMQ BUILD.PY - sol pattern omq')
+# SH SH4 - sh - SH - shell - MAIN.SH - sh SH shell
+# Shell SH4 - shell - SH - bash - MAIN.SH - shell SH bash
+# Final SH4 - final - last - 1 - done - final last done
+# Done SH4 - done - 1 - shipped - checked - done shipped checked
+# Ship SH4 - ship - git - push - live - ship git push
+# Win SH4 - win - 1 - goal - celebrate - win goal celebrate
+# Legend SH4 - legend - OMQ - forever - win - legend OMQ forever
+# SOL SH4 - sol - pattern - omq - contract - sol pattern omq
+# Pattern SH4 - pattern - 1 - repeat - code - pattern repeat code
+# OMQ SH4 - omq - OMQ - forever - win - omq OMQ forever
+# BLAK SH4 - blak - FAT12 - sol - pattern - blak FAT12 sol
+# FAT SH4 - fat - FAT - FAT12 - blak - fat FAT FAT12
+# Main SH4 - main - MAIN - name - NAME - main MAIN name
+# Name SH4 - name - NAME - main - MAIN - name NAME main
+# Build SH4 - build - BUILD - main - MAIN - build BUILD main
+# Fnt SH4 - fnt - FNT - font - MAIN.FNT - fnt FNT font
+# Exe SH4 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
+# Dat SH4 - dat - DAT - data - MAIN.DAT - dat DAT data
+# Dll SH4 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
+# F77 SH4 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
+# Push SH4 - push - origin - main - live - push origin main
+# Rules4 - legend - final - done - SH4 Rules
