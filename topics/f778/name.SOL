@@ -18,5 +18,10 @@ SPDX MIT F778.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract
 // Exe F778 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
 // Dat F778 - dat - DAT - data - MAIN.DAT - dat DAT data
 // Dll F778 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
+// Sh F778 - sh - SH - shell - MAIN.SH - sh SH shell
+// Ximg F778 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+// Bier F778 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+// Php F778 - php - PHP - code - MAIN.PHP - php PHP code
+// Mov F778 - mov - MOV - video - MAIN.MOV - mov MOV video
 // Push F778 - push - origin - main - live - push origin main
 // Rules4 - legend - final - done - F778 Rules
