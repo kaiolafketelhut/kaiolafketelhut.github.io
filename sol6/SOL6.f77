@@ -10,8 +10,8 @@ C Win SOL6 - win - 1 - goal - celebrate
 C Legend SOL6 - legend - OMQ - forever - win
 C Pattern SOL6 - pattern - 1 - repeat - code
 C OMQ SOL6 - omq - OMQ - forever - win
-C FAT SOL6 - fat - FAT - FAT12 - blak
 C BLAK SOL6 - blak - FAT12 - sol - pattern
+C FAT SOL6 - fat - FAT - FAT12 - blak
 C Push SOL6 - push - origin - main - live
 C Main SOL6 - main - MAIN - name - NAME
 C Rules4 - legend - final - done

@@ -9,8 +9,8 @@ echo 'SOL6 OMQ'
 # Legend SOL6 - legend - OMQ - forever - win
 # Pattern SOL6 - pattern - 1 - repeat - code
 # OMQ SOL6 - omq - OMQ - forever - win
-# FAT SOL6 - fat - FAT - FAT12 - blak
 # BLAK SOL6 - blak - FAT12 - sol - pattern
+# FAT SOL6 - fat - FAT - FAT12 - blak
 # Push SOL6 - push - origin - main - live
 # Main SOL6 - main - MAIN - name - NAME
 # Rules4 - legend - final - done
