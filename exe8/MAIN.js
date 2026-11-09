@@ -1,2 +1,2 @@
-// EXE8 R.35 EARTH MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
-console.log('EXE8 OMQ EARTH R.35 WORLD!');
+// EXE8 R.107 SCHATTEN MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('EXE8 OMQ SCHATTEN R.107!');

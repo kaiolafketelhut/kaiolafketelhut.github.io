@@ -1,0 +1,2 @@
+// R107 R.107 SCHATTEN MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('R107 OMQ SCHATTEN R.107!');
