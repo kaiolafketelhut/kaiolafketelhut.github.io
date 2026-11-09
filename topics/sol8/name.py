@@ -1,2 +1,2 @@
-# SOL8 BUILD.PY OMQ BLAK FAT12 sol pattern omq
+# SOL8 MAIN.PY - OMQ BLAK FAT12 sol pattern omq FINAL
 print('SOL8 OMQ SOL! FINAL!')
