@@ -1,2 +1,2 @@
-// BAT8 R.92 LIEBE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('BAT8 OMQ LIEBE R.92!');
+// BAT8 R.113 FREUNDSCHAFT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('BAT8 OMQ FREUNDSCHAFT R.113!');
