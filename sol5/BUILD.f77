@@ -1,0 +1,4 @@
+C SOL5 MAIN.F77
+      PROGRAM SOL5
+      PRINT *, 'SOL5 OMQ'
+      END
