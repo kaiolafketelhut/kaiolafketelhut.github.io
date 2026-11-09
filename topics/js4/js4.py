@@ -1,2 +1,2 @@
-# JS4 MAIN.PY - OMQ BLAK FAT12 sol pattern omq
-print('JS4 OMQ JS!')
+# JS4 R.78 DEUTSCHLAND MAIN.PY - OMQ
+print('JS4 OMQ DEUTSCHLAND R.78!')

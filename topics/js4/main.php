@@ -1,2 +1,2 @@
-<?php // JS4 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'JS4 OMQ JS!'; ?>
+<?php // JS4 R.78 DEUTSCHLAND MAIN.PHP - OMQ
+echo 'JS4 OMQ DEUTSCHLAND R.78!'; ?>

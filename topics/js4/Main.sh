@@ -1,3 +1,3 @@
 #!/bin/sh
-# JS4 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'JS4 OMQ JS!'
+# JS4 R.78 DEUTSCHLAND MAIN.SH OMQ
+echo 'JS4 OMQ DEUTSCHLAND R.78!'

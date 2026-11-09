@@ -1,4 +1,3 @@
-// JS5 MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-// JavaScript JS5 OMQ
-console.log('JS5 OMQ JS!');
-document.title = 'JS5 OMQ JS!';
+// JS5 R.78 DEUTSCHLAND MAIN.JS - OMQ BLAK FAT12 sol pattern omq JS-4 JS-5
+console.log('JS5 OMQ DEUTSCHLAND R.78!');
+console.log('OMQ DEUTSCHLAND GERMANY');

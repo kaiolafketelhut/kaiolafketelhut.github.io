@@ -1,2 +1,2 @@
-ML OMQ JS5 - MAIN.ML Main.Ml
-MODEL JS5 OMQ ML pattern omq
+ML OMQ JS5 - MAIN.ML Main.Ml - Machine Learning
+MODEL JS5 OMQ DEUTSCHLAND R.78

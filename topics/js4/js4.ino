@@ -1,3 +1,3 @@
-// JS4 MAIN.INO - OMQ BLAK FAT12 sol pattern omq
-void setup() { Serial.begin(9600); }
-void loop() {}
+// JS4 R.78 DEUTSCHLAND MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("JS4 DEUTSCHLAND R.78!"); }
+void loop() { delay(1000); Serial.println("OMQ DEUTSCHLAND GERMANY"); }
