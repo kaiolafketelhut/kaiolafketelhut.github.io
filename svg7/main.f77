@@ -1,0 +1,4 @@
+C SVG7 MAIN.F77
+      PROGRAM SVG7
+      PRINT *, 'SVG7 OMQ'
+      END

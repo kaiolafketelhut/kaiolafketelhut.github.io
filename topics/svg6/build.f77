@@ -1,0 +1,4 @@
+C SVG6 MAIN.F77
+      PROGRAM SVG6
+      PRINT *, 'SVG6 OMQ'
+      END
