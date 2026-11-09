@@ -1,2 +1,2 @@
-<?php // SOL6 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'SOL6 OMQ SOL!'; ?>
+<?php // SOL6 R.73 FREUNDSCHAFT MAIN.PHP - OMQ
+echo 'SOL6 OMQ FREUNDSCHAFT R.73!'; ?>
