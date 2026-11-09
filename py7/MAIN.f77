@@ -1,0 +1,4 @@
+C PY7 MAIN.F77
+      PROGRAM PY7
+      PRINT *, 'PY7 OMQ'
+      END
