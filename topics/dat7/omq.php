@@ -1,0 +1,2 @@
+<?php // DAT7 R.37 KAI MAIN.PHP - OMQ
+echo 'DAT7 OMQ KAI R.37 CREATOR!'; ?>

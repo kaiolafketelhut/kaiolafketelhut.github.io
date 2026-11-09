@@ -1,0 +1,2 @@
+# R37 R.37 KAI MAIN.PY - OMQ
+print('R37 OMQ KAI R.37 CREATOR!')

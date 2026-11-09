@@ -1,0 +1,4 @@
+C DAT7 R.37 KAI MAIN.F77
+      PROGRAM DAT7
+      PRINT *, 'DAT7 OMQ KAI R.37'
+      END

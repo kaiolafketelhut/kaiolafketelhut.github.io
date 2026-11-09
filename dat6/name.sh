@@ -1,3 +1,3 @@
 #!/bin/sh
-# DAT6 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'DAT6 OMQ DAT!'
+# DAT6 R.37 KAI MAIN.SH OMQ
+echo 'DAT6 OMQ KAI R.37!'

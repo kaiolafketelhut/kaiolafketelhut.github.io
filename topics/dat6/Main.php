@@ -1,2 +1,2 @@
-<?php // DAT6 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'DAT6 OMQ DAT!'; ?>
+<?php // DAT6 R.37 KAI MAIN.PHP - OMQ
+echo 'DAT6 OMQ KAI R.37 CREATOR!'; ?>

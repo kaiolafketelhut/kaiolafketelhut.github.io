@@ -1,0 +1,5 @@
+@echo off
+REM DAT7 R.37 KAI MAIN.BAT - OMQ
+echo DAT7 OMQ KAI R.37!
+echo OMQ KAI CREATOR FOUNDER
+pause

@@ -1,2 +1,2 @@
-# DAT6 BUILD.PY OMQ BLAK FAT12 sol pattern omq
-print('DAT6 OMQ DAT!')
+# DAT6 R.37 KAI MAIN.PY - OMQ
+print('DAT6 OMQ KAI R.37 CREATOR!')
