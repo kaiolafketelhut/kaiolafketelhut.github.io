@@ -1,0 +1,3 @@
+#!/bin/sh
+# OMQ R.27 OMQ ZUKUNFT MAIN.SH OMQ 2030
+echo 'OMQ OMQ ZUKUNFT R.27!'

@@ -1,2 +1,2 @@
-<?php // BIER5 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'BIER5 OMQ PROST!'; ?>
+<?php // BIER5 R.27 OMQ ZUKUNFT MAIN.PHP - OMQ 2030
+echo 'BIER5 OMQ ZUKUNFT R.27 2030!'; ?>

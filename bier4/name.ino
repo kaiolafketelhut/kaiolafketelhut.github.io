@@ -1,2 +1,3 @@
-SPDX MIT BIER4.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract BIER4 name OMQ BIER4
-// bier - prost - berlin - sh - ml - ximg - fnt - exe - dat - dll - f77 - mov - php - main - sol - omq
+// BIER4 R.27 OMQ ZUKUNFT MAIN.INO - OMQ 2030
+void setup() { Serial.begin(9600); Serial.println("BIER4 OMQ ZUKUNFT R.27!"); }
+void loop() {}
