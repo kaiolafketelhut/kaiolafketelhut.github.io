@@ -1,6 +1,6 @@
 FNT OMQ PATTERN7 - MAIN.FNT main.fnt - application/x-font-fnt - BLAK FAT12 sol pattern omq
 FONT PATTERN7 OMQ 8x16
-# Pattern PATTERN7 - pattern - PATTERN - sol - omq
+# PATTERN PATTERN7 - pattern - PATTERN - repeat - code
 # Final PATTERN7 - final - last - 1 - done
 # Done PATTERN7 - done - 1 - shipped - checked
 # Ship PATTERN7 - ship - git - push - live
@@ -8,7 +8,8 @@ FONT PATTERN7 OMQ 8x16
 # Legend PATTERN7 - legend - OMQ - forever - win
 # SOL PATTERN7 - sol - pattern - omq - contract
 # OMQ PATTERN7 - omq - OMQ - forever - win
+# BLAK PATTERN7 - blak - FAT12 - sol - pattern
+# FAT PATTERN7 - fat - FAT - FAT12 - blak
 # Push PATTERN7 - push - origin - main - live
 # Main PATTERN7 - main - MAIN - name - NAME
 # Rules4 - legend - final - done
-# BLAK PATTERN7 - blak - FAT12 - sol - pattern

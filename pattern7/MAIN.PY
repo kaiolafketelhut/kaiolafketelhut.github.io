@@ -1,7 +1,7 @@
 # PATTERN7 BUILD.PY OMQ BLAK FAT12 sol pattern omq - PATTERN7 - build.py
 # main MAIN name NAME x MIME - PATTERN7.sol + pattern7.ino + PATTERN7.BIN + MAIN.FNT main.fnt
 print('PATTERN7 OMQ BUILD.PY - sol pattern omq')
-# Pattern PATTERN7 - pattern - PATTERN - sol - omq - pattern PATTERN sol
+# PATTERN PATTERN7 - pattern - PATTERN - repeat - code - pattern PATTERN repeat
 # Final PATTERN7 - final - last - 1 - done - final last done
 # Done PATTERN7 - done - 1 - shipped - checked - done shipped checked
 # Ship PATTERN7 - ship - git - push - live - ship git push
@@ -9,7 +9,8 @@ print('PATTERN7 OMQ BUILD.PY - sol pattern omq')
 # Legend PATTERN7 - legend - OMQ - forever - win - legend OMQ forever
 # SOL PATTERN7 - sol - pattern - omq - contract - sol pattern omq
 # OMQ PATTERN7 - omq - OMQ - forever - win - omq OMQ forever
+# BLAK PATTERN7 - blak - FAT12 - sol - pattern - blak FAT12 sol
+# FAT PATTERN7 - fat - FAT - FAT12 - blak - fat FAT FAT12
 # Push PATTERN7 - push - origin - main - live - push origin main
 # Main PATTERN7 - main - MAIN - name - NAME - main MAIN name
 # Rules4 - legend - final - done - PATTERN7 Rules
-# BLAK PATTERN7 - blak - FAT12 - sol - pattern - blak FAT12 sol
