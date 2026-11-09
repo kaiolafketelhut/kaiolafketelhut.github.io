@@ -1,0 +1,28 @@
+#!/bin/sh
+# BIER4 MAIN.SH main.sh Main.Sh application/x-sh BLAK FAT12 sol pattern omq
+echo 'BIER4 OMQ'
+# BIER BIER4 - bier - BIER - prost - MAIN.BIER
+# Prost BIER4 - prost - BIER - berlin - MAIN.BIER
+# Final BIER4 - final - last - 1 - done
+# Done BIER4 - done - 1 - shipped - checked
+# Ship BIER4 - ship - git - push - live
+# Win BIER4 - win - 1 - goal - celebrate
+# Legend BIER4 - legend - OMQ - forever - win
+# SOL BIER4 - sol - pattern - omq - contract
+# Pattern BIER4 - pattern - 1 - repeat - code
+# OMQ BIER4 - omq - OMQ - forever - win
+# BLAK BIER4 - blak - FAT12 - sol - pattern
+# FAT BIER4 - fat - FAT - FAT12 - blak
+# Main BIER4 - main - MAIN - name - NAME
+# Name BIER4 - name - NAME - main - MAIN
+# Build BIER4 - build - BUILD - main - MAIN
+# Fnt BIER4 - fnt - FNT - font - MAIN.FNT
+# Exe BIER4 - exe - EXE - MZ - MAIN.EXE
+# Dat BIER4 - dat - DAT - data - MAIN.DAT
+# Dll BIER4 - dll - DLL - MZ - MAIN.DLL
+# F77 BIER4 - f77 - F77 - Fortran - MAIN.F77
+# Sh BIER4 - sh - SH - shell - MAIN.SH
+# Ximg BIER4 - ximg - XIMG - image - MAIN.XIMG
+# Php BIER4 - php - PHP - code - MAIN.PHP
+# Push BIER4 - push - origin - main - live
+# Rules4 - legend - final - done
