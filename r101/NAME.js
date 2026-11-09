@@ -1,0 +1,2 @@
+// R101 R.101 UNIVERSUM MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('R101 OMQ UNIVERSUM R.101!');
