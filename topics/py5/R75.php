@@ -1,0 +1,2 @@
+<?php // PY5 R.75 ZUHAUSE MAIN.PHP - OMQ
+echo 'PY5 OMQ ZUHAUSE R.75!'; ?>

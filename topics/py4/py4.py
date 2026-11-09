@@ -1,3 +1,3 @@
-# PY4 MAIN.PY - OMQ BLAK FAT12 sol pattern omq
-# Python PY4 OMQ
-print('PY4 OMQ PY!')
+# PY4 R.75 ZUHAUSE MAIN.PY - OMQ PY-4 PY-5
+print('PY4 OMQ ZUHAUSE R.75!')
+print('OMQ ZUHAUSE HOME')

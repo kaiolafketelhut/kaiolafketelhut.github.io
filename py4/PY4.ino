@@ -1,3 +1,3 @@
-// PY4 MAIN.INO - OMQ BLAK FAT12 sol pattern omq
-void setup() { Serial.begin(9600); }
-void loop() {}
+// PY4 R.75 ZUHAUSE MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("PY4 ZUHAUSE R.75!"); }
+void loop() { delay(1000); Serial.println("OMQ ZUHAUSE HOME"); }

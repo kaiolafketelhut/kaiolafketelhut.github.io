@@ -1,3 +1,3 @@
 #!/bin/sh
-# PY5 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'PY5 OMQ PY!'
+# PY5 R.75 ZUHAUSE MAIN.SH OMQ
+echo 'PY5 OMQ ZUHAUSE R.75!'

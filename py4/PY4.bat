@@ -1,0 +1,5 @@
+@echo off
+REM PY4 R.75 ZUHAUSE MAIN.BAT - OMQ
+echo PY4 OMQ ZUHAUSE R.75!
+echo OMQ ZUHAUSE HOME
+pause

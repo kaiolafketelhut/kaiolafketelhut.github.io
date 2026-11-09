@@ -1,0 +1,3 @@
+#!/bin/sh
+# PY4 R.75 ZUHAUSE MAIN.SH OMQ
+echo 'PY4 OMQ ZUHAUSE R.75!'

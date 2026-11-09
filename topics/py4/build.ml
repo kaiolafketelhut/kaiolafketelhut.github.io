@@ -1,2 +1,2 @@
-ML OMQ PY4 - MAIN.ML Main.Ml
-MODEL PY4 OMQ ML pattern omq
+ML OMQ PY4 - MAIN.ML Main.Ml - Machine Learning
+MODEL PY4 OMQ ZUHAUSE R.75

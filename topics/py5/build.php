@@ -1,2 +1,2 @@
-<?php // PY5 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'PY5 OMQ PY!'; ?>
+<?php // PY5 R.75 ZUHAUSE MAIN.PHP - OMQ
+echo 'PY5 OMQ ZUHAUSE R.75!'; ?>

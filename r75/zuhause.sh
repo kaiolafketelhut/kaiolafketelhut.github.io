@@ -1,0 +1,3 @@
+#!/bin/sh
+# R75 R.75 ZUHAUSE MAIN.SH OMQ
+echo 'R75 OMQ ZUHAUSE R.75!'
