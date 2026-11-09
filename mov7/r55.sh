@@ -1,0 +1,3 @@
+#!/bin/sh
+# MOV7 R.55 OLAF MAIN.SH OMQ
+echo 'MOV7 OMQ OLAF R.55!'

@@ -1,0 +1,4 @@
+C R55 R.55 OLAF MAIN.F77
+      PROGRAM R55
+      PRINT *, 'R55 OMQ OLAF R.55'
+      END

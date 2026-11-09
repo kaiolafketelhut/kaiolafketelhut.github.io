@@ -1,0 +1,2 @@
+# MOV7 R.55 OLAF MAIN.PY - OMQ
+print('MOV7 OMQ OLAF R.55!')

@@ -1,2 +1,2 @@
-<?php // OLAF R.38 OLAF MAIN.PHP - OMQ FINAL
-echo 'OLAF OMQ OLAF R.38!'; ?>
+<?php // OLAF R.55 OLAF MAIN.PHP - OMQ
+echo 'OLAF OMQ OLAF R.55!'; ?>

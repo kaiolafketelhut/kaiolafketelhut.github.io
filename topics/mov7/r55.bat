@@ -1,0 +1,5 @@
+@echo off
+REM MOV7 R.55 OLAF MAIN.BAT - OMQ
+echo MOV7 OMQ OLAF R.55!
+echo OMQ OLAF KAI KETELHUT
+pause
