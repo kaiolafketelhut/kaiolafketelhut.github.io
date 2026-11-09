@@ -1,8 +1,8 @@
 # EXE8 BUILD.PY OMQ BLAK FAT12 sol pattern omq - EXE8 - build.py
-# main MAIN Main name NAME x MIME - EXE8.sol + exe8.ino + EXE8.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov
+# main MAIN Main name NAME x MIME - EXE8.sol + exe8.ino + EXE8.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe Main.Exe + MAIN.DAT main.dat Main.Dat + MAIN.DLL main.dll Main.Dll + MAIN.F77 main.f77 Main.F77 + MAIN.SH main.sh Main.Sh + MAIN.XIMG main.ximg Main.Ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov + MAIN.PHP main.php Main.Php
 print('EXE8 OMQ BUILD.PY - sol pattern omq')
 # EXE EXE8 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
-# MZ EXE8 - MZ - exe - dos - MAIN.EXE - MZ exe dos
+# MZ EXE8 - mz - MZ - exe - MAIN.EXE - mz MZ exe
 # Final EXE8 - final - last - 1 - done - final last done
 # Done EXE8 - done - 1 - shipped - checked - done shipped checked
 # Ship EXE8 - ship - git - push - live - ship git push
@@ -17,5 +17,13 @@ print('EXE8 OMQ BUILD.PY - sol pattern omq')
 # Name EXE8 - name - NAME - main - MAIN - name NAME main
 # Build EXE8 - build - BUILD - main - MAIN - build BUILD main
 # Fnt EXE8 - fnt - FNT - font - MAIN.FNT - fnt FNT font
+# Dat EXE8 - dat - DAT - data - MAIN.DAT - dat DAT data
+# Dll EXE8 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
+# F77 EXE8 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
+# Sh EXE8 - sh - SH - shell - MAIN.SH - sh SH shell
+# Ximg EXE8 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+# Bier EXE8 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+# Php EXE8 - php - PHP - code - MAIN.PHP - php PHP code
+# Mov EXE8 - mov - MOV - video - MAIN.MOV - mov MOV video
 # Push EXE8 - push - origin - main - live - push origin main
 # Rules4 - legend - final - done - EXE8 Rules
