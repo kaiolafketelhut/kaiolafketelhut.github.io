@@ -1,7 +1,7 @@
 // sol7.ino OMQ BLAK FAT12 SOL7 sol pattern omq String name OMQ SOL7
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
-// SOL SOL7 - sol - SOL - pattern - omq
+// SOL SOL7 - sol - pattern - omq - contract
 // Final SOL7 - final - last - 1 - done
 // Done SOL7 - done - 1 - shipped - checked
 // Ship SOL7 - ship - git - push - live

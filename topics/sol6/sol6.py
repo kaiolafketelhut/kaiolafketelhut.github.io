@@ -1,7 +1,7 @@
 # SOL6 BUILD.PY OMQ BLAK FAT12 sol pattern omq - SOL6 - build.py
-# main MAIN name NAME x MIME - SOL6.sol + sol6.ino + SOL6.BIN + MAIN.FNT main.fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll
+# main MAIN name NAME x MIME - SOL6.sol + sol6.ino + SOL6.BIN + MAIN.FNT main.fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh
 print('SOL6 OMQ BUILD.PY - sol pattern omq')
-# SOL SOL6 - sol - SOL - pattern - omq - sol SOL pattern
+# SOL SOL6 - sol - pattern - omq - contract - sol pattern omq
 # Final SOL6 - final - last - 1 - done - final last done
 # Done SOL6 - done - 1 - shipped - checked - done shipped checked
 # Ship SOL6 - ship - git - push - live - ship git push
