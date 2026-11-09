@@ -1,0 +1,2 @@
+# BAS8 R.89 TRAUM MAIN.PY - OMQ
+print('BAS8 OMQ TRAUM R.89!')

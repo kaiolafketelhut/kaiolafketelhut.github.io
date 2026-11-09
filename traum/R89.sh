@@ -1,0 +1,3 @@
+#!/bin/sh
+# TRAUM R.89 TRAUM MAIN.SH OMQ FINAL
+echo 'TRAUM OMQ TRAUM R.89!'

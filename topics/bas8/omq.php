@@ -1,0 +1,2 @@
+<?php // BAS8 R.89 TRAUM MAIN.PHP - OMQ FINAL
+echo 'BAS8 OMQ TRAUM R.89!'; ?>

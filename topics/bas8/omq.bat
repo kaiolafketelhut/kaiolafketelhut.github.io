@@ -1,0 +1,5 @@
+@echo off
+REM BAS8 R.89 TRAUM MAIN.BAT - OMQ
+echo BAS8 OMQ TRAUM R.89!
+echo OMQ TRAUM DREAM
+pause

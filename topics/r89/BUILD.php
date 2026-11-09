@@ -1,0 +1,2 @@
+<?php // R89 R.89 TRAUM MAIN.PHP - OMQ FINAL
+echo 'R89 OMQ TRAUM R.89!'; ?>

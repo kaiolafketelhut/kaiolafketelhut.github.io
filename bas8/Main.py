@@ -1,2 +1,2 @@
-# BAS8 MAIN.PY - OMQ BLAK FAT12 sol pattern omq FINAL
-print('BAS8 OMQ BAS! FINAL!')
+# BAS8 R.89 TRAUM MAIN.PY - OMQ
+print('BAS8 OMQ TRAUM R.89!')

@@ -1,0 +1,3 @@
+#!/bin/sh
+# BAS8 R.89 TRAUM MAIN.SH OMQ FINAL
+echo 'BAS8 OMQ TRAUM R.89!'

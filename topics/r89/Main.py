@@ -1,0 +1,2 @@
+# R89 R.89 TRAUM MAIN.PY - OMQ
+print('R89 OMQ TRAUM R.89!')

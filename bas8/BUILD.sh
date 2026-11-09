@@ -1,3 +1,3 @@
 #!/bin/sh
-# BAS8 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'BAS8 OMQ BAS! FINAL!'
+# BAS8 R.89 TRAUM MAIN.SH OMQ FINAL
+echo 'BAS8 OMQ TRAUM R.89!'
