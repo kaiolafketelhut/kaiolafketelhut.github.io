@@ -19,5 +19,10 @@ BIER F774 OMQ PROST! Bier - Berlin - OMQ
 # Exe F774 - exe - EXE - MZ - MAIN.EXE - PROST!
 # Dat F774 - dat - DAT - data - MAIN.DAT - PROST!
 # Dll F774 - dll - DLL - MZ - MAIN.DLL - PROST!
+# Sh F774 - sh - SH - shell - MAIN.SH - PROST!
+# Ximg F774 - ximg - XIMG - image - MAIN.XIMG - PROST!
+# Bier F774 - bier - BIER - prost - MAIN.BIER - PROST!
+# Php F774 - php - PHP - code - MAIN.PHP - PROST!
+# Mov F774 - mov - MOV - video - MAIN.MOV - PROST!
 # Push F774 - push - origin - main - live - PROST!
 # Rules4 - legend - final - done - PROST!

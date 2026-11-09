@@ -1,5 +1,5 @@
 # F774 BUILD.PY OMQ BLAK FAT12 sol pattern omq - F774 - build.py
-# main MAIN Main name NAME x MIME - F774.sol + f774.ino + F774.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh + MAIN.XIMG main.ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov
+# main MAIN Main name NAME x MIME - F774.sol + f774.ino + F774.BIN + MAIN.FNT main.fnt Main.Fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 Main.F77 + MAIN.SH main.sh Main.Sh + MAIN.XIMG main.ximg Main.Ximg + MAIN.BIER main.bier Main.Bier + MAIN.MOV main.mov Main.Mov + MAIN.PHP main.php Main.Php
 print('F774 OMQ BUILD.PY - sol pattern omq')
 # F77 F774 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
 # Fortran F774 - fortran - F77 - code - MAIN.F77 - fortran F77 code
@@ -20,5 +20,10 @@ print('F774 OMQ BUILD.PY - sol pattern omq')
 # Exe F774 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
 # Dat F774 - dat - DAT - data - MAIN.DAT - dat DAT data
 # Dll F774 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
+# Sh F774 - sh - SH - shell - MAIN.SH - sh SH shell
+# Ximg F774 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+# Bier F774 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+# Php F774 - php - PHP - code - MAIN.PHP - php PHP code
+# Mov F774 - mov - MOV - video - MAIN.MOV - mov MOV video
 # Push F774 - push - origin - main - live - push origin main
 # Rules4 - legend - final - done - F774 Rules

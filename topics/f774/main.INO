@@ -20,5 +20,10 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Exe F774 - exe - EXE - MZ - MAIN.EXE
 // Dat F774 - dat - DAT - data - MAIN.DAT
 // Dll F774 - dll - DLL - MZ - MAIN.DLL
+// Sh F774 - sh - SH - shell - MAIN.SH
+// Ximg F774 - ximg - XIMG - image - MAIN.XIMG
+// Bier F774 - bier - BIER - prost - MAIN.BIER
+// Php F774 - php - PHP - code - MAIN.PHP
+// Mov F774 - mov - MOV - video - MAIN.MOV
 // Push F774 - push - origin - main - live
 // Rules4 - legend - final - done
