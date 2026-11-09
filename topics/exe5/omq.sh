@@ -1,0 +1,3 @@
+#!/bin/sh
+# EXE5 R.33 GALAXY MAIN.SH OMQ
+echo 'EXE5 OMQ GALAXY R.33!'

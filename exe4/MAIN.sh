@@ -1,3 +1,3 @@
 #!/bin/sh
-# EXE4 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'EXE4 OMQ EXE!'
+# EXE4 R.33 GALAXY MAIN.SH OMQ
+echo 'EXE4 OMQ GALAXY R.33!'

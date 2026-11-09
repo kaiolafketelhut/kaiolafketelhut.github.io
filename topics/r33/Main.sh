@@ -1,0 +1,3 @@
+#!/bin/sh
+# R33 R.33 GALAXY MAIN.SH OMQ
+echo 'R33 OMQ GALAXY R.33!'

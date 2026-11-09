@@ -1,2 +1,3 @@
-SPDX MIT EXE4.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract EXE4 name OMQ EXE4
-// exe - mz - dos - sh - ml - ximg - bier - mov - fnt - dat - dll - f77 - php - main - sol - omq
+// EXE4 R.33 GALAXY MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("EXE4 GALAXY R.33!"); }
+void loop() {}

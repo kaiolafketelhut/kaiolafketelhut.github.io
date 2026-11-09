@@ -1,0 +1,2 @@
+<?php // R33 R.33 GALAXY MAIN.PHP - OMQ
+echo 'R33 OMQ GALAXY R.33 MILKYWAY!'; ?>

@@ -1,0 +1,5 @@
+@echo off
+REM R33 R.33 GALAXY MAIN.BAT - OMQ
+echo R33 OMQ GALAXY R.33!
+echo OMQ GALAXY MILKYWAY
+pause

@@ -1,2 +1,2 @@
-<?php // EXE4 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'EXE4 OMQ EXE!'; ?>
+<?php // EXE4 R.33 GALAXY MAIN.PHP - OMQ
+echo 'EXE4 OMQ GALAXY R.33 MILKYWAY!'; ?>
