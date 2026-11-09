@@ -1,0 +1,15 @@
+# FAT6 BUILD.PY OMQ BLAK FAT12 sol pattern omq - FAT6 - build.py
+# main MAIN name NAME x MIME - FAT6.sol + fat6.ino + FAT6.BIN
+print('FAT6 OMQ BUILD.PY - sol pattern omq')
+# FAT12 FAT6 - fat12 - 1 - disk - boot - fat12 disk boot
+# BLAK FAT6 - blak - FAT12 - sol - pattern - blak FAT12 sol
+# SOL FAT6 - sol - pattern - omq - contract - sol pattern omq
+# OMQ FAT6 - omq - OMQ - forever - win - omq OMQ forever
+# Win FAT6 - win - 1 - goal - celebrate - win goal celebrate
+# Ship FAT6 - ship - git - push - live - ship git push
+# Done FAT6 - done - 1 - shipped - checked - done shipped checked
+# Final FAT6 - final - last - 1 - done - final last done
+# Legend FAT6 - legend - OMQ - forever - win - legend OMQ forever
+# Git FAT6 - git - add - commit - push - git add commit push
+# Push FAT6 - push - origin - main - live - push origin main
+# Rules4 - fat - blak - sol - FAT6 Rules
