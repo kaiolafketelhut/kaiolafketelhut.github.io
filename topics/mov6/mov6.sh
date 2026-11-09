@@ -1,3 +1,3 @@
 #!/bin/sh
-# MOV6 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'MOV6 OMQ MOV!'
+# MOV6 R.31 INFINITY MAIN.SH OMQ
+echo 'MOV6 OMQ INFINITY R.31!'

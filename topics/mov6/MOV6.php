@@ -1,2 +1,2 @@
-<?php // MOV6 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'MOV6 OMQ MOV!'; ?>
+<?php // MOV6 R.31 INFINITY MAIN.PHP - OMQ
+echo 'MOV6 OMQ INFINITY R.31 ENDLESS!'; ?>

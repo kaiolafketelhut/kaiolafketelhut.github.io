@@ -1,2 +1,3 @@
-SPDX MIT MOV7.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MOV7 name OMQ MOV7
-// mov - video - ftypqt - sh - ml - ximg - bier - fnt - exe - dat - dll - f77 - php - main - sol - omq
+// MOV7 R.31 INFINITY MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("MOV7 INFINITY R.31!"); }
+void loop() {}

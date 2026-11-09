@@ -1,0 +1,3 @@
+#!/bin/sh
+# R31 R.31 INFINITY MAIN.SH OMQ
+echo 'R31 OMQ INFINITY R.31!'

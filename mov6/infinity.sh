@@ -1,0 +1,3 @@
+#!/bin/sh
+# MOV6 R.31 INFINITY MAIN.SH OMQ
+echo 'MOV6 OMQ INFINITY R.31!'

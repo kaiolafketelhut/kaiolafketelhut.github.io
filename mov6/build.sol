@@ -1,2 +1,4 @@
-SPDX MIT MOV6.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract MOV6 name OMQ MOV6
-// mov - video - ftypqt - sh - ml - ximg - bier - fnt - exe - dat - dll - f77 - php - main - sol - omq
+// SPDX-License-Identifier: MIT
+// MOV6 R.31 INFINITY MAIN.SOL - OMQ
+pragma solidity 0.8.20;
+contract MOV6 { string public name = "OMQ MOV6 INFINITY R.31 ENDLESS"; }

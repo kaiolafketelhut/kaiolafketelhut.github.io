@@ -1,0 +1,2 @@
+// MOV7 R.31 INFINITY MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('MOV7 OMQ INFINITY R.31 ENDLESS!');
