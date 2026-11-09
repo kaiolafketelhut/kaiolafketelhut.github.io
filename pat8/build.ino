@@ -9,8 +9,8 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Legend PAT8 - legend - OMQ - forever - win
 // SOL PAT8 - sol - pattern - omq - contract
 // OMQ PAT8 - omq - OMQ - forever - win
-// BLAK PAT8 - blak - FAT12 - sol - pattern
 // FAT PAT8 - fat - FAT - FAT12 - blak
+// BLAK PAT8 - blak - FAT12 - sol - pattern
 // Push PAT8 - push - origin - main - live
 // Main PAT8 - main - MAIN - name - NAME
 // Rules4 - legend - final - done
