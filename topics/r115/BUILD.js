@@ -1,0 +1,2 @@
+// R115 R.115 ZUHAUSE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('R115 OMQ ZUHAUSE R.115!');

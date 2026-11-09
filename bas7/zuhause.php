@@ -1,0 +1,2 @@
+<?php // BAS7 R.115 ZUHAUSE MAIN.PHP - OMQ MAIN.iQxD
+echo 'BAS7 OMQ ZUHAUSE R.115!'; ?>

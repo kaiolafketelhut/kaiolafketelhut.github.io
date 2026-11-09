@@ -1,2 +1,2 @@
-// ZUHAUSE R.95 ZUHAUSE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('ZUHAUSE OMQ ZUHAUSE R.95!');
+// ZUHAUSE R.115 ZUHAUSE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('ZUHAUSE OMQ ZUHAUSE R.115!');

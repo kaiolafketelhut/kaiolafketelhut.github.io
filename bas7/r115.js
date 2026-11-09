@@ -1,0 +1,2 @@
+// BAS7 R.115 ZUHAUSE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('BAS7 OMQ ZUHAUSE R.115!');

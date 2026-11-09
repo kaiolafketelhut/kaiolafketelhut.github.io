@@ -1,0 +1,2 @@
+<?php // R115 R.115 ZUHAUSE MAIN.PHP - OMQ MAIN.iQxD
+echo 'R115 OMQ ZUHAUSE R.115!'; ?>

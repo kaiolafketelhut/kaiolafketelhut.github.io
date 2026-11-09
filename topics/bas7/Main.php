@@ -1,2 +1,2 @@
-<?php // BAS7 R.88 NACHT MAIN.PHP - OMQ
-echo 'BAS7 OMQ NACHT R.88!'; ?>
+<?php // BAS7 R.115 ZUHAUSE MAIN.PHP - OMQ MAIN.iQxD
+echo 'BAS7 OMQ ZUHAUSE R.115!'; ?>
