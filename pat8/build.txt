@@ -1,6 +1,6 @@
 text/plain - PAT8 - build.txt - OMQ BLAK FAT12 sol pattern omq
 SPDX MIT PAT8.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract PAT8 name OMQ PAT8
-// Pattern PAT8 - pattern - PAT - repeat - code - pattern PAT repeat
+// Pattern PAT8 - pattern - 1 - repeat - code - pattern repeat code
 // Final PAT8 - final - last - 1 - done - final last done
 // Done PAT8 - done - 1 - shipped - checked - done shipped checked
 // Ship PAT8 - ship - git - push - live - ship git push
