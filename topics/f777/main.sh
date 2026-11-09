@@ -1,0 +1,3 @@
+#!/bin/sh
+# F777 R.43 ANSWER MAIN.SH OMQ
+echo 'F777 OMQ ANSWER R.43!'

@@ -1,0 +1,2 @@
+<?php // ANSWER R.43 ANSWER MAIN.PHP - OMQ
+echo 'ANSWER OMQ ANSWER R.43 42!'; ?>

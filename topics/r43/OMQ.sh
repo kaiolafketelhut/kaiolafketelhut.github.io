@@ -1,0 +1,3 @@
+#!/bin/sh
+# R43 R.43 ANSWER MAIN.SH OMQ
+echo 'R43 OMQ ANSWER R.43!'

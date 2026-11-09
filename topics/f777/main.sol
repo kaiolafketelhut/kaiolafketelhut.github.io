@@ -1,27 +1,4 @@
-SPDX MIT F777.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract F777 name OMQ F777
-// F77 F777 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
-// Fortran F777 - fortran - F77 - code - MAIN.F77 - fortran F77 code
-// Final F777 - final - last - 1 - done - final last done
-// Done F777 - done - 1 - shipped - checked - done shipped checked
-// Ship F777 - ship - git - push - live - ship git push
-// Win F777 - win - 1 - goal - celebrate - win goal celebrate
-// Legend F777 - legend - OMQ - forever - win - legend OMQ forever
-// SOL F777 - sol - pattern - omq - contract - sol pattern omq
-// Pattern F777 - pattern - 1 - repeat - code - pattern repeat code
-// OMQ F777 - omq - OMQ - forever - win - omq OMQ forever
-// BLAK F777 - blak - FAT12 - sol - pattern - blak FAT12 sol
-// FAT F777 - fat - FAT - FAT12 - blak - fat FAT FAT12
-// Main F777 - main - MAIN - name - NAME - main MAIN name
-// Name F777 - name - NAME - main - MAIN - name NAME main
-// Build F777 - build - BUILD - main - MAIN - build BUILD main
-// Fnt F777 - fnt - FNT - font - MAIN.FNT - fnt FNT font
-// Exe F777 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
-// Dat F777 - dat - DAT - data - MAIN.DAT - dat DAT data
-// Dll F777 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
-// Sh F777 - sh - SH - shell - MAIN.SH - sh SH shell
-// Ximg F777 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
-// Bier F777 - bier - BIER - prost - MAIN.BIER - bier BIER prost
-// Php F777 - php - PHP - code - MAIN.PHP - php PHP code
-// Mov F777 - mov - MOV - video - MAIN.MOV - mov MOV video
-// Push F777 - push - origin - main - live - push origin main
-// Rules4 - legend - final - done - F777 Rules
+// SPDX-License-Identifier: MIT
+// F777 R.43 ANSWER MAIN.SOL - OMQ
+pragma solidity 0.8.20;
+contract F777 { string public name = "OMQ F777 ANSWER R.43 42"; }

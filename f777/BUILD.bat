@@ -1,0 +1,5 @@
+@echo off
+REM F777 R.43 ANSWER MAIN.BAT - OMQ
+echo F777 OMQ ANSWER R.43!
+echo OMQ ANSWER 42 TRUTH
+pause
