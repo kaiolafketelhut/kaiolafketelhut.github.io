@@ -2,14 +2,14 @@
 # main MAIN name NAME x MIME - FINAL7.sol + final7.ino + FINAL7.BIN
 print('FINAL7 OMQ BUILD.PY - sol pattern omq')
 # Final FINAL7 - final - last - 1 - done - final last done
+# Done FINAL7 - done - 1 - shipped - checked - done shipped checked
+# Ship FINAL7 - ship - git - push - live - ship git push
+# Win FINAL7 - win - 1 - goal - celebrate - win goal celebrate
 # SOL FINAL7 - sol - pattern - omq - contract - sol pattern omq
 # Pattern FINAL7 - pattern - 1 - repeat - code - pattern repeat code
 # OMQ FINAL7 - omq - OMQ - forever - win - omq OMQ forever
-# Win FINAL7 - win - 1 - goal - celebrate - win goal celebrate
-# Ship FINAL7 - ship - git - push - live - ship git push
-# Done FINAL7 - done - 1 - shipped - checked - done shipped checked
 # Legend FINAL7 - legend - OMQ - forever - win - legend OMQ forever
 # Git FINAL7 - git - add - commit - push - git add commit push
 # Push FINAL7 - push - origin - main - live - push origin main
-# Rules4 - final - sol - pattern - FINAL7 Rules
+# Rules4 - final - done - ship - FINAL7 Rules
 # BLAK FINAL7 - blak - FAT12 - sol - pattern - blak FAT12 sol
