@@ -1,0 +1,16 @@
+// fat7.ino OMQ BLAK FAT12 FAT7 sol pattern omq String name OMQ FAT7
+void setup(){Serial.begin(9600);Serial.println(name);}
+void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
+// FAT FAT7 - fat - FAT - FAT12 - blak
+// Final FAT7 - final - last - 1 - done
+// Done FAT7 - done - 1 - shipped - checked
+// Ship FAT7 - ship - git - push - live
+// Win FAT7 - win - 1 - goal - celebrate
+// Legend FAT7 - legend - OMQ - forever - win
+// SOL FAT7 - sol - pattern - omq - contract
+// Pattern FAT7 - pattern - 1 - repeat - code
+// OMQ FAT7 - omq - OMQ - forever - win
+// BLAK FAT7 - blak - FAT12 - sol - pattern
+// Push FAT7 - push - origin - main - live
+// Main FAT7 - main - MAIN - name - NAME
+// Rules4 - legend - final - done
