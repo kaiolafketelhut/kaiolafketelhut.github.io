@@ -1,0 +1,2 @@
+# FNT8 R.65 SONNE MAIN.PY - OMQ
+print('FNT8 OMQ SONNE R.65!')

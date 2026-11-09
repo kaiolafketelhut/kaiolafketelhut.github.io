@@ -1,0 +1,2 @@
+<?php // FNT8 R.65 SONNE MAIN.PHP - OMQ FINAL
+echo 'FNT8 OMQ SONNE R.65!'; ?>

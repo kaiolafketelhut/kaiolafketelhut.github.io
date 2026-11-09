@@ -1,3 +1,3 @@
-// FNT8 R.11 TURING vs ZUSE MAIN.INO - OMQ FINAL
-void setup() { Serial.begin(9600); Serial.println("FNT8 TURING vs ZUSE R.11!"); }
+// FNT8 R.65 SONNE MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("FNT8 SONNE R.65!"); }
 void loop() {}

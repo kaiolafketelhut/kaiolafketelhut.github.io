@@ -1,0 +1,5 @@
+@echo off
+REM R65 R.65 SONNE MAIN.BAT - OMQ
+echo R65 OMQ SONNE R.65!
+echo OMQ SONNE SUN
+pause
