@@ -1,7 +1,7 @@
 // pattern8.ino OMQ BLAK FAT12 PATTERN8 sol pattern omq String name OMQ PATTERN8
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
-// Pattern PATTERN8 - pattern - PATTERN - sol - omq
+// PATTERN PATTERN8 - pattern - PATTERN - repeat - code
 // Final PATTERN8 - final - last - 1 - done
 // Done PATTERN8 - done - 1 - shipped - checked
 // Ship PATTERN8 - ship - git - push - live
@@ -9,7 +9,8 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Legend PATTERN8 - legend - OMQ - forever - win
 // SOL PATTERN8 - sol - pattern - omq - contract
 // OMQ PATTERN8 - omq - OMQ - forever - win
+// BLAK PATTERN8 - blak - FAT12 - sol - pattern
+// FAT PATTERN8 - fat - FAT - FAT12 - blak
 // Push PATTERN8 - push - origin - main - live
 // Main PATTERN8 - main - MAIN - name - NAME
 // Rules4 - legend - final - done
-// BLAK PATTERN8 - blak - FAT12 - sol - pattern
