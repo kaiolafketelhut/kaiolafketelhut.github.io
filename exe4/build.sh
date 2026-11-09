@@ -1,0 +1,21 @@
+#!/bin/sh
+# EXE4 MAIN.SH main.sh Main.Sh application/x-sh BLAK FAT12 sol pattern omq
+echo 'EXE4 OMQ'
+# EXE EXE4 - exe - EXE - MZ - MAIN.EXE
+# MZ EXE4 - MZ - exe - dos - MAIN.EXE
+# Final EXE4 - final - last - 1 - done
+# Done EXE4 - done - 1 - shipped - checked
+# Ship EXE4 - ship - git - push - live
+# Win EXE4 - win - 1 - goal - celebrate
+# Legend EXE4 - legend - OMQ - forever - win
+# SOL EXE4 - sol - pattern - omq - contract
+# Pattern EXE4 - pattern - 1 - repeat - code
+# OMQ EXE4 - omq - OMQ - forever - win
+# BLAK EXE4 - blak - FAT12 - sol - pattern
+# FAT EXE4 - fat - FAT - FAT12 - blak
+# Main EXE4 - main - MAIN - name - NAME
+# Name EXE4 - name - NAME - main - MAIN
+# Build EXE4 - build - BUILD - main - MAIN
+# Fnt EXE4 - fnt - FNT - font - MAIN.FNT
+# Push EXE4 - push - origin - main - live
+# Rules4 - legend - final - done
