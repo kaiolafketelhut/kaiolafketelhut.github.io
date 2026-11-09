@@ -1,0 +1,2 @@
+// R26 R.26 METAVERSE MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
+console.log('R26 OMQ METAVERSE R.26 FINAL!');
