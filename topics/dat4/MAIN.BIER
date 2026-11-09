@@ -1,7 +1,7 @@
 BIER OMQ DAT4 - MAIN.BIER main.bier Main.Bier - application/x-bier - BLAK FAT12 sol pattern omq
 BIER DAT4 OMQ PROST! Bier - Berlin - OMQ
 # DAT DAT4 - dat - DAT - data - MAIN.DAT - PROST!
-# Data DAT4 - data - DAT - bytes - MAIN.DAT - PROST!
+# Data DAT4 - data - DAT - MAIN.DAT - dat - PROST!
 # Final DAT4 - final - last - 1 - done - PROST!
 # Done DAT4 - done - 1 - shipped - checked - PROST!
 # Ship DAT4 - ship - git - push - live - PROST!
@@ -17,5 +17,12 @@ BIER DAT4 OMQ PROST! Bier - Berlin - OMQ
 # Build DAT4 - build - BUILD - main - MAIN - PROST!
 # Fnt DAT4 - fnt - FNT - font - MAIN.FNT - PROST!
 # Exe DAT4 - exe - EXE - MZ - MAIN.EXE - PROST!
+# Dll DAT4 - dll - DLL - MZ - MAIN.DLL - PROST!
+# F77 DAT4 - f77 - F77 - Fortran - MAIN.F77 - PROST!
+# Sh DAT4 - sh - SH - shell - MAIN.SH - PROST!
+# Ximg DAT4 - ximg - XIMG - image - MAIN.XIMG - PROST!
+# Bier DAT4 - bier - BIER - prost - MAIN.BIER - PROST!
+# Php DAT4 - php - PHP - code - MAIN.PHP - PROST!
+# Mov DAT4 - mov - MOV - video - MAIN.MOV - PROST!
 # Push DAT4 - push - origin - main - live - PROST!
 # Rules4 - legend - final - done - PROST!

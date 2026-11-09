@@ -2,7 +2,7 @@
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // DAT DAT4 - dat - DAT - data - MAIN.DAT
-// Data DAT4 - data - DAT - bytes - MAIN.DAT
+// Data DAT4 - data - DAT - MAIN.DAT - dat
 // Final DAT4 - final - last - 1 - done
 // Done DAT4 - done - 1 - shipped - checked
 // Ship DAT4 - ship - git - push - live
@@ -18,5 +18,12 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Build DAT4 - build - BUILD - main - MAIN
 // Fnt DAT4 - fnt - FNT - font - MAIN.FNT
 // Exe DAT4 - exe - EXE - MZ - MAIN.EXE
+// Dll DAT4 - dll - DLL - MZ - MAIN.DLL
+// F77 DAT4 - f77 - F77 - Fortran - MAIN.F77
+// Sh DAT4 - sh - SH - shell - MAIN.SH
+// Ximg DAT4 - ximg - XIMG - image - MAIN.XIMG
+// Bier DAT4 - bier - BIER - prost - MAIN.BIER
+// Php DAT4 - php - PHP - code - MAIN.PHP
+// Mov DAT4 - mov - MOV - video - MAIN.MOV
 // Push DAT4 - push - origin - main - live
 // Rules4 - legend - final - done
