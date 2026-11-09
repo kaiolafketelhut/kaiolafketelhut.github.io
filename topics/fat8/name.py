@@ -1,5 +1,5 @@
 # FAT8 BUILD.PY OMQ BLAK FAT12 sol pattern omq - FAT8 - build.py
-# main MAIN name NAME x MIME - FAT8.sol + fat8.ino + FAT8.BIN + MAIN.FNT main.fnt
+# main MAIN name NAME x MIME - FAT8.sol + fat8.ino + FAT8.BIN + MAIN.FNT main.fnt + MAIN.EXE main.exe + MAIN.DAT main.dat
 print('FAT8 OMQ BUILD.PY - sol pattern omq')
 # FAT FAT8 - fat - FAT - FAT12 - blak - fat FAT FAT12
 # Final FAT8 - final - last - 1 - done - final last done
