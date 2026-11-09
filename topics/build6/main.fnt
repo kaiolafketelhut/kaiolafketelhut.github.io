@@ -1,6 +1,6 @@
-FNT OMQ BUILD6 - MAIN.FNT main.fnt - application/x-font-fnt - BLAK FAT12 sol pattern omq
+FNT OMQ BUILD6 - MAIN.FNT main.fnt Main.Fnt - application/x-font-fnt - BLAK FAT12 sol pattern omq
 FONT BUILD6 OMQ 8x16
-# Build BUILD6 - build - BUILD - main - MAIN
+# BUILD BUILD6 - build - BUILD - main - MAIN
 # Final BUILD6 - final - last - 1 - done
 # Done BUILD6 - done - 1 - shipped - checked
 # Ship BUILD6 - ship - git - push - live
@@ -9,6 +9,9 @@ FONT BUILD6 OMQ 8x16
 # SOL BUILD6 - sol - pattern - omq - contract
 # Pattern BUILD6 - pattern - 1 - repeat - code
 # OMQ BUILD6 - omq - OMQ - forever - win
+# BLAK BUILD6 - blak - FAT12 - sol - pattern
+# FAT BUILD6 - fat - FAT - FAT12 - blak
+# Main BUILD6 - main - MAIN - name - NAME
+# Name BUILD6 - name - NAME - main - MAIN
 # Push BUILD6 - push - origin - main - live
 # Rules4 - legend - final - done
-# BLAK BUILD6 - blak - FAT12 - sol - pattern
