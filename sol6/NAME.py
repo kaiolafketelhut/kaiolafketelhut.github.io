@@ -1,9 +1,8 @@
 # SOL6 BUILD.PY OMQ BLAK FAT12 sol pattern omq - SOL6 - build.py
 # main MAIN name NAME x MIME - SOL6.sol + sol6.ino + SOL6.BIN
 print('SOL6 OMQ BUILD.PY - sol pattern omq')
-# SOL6 - sol - pattern - omq - contract - sol pattern omq
+# SOL SOL6 - sol - pattern - omq - contract - sol pattern omq
 # Pattern SOL6 - pattern - 1 - repeat - code - pattern repeat code
-# Contract SOL6 - contract - 1 - solidity - deploy - contract solidity deploy
 # OMQ SOL6 - omq - OMQ - forever - win - omq OMQ forever
 # Win SOL6 - win - 1 - goal - celebrate - win goal celebrate
 # Ship SOL6 - ship - git - push - live - ship git push
@@ -13,3 +12,4 @@ print('SOL6 OMQ BUILD.PY - sol pattern omq')
 # Git SOL6 - git - add - commit - push - git add commit push
 # Push SOL6 - push - origin - main - live - push origin main
 # Rules4 - sol - pattern - omq - SOL6 Rules
+# BLAK SOL6 - blak - FAT12 - sol - pattern - blak FAT12 sol
