@@ -1,0 +1,2 @@
+<?php // R87 R.87 SCHATTEN MAIN.PHP - OMQ
+echo 'R87 OMQ SCHATTEN R.87!'; ?>

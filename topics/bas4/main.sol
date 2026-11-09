@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// BAS4 MAIN.SOL - OMQ BLAK FAT12 sol pattern omq
+// BAS4 R.87 SCHATTEN MAIN.SOL - OMQ
 pragma solidity 0.8.20;
-contract BAS4 { string public name = "OMQ BAS4"; }
+contract BAS4 { string public name = "OMQ BAS4 SCHATTEN R.87"; }

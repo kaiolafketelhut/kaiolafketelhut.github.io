@@ -1,0 +1,2 @@
+<?php // BAS4 R.87 SCHATTEN MAIN.PHP - OMQ
+echo 'BAS4 OMQ SCHATTEN R.87!'; ?>

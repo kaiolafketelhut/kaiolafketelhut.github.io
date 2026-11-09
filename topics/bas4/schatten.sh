@@ -1,0 +1,3 @@
+#!/bin/sh
+# BAS4 R.87 SCHATTEN MAIN.SH OMQ
+echo 'BAS4 OMQ SCHATTEN R.87!'

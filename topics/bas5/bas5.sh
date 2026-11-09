@@ -1,3 +1,3 @@
 #!/bin/sh
-# BAS5 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'BAS5 OMQ BAS!'
+# BAS5 R.87 SCHATTEN MAIN.SH OMQ
+echo 'BAS5 OMQ SCHATTEN R.87!'

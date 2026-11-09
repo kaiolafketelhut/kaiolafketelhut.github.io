@@ -1,2 +1,2 @@
-# BAS4 MAIN.PY - OMQ BLAK FAT12 sol pattern omq
-print('BAS4 OMQ BAS!')
+# BAS4 R.87 SCHATTEN MAIN.PY - OMQ
+print('BAS4 OMQ SCHATTEN R.87!')

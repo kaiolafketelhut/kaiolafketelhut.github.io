@@ -1,2 +1,2 @@
-<?php // BAS5 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'BAS5 OMQ BAS!'; ?>
+<?php // BAS5 R.87 SCHATTEN MAIN.PHP - OMQ
+echo 'BAS5 OMQ SCHATTEN R.87!'; ?>

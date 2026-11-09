@@ -1,3 +1,3 @@
-// BAS4 MAIN.INO - OMQ BLAK FAT12 sol pattern omq
-void setup() { Serial.begin(9600); }
-void loop() {}
+// BAS4 R.87 SCHATTEN MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("BAS4 SCHATTEN R.87!"); }
+void loop() { delay(1000); Serial.println("OMQ SCHATTEN SHADOW"); }
