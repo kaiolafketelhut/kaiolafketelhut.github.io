@@ -1,0 +1,4 @@
+C BIER7 MAIN.F77
+      PROGRAM BIER7
+      PRINT *, 'BIER7 OMQ'
+      END
