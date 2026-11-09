@@ -1,0 +1,4 @@
+C FNT5 MAIN.F77
+      PROGRAM FNT5
+      PRINT *, 'FNT5 OMQ'
+      END
