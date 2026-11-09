@@ -8,8 +8,8 @@ XIMG SOL8 OMQ 800x200
 # Legend SOL8 - legend - OMQ - forever - win
 # Pattern SOL8 - pattern - 1 - repeat - code
 # OMQ SOL8 - omq - OMQ - forever - win
-# FAT SOL8 - fat - FAT - FAT12 - blak
 # BLAK SOL8 - blak - FAT12 - sol - pattern
+# FAT SOL8 - fat - FAT - FAT12 - blak
 # Push SOL8 - push - origin - main - live
 # Main SOL8 - main - MAIN - name - NAME
 # Rules4 - legend - final - done
