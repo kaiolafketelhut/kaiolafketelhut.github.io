@@ -1,0 +1,5 @@
+@echo off
+REM SH8 R.47 UNITY MAIN.BAT - OMQ
+echo SH8 OMQ UNITY R.47!
+echo OMQ UNITY ONE TOGETHER
+pause
