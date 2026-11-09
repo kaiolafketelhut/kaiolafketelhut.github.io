@@ -3,7 +3,9 @@ C XIMG6 MAIN.F77 main.f77 Main.F77 text/x-fortran BLAK FAT12 sol pattern omq
       PRINT *, 'XIMG6 OMQ'
       END
 C XIMG XIMG6 - ximg - XIMG - image - MAIN.XIMG
-C Image XIMG6 - image - XIMG - pic - MAIN.XIMG
+C Image XIMG6 - image - XIMG - MAIN.XIMG - ximg
+C SH XIMG6 - sh - SH - shell - MAIN.SH
+C ML XIMG6 - ml - ML - machine learning - MAIN.ML
 C Final XIMG6 - final - last - 1 - done
 C Done XIMG6 - done - 1 - shipped - checked
 C Ship XIMG6 - ship - git - push - live
@@ -22,7 +24,6 @@ C Exe XIMG6 - exe - EXE - MZ - MAIN.EXE
 C Dat XIMG6 - dat - DAT - data - MAIN.DAT
 C Dll XIMG6 - dll - DLL - MZ - MAIN.DLL
 C F77 XIMG6 - f77 - F77 - Fortran - MAIN.F77
-C Sh XIMG6 - sh - SH - shell - MAIN.SH
 C Bier XIMG6 - bier - BIER - prost - MAIN.BIER
 C Php XIMG6 - php - PHP - code - MAIN.PHP
 C Mov XIMG6 - mov - MOV - video - MAIN.MOV

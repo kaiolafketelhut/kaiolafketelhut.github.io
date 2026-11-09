@@ -2,7 +2,9 @@
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // XIMG XIMG6 - ximg - XIMG - image - MAIN.XIMG
-// Image XIMG6 - image - XIMG - pic - MAIN.XIMG
+// Image XIMG6 - image - XIMG - MAIN.XIMG - ximg
+// SH XIMG6 - sh - SH - shell - MAIN.SH
+// ML XIMG6 - ml - ML - machine learning - MAIN.ML
 // Final XIMG6 - final - last - 1 - done
 // Done XIMG6 - done - 1 - shipped - checked
 // Ship XIMG6 - ship - git - push - live
@@ -21,7 +23,6 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Dat XIMG6 - dat - DAT - data - MAIN.DAT
 // Dll XIMG6 - dll - DLL - MZ - MAIN.DLL
 // F77 XIMG6 - f77 - F77 - Fortran - MAIN.F77
-// Sh XIMG6 - sh - SH - shell - MAIN.SH
 // Bier XIMG6 - bier - BIER - prost - MAIN.BIER
 // Php XIMG6 - php - PHP - code - MAIN.PHP
 // Mov XIMG6 - mov - MOV - video - MAIN.MOV

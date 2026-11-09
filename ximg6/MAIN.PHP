@@ -4,7 +4,9 @@ echo 'XIMG6 OMQ';
 // main MAIN Main name NAME
 ?>
 // XIMG XIMG6 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
-// Image XIMG6 - image - XIMG - pic - MAIN.XIMG - image XIMG pic
+// Image XIMG6 - image - XIMG - MAIN.XIMG - ximg - image XIMG ximg
+// SH XIMG6 - sh - SH - shell - MAIN.SH - sh SH shell
+// ML XIMG6 - ml - ML - machine learning - MAIN.ML - ml ML learning
 // Final XIMG6 - final - last - 1 - done - final last done
 // Done XIMG6 - done - 1 - shipped - checked - done shipped checked
 // Ship XIMG6 - ship - git - push - live - ship git push
@@ -23,7 +25,6 @@ echo 'XIMG6 OMQ';
 // Dat XIMG6 - dat - DAT - data - MAIN.DAT - dat DAT data
 // Dll XIMG6 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
 // F77 XIMG6 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
-// Sh XIMG6 - sh - SH - shell - MAIN.SH - sh SH shell
 // Bier XIMG6 - bier - BIER - prost - MAIN.BIER - bier BIER prost
 // Php XIMG6 - php - PHP - code - MAIN.PHP - php PHP code
 // Mov XIMG6 - mov - MOV - video - MAIN.MOV - mov MOV video
