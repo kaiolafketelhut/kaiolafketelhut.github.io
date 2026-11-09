@@ -1,7 +1,7 @@
 # SOL4 BUILD.PY OMQ BLAK FAT12 sol pattern omq - SOL4 - build.py
-# main MAIN name NAME x MIME - SOL4.sol + sol4.ino + SOL4.BIN + MAIN.FNT main.fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll
+# main MAIN name NAME x MIME - SOL4.sol + sol4.ino + SOL4.BIN + MAIN.FNT main.fnt + MAIN.EXE main.exe + MAIN.DAT main.dat + MAIN.DLL main.dll + MAIN.F77 main.f77 + MAIN.SH main.sh
 print('SOL4 OMQ BUILD.PY - sol pattern omq')
-# SOL SOL4 - sol - SOL - pattern - omq - sol SOL pattern
+# SOL SOL4 - sol - pattern - omq - contract - sol pattern omq
 # Final SOL4 - final - last - 1 - done - final last done
 # Done SOL4 - done - 1 - shipped - checked - done shipped checked
 # Ship SOL4 - ship - git - push - live - ship git push
