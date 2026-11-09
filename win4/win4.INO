@@ -2,14 +2,14 @@
 void setup(){Serial.begin(9600);Serial.println(name);}
 void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Win WIN4 - win - 1 - goal - celebrate
+// Legend WIN4 - legend - OMQ - forever - win
+// Final WIN4 - final - last - 1 - done
+// Done WIN4 - done - 1 - shipped - checked
+// Ship WIN4 - ship - git - push - live
 // SOL WIN4 - sol - pattern - omq - contract
 // Pattern WIN4 - pattern - 1 - repeat - code
 // OMQ WIN4 - omq - OMQ - forever - win
-// Ship WIN4 - ship - git - push - live
-// Done WIN4 - done - 1 - shipped - checked
-// Final WIN4 - final - last - 1 - done
-// Legend WIN4 - legend - OMQ - forever - win
 // Git WIN4 - git - add - commit - push
 // Push WIN4 - push - origin - main - live
-// Rules4 - win - sol - pattern
+// Rules4 - win - legend - final
 // BLAK WIN4 - blak - FAT12 - sol - pattern
