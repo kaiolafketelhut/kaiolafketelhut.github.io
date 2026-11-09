@@ -7,10 +7,10 @@ void loop(){digitalWrite(13,HIGH);delay(500);digitalWrite(13,LOW);delay(500);}
 // Ship OMQ6 - ship - git - push - live
 // Win OMQ6 - win - 1 - goal - celebrate
 // Legend OMQ6 - legend - OMQ - forever - win
-// Pattern OMQ6 - pattern - 1 - repeat - code
 // SOL OMQ6 - sol - pattern - omq - contract
-// BLAK OMQ6 - blak - FAT12 - sol - pattern
+// Pattern OMQ6 - pattern - 1 - repeat - code
 // FAT OMQ6 - fat - FAT - FAT12 - blak
+// BLAK OMQ6 - blak - FAT12 - sol - pattern
 // Push OMQ6 - push - origin - main - live
 // Main OMQ6 - main - MAIN - name - NAME
 // Rules4 - legend - final - done
