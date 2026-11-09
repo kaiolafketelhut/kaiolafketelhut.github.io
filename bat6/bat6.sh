@@ -1,3 +1,3 @@
 #!/bin/sh
-# BAT6 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'BAT6 OMQ BAT!'
+# BAT6 R.91 HERZ MAIN.SH OMQ
+echo 'BAT6 OMQ HERZ R.91!'

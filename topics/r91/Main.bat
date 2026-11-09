@@ -1,0 +1,5 @@
+@echo off
+REM R91 R.91 HERZ MAIN.BAT - OMQ
+echo R91 OMQ HERZ R.91!
+echo OMQ HERZ HEART
+pause

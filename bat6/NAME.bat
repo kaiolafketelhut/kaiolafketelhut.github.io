@@ -1,5 +1,5 @@
 @echo off
-REM BAT6 MAIN.BAT - OMQ BLAK FAT12 sol pattern omq
-echo BAT6 OMQ BAT!
-echo OMQ BATCH BAT6
+REM BAT6 R.91 HERZ MAIN.BAT - OMQ
+echo BAT6 OMQ HERZ R.91!
+echo OMQ HERZ HEART
 pause

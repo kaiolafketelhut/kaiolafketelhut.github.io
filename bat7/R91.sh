@@ -1,0 +1,3 @@
+#!/bin/sh
+# BAT7 R.91 HERZ MAIN.SH OMQ
+echo 'BAT7 OMQ HERZ R.91!'

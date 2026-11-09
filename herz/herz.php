@@ -1,2 +1,2 @@
-<?php // HERZ R.71 HERZ MAIN.PHP - OMQ FINAL
-echo 'HERZ OMQ HERZ R.71!'; ?>
+<?php // HERZ R.91 HERZ MAIN.PHP - OMQ
+echo 'HERZ OMQ HERZ R.91!'; ?>

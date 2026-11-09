@@ -1,2 +1,2 @@
-ML OMQ BAT6 - MAIN.ML Main.Ml
-MODEL BAT6 OMQ ML pattern omq
+ML OMQ BAT6 - MAIN.ML Main.Ml - Machine Learning
+MODEL BAT6 OMQ HERZ R.91
