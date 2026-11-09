@@ -1,0 +1,5 @@
+@echo off
+REM DAT4 R.36 BERLIN MAIN.BAT - OMQ
+echo DAT4 OMQ BERLIN R.36!
+echo OMQ BERLIN CAPITAL
+pause

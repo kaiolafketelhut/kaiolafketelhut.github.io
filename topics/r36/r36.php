@@ -1,0 +1,2 @@
+<?php // R36 R.36 BERLIN MAIN.PHP - OMQ
+echo 'R36 OMQ BERLIN R.36 CAPITAL!'; ?>

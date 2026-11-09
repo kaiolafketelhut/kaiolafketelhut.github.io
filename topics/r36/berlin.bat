@@ -1,0 +1,5 @@
+@echo off
+REM R36 R.36 BERLIN MAIN.BAT - OMQ
+echo R36 OMQ BERLIN R.36!
+echo OMQ BERLIN CAPITAL
+pause

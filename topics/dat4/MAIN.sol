@@ -1,2 +1,4 @@
-SPDX MIT DAT4.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract DAT4 name OMQ DAT4
-// dat - data - bin - sh - ml - ximg - bier - mov - exe - fnt - dll - f77 - php - main - sol - omq
+// SPDX-License-Identifier: MIT
+// DAT4 R.36 BERLIN MAIN.SOL - OMQ
+pragma solidity 0.8.20;
+contract DAT4 { string public name = "OMQ DAT4 BERLIN R.36 CAPITAL"; }

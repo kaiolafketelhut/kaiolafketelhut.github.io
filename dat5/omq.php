@@ -1,0 +1,2 @@
+<?php // DAT5 R.36 BERLIN MAIN.PHP - OMQ
+echo 'DAT5 OMQ BERLIN R.36 CAPITAL!'; ?>

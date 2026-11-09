@@ -1,3 +1,3 @@
 #!/bin/sh
-# DAT4 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'DAT4 OMQ DAT!'
+# DAT4 R.36 BERLIN MAIN.SH OMQ
+echo 'DAT4 OMQ BERLIN R.36!'

@@ -1,2 +1,2 @@
-<?php // DAT4 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'DAT4 OMQ DAT!'; ?>
+<?php // DAT4 R.36 BERLIN MAIN.PHP - OMQ
+echo 'DAT4 OMQ BERLIN R.36 CAPITAL!'; ?>

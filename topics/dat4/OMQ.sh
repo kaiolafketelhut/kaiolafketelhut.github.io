@@ -1,0 +1,3 @@
+#!/bin/sh
+# DAT4 R.36 BERLIN MAIN.SH OMQ
+echo 'DAT4 OMQ BERLIN R.36!'

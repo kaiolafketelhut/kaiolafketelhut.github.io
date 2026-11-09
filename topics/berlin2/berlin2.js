@@ -1,0 +1,2 @@
+// BERLIN2 R.36 BERLIN MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('BERLIN2 OMQ BERLIN R.36 CAPITAL!');
