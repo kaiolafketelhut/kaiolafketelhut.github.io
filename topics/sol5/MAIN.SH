@@ -1,5 +1,5 @@
 #!/bin/sh
-# SOL5 MAIN.SH main.sh application/x-sh BLAK FAT12 sol pattern omq
+# SOL5 MAIN.SH main.sh Main.Sh application/x-sh BLAK FAT12 sol pattern omq
 echo 'SOL5 OMQ'
 # SOL SOL5 - sol - pattern - omq - contract
 # Final SOL5 - final - last - 1 - done

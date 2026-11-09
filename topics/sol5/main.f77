@@ -1,4 +1,4 @@
-C SOL5 MAIN.F77 main.f77 text/x-fortran BLAK FAT12 sol pattern omq
+C SOL5 MAIN.F77 main.f77 Main.F77 text/x-fortran BLAK FAT12 sol pattern omq
       PROGRAM SOL5
       PRINT *, 'SOL5 OMQ'
       END
