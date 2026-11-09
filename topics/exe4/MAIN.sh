@@ -2,7 +2,7 @@
 # EXE4 MAIN.SH main.sh Main.Sh application/x-sh BLAK FAT12 sol pattern omq
 echo 'EXE4 OMQ'
 # EXE EXE4 - exe - EXE - MZ - MAIN.EXE
-# MZ EXE4 - MZ - exe - dos - MAIN.EXE
+# MZ EXE4 - mz - MZ - exe - MAIN.EXE
 # Final EXE4 - final - last - 1 - done
 # Done EXE4 - done - 1 - shipped - checked
 # Ship EXE4 - ship - git - push - live
@@ -17,5 +17,13 @@ echo 'EXE4 OMQ'
 # Name EXE4 - name - NAME - main - MAIN
 # Build EXE4 - build - BUILD - main - MAIN
 # Fnt EXE4 - fnt - FNT - font - MAIN.FNT
+# Dat EXE4 - dat - DAT - data - MAIN.DAT
+# Dll EXE4 - dll - DLL - MZ - MAIN.DLL
+# F77 EXE4 - f77 - F77 - Fortran - MAIN.F77
+# Sh EXE4 - sh - SH - shell - MAIN.SH
+# Ximg EXE4 - ximg - XIMG - image - MAIN.XIMG
+# Bier EXE4 - bier - BIER - prost - MAIN.BIER
+# Php EXE4 - php - PHP - code - MAIN.PHP
+# Mov EXE4 - mov - MOV - video - MAIN.MOV
 # Push EXE4 - push - origin - main - live
 # Rules4 - legend - final - done
