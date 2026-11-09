@@ -1,0 +1,2 @@
+// BERLIN R.77 BERLIN MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
+console.log('BERLIN OMQ BERLIN R.77!');

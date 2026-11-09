@@ -1,2 +1,2 @@
-<?php // PY8 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'PY8 OMQ PY! FINAL!'; ?>
+<?php // PY8 R.77 BERLIN MAIN.PHP - OMQ FINAL
+echo 'PY8 OMQ BERLIN R.77!'; ?>

@@ -1,0 +1,3 @@
+#!/bin/sh
+# R77 R.77 BERLIN MAIN.SH OMQ FINAL
+echo 'R77 OMQ BERLIN R.77!'

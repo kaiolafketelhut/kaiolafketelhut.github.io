@@ -1,0 +1,5 @@
+@echo off
+REM PY8 R.77 BERLIN MAIN.BAT - OMQ
+echo PY8 OMQ BERLIN R.77!
+echo OMQ BERLIN BERLIN
+pause

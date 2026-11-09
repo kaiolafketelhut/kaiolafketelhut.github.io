@@ -1,0 +1,2 @@
+<?php // PY8 R.77 BERLIN MAIN.PHP - OMQ FINAL
+echo 'PY8 OMQ BERLIN R.77!'; ?>

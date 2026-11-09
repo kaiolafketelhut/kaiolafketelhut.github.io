@@ -1,0 +1,3 @@
+#!/bin/sh
+# PY8 R.77 BERLIN MAIN.SH OMQ FINAL
+echo 'PY8 OMQ BERLIN R.77!'

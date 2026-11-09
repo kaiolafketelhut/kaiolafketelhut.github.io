@@ -1,3 +1,3 @@
 #!/bin/sh
-# PY8 MAIN.SH OMQ BLAK FAT12 sol pattern omq
-echo 'PY8 OMQ PY! FINAL!'
+# PY8 R.77 BERLIN MAIN.SH OMQ FINAL
+echo 'PY8 OMQ BERLIN R.77!'
