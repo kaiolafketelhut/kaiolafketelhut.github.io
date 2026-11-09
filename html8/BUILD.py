@@ -1,0 +1,2 @@
+# HTML8 MAIN.PY - OMQ BLAK FAT12 sol pattern omq FINAL
+print('HTML8 OMQ HTML! FINAL!')
