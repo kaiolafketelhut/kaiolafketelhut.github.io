@@ -1,0 +1,4 @@
+C JS5 MAIN.F77
+      PROGRAM JS5
+      PRINT *, 'JS5 OMQ'
+      END

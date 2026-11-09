@@ -1,0 +1,4 @@
+C JS4 MAIN.F77
+      PROGRAM JS4
+      PRINT *, 'JS4 OMQ'
+      END
