@@ -1,6 +1,6 @@
 SPDX MIT DAT7.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract DAT7 name OMQ DAT7
 // DAT DAT7 - dat - DAT - data - MAIN.DAT - dat DAT data
-// Data DAT7 - data - DAT - bytes - MAIN.DAT - data DAT bytes
+// Data DAT7 - data - DAT - MAIN.DAT - dat - data DAT dat
 // Final DAT7 - final - last - 1 - done - final last done
 // Done DAT7 - done - 1 - shipped - checked - done shipped checked
 // Ship DAT7 - ship - git - push - live - ship git push
@@ -16,5 +16,12 @@ SPDX MIT DAT7.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract
 // Build DAT7 - build - BUILD - main - MAIN - build BUILD main
 // Fnt DAT7 - fnt - FNT - font - MAIN.FNT - fnt FNT font
 // Exe DAT7 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
+// Dll DAT7 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
+// F77 DAT7 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
+// Sh DAT7 - sh - SH - shell - MAIN.SH - sh SH shell
+// Ximg DAT7 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
+// Bier DAT7 - bier - BIER - prost - MAIN.BIER - bier BIER prost
+// Php DAT7 - php - PHP - code - MAIN.PHP - php PHP code
+// Mov DAT7 - mov - MOV - video - MAIN.MOV - mov MOV video
 // Push DAT7 - push - origin - main - live - push origin main
 // Rules4 - legend - final - done - DAT7 Rules

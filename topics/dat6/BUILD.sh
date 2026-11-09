@@ -2,7 +2,7 @@
 # DAT6 MAIN.SH main.sh Main.Sh application/x-sh BLAK FAT12 sol pattern omq
 echo 'DAT6 OMQ'
 # DAT DAT6 - dat - DAT - data - MAIN.DAT
-# Data DAT6 - data - DAT - bytes - MAIN.DAT
+# Data DAT6 - data - DAT - MAIN.DAT - dat
 # Final DAT6 - final - last - 1 - done
 # Done DAT6 - done - 1 - shipped - checked
 # Ship DAT6 - ship - git - push - live
@@ -18,5 +18,12 @@ echo 'DAT6 OMQ'
 # Build DAT6 - build - BUILD - main - MAIN
 # Fnt DAT6 - fnt - FNT - font - MAIN.FNT
 # Exe DAT6 - exe - EXE - MZ - MAIN.EXE
+# Dll DAT6 - dll - DLL - MZ - MAIN.DLL
+# F77 DAT6 - f77 - F77 - Fortran - MAIN.F77
+# Sh DAT6 - sh - SH - shell - MAIN.SH
+# Ximg DAT6 - ximg - XIMG - image - MAIN.XIMG
+# Bier DAT6 - bier - BIER - prost - MAIN.BIER
+# Php DAT6 - php - PHP - code - MAIN.PHP
+# Mov DAT6 - mov - MOV - video - MAIN.MOV
 # Push DAT6 - push - origin - main - live
 # Rules4 - legend - final - done
