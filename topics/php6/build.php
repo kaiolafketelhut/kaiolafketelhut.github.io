@@ -1,4 +1,4 @@
-<?php // PHP6 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-// MAIN.PHP Main.Php main.php PHP6 OMQ
-echo 'PHP6 OMQ PHP!';
-// echo 'PHP6 OMQ'; ?>
+<?php // PHP6 R.13 BABBAGE MAIN.PHP - OMQ 1837
+echo 'PHP6 OMQ BABBAGE R.13 1837!';
+// Babbage 1837 Analytical Engine - Ada Lovelace
+?>

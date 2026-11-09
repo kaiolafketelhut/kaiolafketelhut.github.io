@@ -1,0 +1,3 @@
+#!/bin/sh
+# PHP7 R.13 BABBAGE MAIN.SH OMQ 1837
+echo 'PHP7 OMQ BABBAGE R.13!'

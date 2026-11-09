@@ -1,0 +1,3 @@
+#!/bin/sh
+# R13 R.13 BABBAGE MAIN.SH OMQ 1837
+echo 'R13 OMQ BABBAGE R.13!'
