@@ -1,0 +1,3 @@
+#!/bin/sh
+# R67 R.67 SCHATTEN MAIN.SH OMQ
+echo 'R67 OMQ SCHATTEN R.67!'

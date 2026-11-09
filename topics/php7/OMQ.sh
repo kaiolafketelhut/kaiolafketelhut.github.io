@@ -1,0 +1,3 @@
+#!/bin/sh
+# PHP7 R.67 SCHATTEN MAIN.SH OMQ
+echo 'PHP7 OMQ SCHATTEN R.67!'

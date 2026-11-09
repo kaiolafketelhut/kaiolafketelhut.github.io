@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// PHP7 R.13 BABBAGE MAIN.SOL - OMQ 1837
+// PHP7 R.67 SCHATTEN MAIN.SOL - OMQ
 pragma solidity 0.8.20;
-contract PHP7 { string public name = "OMQ PHP7 BABBAGE R.13 1837"; }
+contract PHP7 { string public name = "OMQ PHP7 SCHATTEN R.67"; }

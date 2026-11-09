@@ -1,2 +1,2 @@
-// PHP6 R.13 BABBAGE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('PHP6 OMQ BABBAGE R.13 1837!');
+// PHP6 R.67 SCHATTEN MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('PHP6 OMQ SCHATTEN R.67!');
