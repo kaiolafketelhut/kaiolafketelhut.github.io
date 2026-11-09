@@ -1,0 +1,2 @@
+<?php // F777 R.109 TRAUM MAIN.PHP - OMQ MAIN.iQxD
+echo 'F777 OMQ TRAUM R.109!'; ?>

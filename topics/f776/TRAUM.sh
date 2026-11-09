@@ -1,0 +1,3 @@
+#!/bin/sh
+# F776 R.109 TRAUM MAIN.SH OMQ MAIN.iQxD
+echo 'F776 OMQ TRAUM R.109!'
