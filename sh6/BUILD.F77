@@ -3,7 +3,8 @@ C SH6 MAIN.F77 main.f77 Main.F77 text/x-fortran BLAK FAT12 sol pattern omq
       PRINT *, 'SH6 OMQ'
       END
 C SH SH6 - sh - SH - shell - MAIN.SH
-C Shell SH6 - shell - SH - bash - MAIN.SH
+C Shell SH6 - shell - SH - MAIN.SH - sh
+C ML SH6 - ml - ML - machine learning - MAIN.ML
 C Final SH6 - final - last - 1 - done
 C Done SH6 - done - 1 - shipped - checked
 C Ship SH6 - ship - git - push - live

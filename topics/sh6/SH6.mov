@@ -2,7 +2,8 @@ ftypqt OMQ SH6 SH6.mov
 MOV OMQ SH6 - MAIN.MOV main.mov Main.Mov - video/quicktime - BLAK FAT12 sol pattern omq
 MOV SH6 OMQ 800x200 30fps - ftypqt - mdat OMQ BLAK FAT12
 # SH SH6 - sh - SH - shell - MAIN.SH - MOV!
-# Shell SH6 - shell - SH - bash - MAIN.SH - MOV!
+# Shell SH6 - shell - SH - MAIN.SH - sh - MOV!
+# ML SH6 - ml - ML - machine learning - MAIN.ML - MOV!
 # Final SH6 - final - last - 1 - done - MOV!
 # Done SH6 - done - 1 - shipped - checked - MOV!
 # Ship SH6 - ship - git - push - live - MOV!

@@ -4,7 +4,8 @@ echo 'SH6 OMQ';
 // main MAIN Main name NAME
 ?>
 // SH SH6 - sh - SH - shell - MAIN.SH - sh SH shell
-// Shell SH6 - shell - SH - bash - MAIN.SH - shell SH bash
+// Shell SH6 - shell - SH - MAIN.SH - sh - shell SH sh
+// ML SH6 - ml - ML - machine learning - MAIN.ML - ml ML learning
 // Final SH6 - final - last - 1 - done - final last done
 // Done SH6 - done - 1 - shipped - checked - done shipped checked
 // Ship SH6 - ship - git - push - live - ship git push
