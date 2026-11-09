@@ -7,8 +7,8 @@ SPDX MIT PAT4.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract
 // Legend PAT4 - legend - OMQ - forever - win - legend OMQ forever
 // SOL PAT4 - sol - pattern - omq - contract - sol pattern omq
 // OMQ PAT4 - omq - OMQ - forever - win - omq OMQ forever
-// BLAK PAT4 - blak - FAT12 - sol - pattern - blak FAT12 sol
 // FAT PAT4 - fat - FAT - FAT12 - blak - fat FAT FAT12
+// BLAK PAT4 - blak - FAT12 - sol - pattern - blak FAT12 sol
 // Push PAT4 - push - origin - main - live - push origin main
 // Main PAT4 - main - MAIN - name - NAME - main MAIN name
 // Rules4 - legend - final - done - PAT4 Rules
