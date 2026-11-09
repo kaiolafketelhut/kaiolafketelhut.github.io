@@ -1,2 +1,2 @@
-<?php // HTML4 MAIN.PHP - OMQ BLAK FAT12 sol pattern omq
-echo 'HTML4 OMQ HTML!'; ?>
+<?php // HTML4 R.81 UNIVERSUM MAIN.PHP - OMQ
+echo 'HTML4 OMQ UNIVERSUM R.81!'; ?>

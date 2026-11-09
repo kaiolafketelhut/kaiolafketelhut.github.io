@@ -1,0 +1,2 @@
+<?php // R81 R.81 UNIVERSUM MAIN.PHP - OMQ
+echo 'R81 OMQ UNIVERSUM R.81!'; ?>

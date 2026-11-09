@@ -1,3 +1,3 @@
-// HTML4 MAIN.INO - OMQ BLAK FAT12 sol pattern omq
-void setup() { Serial.begin(9600); }
-void loop() {}
+// HTML4 R.81 UNIVERSUM MAIN.INO - OMQ
+void setup() { Serial.begin(9600); Serial.println("HTML4 UNIVERSUM R.81!"); }
+void loop() { delay(1000); Serial.println("OMQ UNIVERSUM UNIVERSE"); }

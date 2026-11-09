@@ -1,0 +1,2 @@
+// HTML4 R.81 UNIVERSUM MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('HTML4 OMQ UNIVERSUM R.81!');
