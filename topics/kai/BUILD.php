@@ -1,2 +1,2 @@
-<?php // KAI R.37 KAI MAIN.PHP - OMQ
-echo 'KAI OMQ KAI R.37 CREATOR!'; ?>
+<?php // KAI R.54 KAI MAIN.PHP - OMQ
+echo 'KAI OMQ KAI R.54!'; ?>

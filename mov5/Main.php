@@ -1,2 +1,2 @@
-<?php // MOV5 R.30 ETERNAL MAIN.PHP - OMQ
-echo 'MOV5 OMQ ETERNAL R.30 FOREVER!'; ?>
+<?php // MOV5 R.54 KAI MAIN.PHP - OMQ
+echo 'MOV5 OMQ KAI R.54!'; ?>

@@ -1,0 +1,4 @@
+C KAI R.54 KAI MAIN.F77
+      PROGRAM KAI
+      PRINT *, 'KAI OMQ KAI R.54'
+      END

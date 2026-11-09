@@ -1,0 +1,5 @@
+@echo off
+REM MOV5 R.54 KAI MAIN.BAT - OMQ
+echo MOV5 OMQ KAI R.54!
+echo OMQ KAI OLAF KETELHUT
+pause

@@ -1,2 +1,2 @@
-// MOV4 R.30 ETERNAL MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('MOV4 OMQ ETERNAL R.30 FOREVER!');
+// MOV4 R.54 KAI MAIN.JS - OMQ BLAK FAT12 sol pattern omq
+console.log('MOV4 OMQ KAI R.54!');

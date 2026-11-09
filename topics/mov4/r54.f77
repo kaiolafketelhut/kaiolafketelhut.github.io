@@ -1,0 +1,4 @@
+C MOV4 R.54 KAI MAIN.F77
+      PROGRAM MOV4
+      PRINT *, 'MOV4 OMQ KAI R.54'
+      END

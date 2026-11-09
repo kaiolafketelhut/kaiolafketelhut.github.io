@@ -1,0 +1,2 @@
+# MOV4 R.54 KAI MAIN.PY - OMQ
+print('MOV4 OMQ KAI R.54!')

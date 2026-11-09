@@ -1,0 +1,2 @@
+# KAI R.54 KAI MAIN.PY - OMQ
+print('KAI OMQ KAI R.54!')
