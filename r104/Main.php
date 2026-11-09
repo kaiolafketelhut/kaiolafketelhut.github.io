@@ -1,0 +1,2 @@
+<?php // R104 R.104 MOND MAIN.PHP - OMQ MAIN.iQxD FINAL
+echo 'R104 OMQ MOND R.104!'; ?>

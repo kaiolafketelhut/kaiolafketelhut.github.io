@@ -1,0 +1,5 @@
+@echo off
+REM MOND R.104 MOND MAIN.BAT - OMQ MAIN.iQxD
+echo MOND OMQ MOND R.104!
+echo OMQ MOND MOON MAIN.iQxD 104!
+pause

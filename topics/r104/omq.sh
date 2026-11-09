@@ -1,0 +1,3 @@
+#!/bin/sh
+# R104 R.104 MOND MAIN.SH OMQ MAIN.iQxD FINAL
+echo 'R104 OMQ MOND R.104!'

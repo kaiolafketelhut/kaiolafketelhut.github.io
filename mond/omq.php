@@ -1,2 +1,2 @@
-<?php // MOND R.84 MOND MAIN.PHP - OMQ
-echo 'MOND OMQ MOND R.84!'; ?>
+<?php // MOND R.104 MOND MAIN.PHP - OMQ MAIN.iQxD FINAL
+echo 'MOND OMQ MOND R.104!'; ?>

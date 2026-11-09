@@ -1,0 +1,3 @@
+#!/bin/sh
+# DAT8 R.104 MOND MAIN.SH OMQ MAIN.iQxD FINAL
+echo 'DAT8 OMQ MOND R.104!'

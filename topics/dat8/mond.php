@@ -1,0 +1,2 @@
+<?php // DAT8 R.104 MOND MAIN.PHP - OMQ MAIN.iQxD FINAL
+echo 'DAT8 OMQ MOND R.104!'; ?>
