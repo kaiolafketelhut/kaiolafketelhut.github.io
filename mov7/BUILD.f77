@@ -1,0 +1,4 @@
+C MOV7 MAIN.F77
+      PROGRAM MOV7
+      PRINT *, 'MOV7 OMQ'
+      END
