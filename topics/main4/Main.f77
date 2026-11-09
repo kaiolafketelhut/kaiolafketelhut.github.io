@@ -1,0 +1,17 @@
+C MAIN4 MAIN.F77 main.f77 Main.F77 text/x-fortran BLAK FAT12 sol pattern omq
+      PROGRAM MAIN4
+      PRINT *, 'MAIN4 OMQ'
+      END
+C MAIN MAIN4 - main - MAIN - name - NAME
+C Final MAIN4 - final - last - 1 - done
+C Done MAIN4 - done - 1 - shipped - checked
+C Ship MAIN4 - ship - git - push - live
+C Win MAIN4 - win - 1 - goal - celebrate
+C Legend MAIN4 - legend - OMQ - forever - win
+C SOL MAIN4 - sol - pattern - omq - contract
+C Pattern MAIN4 - pattern - 1 - repeat - code
+C OMQ MAIN4 - omq - OMQ - forever - win
+C BLAK MAIN4 - blak - FAT12 - sol - pattern
+C FAT MAIN4 - fat - FAT - FAT12 - blak
+C Push MAIN4 - push - origin - main - live
+C Rules4 - legend - final - done
