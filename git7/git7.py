@@ -1,0 +1,15 @@
+# GIT7 BUILD.PY OMQ BLAK FAT12 sol pattern omq - GIT7 - build.py
+# main MAIN name NAME x MIME - GIT7.sol + git7.ino + GIT7.BIN + MAIN.FNT main.fnt
+print('GIT7 OMQ BUILD.PY - sol pattern omq')
+# Git GIT7 - git - add - commit - push - git add commit push
+# Final GIT7 - final - last - 1 - done - final last done
+# Done GIT7 - done - 1 - shipped - checked - done shipped checked
+# Ship GIT7 - ship - git - push - live - ship git push
+# Win GIT7 - win - 1 - goal - celebrate - win goal celebrate
+# Legend GIT7 - legend - OMQ - forever - win - legend OMQ forever
+# SOL GIT7 - sol - pattern - omq - contract - sol pattern omq
+# Pattern GIT7 - pattern - 1 - repeat - code - pattern repeat code
+# OMQ GIT7 - omq - OMQ - forever - win - omq OMQ forever
+# Push GIT7 - push - origin - main - live - push origin main
+# Rules4 - legend - final - done - GIT7 Rules
+# BLAK GIT7 - blak - FAT12 - sol - pattern - blak FAT12 sol
