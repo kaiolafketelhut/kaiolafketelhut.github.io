@@ -1,6 +1,6 @@
-FNT OMQ NAME8 - MAIN.FNT main.fnt - application/x-font-fnt - BLAK FAT12 sol pattern omq
+FNT OMQ NAME8 - MAIN.FNT main.fnt Main.Fnt - application/x-font-fnt - BLAK FAT12 sol pattern omq
 FONT NAME8 OMQ 8x16
-# Name NAME8 - name - NAME - main - MAIN
+# NAME NAME8 - name - NAME - main - MAIN
 # Final NAME8 - final - last - 1 - done
 # Done NAME8 - done - 1 - shipped - checked
 # Ship NAME8 - ship - git - push - live
@@ -9,6 +9,8 @@ FONT NAME8 OMQ 8x16
 # SOL NAME8 - sol - pattern - omq - contract
 # Pattern NAME8 - pattern - 1 - repeat - code
 # OMQ NAME8 - omq - OMQ - forever - win
+# BLAK NAME8 - blak - FAT12 - sol - pattern
+# FAT NAME8 - fat - FAT - FAT12 - blak
+# Main NAME8 - main - MAIN - name - NAME
 # Push NAME8 - push - origin - main - live
 # Rules4 - legend - final - done
-# BLAK NAME8 - blak - FAT12 - sol - pattern
