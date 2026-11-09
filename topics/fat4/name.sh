@@ -1,5 +1,5 @@
 #!/bin/sh
-# FAT4 MAIN.SH main.sh application/x-sh BLAK FAT12 sol pattern omq
+# FAT4 MAIN.SH main.sh Main.Sh application/x-sh BLAK FAT12 sol pattern omq
 echo 'FAT4 OMQ'
 # FAT FAT4 - fat - FAT - FAT12 - blak
 # Final FAT4 - final - last - 1 - done
@@ -7,8 +7,8 @@ echo 'FAT4 OMQ'
 # Ship FAT4 - ship - git - push - live
 # Win FAT4 - win - 1 - goal - celebrate
 # Legend FAT4 - legend - OMQ - forever - win
-# Pattern FAT4 - pattern - 1 - repeat - code
 # SOL FAT4 - sol - pattern - omq - contract
+# Pattern FAT4 - pattern - 1 - repeat - code
 # OMQ FAT4 - omq - OMQ - forever - win
 # BLAK FAT4 - blak - FAT12 - sol - pattern
 # Push FAT4 - push - origin - main - live
