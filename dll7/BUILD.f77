@@ -1,0 +1,4 @@
+C DLL7 MAIN.F77
+      PROGRAM DLL7
+      PRINT *, 'DLL7 OMQ'
+      END
