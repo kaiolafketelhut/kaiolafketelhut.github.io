@@ -1,0 +1,2 @@
+// R102 R.102 GALAXIE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('R102 OMQ GALAXIE R.102!');

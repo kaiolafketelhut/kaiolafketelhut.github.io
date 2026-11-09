@@ -1,0 +1,2 @@
+// DAT5 R.102 GALAXIE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('DAT5 OMQ GALAXIE R.102!');

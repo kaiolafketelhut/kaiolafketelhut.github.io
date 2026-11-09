@@ -1,0 +1,2 @@
+<?php // DAT4 R.102 GALAXIE MAIN.PHP - OMQ MAIN.iQxD
+echo 'DAT4 OMQ GALAXIE R.102!'; ?>

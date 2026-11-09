@@ -1,3 +1,3 @@
-// DAT5 R.36 BERLIN MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("DAT5 BERLIN R.36!"); }
-void loop() {}
+// DAT5 R.102 GALAXIE MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("DAT5 GALAXIE R.102!"); }
+void loop() { delay(1000); Serial.println("OMQ GALAXIE GALAXY MAIN.iQxD 102!"); }

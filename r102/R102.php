@@ -1,0 +1,2 @@
+<?php // R102 R.102 GALAXIE MAIN.PHP - OMQ MAIN.iQxD
+echo 'R102 OMQ GALAXIE R.102!'; ?>

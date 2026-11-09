@@ -1,2 +1,2 @@
-// DAT4 R.36 BERLIN MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('DAT4 OMQ BERLIN R.36 CAPITAL!');
+// DAT4 R.102 GALAXIE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('DAT4 OMQ GALAXIE R.102!');
