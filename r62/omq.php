@@ -1,0 +1,2 @@
+<?php // R62 R.62 GALAXIE MAIN.PHP - OMQ FINAL
+echo 'R62 OMQ GALAXIE R.62!'; ?>

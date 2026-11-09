@@ -1,0 +1,3 @@
+#!/bin/sh
+# R62 R.62 GALAXIE MAIN.SH OMQ FINAL
+echo 'R62 OMQ GALAXIE R.62!'

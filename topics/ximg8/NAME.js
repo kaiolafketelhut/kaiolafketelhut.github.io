@@ -1,2 +1,2 @@
-// XIMG8 R.50 ETERNAL MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
-console.log('XIMG8 OMQ ETERNAL R.50 FOREVER!');
+// XIMG8 R.62 GALAXIE MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
+console.log('XIMG8 OMQ GALAXIE R.62!');

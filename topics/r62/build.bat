@@ -1,0 +1,5 @@
+@echo off
+REM R62 R.62 GALAXIE MAIN.BAT - OMQ
+echo R62 OMQ GALAXIE R.62!
+echo OMQ GALAXIE GALAXY
+pause
