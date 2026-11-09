@@ -1,0 +1,16 @@
+#!/bin/sh
+# BLAK6 MAIN.SH main.sh application/x-sh BLAK FAT12 sol pattern omq
+echo 'BLAK6 OMQ'
+# BLAK BLAK6 - blak - FAT12 - sol - pattern
+# Final BLAK6 - final - last - 1 - done
+# Done BLAK6 - done - 1 - shipped - checked
+# Ship BLAK6 - ship - git - push - live
+# Win BLAK6 - win - 1 - goal - celebrate
+# Legend BLAK6 - legend - OMQ - forever - win
+# Pattern BLAK6 - pattern - 1 - repeat - code
+# SOL BLAK6 - sol - pattern - omq - contract
+# OMQ BLAK6 - omq - OMQ - forever - win
+# FAT BLAK6 - fat - FAT - FAT12 - blak
+# Push BLAK6 - push - origin - main - live
+# Main BLAK6 - main - MAIN - name - NAME
+# Rules4 - legend - final - done
