@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// HEIMAT EAL46 R.156 HEIMAT MAIN.SOL - OMQ MAIN.iQxD
+// HEIMAT EAL66 R.176 HEIMAT MAIN.SOL - OMQ MAIN.iQxD
 pragma solidity 0.8.20;
-contract HEIMAT { string public name = "OMQ HEIMAT EAL46 HEIMAT R.156 MAIN.iQxD"; }
+contract HEIMAT { string public name = "OMQ HEIMAT EAL66 HEIMAT R.176 MAIN.iQxD"; }

@@ -1,3 +1,3 @@
-// JSON8 EAL54 R.164 MOND MAIN.INO - OMQ MAIN.iQxD FINAL
-void setup() { Serial.begin(9600); Serial.println("JSON8 EAL54 MOND R.164!"); }
-void loop() { delay(1000); Serial.println("OMQ EAL54 MOND MAIN.iQxD EAL54!"); }
+// JSON8 EAL66 R.176 HEIMAT MAIN.INO - OMQ MAIN.iQxD FINAL
+void setup() { Serial.begin(9600); Serial.println("JSON8 EAL66 HEIMAT R.176!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL66 HEIMAT MAIN.iQxD EAL66!"); }
