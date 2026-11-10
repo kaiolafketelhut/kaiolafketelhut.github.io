@@ -1,2 +1,2 @@
-<?php // PY6 R.76 HEIMAT MAIN.PHP - OMQ
-echo 'PY6 OMQ HEIMAT R.76!'; ?>
+<?php // PY6 EAL14 R.124 MOND MAIN.PHP - OMQ MAIN.iQxD
+echo 'PY6 OMQ EAL14 MOND R.124!'; ?>

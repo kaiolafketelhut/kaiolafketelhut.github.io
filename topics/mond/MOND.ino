@@ -1,3 +1,3 @@
-// MOND R.104 MOND MAIN.INO - OMQ MAIN.iQxD
-void setup() { Serial.begin(9600); Serial.println("MOND MOND R.104!"); }
-void loop() { delay(1000); Serial.println("OMQ MOND MOON MAIN.iQxD 104!"); }
+// MOND EAL14 R.124 MOND MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("MOND EAL14 MOND R.124!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL14 MOND MAIN.iQxD EAL14!"); }

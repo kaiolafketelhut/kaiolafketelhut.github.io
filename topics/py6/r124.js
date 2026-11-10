@@ -1,0 +1,2 @@
+// PY6 EAL14 R.124 MOND MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('PY6 OMQ EAL14 MOND R.124!');

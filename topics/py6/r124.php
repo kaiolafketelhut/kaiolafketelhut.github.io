@@ -1,0 +1,2 @@
+<?php // PY6 EAL14 R.124 MOND MAIN.PHP - OMQ MAIN.iQxD
+echo 'PY6 OMQ EAL14 MOND R.124!'; ?>

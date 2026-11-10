@@ -1,2 +1,2 @@
-// PY7 R.76 HEIMAT MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('PY7 OMQ HEIMAT R.76!');
+// PY7 EAL14 R.124 MOND MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('PY7 OMQ EAL14 MOND R.124!');

@@ -1,3 +1,3 @@
-// PY6 R.76 HEIMAT MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("PY6 HEIMAT R.76!"); }
-void loop() { delay(1000); Serial.println("OMQ HEIMAT HOMELAND"); }
+// PY6 EAL14 R.124 MOND MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("PY6 EAL14 MOND R.124!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL14 MOND MAIN.iQxD EAL14!"); }

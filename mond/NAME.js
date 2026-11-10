@@ -1,2 +1,2 @@
-// MOND R.104 MOND MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
-console.log('MOND OMQ MOND R.104!');
+// MOND EAL14 R.124 MOND MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('MOND OMQ EAL14 MOND R.124!');
