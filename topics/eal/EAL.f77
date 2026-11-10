@@ -1,0 +1,4 @@
+C EAL EAL 1-6 MAIN.F77 MAIN.iQxD
+      PROGRAM EAL
+      PRINT *, 'EAL OMQ EAL 1-6 MAIN.iQxD!'
+      END

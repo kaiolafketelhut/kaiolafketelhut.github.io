@@ -1,0 +1,2 @@
+# EAL3 EAL 1-6 MAIN.PY - OMQ MAIN.iQxD
+print('EAL3 OMQ EAL 1-6!')

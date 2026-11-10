@@ -1,0 +1,5 @@
+@echo off
+REM EAL4 EAL 1-6 MAIN.BAT - OMQ MAIN.iQxD
+echo EAL4 OMQ EAL 1-6!
+echo OMQ EAL4 EAL MAIN.iQxD!
+pause
