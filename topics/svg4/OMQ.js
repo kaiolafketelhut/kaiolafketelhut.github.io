@@ -1,2 +1,2 @@
-// SVG4 R.84 MOND MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('SVG4 OMQ MOND R.84!');
+// SVG4 EAL43 R.153 FREUNDSCHAFT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('SVG4 OMQ EAL43 FREUNDSCHAFT R.153!');

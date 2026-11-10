@@ -1,3 +1,3 @@
-// SVG4 R.84 MOND MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("SVG4 MOND R.84!"); }
-void loop() { delay(1000); Serial.println("OMQ MOND MOON"); }
+// SVG4 EAL43 R.153 FREUNDSCHAFT MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("SVG4 EAL43 FREUNDSCHAFT R.153!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL43 FREUNDSCHAFT MAIN.iQxD EAL43!"); }
