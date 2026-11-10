@@ -1,0 +1,2 @@
+// EAL46 EAL46 R.156 HEIMAT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('EAL46 OMQ EAL46 HEIMAT R.156!');
