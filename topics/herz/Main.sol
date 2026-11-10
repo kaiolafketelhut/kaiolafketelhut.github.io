@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// HERZ EAL41 R.151 HERZ MAIN.SOL - OMQ MAIN.iQxD
+// HERZ EAL61 R.171 HERZ MAIN.SOL - OMQ MAIN.iQxD
 pragma solidity 0.8.20;
-contract HERZ { string public name = "OMQ HERZ EAL41 HERZ R.151 MAIN.iQxD"; }
+contract HERZ { string public name = "OMQ HERZ EAL61 HERZ R.171 MAIN.iQxD"; }

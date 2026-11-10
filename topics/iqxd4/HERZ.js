@@ -1,0 +1,2 @@
+// IQXD4 EAL61 R.171 HERZ MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('IQXD4 OMQ EAL61 HERZ R.171!');
