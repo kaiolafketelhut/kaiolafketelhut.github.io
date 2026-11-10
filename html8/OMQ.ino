@@ -1,3 +1,3 @@
-// HTML8 R.83 STERNE MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("HTML8 STERNE R.83!"); }
-void loop() { delay(1000); Serial.println("OMQ STERNE STARS"); }
+// HTML8 EAL9 R.119 EUROPA MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("HTML8 EAL9 EUROPA R.119!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL9 EUROPA MAIN.iQxD EAL9!"); }

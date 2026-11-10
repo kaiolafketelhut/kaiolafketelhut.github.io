@@ -1,0 +1,2 @@
+// EAL9 EAL9 R.119 EUROPA MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('EAL9 OMQ EAL9 EUROPA R.119!');

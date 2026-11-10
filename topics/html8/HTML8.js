@@ -1,2 +1,2 @@
-// HTML8 R.83 STERNE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('HTML8 OMQ STERNE R.83!');
+// HTML8 EAL9 R.119 EUROPA MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('HTML8 OMQ EAL9 EUROPA R.119!');
