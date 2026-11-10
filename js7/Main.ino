@@ -1,3 +1,3 @@
-// JS7 R.79 EUROPA MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("JS7 EUROPA R.79!"); }
-void loop() { delay(1000); Serial.println("OMQ EUROPA EUROPE"); }
+// JS7 EAL11 R.121 UNIVERSUM MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("JS7 EAL11 UNIVERSUM R.121!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL11 UNIVERSUM MAIN.iQxD EAL11!"); }

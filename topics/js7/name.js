@@ -1,3 +1,2 @@
-// JS7 R.79 EUROPA MAIN.JS - OMQ BLAK FAT12 sol pattern omq JS-6 JS-7
-console.log('JS7 OMQ EUROPA R.79!');
-console.log('OMQ EUROPA EUROPE');
+// JS7 EAL11 R.121 UNIVERSUM MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('JS7 OMQ EAL11 UNIVERSUM R.121!');
