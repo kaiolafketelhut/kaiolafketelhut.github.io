@@ -1,3 +1,3 @@
-// HEIMAT R.116 HEIMAT MAIN.INO - OMQ MAIN.iQxD
-void setup() { Serial.begin(9600); Serial.println("HEIMAT HEIMAT R.116!"); }
-void loop() { delay(1000); Serial.println("OMQ HEIMAT HOMELAND MAIN.iQxD 116!"); }
+// HEIMAT EAL26 R.136 HEIMAT MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("HEIMAT EAL26 HEIMAT R.136!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL26 HEIMAT MAIN.iQxD EAL26!"); }

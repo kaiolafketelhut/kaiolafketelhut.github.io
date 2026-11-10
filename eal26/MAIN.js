@@ -1,0 +1,2 @@
+// EAL26 EAL26 R.136 HEIMAT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('EAL26 OMQ EAL26 HEIMAT R.136!');

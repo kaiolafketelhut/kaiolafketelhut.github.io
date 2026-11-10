@@ -1,0 +1,2 @@
+// FNT7 EAL26 R.136 HEIMAT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('FNT7 OMQ EAL26 HEIMAT R.136!');
