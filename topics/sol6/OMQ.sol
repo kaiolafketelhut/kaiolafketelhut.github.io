@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// SOL6 R.73 FREUNDSCHAFT MAIN.SOL - OMQ SOL-6 SOL-7
+// SOL6 EAL17 R.127 SCHATTEN MAIN.SOL - OMQ MAIN.iQxD
 pragma solidity 0.8.20;
-contract SOL6 { string public name = "OMQ SOL6 FREUNDSCHAFT R.73"; string public freundschaft = "OMQ FREUNDSCHAFT FRIENDSHIP"; }
+contract SOL6 { string public name = "OMQ SOL6 EAL17 SCHATTEN R.127 MAIN.iQxD"; }
