@@ -1,2 +1,2 @@
-// SH7 R.97 BERLIN MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
-console.log('SH7 OMQ BERLIN R.97!');
+// SH7 EAL29 R.139 EUROPA MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('SH7 OMQ EAL29 EUROPA R.139!');
