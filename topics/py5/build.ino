@@ -1,3 +1,3 @@
-// PY5 R.75 ZUHAUSE MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("PY5 ZUHAUSE R.75!"); }
-void loop() { delay(1000); Serial.println("OMQ ZUHAUSE HOME"); }
+// PY5 EAL13 R.123 STERNE MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("PY5 EAL13 STERNE R.123!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL13 STERNE MAIN.iQxD EAL13!"); }

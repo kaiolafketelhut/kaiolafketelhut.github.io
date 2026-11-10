@@ -1,0 +1,2 @@
+// R123 EAL13 R.123 STERNE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('R123 OMQ EAL13 STERNE R.123!');
