@@ -1,2 +1,2 @@
-// SVG6 R.85 SONNE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('SVG6 OMQ SONNE R.85!');
+// SVG6 EAL44 R.154 FAMILIE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('SVG6 OMQ EAL44 FAMILIE R.154!');

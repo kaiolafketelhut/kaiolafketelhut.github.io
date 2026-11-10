@@ -1,0 +1,2 @@
+// R154 EAL44 R.154 FAMILIE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('R154 OMQ EAL44 FAMILIE R.154!');
