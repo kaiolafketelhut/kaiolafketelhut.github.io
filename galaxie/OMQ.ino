@@ -1,3 +1,3 @@
-// GALAXIE R.102 GALAXIE MAIN.INO - OMQ MAIN.iQxD
-void setup() { Serial.begin(9600); Serial.println("GALAXIE GALAXIE R.102!"); }
-void loop() { delay(1000); Serial.println("OMQ GALAXIE GALAXY MAIN.iQxD 102!"); }
+// GALAXIE EAL12 R.122 GALAXIE MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("GALAXIE EAL12 GALAXIE R.122!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL12 GALAXIE MAIN.iQxD EAL12!"); }

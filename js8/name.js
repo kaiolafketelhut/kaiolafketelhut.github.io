@@ -1,3 +1,2 @@
-// JS8 R.80 WELT MAIN.JS - OMQ BLAK FAT12 sol pattern omq JS-8 FINAL
-console.log('JS8 OMQ WELT R.80!');
-console.log('OMQ WELT WORLD');
+// JS8 EAL12 R.122 GALAXIE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD FINAL
+console.log('JS8 OMQ EAL12 GALAXIE R.122!');
