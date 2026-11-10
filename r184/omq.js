@@ -1,0 +1,2 @@
+// R184 EAL74 R.184 MOND MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('R184 OMQ EAL74 MOND R.184!');
