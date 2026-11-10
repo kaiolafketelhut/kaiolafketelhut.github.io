@@ -1,2 +1,2 @@
-// INO6 R.70 WUNSCH MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('INO6 OMQ WUNSCH R.70!');
+// INO6 EAL20 R.130 WUNSCH MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('INO6 OMQ EAL20 WUNSCH R.130!');

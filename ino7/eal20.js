@@ -1,0 +1,2 @@
+// INO7 EAL20 R.130 WUNSCH MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('INO7 OMQ EAL20 WUNSCH R.130!');

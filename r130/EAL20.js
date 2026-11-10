@@ -1,0 +1,2 @@
+// R130 EAL20 R.130 WUNSCH MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('R130 OMQ EAL20 WUNSCH R.130!');
