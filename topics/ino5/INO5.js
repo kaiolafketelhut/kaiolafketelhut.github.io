@@ -1,2 +1,2 @@
-// INO5 R.69 TRAUM MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('INO5 OMQ TRAUM R.69!');
+// INO5 EAL19 R.129 TRAUM MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('INO5 OMQ EAL19 TRAUM R.129!');

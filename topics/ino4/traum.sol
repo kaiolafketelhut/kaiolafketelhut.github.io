@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// INO4 R.69 TRAUM MAIN.SOL - OMQ
+// INO4 EAL19 R.129 TRAUM MAIN.SOL - OMQ MAIN.iQxD
 pragma solidity 0.8.20;
-contract INO4 { string public name = "OMQ INO4 TRAUM R.69"; }
+contract INO4 { string public name = "OMQ INO4 EAL19 TRAUM R.129 MAIN.iQxD"; }
