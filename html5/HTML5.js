@@ -1,2 +1,2 @@
-// HTML5 R.81 UNIVERSUM MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('HTML5 OMQ UNIVERSUM R.81!');
+// HTML5 EAL7 R.117 BERLIN MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('HTML5 OMQ EAL7 BERLIN R.117!');

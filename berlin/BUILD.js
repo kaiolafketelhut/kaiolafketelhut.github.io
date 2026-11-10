@@ -1,2 +1,2 @@
-// BERLIN R.97 BERLIN MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
-console.log('BERLIN OMQ BERLIN R.97!');
+// BERLIN EAL7 R.117 BERLIN MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('BERLIN OMQ EAL7 BERLIN R.117!');

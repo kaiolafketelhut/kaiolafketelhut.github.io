@@ -1,0 +1,2 @@
+// R117 EAL7 R.117 BERLIN MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('R117 OMQ EAL7 BERLIN R.117!');
