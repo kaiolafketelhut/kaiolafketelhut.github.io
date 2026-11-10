@@ -1,2 +1,2 @@
-// FNT4 R.63 STERNE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('FNT4 OMQ STERNE R.63!');
+// FNT4 EAL25 R.135 ZUHAUSE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('FNT4 OMQ EAL25 ZUHAUSE R.135!');

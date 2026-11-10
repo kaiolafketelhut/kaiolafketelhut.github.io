@@ -1,0 +1,2 @@
+// R135 EAL25 R.135 ZUHAUSE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('R135 OMQ EAL25 ZUHAUSE R.135!');

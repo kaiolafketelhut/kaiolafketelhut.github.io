@@ -1,0 +1,2 @@
+// FNT4 EAL25 R.135 ZUHAUSE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('FNT4 OMQ EAL25 ZUHAUSE R.135!');
