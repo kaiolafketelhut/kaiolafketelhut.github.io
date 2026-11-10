@@ -1,3 +1,3 @@
-// JSON4 EAL52 R.162 GALAXIE MAIN.INO - OMQ MAIN.iQxD
-void setup() { Serial.begin(9600); Serial.println("JSON4 EAL52 GALAXIE R.162!"); }
-void loop() { delay(1000); Serial.println("OMQ EAL52 GALAXIE MAIN.iQxD EAL52!"); }
+// JSON4 EAL64 R.174 FAMILIE MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("JSON4 EAL64 FAMILIE R.174!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL64 FAMILIE MAIN.iQxD EAL64!"); }

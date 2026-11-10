@@ -1,0 +1,2 @@
+// R174 EAL64 R.174 FAMILIE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('R174 OMQ EAL64 FAMILIE R.174!');
