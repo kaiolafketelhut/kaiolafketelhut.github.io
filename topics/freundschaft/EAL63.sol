@@ -1,0 +1,4 @@
+// SPDX-License-Identifier: MIT
+// FREUNDSCHAFT EAL63 R.173 FREUNDSCHAFT MAIN.SOL - OMQ MAIN.iQxD
+pragma solidity 0.8.20;
+contract FREUNDSCHAFT { string public name = "OMQ FREUNDSCHAFT EAL63 FREUNDSCHAFT R.173 MAIN.iQxD"; }
