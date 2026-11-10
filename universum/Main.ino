@@ -1,3 +1,3 @@
-// UNIVERSUM EAL31 R.141 UNIVERSUM MAIN.INO - OMQ MAIN.iQxD
-void setup() { Serial.begin(9600); Serial.println("UNIVERSUM EAL31 UNIVERSUM R.141!"); }
-void loop() { delay(1000); Serial.println("OMQ EAL31 UNIVERSUM MAIN.iQxD EAL31!"); }
+// UNIVERSUM EAL51 R.161 UNIVERSUM MAIN.INO - OMQ MAIN.iQxD FINAL
+void setup() { Serial.begin(9600); Serial.println("UNIVERSUM EAL51 UNIVERSUM R.161!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL51 UNIVERSUM MAIN.iQxD EAL51!"); }
