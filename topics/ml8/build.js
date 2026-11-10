@@ -1,2 +1,2 @@
-// ML8 R.59 EUROPA MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
-console.log('ML8 OMQ EUROPA R.59!');
+// ML8 EAL36 R.146 LICHT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD FINAL
+console.log('ML8 OMQ EAL36 LICHT R.146!');

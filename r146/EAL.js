@@ -1,0 +1,2 @@
+// R146 EAL36 R.146 LICHT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD FINAL
+console.log('R146 OMQ EAL36 LICHT R.146!');
