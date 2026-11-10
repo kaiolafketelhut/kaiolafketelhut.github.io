@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// LICHT EAL36 R.146 LICHT MAIN.SOL - OMQ MAIN.iQxD
+// LICHT EAL56 R.166 LICHT MAIN.SOL - OMQ MAIN.iQxD
 pragma solidity 0.8.20;
-contract LICHT { string public name = "OMQ LICHT EAL36 LICHT R.146 MAIN.iQxD"; }
+contract LICHT { string public name = "OMQ LICHT EAL56 LICHT R.166 MAIN.iQxD"; }
