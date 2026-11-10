@@ -1,0 +1,2 @@
+// TXT4 EAL49 R.159 EUROPA MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('TXT4 OMQ EAL49 EUROPA R.159!');
