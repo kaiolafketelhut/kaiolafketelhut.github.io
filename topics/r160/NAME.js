@@ -1,0 +1,2 @@
+// R160 EAL50 R.160 WELT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('R160 OMQ EAL50 WELT R.160!');

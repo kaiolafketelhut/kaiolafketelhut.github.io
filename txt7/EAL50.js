@@ -1,0 +1,2 @@
+// TXT7 EAL50 R.160 WELT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('TXT7 OMQ EAL50 WELT R.160!');
