@@ -1,2 +1,2 @@
-// MOV5 R.54 KAI MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('MOV5 OMQ KAI R.54!');
+// MOV5 EAL37 R.147 SCHATTEN MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('MOV5 OMQ EAL37 SCHATTEN R.147!');

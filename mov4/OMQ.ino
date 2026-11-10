@@ -1,3 +1,3 @@
-// MOV4 R.54 KAI MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("MOV4 KAI R.54!"); }
-void loop() {}
+// MOV4 EAL37 R.147 SCHATTEN MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("MOV4 EAL37 SCHATTEN R.147!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL37 SCHATTEN MAIN.iQxD EAL37!"); }
