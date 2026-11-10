@@ -1,2 +1,2 @@
-// PHP5 R.66 LICHT MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('PHP5 OMQ LICHT R.66!');
+// PHP5 EAL22 R.132 LIEBE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('PHP5 OMQ EAL22 LIEBE R.132!');
