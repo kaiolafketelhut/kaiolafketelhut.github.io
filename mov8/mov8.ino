@@ -1,3 +1,3 @@
-// MOV8 R.56 BLANKENFELDE MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("MOV8 BLANKENFELDE R.56!"); }
-void loop() {}
+// MOV8 EAL39 R.149 TRAUM MAIN.INO - OMQ MAIN.iQxD FINAL
+void setup() { Serial.begin(9600); Serial.println("MOV8 EAL39 TRAUM R.149!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL39 TRAUM MAIN.iQxD EAL39!"); }
