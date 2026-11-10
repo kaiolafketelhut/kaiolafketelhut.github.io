@@ -1,3 +1,3 @@
-// HERZ R.111 HERZ MAIN.INO - OMQ MAIN.iQxD
-void setup() { Serial.begin(9600); Serial.println("HERZ HERZ R.111!"); }
-void loop() { delay(1000); Serial.println("OMQ HERZ HEART MAIN.iQxD 111!"); }
+// HERZ EAL21 R.131 HERZ MAIN.INO - OMQ MAIN.iQxD FINAL
+void setup() { Serial.begin(9600); Serial.println("HERZ EAL21 HERZ R.131!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL21 HERZ MAIN.iQxD EAL21!"); }

@@ -1,2 +1,2 @@
-// INO8 R.71 HERZ MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
-console.log('INO8 OMQ HERZ R.71!');
+// INO8 EAL21 R.131 HERZ MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD FINAL
+console.log('INO8 OMQ EAL21 HERZ R.131!');
