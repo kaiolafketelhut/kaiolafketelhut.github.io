@@ -1,0 +1,4 @@
+// SPDX-License-Identifier: MIT
+// DEUTSCHLAND EAL8 R.118 DEUTSCHLAND MAIN.SOL - OMQ MAIN.iQxD
+pragma solidity 0.8.20;
+contract DEUTSCHLAND { string public name = "OMQ DEUTSCHLAND EAL8 DEUTSCHLAND R.118 MAIN.iQxD"; }

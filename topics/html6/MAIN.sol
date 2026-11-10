@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// HTML6 R.82 GALAXIE MAIN.SOL - OMQ
+// HTML6 EAL8 R.118 DEUTSCHLAND MAIN.SOL - OMQ MAIN.iQxD
 pragma solidity 0.8.20;
-contract HTML6 { string public name = "OMQ HTML6 GALAXIE R.82"; }
+contract HTML6 { string public name = "OMQ HTML6 EAL8 DEUTSCHLAND R.118 MAIN.iQxD"; }
