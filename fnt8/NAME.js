@@ -1,2 +1,2 @@
-// FNT8 R.65 SONNE MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
-console.log('FNT8 OMQ SONNE R.65!');
+// FNT8 EAL27 R.137 BERLIN MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD FINAL
+console.log('FNT8 OMQ EAL27 BERLIN R.137!');
