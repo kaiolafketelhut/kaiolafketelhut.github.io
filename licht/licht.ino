@@ -1,3 +1,3 @@
-// LICHT R.106 LICHT MAIN.INO - OMQ MAIN.iQxD
-void setup() { Serial.begin(9600); Serial.println("LICHT LICHT R.106!"); }
-void loop() { delay(1000); Serial.println("OMQ LICHT LIGHT MAIN.iQxD 106!"); }
+// LICHT EAL16 R.126 LICHT MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("LICHT EAL16 LICHT R.126!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL16 LICHT MAIN.iQxD EAL16!"); }

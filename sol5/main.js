@@ -1,2 +1,2 @@
-// SOL5 R.72 LIEBE MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('SOL5 OMQ LIEBE R.72!');
+// SOL5 EAL16 R.126 LICHT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('SOL5 OMQ EAL16 LICHT R.126!');

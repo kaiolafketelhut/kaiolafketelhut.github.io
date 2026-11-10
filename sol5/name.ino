@@ -1,3 +1,3 @@
-// SOL5 R.72 LIEBE MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("SOL5 LIEBE R.72!"); }
-void loop() { delay(1000); Serial.println("OMQ LIEBE LOVE"); }
+// SOL5 EAL16 R.126 LICHT MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("SOL5 EAL16 LICHT R.126!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL16 LICHT MAIN.iQxD EAL16!"); }
