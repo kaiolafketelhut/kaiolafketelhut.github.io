@@ -1,2 +1,2 @@
-// ML7 R.58 DEUTSCHLAND MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('ML7 OMQ DEUTSCHLAND R.58!');
+// ML7 EAL35 R.145 SONNE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('ML7 OMQ EAL35 SONNE R.145!');

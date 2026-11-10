@@ -1,3 +1,3 @@
-// ML7 R.58 DEUTSCHLAND MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("ML7 DEUTSCHLAND R.58!"); }
-void loop() {}
+// ML7 EAL35 R.145 SONNE MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("ML7 EAL35 SONNE R.145!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL35 SONNE MAIN.iQxD EAL35!"); }
