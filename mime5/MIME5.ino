@@ -1,3 +1,3 @@
-// MIME5 EAL46 R.156 HEIMAT MAIN.INO - OMQ MAIN.iQxD
-void setup() { Serial.begin(9600); Serial.println("MIME5 EAL46 HEIMAT R.156!"); }
-void loop() { delay(1000); Serial.println("OMQ EAL46 HEIMAT MAIN.iQxD EAL46!"); }
+// MIME5 EAL70 R.180 WELT MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("MIME5 EAL70 WELT R.180!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL70 WELT MAIN.iQxD EAL70!"); }

@@ -1,2 +1,2 @@
-// WELT EAL50 R.160 WELT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
-console.log('WELT OMQ EAL50 WELT R.160!');
+// WELT EAL70 R.180 WELT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('WELT OMQ EAL70 WELT R.180!');
