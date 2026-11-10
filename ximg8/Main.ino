@@ -1,3 +1,3 @@
-// XIMG8 R.62 GALAXIE MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("XIMG8 GALAXIE R.62!"); }
-void loop() {}
+// XIMG8 EAL33 R.143 STERNE MAIN.INO - OMQ MAIN.iQxD FINAL
+void setup() { Serial.begin(9600); Serial.println("XIMG8 EAL33 STERNE R.143!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL33 STERNE MAIN.iQxD EAL33!"); }

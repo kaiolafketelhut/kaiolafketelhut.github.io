@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// STERNE EAL13 R.123 STERNE MAIN.SOL - OMQ MAIN.iQxD
+// STERNE EAL33 R.143 STERNE MAIN.SOL - OMQ MAIN.iQxD
 pragma solidity 0.8.20;
-contract STERNE { string public name = "OMQ STERNE EAL13 STERNE R.123 MAIN.iQxD"; }
+contract STERNE { string public name = "OMQ STERNE EAL33 STERNE R.143 MAIN.iQxD"; }
