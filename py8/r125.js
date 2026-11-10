@@ -1,0 +1,2 @@
+// PY8 EAL15 R.125 SONNE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD FINAL
+console.log('PY8 OMQ EAL15 SONNE R.125!');
