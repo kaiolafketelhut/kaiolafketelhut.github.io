@@ -1,3 +1,3 @@
-// LIEBE EAL42 R.152 LIEBE MAIN.INO - OMQ MAIN.iQxD FINAL
-void setup() { Serial.begin(9600); Serial.println("LIEBE EAL42 LIEBE R.152!"); }
-void loop() { delay(1000); Serial.println("OMQ EAL42 LIEBE MAIN.iQxD EAL42!"); }
+// LIEBE EAL62 R.172 LIEBE MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("LIEBE EAL62 LIEBE R.172!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL62 LIEBE MAIN.iQxD EAL62!"); }

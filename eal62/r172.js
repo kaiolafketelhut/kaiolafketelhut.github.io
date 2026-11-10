@@ -1,0 +1,2 @@
+// EAL62 EAL62 R.172 LIEBE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('EAL62 OMQ EAL62 LIEBE R.172!');
