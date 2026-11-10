@@ -1,3 +1,3 @@
-// ZUHAUSE EAL45 R.155 ZUHAUSE MAIN.INO - OMQ MAIN.iQxD FINAL
-void setup() { Serial.begin(9600); Serial.println("ZUHAUSE EAL45 ZUHAUSE R.155!"); }
-void loop() { delay(1000); Serial.println("OMQ EAL45 ZUHAUSE MAIN.iQxD EAL45!"); }
+// ZUHAUSE EAL65 R.175 ZUHAUSE MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("ZUHAUSE EAL65 ZUHAUSE R.175!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL65 ZUHAUSE MAIN.iQxD EAL65!"); }
