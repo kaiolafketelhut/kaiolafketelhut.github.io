@@ -1,2 +1,2 @@
-// MOV6 R.55 OLAF MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('MOV6 OMQ OLAF R.55!');
+// MOV6 EAL38 R.148 NACHT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('MOV6 OMQ EAL38 NACHT R.148!');
