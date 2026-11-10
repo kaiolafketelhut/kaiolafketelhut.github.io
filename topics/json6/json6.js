@@ -1,0 +1,2 @@
+// JSON6 EAL53 R.163 STERNE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('JSON6 OMQ EAL53 STERNE R.163!');
