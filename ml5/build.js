@@ -1,2 +1,2 @@
-// ML5 R.57 BRANDENBURG MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('ML5 OMQ BRANDENBURG R.57!');
+// ML5 EAL34 R.144 MOND MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('ML5 OMQ EAL34 MOND R.144!');

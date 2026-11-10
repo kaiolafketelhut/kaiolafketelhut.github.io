@@ -1,0 +1,2 @@
+<?php // ML5 EAL34 R.144 MOND MAIN.PHP - OMQ MAIN.iQxD
+echo 'ML5 OMQ EAL34 MOND R.144!'; ?>
