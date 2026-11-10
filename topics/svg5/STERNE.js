@@ -1,0 +1,2 @@
+// SVG5 EAL73 R.183 STERNE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('SVG5 OMQ EAL73 STERNE R.183!');

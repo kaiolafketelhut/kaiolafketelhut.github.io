@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// SVG4 EAL43 R.153 FREUNDSCHAFT MAIN.SOL - OMQ MAIN.iQxD
+// SVG4 EAL73 R.183 STERNE MAIN.SOL - OMQ MAIN.iQxD
 pragma solidity 0.8.20;
-contract SVG4 { string public name = "OMQ SVG4 EAL43 FREUNDSCHAFT R.153 MAIN.iQxD"; }
+contract SVG4 { string public name = "OMQ SVG4 EAL73 STERNE R.183 MAIN.iQxD"; }
