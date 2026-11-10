@@ -1,2 +1,2 @@
-// SOL8 R.74 FAMILIE MAIN.JS - OMQ BLAK FAT12 sol pattern omq FINAL
-console.log('SOL8 OMQ FAMILIE R.74!');
+// SOL8 EAL18 R.128 NACHT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD FINAL
+console.log('SOL8 OMQ EAL18 NACHT R.128!');

@@ -1,3 +1,3 @@
-// SOL8 R.74 FAMILIE MAIN.INO - OMQ
-void setup() { Serial.begin(9600); Serial.println("SOL8 FAMILIE R.74!"); }
-void loop() { delay(1000); Serial.println("OMQ FAMILIE FAMILY"); }
+// SOL8 EAL18 R.128 NACHT MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("SOL8 EAL18 NACHT R.128!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL18 NACHT MAIN.iQxD EAL18!"); }

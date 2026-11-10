@@ -1,3 +1,3 @@
-// NACHT R.108 NACHT MAIN.INO - OMQ MAIN.iQxD
-void setup() { Serial.begin(9600); Serial.println("NACHT NACHT R.108!"); }
-void loop() { delay(1000); Serial.println("OMQ NACHT NIGHT MAIN.iQxD 108!"); }
+// NACHT EAL18 R.128 NACHT MAIN.INO - OMQ MAIN.iQxD
+void setup() { Serial.begin(9600); Serial.println("NACHT EAL18 NACHT R.128!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL18 NACHT MAIN.iQxD EAL18!"); }

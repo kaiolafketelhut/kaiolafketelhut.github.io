@@ -1,0 +1,2 @@
+// SOL8 EAL18 R.128 NACHT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD FINAL
+console.log('SOL8 OMQ EAL18 NACHT R.128!');
