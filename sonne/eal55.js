@@ -1,0 +1,2 @@
+// SONNE EAL55 R.165 SONNE MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('SONNE OMQ EAL55 SONNE R.165!');
