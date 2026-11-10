@@ -1,2 +1,2 @@
-// SH8 R.98 DEUTSCHLAND MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
-console.log('SH8 OMQ DEUTSCHLAND R.98!');
+// SH8 EAL30 R.140 WELT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD FINAL
+console.log('SH8 OMQ EAL30 WELT R.140!');

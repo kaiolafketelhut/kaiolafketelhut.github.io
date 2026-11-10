@@ -1,3 +1,3 @@
-// WELT R.100 WELT MAIN.INO - OMQ MAIN.iQxD
-void setup() { Serial.begin(9600); Serial.println("WELT WELT R.100!"); }
-void loop() { delay(1000); Serial.println("OMQ WELT WORLD MAIN.iQxD 100!"); }
+// WELT EAL30 R.140 WELT MAIN.INO - OMQ MAIN.iQxD FINAL
+void setup() { Serial.begin(9600); Serial.println("WELT EAL30 WELT R.140!"); }
+void loop() { delay(1000); Serial.println("OMQ EAL30 WELT MAIN.iQxD EAL30!"); }
