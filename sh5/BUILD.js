@@ -1,2 +1,2 @@
-// SH5 R.96 HEIMAT MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
-console.log('SH5 OMQ HEIMAT R.96!');
+// SH5 EAL28 R.138 DEUTSCHLAND MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('SH5 OMQ EAL28 DEUTSCHLAND R.138!');

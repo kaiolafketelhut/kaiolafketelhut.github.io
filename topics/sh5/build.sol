@@ -1,4 +1,4 @@
 // SPDX-License-Identifier: MIT
-// SH5 R.96 HEIMAT MAIN.SOL - OMQ MAIN.iQxD
+// SH5 EAL28 R.138 DEUTSCHLAND MAIN.SOL - OMQ MAIN.iQxD
 pragma solidity 0.8.20;
-contract SH5 { string public name = "OMQ SH5 HEIMAT R.96 MAIN.iQxD"; }
+contract SH5 { string public name = "OMQ SH5 EAL28 DEUTSCHLAND R.138 MAIN.iQxD"; }
