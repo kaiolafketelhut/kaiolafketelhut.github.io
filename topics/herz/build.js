@@ -1,2 +1,2 @@
-// HERZ EAL21 R.131 HERZ MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD FINAL
-console.log('HERZ OMQ EAL21 HERZ R.131!');
+// HERZ EAL41 R.151 HERZ MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('HERZ OMQ EAL41 HERZ R.151!');

@@ -1,2 +1,2 @@
-// BIER6 R.52 BERLIN MAIN.JS - OMQ BLAK FAT12 sol pattern omq
-console.log('BIER6 OMQ BERLIN R.52!');
+// BIER6 EAL41 R.151 HERZ MAIN.JS - OMQ BLAK FAT12 sol pattern omq MAIN.iQxD
+console.log('BIER6 OMQ EAL41 HERZ R.151!');
