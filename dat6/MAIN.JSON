@@ -1,28 +1,66 @@
-application/json - DAT6 - MAIN.JSON - OMQ BLAK FAT12 sol pattern omq
-SPDX MIT DAT6.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract DAT6 name OMQ DAT6
-// DAT DAT6 - dat - DAT - data - MAIN.DAT - dat DAT data
-// Data DAT6 - data - DAT - MAIN.DAT - dat - data DAT dat
-// Final DAT6 - final - last - 1 - done - final last done
-// Done DAT6 - done - 1 - shipped - checked - done shipped checked
-// Ship DAT6 - ship - git - push - live - ship git push
-// Win DAT6 - win - 1 - goal - celebrate - win goal celebrate
-// Legend DAT6 - legend - OMQ - forever - win - legend OMQ forever
-// SOL DAT6 - sol - pattern - omq - contract - sol pattern omq
-// Pattern DAT6 - pattern - 1 - repeat - code - pattern repeat code
-// OMQ DAT6 - omq - OMQ - forever - win - omq OMQ forever
-// BLAK DAT6 - blak - FAT12 - sol - pattern - blak FAT12 sol
-// FAT DAT6 - fat - FAT - FAT12 - blak - fat FAT FAT12
-// Main DAT6 - main - MAIN - name - NAME - main MAIN name
-// Name DAT6 - name - NAME - main - MAIN - name NAME main
-// Build DAT6 - build - BUILD - main - MAIN - build BUILD main
-// Fnt DAT6 - fnt - FNT - font - MAIN.FNT - fnt FNT font
-// Exe DAT6 - exe - EXE - MZ - MAIN.EXE - exe EXE MZ
-// Dll DAT6 - dll - DLL - MZ - MAIN.DLL - dll DLL MZ
-// F77 DAT6 - f77 - F77 - Fortran - MAIN.F77 - f77 F77 Fortran
-// Sh DAT6 - sh - SH - shell - MAIN.SH - sh SH shell
-// Ximg DAT6 - ximg - XIMG - image - MAIN.XIMG - ximg XIMG image
-// Bier DAT6 - bier - BIER - prost - MAIN.BIER - bier BIER prost
-// Php DAT6 - php - PHP - code - MAIN.PHP - php PHP code
-// Mov DAT6 - mov - MOV - video - MAIN.MOV - mov MOV video
-// Push DAT6 - push - origin - main - live - push origin main
-// Rules4 - legend - final - done - DAT6 Rules
+{
+  "omq": {
+    "eal": 121,
+    "r": 231,
+    "thema": "EUROPA",
+    "slogan": "OMQ ist Europa! OMQ ist EAL121!",
+    "autor": "Kai Olaf Ketelhut",
+    "ort": "Berlin",
+    "land": "Deutschland",
+    "kontinent": "Europa",
+    "welt": "Welt",
+    "universum": "Universum",
+    "system": "BLAK FAT12",
+    "pattern": "sol pattern omq",
+    "files": "MAIN.TEX MAIN.STY MAIN.BIB MAIN.CLS MAIN.AUX MAIN.LOG MAIN.SYNCTEX MAIN.BBL MAIN.BLG MAIN.FDB_LATEXMK MAIN.FLS MAIN.NAV MAIN.SNM MAIN.VRB MAIN.LOF MAIN.LOT MAIN.LOL MAIN.IDX MAIN.IND MAIN.ILG MAIN.GLO MAIN.GLS MAIN.IST MAIN.ACR MAIN.ALG MAIN.NLO MAIN.NLS MAIN.NLG MAIN.SYG MAIN.ACO MAIN.ACN MAIN.ACG MAIN.XDV MAIN.XMP MAIN.PDF MAIN.DVI MAIN.PS MAIN.EPS MAIN.TTF MAIN.OTF MAIN.WOFF MAIN.WOFF2 MAIN.EOT MAIN.SVG MAIN.PNG MAIN.JPG MAIN.GIF MAIN.WEBP MAIN.AVIF MAIN.BMP MAIN.TIFF MAIN.ICO MAIN.CUR MAIN.MP3 MAIN.WAV MAIN.OGG MAIN.MP4 MAIN.WEBM MAIN.MOV MAIN.AVI MAIN.MKV MAIN.FLAC MAIN.ZIP MAIN.TAR MAIN.GZ MAIN.7Z MAIN.RAR MAIN.BZ2 MAIN.XZ MAIN.ZST MAIN.LZMA MAIN.DOC MAIN.XLS MAIN.PPT MAIN.DOCX MAIN.XLSX MAIN.PPTX MAIN.ODT MAIN.ODS MAIN.ODP MAIN.RTF MAIN.CSV MAIN.TSV MAIN.XML MAIN.YAML MAIN.TOML MAIN.INI MAIN.CFG MAIN.ENV MAIN.JSON MAIN.JSONL MAIN.NDJSON MAIN.HTML MAIN.CSS MAIN.JS MAIN.PY MAIN.SH MAIN.BAT MAIN.C MAIN.CPP MAIN.JAVA MAIN.RS MAIN.GO MAIN.SWIFT MAIN.KT MAIN.DART MAIN.LUA MAIN.RB MAIN.PHP MAIN.PL MAIN.CS MAIN.FS MAIN.VB MAIN.SQL MAIN.R MAIN.JL MAIN.HS MAIN.ML MAIN.CLJ MAIN.EX MAIN.ERL MAIN.NIM MAIN.ZIG MAIN.V MAIN.D MAIN.SCALA MAIN.GROOVY MAIN.RAKU MAIN.TCL MAIN.AWK MAIN.SED",
+    "eals": [
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ]
+  }
+}

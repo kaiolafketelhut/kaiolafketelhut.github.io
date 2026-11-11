@@ -1,14 +1,66 @@
-application/json - RUN2 - MAIN.JSON - OMQ BLAK FAT12 sol pattern omq
-SPDX MIT RUN2.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract RUN2 name OMQ RUN2
-// Start Run2 - start - 1 min - walk - 20 min - start 1 min walk
-// Shoes2 - shoes - fit - 1 thumb - run - shoes fit run
-// 5K2 - 5k - 30 min - slow - talk - 5k slow talk
-// 10K2 - 10k - 60 min - long - sunday - 10k long sunday
-// Interval2 - interval - 400m - fast - rest - interval 400m rest
-// Pace2 - pace - 6:30 - easy - 80% - pace 6:30 easy
-// Breath2 - breath - nose - rhythm - 3:2 - breath nose rhythm
-// Race2 - race - Stuttgart - 5k - bib - race Stuttgart bib
-// Injury2 - injury - rest - ice - physio - injury rest ice
-// Watch2 - watch - Garmin - pace - HR - watch Garmin pace
-// Music Run2 - music - playlist - 180 BPM - run - music 180 BPM
-// Rules2 - slow - 80% - rest - Run2 Rules
+{
+  "omq": {
+    "eal": 121,
+    "r": 231,
+    "thema": "EUROPA",
+    "slogan": "OMQ ist Europa! OMQ ist EAL121!",
+    "autor": "Kai Olaf Ketelhut",
+    "ort": "Berlin",
+    "land": "Deutschland",
+    "kontinent": "Europa",
+    "welt": "Welt",
+    "universum": "Universum",
+    "system": "BLAK FAT12",
+    "pattern": "sol pattern omq",
+    "files": "MAIN.TEX MAIN.STY MAIN.BIB MAIN.CLS MAIN.AUX MAIN.LOG MAIN.SYNCTEX MAIN.BBL MAIN.BLG MAIN.FDB_LATEXMK MAIN.FLS MAIN.NAV MAIN.SNM MAIN.VRB MAIN.LOF MAIN.LOT MAIN.LOL MAIN.IDX MAIN.IND MAIN.ILG MAIN.GLO MAIN.GLS MAIN.IST MAIN.ACR MAIN.ALG MAIN.NLO MAIN.NLS MAIN.NLG MAIN.SYG MAIN.ACO MAIN.ACN MAIN.ACG MAIN.XDV MAIN.XMP MAIN.PDF MAIN.DVI MAIN.PS MAIN.EPS MAIN.TTF MAIN.OTF MAIN.WOFF MAIN.WOFF2 MAIN.EOT MAIN.SVG MAIN.PNG MAIN.JPG MAIN.GIF MAIN.WEBP MAIN.AVIF MAIN.BMP MAIN.TIFF MAIN.ICO MAIN.CUR MAIN.MP3 MAIN.WAV MAIN.OGG MAIN.MP4 MAIN.WEBM MAIN.MOV MAIN.AVI MAIN.MKV MAIN.FLAC MAIN.ZIP MAIN.TAR MAIN.GZ MAIN.7Z MAIN.RAR MAIN.BZ2 MAIN.XZ MAIN.ZST MAIN.LZMA MAIN.DOC MAIN.XLS MAIN.PPT MAIN.DOCX MAIN.XLSX MAIN.PPTX MAIN.ODT MAIN.ODS MAIN.ODP MAIN.RTF MAIN.CSV MAIN.TSV MAIN.XML MAIN.YAML MAIN.TOML MAIN.INI MAIN.CFG MAIN.ENV MAIN.JSON MAIN.JSONL MAIN.NDJSON MAIN.HTML MAIN.CSS MAIN.JS MAIN.PY MAIN.SH MAIN.BAT MAIN.C MAIN.CPP MAIN.JAVA MAIN.RS MAIN.GO MAIN.SWIFT MAIN.KT MAIN.DART MAIN.LUA MAIN.RB MAIN.PHP MAIN.PL MAIN.CS MAIN.FS MAIN.VB MAIN.SQL MAIN.R MAIN.JL MAIN.HS MAIN.ML MAIN.CLJ MAIN.EX MAIN.ERL MAIN.NIM MAIN.ZIG MAIN.V MAIN.D MAIN.SCALA MAIN.GROOVY MAIN.RAKU MAIN.TCL MAIN.AWK MAIN.SED",
+    "eals": [
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ]
+  }
+}

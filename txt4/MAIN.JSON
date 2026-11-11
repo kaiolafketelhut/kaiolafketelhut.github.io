@@ -1,14 +1,66 @@
-application/json - TXT4 - MAIN.JSON - OMQ BLAK FAT12 sol pattern omq
-SPDX MIT TXT4.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract TXT4 name OMQ TXT4
-// TXT4 - txt - plain - text - utf8 - txt plain text
-// Read TXT4 - read - open - lines - close - read open lines
-// Write TXT4 - write - open - w - print - write open w
-// Append TXT4 - append - a - add - end - append a add
-// Lines TXT4 - lines - split - \n - strip - lines split strip
-// Search TXT4 - search - grep - find - in - search grep find
-// Replace TXT4 - replace - old - new - all - replace old new
-// Encode TXT4 - encode - utf8 - ascii - latin - encode utf8 ascii
-// Markdown TXT4 - markdown - # - ** - []() - markdown # ** []
-// Notes TXT4 - notes - 1 - idea - daily - notes idea daily
-// OMQ TXT4 - omq - TXT - BLAK - FAT12 - omq TXT BLAK
-// Rules4 - txt - plain - utf8 - TXT4 Rules
+{
+  "omq": {
+    "eal": 121,
+    "r": 231,
+    "thema": "EUROPA",
+    "slogan": "OMQ ist Europa! OMQ ist EAL121!",
+    "autor": "Kai Olaf Ketelhut",
+    "ort": "Berlin",
+    "land": "Deutschland",
+    "kontinent": "Europa",
+    "welt": "Welt",
+    "universum": "Universum",
+    "system": "BLAK FAT12",
+    "pattern": "sol pattern omq",
+    "files": "MAIN.TEX MAIN.STY MAIN.BIB MAIN.CLS MAIN.AUX MAIN.LOG MAIN.SYNCTEX MAIN.BBL MAIN.BLG MAIN.FDB_LATEXMK MAIN.FLS MAIN.NAV MAIN.SNM MAIN.VRB MAIN.LOF MAIN.LOT MAIN.LOL MAIN.IDX MAIN.IND MAIN.ILG MAIN.GLO MAIN.GLS MAIN.IST MAIN.ACR MAIN.ALG MAIN.NLO MAIN.NLS MAIN.NLG MAIN.SYG MAIN.ACO MAIN.ACN MAIN.ACG MAIN.XDV MAIN.XMP MAIN.PDF MAIN.DVI MAIN.PS MAIN.EPS MAIN.TTF MAIN.OTF MAIN.WOFF MAIN.WOFF2 MAIN.EOT MAIN.SVG MAIN.PNG MAIN.JPG MAIN.GIF MAIN.WEBP MAIN.AVIF MAIN.BMP MAIN.TIFF MAIN.ICO MAIN.CUR MAIN.MP3 MAIN.WAV MAIN.OGG MAIN.MP4 MAIN.WEBM MAIN.MOV MAIN.AVI MAIN.MKV MAIN.FLAC MAIN.ZIP MAIN.TAR MAIN.GZ MAIN.7Z MAIN.RAR MAIN.BZ2 MAIN.XZ MAIN.ZST MAIN.LZMA MAIN.DOC MAIN.XLS MAIN.PPT MAIN.DOCX MAIN.XLSX MAIN.PPTX MAIN.ODT MAIN.ODS MAIN.ODP MAIN.RTF MAIN.CSV MAIN.TSV MAIN.XML MAIN.YAML MAIN.TOML MAIN.INI MAIN.CFG MAIN.ENV MAIN.JSON MAIN.JSONL MAIN.NDJSON MAIN.HTML MAIN.CSS MAIN.JS MAIN.PY MAIN.SH MAIN.BAT MAIN.C MAIN.CPP MAIN.JAVA MAIN.RS MAIN.GO MAIN.SWIFT MAIN.KT MAIN.DART MAIN.LUA MAIN.RB MAIN.PHP MAIN.PL MAIN.CS MAIN.FS MAIN.VB MAIN.SQL MAIN.R MAIN.JL MAIN.HS MAIN.ML MAIN.CLJ MAIN.EX MAIN.ERL MAIN.NIM MAIN.ZIG MAIN.V MAIN.D MAIN.SCALA MAIN.GROOVY MAIN.RAKU MAIN.TCL MAIN.AWK MAIN.SED",
+    "eals": [
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ]
+  }
+}

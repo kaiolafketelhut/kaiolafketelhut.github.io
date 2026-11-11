@@ -1,14 +1,66 @@
-application/json - ART2 - MAIN.JSON - OMQ BLAK FAT12 sol pattern omq
-SPDX MIT ART2.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract ART2 name OMQ ART2
-// Draw2 - draw - 15 min - sketch - pencil - draw sketch pencil
-// Color Art2 - color - 3 - palette - harmony - color palette harmony
-// Digital Art2 - digital - Procreate - layers - brush - digital Procreate layers
-// Watercolor2 - watercolor - wet - 1 - paper - watercolor wet paper
-// Sketch2 - sketch - 5 min - gesture - daily - sketch gesture daily
-// Portrait Art2 - portrait - proportion - eye - 1/2 - portrait proportion eye
-// Gallery2 - gallery - Stuttgart - Staatsgalerie - free - gallery Stuttgart free
-// Sell Art2 - sell - Etsy - 20 - print - sell Etsy print
-// Inspire2 - inspire - Pinterest - 10 - save - inspire Pinterest save
-// Style Art2 - style - 1 - copy - remix - style copy remix
-// Show Art2 - show - post - 1 - weekly - show post weekly
-// Rules2 - 15 min - daily - share - Art2 Rules
+{
+  "omq": {
+    "eal": 121,
+    "r": 231,
+    "thema": "EUROPA",
+    "slogan": "OMQ ist Europa! OMQ ist EAL121!",
+    "autor": "Kai Olaf Ketelhut",
+    "ort": "Berlin",
+    "land": "Deutschland",
+    "kontinent": "Europa",
+    "welt": "Welt",
+    "universum": "Universum",
+    "system": "BLAK FAT12",
+    "pattern": "sol pattern omq",
+    "files": "MAIN.TEX MAIN.STY MAIN.BIB MAIN.CLS MAIN.AUX MAIN.LOG MAIN.SYNCTEX MAIN.BBL MAIN.BLG MAIN.FDB_LATEXMK MAIN.FLS MAIN.NAV MAIN.SNM MAIN.VRB MAIN.LOF MAIN.LOT MAIN.LOL MAIN.IDX MAIN.IND MAIN.ILG MAIN.GLO MAIN.GLS MAIN.IST MAIN.ACR MAIN.ALG MAIN.NLO MAIN.NLS MAIN.NLG MAIN.SYG MAIN.ACO MAIN.ACN MAIN.ACG MAIN.XDV MAIN.XMP MAIN.PDF MAIN.DVI MAIN.PS MAIN.EPS MAIN.TTF MAIN.OTF MAIN.WOFF MAIN.WOFF2 MAIN.EOT MAIN.SVG MAIN.PNG MAIN.JPG MAIN.GIF MAIN.WEBP MAIN.AVIF MAIN.BMP MAIN.TIFF MAIN.ICO MAIN.CUR MAIN.MP3 MAIN.WAV MAIN.OGG MAIN.MP4 MAIN.WEBM MAIN.MOV MAIN.AVI MAIN.MKV MAIN.FLAC MAIN.ZIP MAIN.TAR MAIN.GZ MAIN.7Z MAIN.RAR MAIN.BZ2 MAIN.XZ MAIN.ZST MAIN.LZMA MAIN.DOC MAIN.XLS MAIN.PPT MAIN.DOCX MAIN.XLSX MAIN.PPTX MAIN.ODT MAIN.ODS MAIN.ODP MAIN.RTF MAIN.CSV MAIN.TSV MAIN.XML MAIN.YAML MAIN.TOML MAIN.INI MAIN.CFG MAIN.ENV MAIN.JSON MAIN.JSONL MAIN.NDJSON MAIN.HTML MAIN.CSS MAIN.JS MAIN.PY MAIN.SH MAIN.BAT MAIN.C MAIN.CPP MAIN.JAVA MAIN.RS MAIN.GO MAIN.SWIFT MAIN.KT MAIN.DART MAIN.LUA MAIN.RB MAIN.PHP MAIN.PL MAIN.CS MAIN.FS MAIN.VB MAIN.SQL MAIN.R MAIN.JL MAIN.HS MAIN.ML MAIN.CLJ MAIN.EX MAIN.ERL MAIN.NIM MAIN.ZIG MAIN.V MAIN.D MAIN.SCALA MAIN.GROOVY MAIN.RAKU MAIN.TCL MAIN.AWK MAIN.SED",
+    "eals": [
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ]
+  }
+}

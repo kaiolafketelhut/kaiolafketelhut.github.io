@@ -1,14 +1,66 @@
-application/json - INVEST2 - MAIN.JSON - OMQ BLAK FAT12 sol pattern omq
-SPDX MIT INVEST2.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract INVEST2 name OMQ INVEST2
-// Start Invest2 - start - 25 - ETF - monthly - start 25 ETF
-// ETF2 - etf - MSCI World - 0.2% - TER - etf MSCI World
-// Risk2 - risk - long - diversify - calm - risk long diversify
-// Broker2 - broker - Trade Republic - Scalable - broker Trade Republic
-// Pension2 - pension - Riester - ETF - 30 years - pension Riester ETF
-// Diversify2 - diversify - world - bonds - cash - diversify world bonds
-// Mistake2 - mistake - panic - sell - fees - mistake panic sell
-// Compound2 - compound - 7% - 30 years - 10x - compound 7% 30 years
-// Rebalance2 - rebalance - yearly - 70 30 - rebalance yearly
-// Tax Invest2 - tax - Freistellungsauftrag - 1000 - tax Freistellungsauftrag
-// Read Invest2 - read - Bogle - Kommer - book - read Bogle Kommer
-// Rules2 - long - ETF - monthly - Invest2 Rules
+{
+  "omq": {
+    "eal": 121,
+    "r": 231,
+    "thema": "EUROPA",
+    "slogan": "OMQ ist Europa! OMQ ist EAL121!",
+    "autor": "Kai Olaf Ketelhut",
+    "ort": "Berlin",
+    "land": "Deutschland",
+    "kontinent": "Europa",
+    "welt": "Welt",
+    "universum": "Universum",
+    "system": "BLAK FAT12",
+    "pattern": "sol pattern omq",
+    "files": "MAIN.TEX MAIN.STY MAIN.BIB MAIN.CLS MAIN.AUX MAIN.LOG MAIN.SYNCTEX MAIN.BBL MAIN.BLG MAIN.FDB_LATEXMK MAIN.FLS MAIN.NAV MAIN.SNM MAIN.VRB MAIN.LOF MAIN.LOT MAIN.LOL MAIN.IDX MAIN.IND MAIN.ILG MAIN.GLO MAIN.GLS MAIN.IST MAIN.ACR MAIN.ALG MAIN.NLO MAIN.NLS MAIN.NLG MAIN.SYG MAIN.ACO MAIN.ACN MAIN.ACG MAIN.XDV MAIN.XMP MAIN.PDF MAIN.DVI MAIN.PS MAIN.EPS MAIN.TTF MAIN.OTF MAIN.WOFF MAIN.WOFF2 MAIN.EOT MAIN.SVG MAIN.PNG MAIN.JPG MAIN.GIF MAIN.WEBP MAIN.AVIF MAIN.BMP MAIN.TIFF MAIN.ICO MAIN.CUR MAIN.MP3 MAIN.WAV MAIN.OGG MAIN.MP4 MAIN.WEBM MAIN.MOV MAIN.AVI MAIN.MKV MAIN.FLAC MAIN.ZIP MAIN.TAR MAIN.GZ MAIN.7Z MAIN.RAR MAIN.BZ2 MAIN.XZ MAIN.ZST MAIN.LZMA MAIN.DOC MAIN.XLS MAIN.PPT MAIN.DOCX MAIN.XLSX MAIN.PPTX MAIN.ODT MAIN.ODS MAIN.ODP MAIN.RTF MAIN.CSV MAIN.TSV MAIN.XML MAIN.YAML MAIN.TOML MAIN.INI MAIN.CFG MAIN.ENV MAIN.JSON MAIN.JSONL MAIN.NDJSON MAIN.HTML MAIN.CSS MAIN.JS MAIN.PY MAIN.SH MAIN.BAT MAIN.C MAIN.CPP MAIN.JAVA MAIN.RS MAIN.GO MAIN.SWIFT MAIN.KT MAIN.DART MAIN.LUA MAIN.RB MAIN.PHP MAIN.PL MAIN.CS MAIN.FS MAIN.VB MAIN.SQL MAIN.R MAIN.JL MAIN.HS MAIN.ML MAIN.CLJ MAIN.EX MAIN.ERL MAIN.NIM MAIN.ZIG MAIN.V MAIN.D MAIN.SCALA MAIN.GROOVY MAIN.RAKU MAIN.TCL MAIN.AWK MAIN.SED",
+    "eals": [
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ]
+  }
+}

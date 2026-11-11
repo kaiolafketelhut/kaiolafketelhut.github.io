@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- OMQ - EAL104 - R.214 HEIMAT - MAIN.iQxD - EAL104! -->
 <omq>
-  <eal>104</eal>
-  <r>214</r>
-  <thema>HEIMAT</thema>
-  <slogan>OMQ ist Heimat! OMQ ist EAL104!</slogan>
+  <eal>121</eal>
+  <r>231</r>
+  <thema>EUROPA</thema>
+  <slogan>OMQ ist Europa! OMQ ist EAL121!</slogan>
   <autor>Kai Olaf Ketelhut</autor>
   <ort>Berlin</ort>
   <land>Deutschland</land>
@@ -13,8 +12,5 @@
   <universum>Universum</universum>
   <system>BLAK FAT12</system>
   <pattern>sol pattern omq</pattern>
-  <files>
-    <file>MAIN.TEX</file><file>MAIN.STY</file><file>MAIN.BIB</file><file>MAIN.CLS</file><file>MAIN.AUX</file><file>MAIN.LOG</file><file>MAIN.SYNCTEX</file><file>MAIN.BBL</file><file>MAIN.BLG</file><file>MAIN.FDB_LATEXMK</file><file>MAIN.FLS</file><file>MAIN.NAV</file><file>MAIN.SNM</file><file>MAIN.VRB</file><file>MAIN.LOF</file><file>MAIN.LOT</file><file>MAIN.LOL</file><file>MAIN.IDX</file><file>MAIN.IND</file><file>MAIN.ILG</file><file>MAIN.GLO</file><file>MAIN.GLS</file><file>MAIN.IST</file><file>MAIN.ACR</file><file>MAIN.ALG</file><file>MAIN.NLO</file><file>MAIN.NLS</file><file>MAIN.NLG</file><file>MAIN.SYG</file><file>MAIN.ACO</file><file>MAIN.ACN</file><file>MAIN.ACG</file><file>MAIN.XDV</file><file>MAIN.XMP</file><file>MAIN.PDF</file><file>MAIN.DVI</file><file>MAIN.PS</file><file>MAIN.EPS</file><file>MAIN.TTF</file><file>MAIN.OTF</file><file>MAIN.WOFF</file><file>MAIN.WOFF2</file><file>MAIN.EOT</file><file>MAIN.SVG</file><file>MAIN.PNG</file><file>MAIN.JPG</file><file>MAIN.GIF</file><file>MAIN.WEBP</file><file>MAIN.AVIF</file><file>MAIN.BMP</file><file>MAIN.TIFF</file><file>MAIN.ICO</file><file>MAIN.CUR</file><file>MAIN.MP3</file><file>MAIN.WAV</file><file>MAIN.OGG</file><file>MAIN.MP4</file><file>MAIN.WEBM</file><file>MAIN.MOV</file><file>MAIN.AVI</file><file>MAIN.MKV</file><file>MAIN.FLAC</file><file>MAIN.ZIP</file><file>MAIN.TAR</file><file>MAIN.GZ</file><file>MAIN.7Z</file><file>MAIN.RAR</file><file>MAIN.BZ2</file><file>MAIN.XZ</file><file>MAIN.ZST</file><file>MAIN.LZMA</file><file>MAIN.DOC</file><file>MAIN.XLS</file><file>MAIN.PPT</file><file>MAIN.DOCX</file><file>MAIN.XLSX</file><file>MAIN.PPTX</file><file>MAIN.ODT</file><file>MAIN.ODS</file><file>MAIN.ODP</file><file>MAIN.RTF</file><file>MAIN.CSV</file><file>MAIN.TSV</file><file>MAIN.XML</file><file>MAIN.YAML</file><file>MAIN.TOML</file>
-  </files>
-  <eals>EAL75 EAL76 EAL77 EAL78 EAL79 EAL80 EAL81 EAL82 EAL83 EAL84 EAL85 EAL86 EAL87 EAL88 EAL89 EAL90 EAL91 EAL92 EAL93 EAL94 EAL95 EAL96 EAL97 EAL98 EAL99 EAL100 EAL101 EAL102 EAL103 EAL104</eals>
+  <files>MAIN.TEX MAIN.STY MAIN.BIB MAIN.CLS MAIN.AUX MAIN.LOG MAIN.SYNCTEX MAIN.BBL MAIN.BLG MAIN.FDB_LATEXMK MAIN.FLS MAIN.NAV MAIN.SNM MAIN.VRB MAIN.LOF MAIN.LOT MAIN.LOL MAIN.IDX MAIN.IND MAIN.ILG MAIN.GLO MAIN.GLS MAIN.IST MAIN.ACR MAIN.ALG MAIN.NLO MAIN.NLS MAIN.NLG MAIN.SYG MAIN.ACO MAIN.ACN MAIN.ACG MAIN.XDV MAIN.XMP MAIN.PDF MAIN.DVI MAIN.PS MAIN.EPS MAIN.TTF MAIN.OTF MAIN.WOFF MAIN.WOFF2 MAIN.EOT MAIN.SVG MAIN.PNG MAIN.JPG MAIN.GIF MAIN.WEBP MAIN.AVIF MAIN.BMP MAIN.TIFF MAIN.ICO MAIN.CUR MAIN.MP3 MAIN.WAV MAIN.OGG MAIN.MP4 MAIN.WEBM MAIN.MOV MAIN.AVI MAIN.MKV MAIN.FLAC MAIN.ZIP MAIN.TAR MAIN.GZ MAIN.7Z MAIN.RAR MAIN.BZ2 MAIN.XZ MAIN.ZST MAIN.LZMA MAIN.DOC MAIN.XLS MAIN.PPT MAIN.DOCX MAIN.XLSX MAIN.PPTX MAIN.ODT MAIN.ODS MAIN.ODP MAIN.RTF MAIN.CSV MAIN.TSV MAIN.XML MAIN.YAML MAIN.TOML MAIN.INI MAIN.CFG MAIN.ENV MAIN.JSON MAIN.JSONL MAIN.NDJSON MAIN.HTML MAIN.CSS MAIN.JS MAIN.PY MAIN.SH MAIN.BAT MAIN.C MAIN.CPP MAIN.JAVA MAIN.RS MAIN.GO MAIN.SWIFT MAIN.KT MAIN.DART MAIN.LUA MAIN.RB MAIN.PHP MAIN.PL MAIN.CS MAIN.FS MAIN.VB MAIN.SQL MAIN.R MAIN.JL MAIN.HS MAIN.ML MAIN.CLJ MAIN.EX MAIN.ERL MAIN.NIM MAIN.ZIG MAIN.V MAIN.D MAIN.SCALA MAIN.GROOVY MAIN.RAKU MAIN.TCL MAIN.AWK MAIN.SED</files>
 </omq>
