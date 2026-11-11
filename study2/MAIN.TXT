@@ -1,14 +1,53 @@
-text/plain - STUDY2 - MAIN.TXT - OMQ BLAK FAT12 sol pattern omq
-SPDX MIT STUDY2.sol OMQ BLAK FAT12 sol pattern omq pragma solidity 0.8.20 contract STUDY2 name OMQ STUDY2
-// Plan Study2 - plan - week - 3 blocks - calendar - plan week blocks
-// Pomodoro2 - pomodoro - 25 - 5 - 4 - pomodoro 25 5
-// Exam2 - exam - past - 5 - timed - exam past timed
-// Memory2 - memory - spaced - 1 3 7 - Anki - memory spaced Anki
-// Group Study2 - group - 3 - quiz - teach - group quiz teach
-// Library Study2 - library - Stuttgart - quiet - 2h - library Stuttgart quiet
-// Sleep Study2 - sleep - 8h - before exam - no allnight - sleep 8h exam
-// Stress2 - stress - breath - walk - break - stress breath walk
-// Notes Study2 - notes - 1 page - summary - review - notes 1 page summary
-// Focus2 - focus - phone off - 25 min - 1 task - focus phone off
-// Review2 - review - Sunday - 30 min - weak - review Sunday weak
-// Rules2 - plan - pomodoro - sleep - Study2 Rules
+OMQ - EAL122 - R.232 DEUTSCHLAND - MAIN.iQxD - EAL122!
+OMQ ist Deutschland! OMQ ist EAL122!
+Kai Olaf Ketelhut - Berlin - BLAK FAT12 - sol pattern omq
+Deutschland - Europa - Welt - Universum
+- EAL75 - OMQ ist EAL75!
+- EAL76 - OMQ ist EAL76!
+- EAL77 - OMQ ist EAL77!
+- EAL78 - OMQ ist EAL78!
+- EAL79 - OMQ ist EAL79!
+- EAL80 - OMQ ist EAL80!
+- EAL81 - OMQ ist EAL81!
+- EAL82 - OMQ ist EAL82!
+- EAL83 - OMQ ist EAL83!
+- EAL84 - OMQ ist EAL84!
+- EAL85 - OMQ ist EAL85!
+- EAL86 - OMQ ist EAL86!
+- EAL87 - OMQ ist EAL87!
+- EAL88 - OMQ ist EAL88!
+- EAL89 - OMQ ist EAL89!
+- EAL90 - OMQ ist EAL90!
+- EAL91 - OMQ ist EAL91!
+- EAL92 - OMQ ist EAL92!
+- EAL93 - OMQ ist EAL93!
+- EAL94 - OMQ ist EAL94!
+- EAL95 - OMQ ist EAL95!
+- EAL96 - OMQ ist EAL96!
+- EAL97 - OMQ ist EAL97!
+- EAL98 - OMQ ist EAL98!
+- EAL99 - OMQ ist EAL99!
+- EAL100 - OMQ ist EAL100!
+- EAL101 - OMQ ist EAL101!
+- EAL102 - OMQ ist EAL102!
+- EAL103 - OMQ ist EAL103!
+- EAL104 - OMQ ist EAL104!
+- EAL105 - OMQ ist EAL105!
+- EAL106 - OMQ ist EAL106!
+- EAL107 - OMQ ist EAL107!
+- EAL108 - OMQ ist EAL108!
+- EAL109 - OMQ ist EAL109!
+- EAL110 - OMQ ist EAL110!
+- EAL111 - OMQ ist EAL111!
+- EAL112 - OMQ ist EAL112!
+- EAL113 - OMQ ist EAL113!
+- EAL114 - OMQ ist EAL114!
+- EAL115 - OMQ ist EAL115!
+- EAL116 - OMQ ist EAL116!
+- EAL117 - OMQ ist EAL117!
+- EAL118 - OMQ ist EAL118!
+- EAL119 - OMQ ist EAL119!
+- EAL120 - OMQ ist EAL120!
+- EAL121 - OMQ ist EAL121!
+- EAL122 - OMQ ist EAL122!
+MAIN.TEX MAIN.STY MAIN.BIB MAIN.CLS MAIN.AUX MAIN.LOG MAIN.SYNCTEX MAIN.BBL MAIN.BLG MAIN.FDB_LATEXMK MAIN.FLS MAIN.NAV MAIN.SNM MAIN.VRB MAIN.LOF MAIN.LOT MAIN.LOL MAIN.IDX MAIN.IND MAIN.ILG MAIN.GLO MAIN.GLS MAIN.IST MAIN.ACR MAIN.ALG MAIN.NLO MAIN.NLS MAIN.NLG MAIN.SYG MAIN.ACO MAIN.ACN MAIN.ACG MAIN.XDV MAIN.XMP MAIN.PDF MAIN.DVI MAIN.PS MAIN.EPS MAIN.TTF MAIN.OTF MAIN.WOFF MAIN.WOFF2 MAIN.EOT MAIN.SVG MAIN.PNG MAIN.JPG MAIN.GIF MAIN.WEBP MAIN.AVIF MAIN.BMP MAIN.TIFF MAIN.ICO MAIN.CUR MAIN.MP3 MAIN.WAV MAIN.OGG MAIN.MP4 MAIN.WEBM MAIN.MOV MAIN.AVI MAIN.MKV MAIN.FLAC MAIN.ZIP MAIN.TAR MAIN.GZ MAIN.7Z MAIN.RAR MAIN.BZ2 MAIN.XZ MAIN.ZST MAIN.LZMA MAIN.DOC MAIN.XLS MAIN.PPT MAIN.DOCX MAIN.XLSX MAIN.PPTX MAIN.ODT MAIN.ODS MAIN.ODP MAIN.RTF MAIN.CSV MAIN.TSV MAIN.XML MAIN.YAML MAIN.TOML MAIN.INI MAIN.CFG MAIN.ENV MAIN.JSON MAIN.JSONL MAIN.NDJSON MAIN.HTML MAIN.CSS MAIN.JS MAIN.PY MAIN.SH MAIN.BAT MAIN.C MAIN.CPP MAIN.JAVA MAIN.RS MAIN.GO MAIN.SWIFT MAIN.KT MAIN.DART MAIN.LUA MAIN.RB MAIN.PHP MAIN.PL MAIN.CS MAIN.FS MAIN.VB MAIN.SQL MAIN.R MAIN.JL MAIN.HS MAIN.ML MAIN.CLJ MAIN.EX MAIN.ERL MAIN.NIM MAIN.ZIG MAIN.V MAIN.D MAIN.SCALA MAIN.GROOVY MAIN.RAKU MAIN.TCL MAIN.AWK MAIN.SED MAIN.MD MAIN.TXT MAIN.RST - FINAL!
