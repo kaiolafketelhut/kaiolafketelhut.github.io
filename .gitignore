@@ -1,0 +1,11 @@
+go/
+arch/
+DIY_DOS/
+FEAoeneye/
+FEMoeneye/
+GOLD/
+Lewis-MacAlister-Products/
+OQM/
+TERMUXqTREMUX/
+__pycache__/
+*.pyc
