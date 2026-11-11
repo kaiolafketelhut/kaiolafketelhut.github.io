@@ -2,7 +2,7 @@
 // OMQ ist Herz! OMQ ist EAL109!
 // Kai Olaf Ketelhut - Berlin - BLAK FAT12 - sol pattern omq
 import java.util.*;
-public class Main {
+class Main {
     public static void main(String[] args) {
         int eal = 109;
         int r = 219;
