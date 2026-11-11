@@ -1,0 +1,10 @@
+% MAIN.IST - OMQ - EAL84 - R.194 BERLIN - MAIN.iQxD - EAL84!
+% MakeIndex style for Glossary - OMQ - EAL84 - R.194 BERLIN
+% Kai Olaf Ketelhut - Berlin - BLAK FAT12 - sol pattern omq - FINAL!
+keyword "\\glossaryentry"
+preamble "\\begin{theglossary}\n"
+postamble "\\end{theglossary}\n"
+item_0 "\\glossitem{"
+delim_0 "}\n  \\glossdesc{"
+delim_t "}"
+% OMQ ist Berlin! OMQ ist EAL84! R.194 BERLIN - MAIN.GLO MAIN.GLS MAIN.IST - FINAL!
