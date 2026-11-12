@@ -1,0 +1,5 @@
+/* OMQ - EAL142 - R.252 ALLES - CATIA V4 - by Priplo */
+/* CATIA V4 - UNIX - 1980s-2000s - CATIA V4R2 */
+let s (String)
+s = "OMQ - EAL142 - R.252 ALLES - CATIA V4 - by Priplo"
+Message("OMQ ist Alles! OMQ ist EAL142! - CATIA V4")

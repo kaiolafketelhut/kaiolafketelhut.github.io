@@ -1,0 +1,5 @@
+/* OMQ - EAL142 - R.252 ALLES - CATIA 3DEXPERIENCE - by Priplo */
+/* CATIA 3DEXPERIENCE - R2014x bis R2025x - Cloud */
+let s (String)
+s = "OMQ - EAL142 - R.252 ALLES - CATIA 3DEXPERIENCE - by Priplo"
+Message("OMQ ist Alles! OMQ ist EAL142! - CATIA 3DEXPERIENCE")

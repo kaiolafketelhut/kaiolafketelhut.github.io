@@ -1,0 +1,5 @@
+/* OMQ - EAL142 - R.252 ALLES - CATIA V6 - by Priplo */
+/* CATIA V6 - V6R2009 bis V6R2024 - PLM */
+let s (String)
+s = "OMQ - EAL142 - R.252 ALLES - CATIA V6 - by Priplo"
+Message("OMQ ist Alles! OMQ ist EAL142! - CATIA V6")

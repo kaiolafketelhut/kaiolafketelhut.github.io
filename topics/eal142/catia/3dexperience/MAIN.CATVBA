@@ -1,0 +1,6 @@
+' OMQ - EAL142 - R.252 ALLES - CATIA 3DEXPERIENCE - by Priplo
+' CATIA 3DEXPERIENCE - R2014x bis R2025x - Cloud
+Sub CATMain()
+  MsgBox "OMQ - EAL142 - R.252 ALLES - CATIA 3DEXPERIENCE - by Priplo"
+  MsgBox "OMQ ist Alles! OMQ ist EAL142!"
+End Sub

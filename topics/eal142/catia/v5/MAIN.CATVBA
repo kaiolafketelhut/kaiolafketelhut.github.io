@@ -1,0 +1,6 @@
+' OMQ - EAL142 - R.252 ALLES - CATIA V5 - by Priplo
+' CATIA V5 - V5R14 bis V5-6R2024 - Windows
+Sub CATMain()
+  MsgBox "OMQ - EAL142 - R.252 ALLES - CATIA V5 - by Priplo"
+  MsgBox "OMQ ist Alles! OMQ ist EAL142!"
+End Sub

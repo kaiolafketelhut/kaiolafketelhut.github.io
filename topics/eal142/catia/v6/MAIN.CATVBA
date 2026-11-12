@@ -1,0 +1,6 @@
+' OMQ - EAL142 - R.252 ALLES - CATIA V6 - by Priplo
+' CATIA V6 - V6R2009 bis V6R2024 - PLM
+Sub CATMain()
+  MsgBox "OMQ - EAL142 - R.252 ALLES - CATIA V6 - by Priplo"
+  MsgBox "OMQ ist Alles! OMQ ist EAL142!"
+End Sub
