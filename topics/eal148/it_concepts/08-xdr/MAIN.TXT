@@ -1,0 +1,32 @@
+# MAIN - XDR - Extended Detection & Response - DEEP DIVE - EAL148 R.258 MOND
+
+## Was?
+XDR = Alles sehen, alles verbinden, 1 Alarm statt 100!
+
+## EDR vs NDR vs XDR
+| EDR | NDR | XDR |
+| --- | --- | --- |
+| Nur Endpunkt | Nur Netz | ALLES |
+| Laptop / Server | Traffic | Endpunkt + Netz + Cloud + Mail + Identity |
+
+## Wie gehts?
+1. **Collect** - Daten von ueberall sammeln
+2. **Detect** - KI findet Angriffsmuster
+3. **Correlate** - 100 kleine Alarme = 1 grosser Angriff!
+4. **Respond** - Automatisch isolieren, blocken, zurueckrollen
+
+## Beispiel
+- Mail: Phishing geklickt
+- Laptop: Malware gestartet
+- Netz: Daten gehen raus
+- Cloud: Login aus Russland
+- EDR allein: 4 Alarme, keiner sieht Zusammenhang
+- XDR: 1 Alarm - ANGRIFF! Laptop isoliert!
+
+## Tools
+CrowdStrike Falcon, Palo Alto Cortex XDR, Microsoft Defender XDR, SentinelOne, Trend Micro Vision One
+
+## OMQ-Merksatz
+**XDR = Nicht 100 Alarme, sondern 1 Wahrheit!**
+
+Kai Olaf Ketelhut - Berlin - BLAK FAT12 - sol pattern omq

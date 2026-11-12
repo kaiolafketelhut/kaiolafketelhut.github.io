@@ -1,0 +1,23 @@
+# MAIN - CNAPP - Cloud-Native App Protection - DEEP DIVE - EAL148 R.258 MOND
+
+## Was?
+CNAPP = Cloud von Code bis Laufzeit, alles in 1 Tool!
+
+## CNAPP = 5 Teile
+1. **CSPM** - Cloud Security Posture - Ist S3 Bucket offen? Ist MFA an?
+2. **CWPP** - Workload Protection - Server / VM / Container geschuetzt?
+3. **KSPM** - K8s Security - Ist Kubernetes sicher konfiguriert?
+4. **IaC Scanning** - Fehler schon im Terraform / Code finden, vor dem Deploy!
+5. **CIEM** - Cloud Entitlements - Wer darf was in Cloud? Zu viele Rechte?
+
+## Shift Left!
+Frueher: Fehler erst in Produktion gefunden = teuer!
+Heute: Fehler schon im Code gefunden = billig!
+
+## Tools
+Palo Alto Prisma Cloud, Wiz, Orca, Microsoft Defender for Cloud, Aqua, Sysdig
+
+## OMQ-Merksatz
+**CNAPP = Von Code bis Cloud, von Anfang bis Ende, alles sicher!**
+
+Kai Olaf Ketelhut - Berlin - BLAK FAT12 - sol pattern omq
