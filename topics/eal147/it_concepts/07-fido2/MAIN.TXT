@@ -1,0 +1,30 @@
+# MAIN - FIDO2 - Phishing-Resistant Authentication - DEEP DIVE - EAL147 R.257 STERNE
+
+## Was?
+FIDO2 = Login ohne Passwort! Passkey, Finger, Face, YubiKey. Phishing geht nicht mehr!
+
+## Wie gehts?
+1. Du registrierst Passkey: Privater Key bleibt im Geraet, oeffentlicher Key geht zum Server.
+2. Login: Server schickt Challenge, Geraet signiert mit privatem Key + Finger.
+3. Fake-Seite? Challenge passt nicht, Key wird nie rausgegeben!
+
+## Passwort vs Passkey
+| Passwort | Passkey / FIDO2 |
+| --- | --- |
+| Kann geklaut werden | Kann nicht geklaut werden |
+| Phishing geht | Phishing geht NICHT |
+| Musst du merken | Musst du nix merken |
+| Wiederverwendet | Einmalig pro Seite |
+
+## Was ist FIDO2?
+- WebAuthn = Standard im Browser
+- CTAP2 = Standard fuer Key / Geraet
+- FIDO2 = WebAuthn + CTAP2 zusammen
+
+## Tools
+YubiKey, Titan Key, Windows Hello, Apple Passkeys, Google Passkeys, 1Password Passkeys
+
+## OMQ-Merksatz
+**FIDO2 = Dein Finger ist dein Passwort, aber dein Finger verlaesst nie dein Geraet!**
+
+Kai Olaf Ketelhut - Berlin - BLAK FAT12 - sol pattern omq

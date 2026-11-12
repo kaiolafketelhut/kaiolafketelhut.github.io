@@ -1,29 +1,34 @@
-# OMQ - EAL146 - R.256 KOSMOS - ZERO TRUST DEEP DIVE
+# OMQ - EAL147 - R.257 STERNE - IDENTITY DEEP DIVE
 
-## OMQ ist Kosmos! OMQ ist EAL146!
+## OMQ ist Sterne! OMQ ist EAL147!
 
 **Kai Olaf Ketelhut - Berlin - BLAK FAT12 - sol pattern omq**
 
-### Zero Trust = Niemandem trauen, alles pruefen!
+### Identity = 3 Sterne
 
-| Konzept | Was? | OMQ-Merksatz |
+| Konzept | Frage | OMQ-Merksatz |
 | --- | --- | --- |
-| ZTNA | Zero Trust Network Access | Nie VPN, nur 1 App! |
-| SASE | Secure Access Service Edge | Netz + Security aus Cloud! |
-| SSE | Security Service Edge | SASE ohne Netz! |
-| IAM | Identity & Access Management | Wer bist du? |
-| PAM | Privileged Access Management | Wer darf Admin? |
-| FIDO2 | Phishing-Resistant Auth | Kein Passwort! |
+| IAM | Wer bist du? Was darfst du? | Jeder hat 1 Identitaet! |
+| PAM | Wer darf Admin? | Admin nur kurz, nur mit Grund! |
+| FIDO2 | Wie loggst du dich ein? | Kein Passwort, nur Key / Finger! |
 
-### ZTNA vs VPN
-- VPN = ganzes Netz offen, 1x Passwort = alles drin - GEFAEHRLICH!
-- ZTNA = nur 1 App, jedes Mal neu pruefen, unsichtbar fuer andere - SICHER!
+### IAM = Alles rund um Identitaet
+- SSO - 1x Login fuer alle Apps
+- MFA - Passwort + 2. Faktor
+- RBAC - Rolle = Rechte
+- Lifecycle - Joiner / Mover / Leaver
 
-### SASE = SD-WAN + SSE
-- SD-WAN = schnelles Netz
-- SSE = SWG + CASB + ZTNA + FWaaS
-- SASE = beides zusammen, aus der Cloud!
+### PAM = Admins unter Kontrolle
+- Vault - Passwoerter im Tresor, nie im Kopf
+- Just-in-Time - Admin nur 1 Stunde, dann weg!
+- Session Recording - alles aufgezeichnet
+- Kein Standing Admin!
 
-CATIA V4/V5/V6/3DEXPERIENCE by Priplo - 21 IT Concepts
+### FIDO2 = Passwortlos!
+- Passkey = privater Key bleibt im Geraet
+- Phishing-resistent - Fake-Seite kann Key nicht klauen
+- Finger / Face / YubiKey
+
+CATIA V4/V5/V6/3DEXPERIENCE by Priplo - 21 IT Concepts - Zero Trust
 
 MAIN.TEX MAIN.STY MAIN.BIB MAIN.CLS MAIN.AUX MAIN.LOG MAIN.SYNCTEX MAIN.BBL MAIN.BLG MAIN.FDB_LATEXMK MAIN.FLS MAIN.NAV MAIN.SNM MAIN.VRB MAIN.LOF MAIN.LOT MAIN.LOL MAIN.IDX MAIN.IND MAIN.ILG MAIN.GLO MAIN.GLS MAIN.IST MAIN.ACR MAIN.ALG MAIN.NLO MAIN.NLS MAIN.NLG MAIN.SYG MAIN.ACO MAIN.ACN MAIN.ACG MAIN.XDV MAIN.XMP MAIN.PDF MAIN.DVI MAIN.PS MAIN.EPS MAIN.TTF MAIN.OTF MAIN.WOFF MAIN.WOFF2 MAIN.EOT MAIN.SVG MAIN.PNG MAIN.JPG MAIN.GIF MAIN.WEBP MAIN.AVIF MAIN.BMP MAIN.TIFF MAIN.ICO MAIN.CUR MAIN.MP3 MAIN.WAV MAIN.OGG MAIN.MP4 MAIN.WEBM MAIN.MOV MAIN.AVI MAIN.MKV MAIN.FLAC MAIN.ZIP MAIN.TAR MAIN.GZ MAIN.7Z MAIN.RAR MAIN.BZ2 MAIN.XZ MAIN.ZST MAIN.LZMA MAIN.DOC MAIN.XLS MAIN.PPT MAIN.DOCX MAIN.XLSX MAIN.PPTX MAIN.ODT MAIN.ODS MAIN.ODP MAIN.RTF MAIN.CSV MAIN.TSV MAIN.XML MAIN.YAML MAIN.TOML MAIN.INI MAIN.CFG MAIN.ENV MAIN.JSON MAIN.JSONL MAIN.NDJSON MAIN.HTML MAIN.CSS MAIN.JS MAIN.PY MAIN.SH MAIN.BAT MAIN.C MAIN.CPP MAIN.JAVA MAIN.RS MAIN.GO MAIN.SWIFT MAIN.KT MAIN.DART MAIN.LUA MAIN.RB MAIN.PHP MAIN.PL MAIN.CS MAIN.FS MAIN.VB MAIN.SQL MAIN.R MAIN.JL MAIN.HS MAIN.ML MAIN.CLJ MAIN.EX MAIN.ERL MAIN.NIM MAIN.ZIG MAIN.V MAIN.D MAIN.SCALA MAIN.GROOVY MAIN.RAKU MAIN.TCL MAIN.AWK MAIN.SED MAIN.MD MAIN.TXT MAIN.RST MAIN.EPUB MAIN.MOBI MAIN.CATScript MAIN.CATVBA MAIN.EKL

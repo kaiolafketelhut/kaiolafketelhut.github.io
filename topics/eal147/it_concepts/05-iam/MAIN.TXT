@@ -1,0 +1,31 @@
+# MAIN - IAM - Identity & Access Management - DEEP DIVE - EAL147 R.257 STERNE
+
+## Was?
+IAM = Wer bist du? Was darfst du? Wann? Wo?
+
+## 4 Saeulen
+1. **Authentifizierung** - Bist du echt? SSO + MFA + FIDO2
+2. **Autorisierung** - Was darfst du? RBAC / ABAC
+3. **Verwaltung** - Lifecycle: Joiner / Mover / Leaver
+4. **Governance** - Wer hat was? Rezertifizierung
+
+## RBAC vs ABAC
+- RBAC = Rolle = Rechte. z.B. Buchhaltung darf Rechnungen sehen.
+- ABAC = Attribute = Rechte. z.B. Nur Mo-Fr, nur Berlin, nur eigenes Team.
+
+## SSO + MFA
+- SSO = 1x Login, alle Apps. z.B. Entra ID, Okta, Google Workspace
+- MFA = Passwort + App / SMS / Key. Nie nur Passwort!
+
+## Fehler die alle machen
+- Leaver nicht deaktiviert! Ex-Mitarbeiter hat noch Zugriff!
+- Standing Admin! Jeder ist immer Admin!
+- Kein MFA fuer Admins!
+
+## Tools
+Microsoft Entra ID, Okta, Ping Identity, Keycloak, AWS IAM
+
+## OMQ-Merksatz
+**IAM = Jeder hat 1 Identitaet, 1 Rolle, 1 Leben - von Eintritt bis Austritt!**
+
+Kai Olaf Ketelhut - Berlin - BLAK FAT12 - sol pattern omq

@@ -1,0 +1,25 @@
+# MAIN - PAM - Privileged Access Management - DEEP DIVE - EAL147 R.257 STERNE
+
+## Was?
+PAM = Wer darf Admin / Root / Superuser? Nur kurz, nur mit Grund, alles aufgezeichnet!
+
+## Warum?
+80% der Hacks nutzen Admin-Rechte! 1 gestohlenes Admin-Passwort = ganze Firma offen!
+
+## 4 Regeln
+1. **Vault** - Admin-Passwoerter im Tresor, nie im Kopf, nie in Excel!
+2. **Just-in-Time (JIT)** - Admin nur 30-60 Min, dann automatisch weg!
+3. **Just-Enough (JEA)** - Nur das Recht das du brauchst, nicht mehr!
+4. **Session Recording** - Alles was Admin macht, wird aufgenommen!
+
+## Kein Standing Admin!
+Frueher: Admin ist immer Admin.
+Heute: Admin ist nur Admin wenn er es braucht, mit Ticket, mit Grund!
+
+## Tools
+CyberArk, BeyondTrust, Delinea, Microsoft PIM, HashiCorp Vault
+
+## OMQ-Merksatz
+**PAM = Admin ist wie Feuerwehr - nur bei Brand, nur kurz, mit Helm + Kamera!**
+
+Kai Olaf Ketelhut - Berlin - BLAK FAT12 - sol pattern omq
