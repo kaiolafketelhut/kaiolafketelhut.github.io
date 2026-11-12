@@ -1,0 +1,20 @@
+# MAIN - SSE - Security Service Edge - DEEP DIVE - EAL146 R.256 KOSMOS
+
+## Was?
+SSE = SASE ohne Netz! Nur Security, kein SD-WAN.
+
+## SSE = SWG + CASB + ZTNA + FWaaS
+- SWG - Web filtern, Malware blocken
+- CASB - Google, M365, Salesforce kontrollieren, DLP
+- ZTNA - private Apps ohne VPN
+- FWaaS - Firewall Regeln in Cloud
+
+## Wann SSE, wann SASE?
+- Nur Security neu? -> SSE
+- Netz + Security neu? -> SASE
+- Schon SD-WAN da? -> SSE reicht!
+
+## OMQ-Merksatz
+**SSE = Security-Teil von SASE. SASE = SSE + Netz!**
+
+Kai Olaf Ketelhut - Berlin - BLAK FAT12 - sol pattern omq

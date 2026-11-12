@@ -1,0 +1,27 @@
+# MAIN - ZTNA - Zero Trust Network Access - DEEP DIVE - EAL146 R.256 KOSMOS
+
+## Was?
+Nie dem Netz trauen! Jeder User, jedes Geraet, jedes Mal neu pruefen.
+Nur Zugriff auf 1 App, nicht aufs ganze Netz. App ist unsichtbar fuer andere.
+
+## ZTNA vs VPN
+| VPN | ZTNA |
+| --- | --- |
+| Ganzes Netz offen | Nur 1 App offen |
+| 1x Login = alles drin | Jedes Mal neu pruefen |
+| IP sichtbar | IP versteckt |
+| Langsam | Schnell, naechster PoP |
+
+## Wie gehts?
+1. User -> Identity Check (IAM + FIDO2)
+2. Device Check - gesund? Patch? MDM?
+3. Policy Check - darf er diese App?
+4. Tunnel nur zu dieser 1 App, verschluesselt
+
+## Tools
+Cloudflare Access, Zscaler Private Access, Palo Alto Prisma Access, Cisco Secure Access
+
+## OMQ-Merksatz
+**VPN = Haustuer offen fuer alle. ZTNA = nur 1 Zimmertuer, nur fuer dich, nur jetzt!**
+
+Kai Olaf Ketelhut - Berlin - BLAK FAT12 - sol pattern omq

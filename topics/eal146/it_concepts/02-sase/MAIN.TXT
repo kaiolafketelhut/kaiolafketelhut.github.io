@@ -1,0 +1,25 @@
+# MAIN - SASE - Secure Access Service Edge - DEEP DIVE - EAL146 R.256 KOSMOS
+
+## Was?
+SASE = SD-WAN + SSE, alles aus der Cloud, ein PoP weltweit.
+
+## Formel
+**SASE = SD-WAN (Netz) + SSE (Security)**
+
+## SSE = 4 Teile
+1. SWG - Secure Web Gateway - Web filtern
+2. CASB - Cloud Access Security Broker - SaaS kontrollieren
+3. ZTNA - Zero Trust Network Access - private Apps
+4. FWaaS - Firewall as a Service - Firewall aus Cloud
+
+## Warum?
+Frueher: MPLS + Firewall im Buero = teuer, langsam.
+Heute: Alle im Home-Office, alle Apps in Cloud -> Security muss in Cloud!
+
+## Tools
+Zscaler, Palo Alto Prisma SASE, Cisco Catalyst SD-WAN + Secure Access, Cloudflare One, Fortinet FortiSASE
+
+## OMQ-Merksatz
+**SASE = Internet + Security, beides aus 1 Cloud, ueberall gleich schnell + sicher!**
+
+Kai Olaf Ketelhut - Berlin - BLAK FAT12 - sol pattern omq
